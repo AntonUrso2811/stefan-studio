@@ -1,0 +1,1213 @@
+---
+module_id: 08
+slug: advanced-training
+title: Advanced Training
+phase: phase-2
+order_in_phase: 1
+tier: community
+visibility: published
+dependencies: []
+updated_at: 2026-04-23
+source_pdf: MOA_08_Advanced-Training_Notes_v1.pdf
+lessons: 60
+lede: "Now we sharpen the blade."
+next_step: "Your only job is execution."
+---
+
+## Summary
+
+Phase 2 training is about optimisation — making every session count for more by understanding the mechanisms that drive adaptation. This module delivers the complete system: progressive overload methods, periodization models, exercise selection hierarchy, advanced intensity techniques, conditioning integration, and weak point correction, all assembled into a full 8-week program.
+
+## Content map
+
+- Introduction
+- Progressive Overload — the single most important training principle
+- The Science of Why This Works
+- The Methods of Progression (load, rep, set, density, range of motion)
+- The Double Progression Model
+- Tracking: The Non-Negotiable
+- When Progression Stalls
+- Periodization — why you cannot train maximally forever
+- Types of Periodization (linear, undulating, block)
+- The Phase 2 Periodization Model (weekly undulating + planned deloads)
+- The De-load Week
+- Exercise Selection and Variation — the Exercise Hierarchy (Tier 1, 2, 3)
+- When to Vary Exercises
+- How to Rotate Intelligently
+- Exercise Variation for Specific Goals
+- The Phase 2 Rotation Protocol
+- Training Intensity Techniques (rest-pause, drop sets, tempo, pause reps, mechanical drop sets)
+- Application in Phase 2
+- The Critical Rule
+- Conditioning Integration — Zone 2, Zone 3/4, Zone 5
+- The Weekly Structure
+- Conditioning That Complements Strength Training
+- Conditioning to Avoid
+- Finishers: Conditioning That Fits with Lifting
+- Weak Point Analysis and Correction
+- How to Identify Weak Points
+- Common Weak Points and Their Corrections
+- The Prioritization Protocol
+- The Phase 2 Training Program
+- Choose Your Split (Option A: 4-Day Upper/Lower, Option B: 3-Day Full Body, Option C: 5-Day PPL)
+- Accumulation (Weeks 1–4) — full program
+- Intensification (Weeks 5–8) — full program with exercise rotation
+- Conditioning Schedule
+- Weak Point Integration
+- Tracking Requirements
+- Summary
+
+## Frameworks / protocols
+
+**The Double Progression Model**
+Every exercise has a prescribed rep range (primary compounds: 5–8 reps; secondary compounds: 8–10 reps; isolation: 10–15 reps). Start at the bottom of the range with a challenging weight. Add reps each session. When the top of the range is achieved for all working sets, add weight by the minimum increment and reset to the bottom of the range.
+
+**The Phase 2 Periodization Model — Weekly Undulating**
+- Day 1 Heavy: primary compounds, 5–6 reps, RPE 8–9, rest 2–3 min
+- Day 2 Moderate: primary + accessories, 8–10 reps, RPE 7–8, rest 90–120 sec
+- Day 3 Light/Volume: 10–15 reps, RPE 6–7, rest 60–90 sec
+- Day 4 (optional): moderate, different movement focus, weak points
+
+**Two Mesocycles across 8 weeks:**
+- Mesocycle 1 — Accumulation (Weeks 1–4): higher volume, moderate intensity, RPE 7–8, Week 4 deload
+- Mesocycle 2 — Intensification (Weeks 5–8): moderate volume, higher intensity, RPE 8–9, Week 8 deload
+
+**De-load Protocol (Weeks 4 and 8):**
+Reduce volume 40–50% (cut sets, not exercises). Maintain intensity (keep weights similar). Reduce RPE (stop sets further from failure). Maintain frequency.
+
+**Exercise Hierarchy:**
+- Tier 1 — Primary Compounds: squat variations, hinge variations, horizontal press, horizontal pull, vertical press, vertical pull. Non-negotiable in every program.
+- Tier 2 — Secondary Compounds: support the primary lifts, address unilateral balance and weak points.
+- Tier 3 — Isolation Work: single-joint movements for targeted development.
+
+**Phase 2 Rotation Protocol:** Rotate primary compound variation once — at the Week 4 deload transition. Weeks 1–4: primary variation A. Weeks 5–8: primary variation B.
+
+**Progression Stall Diagnostic (in order):**
+1. Sleep (7–9 hours consistently?)
+2. Nutrition (adequate protein? too aggressive a deficit?)
+3. Recovery (total stress load?)
+4. Technique (form degraded?)
+5. Programming (deload needed? volume too high or low?)
+
+**Prioritization Protocol for Weak Points:**
+1. Train weak points first in the session
+2. Add 2–4 extra sets per week for the priority weak point
+3. Use activation work before main movements
+4. Reduce volume for strong points to create recovery room
+5. Reassess after 4 weeks
+
+**Training Intensity Techniques:**
+- Rest-Pause Sets: set to near failure → 10–15 sec rest → more reps → repeat once more. Final sets of isolation/machine work only.
+- Drop Sets: near failure → reduce weight 20–30% → continue → repeat. Isolation and machine movements, final set per muscle group.
+- Tempo Manipulation: prescribed cadence (e.g. 4-1-2-0). Extend eccentric phase for hypertrophy stimulus.
+- Pause Reps: deliberate pause at most difficult portion (2–3 sec). Eliminates stretch reflex, builds strength from dead stop.
+- Mechanical Drop Sets: harder variation to near failure → immediately switch to easier variation and continue.
+- Critical Rule: one technique per exercise, maximum two techniques per session. Never multiple techniques on the same exercise.
+
+**Conditioning Zones:**
+- Zone 2 (60–70% max HR): 2–3 sessions/week, 30–45 min. Conversational pace.
+- Zone 3/4 (threshold): 1 session/week, 20–30 min intervals or sustained tempo.
+- Zone 5 (near-maximal): 1 session/week max, 10–15 min total work (e.g. 20 sec on / 40 sec off × 8–10 rounds).
+
+## Visual callouts
+
+The full 4-Day Upper/Lower program is presented with day-by-day exercise tables including sets, reps, rest periods, and RPE targets for both Accumulation and Intensification mesocycles. Conditioning schedule grid provided for Weeks 1–4 and Weeks 5–8. Weak Point Integration section provides per-priority correction protocols (glutes, upper back, core).
+
+## Full body
+
+### Introduction
+
+You have trained consistently for 30 days. You have built the habit. You understand the movement patterns. You have felt what it means to show up regardless of how you feel.
+
+Now we sharpen the blade.
+
+Phase 1 training was about installation - getting you moving correctly and consistently. Phase 2 training is about optimization - making every session count for more, understanding the mechanisms that drive adaptation, and building a system that will carry you for years.
+
+The men who look exceptional after five years of training are not the ones who trained hardest in month one. They are the ones who trained intelligently, progressively, and sustainably. They understood that the body responds to strategic stress, not random punishment.
+
+This module gives you that understanding.
+
+### Progressive Overload
+
+The single most important principle in training is progressive overload. Everything else is secondary. You can have perfect exercise selection, optimal rest periods, and flawless technique - but without progressive overload, you will not grow.
+
+Your body is an adaptation machine. It responds to stress by rebuilding stronger, but only to the degree necessary to handle the current demand. Lift the same weight for the same reps week after week, and your body has no reason to change. It has already adapted to that stress. You are maintaining, not building.
+
+Progressive overload forces continued adaptation by systematically increasing demand over time.
+
+### The Science of Why This Works
+
+When you lift a weight, you create mechanical tension in muscle fibres. This tension, combined with metabolic stress and muscle damage, triggers a signalling cascade that tells your body to synthesise new muscle protein. The muscle rebuilds slightly stronger and larger than before.
+
+But here is the critical point: this response is proportional to the novelty of the stress. The first time you squat 100kg, your body responds dramatically. The tenth time, less so. The hundredth time, barely at all. Your body has fully adapted to that stimulus.
+
+Research consistently shows that progressive overload is the primary driver of hypertrophy and strength gains. A 2017 meta-analysis in the Journal of Strength and Conditioning Research confirmed that programs with built-in progression significantly outperform those without, regardless of other variables.
+
+This applies beyond muscle. Progressive overload stimulates bone density increase, tendon and ligament strengthening, and neural adaptations. You are not just building muscle, you are building a more resilient system.
+
+### The Methods of Progression
+
+Most men think progressive overload means "add more weight." That is one method, but it is not the only one. Understanding all the variables you can manipulate gives you options when one path stalls.
+
+**Load Progression**
+
+Adding weight to the bar. The most straightforward method and the primary driver of strength adaptation.
+
+When you can complete all prescribed reps with good form and appropriate effort, add weight. For upper body movements, increase by 2.5kg. For lower body movements, increase by 2.5–5kg. Small jumps compound into massive changes over months and years.
+
+The key phrase is "good form and appropriate effort." If you are grinding reps with breakdown in technique, you are not ready to add weight. If the set felt easy with reps in reserve, you are ready.
+
+**Rep Progression**
+
+Adding reps within a prescribed range. This is the foundation of the double progression model that works exceptionally well for most lifters.
+
+Your program prescribes a rep range - say, 8–12 reps. You start at the bottom of the range with a given weight. Each session, you attempt to add reps while maintaining form. When you hit the top of the range for all sets, you add weight and reset to the bottom.
+
+Example:
+
+- Week 1: 80kg x 8, 8, 8
+- Week 2: 80kg x 9, 8, 8
+- Week 3: 80kg x 10, 9, 9
+- Week 4: 80kg x 11, 10, 10
+- Week 5: 80kg x 12, 12, 11
+- Week 6: 82.5kg x 8, 8, 8 (weight increase, reps reset)
+
+This allows for weekly progress even when load increases are not possible, and it builds work capacity alongside strength.
+
+**Set Progression**
+
+Adding volume by increasing the number of sets. When you are recovering well and progress has stalled despite adequate load and rep progression, adding one set to key movements can restart adaptation.
+
+Use this sparingly. Volume is a tool, not the goal. More is not always better - more is better until it exceeds your recovery capacity, then it becomes counterproductive.
+
+A practical application: if you have been stuck on a movement for 3+ weeks, add one set for 4 weeks, then reassess. If progress resumes, you needed the volume. If not, volume was not the limiting factor.
+
+**Density Progression**
+
+Performing the same work in less time by reducing rest periods. This improves conditioning and work capacity while maintaining the strength stimulus.
+
+If you currently rest 3 minutes between sets of squats, gradually reduce to 2.5 minutes, then 2 minutes over several weeks. You are performing the same total work with less recovery - a form of progressive demand.
+
+This is particularly useful during fat loss phases when load progression slows due to caloric deficit.
+
+**Range of Motion Progression**
+
+Increasing the range through which you move the weight. A deeper squat creates more tension through longer muscle lengths. A fuller stretch at the bottom of a Romanian deadlift increases hamstring stimulus.
+
+As your mobility improves through the protocols in Phase 1, your effective range of motion in exercises should increase. This is progression that many men overlook. The man squatting to full depth at 100kg is training harder than the man quarter-squatting 140kg.
+
+### The Double Progression Model
+
+For Phase 2, you will use a double progression model as your primary system. This is how it works:
+
+Every exercise has a prescribed rep range (e.g., 6–8, 8–10, 10–12). The range is determined by the exercise type:
+
+- Primary compounds: 5–8 reps
+- Secondary compounds: 8–10 reps
+- Isolation work: 10–15 reps
+
+Start at the bottom of the range with a weight that is challenging but allows good form. Each session, aim to add reps. When you achieve the top of the range for all working sets, increase the weight by the minimum increment and reset to the bottom of the range.
+
+This system works because it provides structure while allowing for natural variation in performance. Some days you will hit more reps. Some days fewer. The system accommodates this while still driving progress over time.
+
+### Tracking: The Non-Negotiable
+
+You cannot progressively overload what you do not measure. A training log is not optional - it is essential equipment, as important as your shoes.
+
+Record for every working set:
+
+- Exercise
+- Weight
+- Reps achieved
+- RPE (Rate of Perceived Exertion, 1–10 scale)
+- Any notes on form or feel
+
+Review your log before every session. Know what you did last time. Have a specific target for this session. This intentionality separates training from exercising.
+
+Apps work. A notebook works. A spreadsheet works. The format does not matter. Consistent recording does.
+
+### When Progression Stalls
+
+You will not progress every session. That is normal. But patterns of stagnation require response.
+
+If you have not progressed on a movement for 3+ weeks despite consistent effort, ask these questions in order:
+
+1. Sleep: Are you getting 7–9 hours consistently? Sleep debt kills progress before anything else.
+2. Nutrition: Are you eating enough protein? Are you in too aggressive a deficit? Underfuelling stalls progress.
+3. Recovery: What is your overall stress load? Work stress, relationship stress, and training stress all draw from the same recovery pool.
+4. Technique: Has your form degraded? Sometimes "stalling" is actually your body protecting you from injury as technique breaks down.
+5. Programming: Is it time for a de-load? Is volume too high or too low? Has the exercise run its course?
+
+Address these in order. Most stalls are lifestyle issues, not programming issues. Fix the foundation before changing the plan.
+
+**Action**
+- Set up a training log if you do not have one — digital or physical, choose what you will actually use
+- Review your Phase 1 training and identify your current working weights for all main movements
+- Calculate your rep range targets using the double progression model
+- Set specific, written progression goals for the next 4 weeks
+
+### Periodization
+
+Training the same way indefinitely stops working. Your body adapts, progress stalls, fatigue accumulates, and motivation erodes. Periodization is the solution - strategically varying training variables over time to continue driving adaptation while managing fatigue.
+
+This is not complicated theory. It is a practical necessity. Every successful strength athlete uses some form of periodization. The research supports it for everyone, not just competitors.
+
+### Why You Cannot Train Maximally Forever
+
+Training creates fatigue. Some fatigue is acute - you feel tired after a hard session, but recover within 24–48 hours. Some fatigue is cumulative - it builds over weeks of hard training and requires more than a day or two to dissipate.
+
+Cumulative fatigue is sneaky. You do not always feel it acutely, but it manifests as:
+
+- Stalled progress despite consistent effort
+- Decreased motivation and gym enthusiasm
+- Minor aches and joint discomfort
+- Disrupted sleep despite being tired
+- Decreased performance on movements that were previously progressing
+
+If you train at maximum intensity indefinitely, cumulative fatigue eventually exceeds your recovery capacity. You either burn out, get injured, or plateau. Usually all three.
+
+Periodization prevents this by building in strategic phases of different intensities, volumes, and focuses. You push hard, then you recover. You accumulate fatigue, then you dissipate it. This rhythm allows for continued progress over months and years rather than a few hard weeks followed by breakdown.
+
+### Types of Periodization
+
+**Linear Periodization**
+
+The classic approach. Start with higher volume and lower intensity, then progressively shift to lower volume and higher intensity over a training cycle.
+
+Example over 12 weeks:
+- Weeks 1–4: 4 sets of 10 reps at 65–70% of max
+- Weeks 5–8: 4 sets of 8 reps at 75–80% of max
+- Weeks 9–12: 4 sets of 5 reps at 85–90% of max
+
+This works well for building toward a peak - a competition, a test, or a personal record attempt. The early phases build muscle and work capacity. The later phases express that fitness as strength.
+
+Limitation: you only train each quality once per cycle. By the time you are lifting heavy in weeks 9–12, some of the muscle built in weeks 1–4 may have already begun to detrain.
+
+**Undulating Periodization**
+
+Vary intensity and volume within the week rather than across months. Different sessions target different adaptations.
+
+Example weekly structure:
+- Monday: Heavy (4x5 at 85%)
+- Wednesday: Moderate (3x10 at 70%)
+- Friday: Light (3x15 at 60%)
+
+Research suggests undulating periodization may be superior for hypertrophy because it provides varied stimulus more frequently. You train strength, hypertrophy, and muscular endurance qualities every week rather than in separate phases.
+
+This is the model we will use in Phase 2.
+
+**Block Periodization**
+
+Dedicate concentrated blocks of time to specific adaptations.
+
+Example:
+- Block 1 (4 weeks): Hypertrophy focus — high volume, moderate intensity
+- Block 2 (4 weeks): Strength focus — moderate volume, high intensity
+- Block 3 (2 weeks): Peaking — low volume, very high intensity
+
+This is used by advanced athletes with specific competition goals. The concentration of focus in each block drives rapid adaptation in that quality, but other qualities may temporarily decline.
+
+For most men in this community, this level of specialisation is unnecessary. Undulating periodization provides balanced development without the complexity.
+
+### The Phase 2 Periodization Model
+
+Phase 2 uses weekly undulating periodization with planned de-loads. Here is the structure:
+
+**Within Each Week:**
+
+Day 1 — Heavy: Primary compound movements in the 5–6 rep range, longer rest periods (2–3 minutes), focus on strength expression. RPE 8–9.
+
+Day 2 — Moderate: Primary movements plus accessories in the 8–10 rep range, moderate rest (90–120 seconds), focus on hypertrophy. RPE 7–8.
+
+Day 3 — Light/Volume: Higher rep ranges (10–15), shorter rest (60–90 seconds), includes conditioning elements. RPE 6–7.
+
+Day 4 (if training 4 days): Moderate with different movement focus, addresses weak points.
+
+This structure ensures you train each quality weekly while allowing for recovery between demanding sessions.
+
+**Across the 8-Week Phase:**
+
+Phase 2 is organised into two 4-week mesocycles:
+
+Mesocycle 1 — Accumulation (Weeks 1–4):
+- Higher volume (more total sets per muscle group)
+- Moderate intensity (working weights challenging but not maximal)
+- Focus on technique refinement, muscle growth, and work capacity
+- RPE targets: 7–8 on most working sets
+- Week 4: Deload
+
+The goal is to accumulate training stress and build muscle. You are depositing into the adaptation bank.
+
+Mesocycle 2 — Intensification (Weeks 5–8):
+- Moderate volume (slight reduction from accumulation phase)
+- Higher intensity (heavier working weights)
+- Focus on strength expression and neural adaptations
+- RPE targets: 8–9 on primary movements
+- Week 8: Deload
+
+The goal is to express the fitness you built in the accumulation phase as increased strength. You are withdrawing from the adaptation bank.
+
+### The De-load Week
+
+Every fourth week is a de-load. This is not optional. It is programmed recovery that allows cumulative fatigue to dissipate.
+
+During de-load weeks:
+- Reduce volume by 40–50% (cut sets, not exercises)
+- Maintain intensity (keep weights similar, do fewer sets)
+- Reduce RPE (stop sets further from failure)
+- Maintain frequency (still train the same days)
+
+A common mistake is treating de-load as complete rest. This is suboptimal. Light training maintains neural patterns and promotes active recovery better than total inactivity. You are recovering, not stopping.
+
+Another mistake is skipping de-loads because you "feel fine." Cumulative fatigue is not always obvious until it manifests as injury or illness. Trust the program. Take the de-load. You will come back stronger in week 5 than if you had pushed through.
+
+**Signs You Need an Unplanned De-load**
+
+Sometimes life intervenes - high work stress, poor sleep, illness. If you experience these signs before a scheduled de-load, take one early:
+
+- Two consecutive sessions where you significantly underperform previous bests
+- Joint pain that persists between sessions
+- Elevated resting heart rate (5+ beats above baseline) for multiple days
+- Sleep disruption despite good sleep hygiene
+- Getting sick or feeling run down
+
+It is better to de-load early and preserve progress than to push through and dig a recovery hole that takes weeks to escape.
+
+**Action**
+- Understand your week structure: identify which day is heavy, moderate, and light
+- Mark your deload weeks on the calendar now — Week 4 and Week 8
+- Set RPE targets for each session type and track them
+- Commit to taking de-loads as programmed, regardless of how you feel
+
+### Exercise Selection and Variation
+
+Phase 1 established your movement patterns. You know the squat, hinge, push, pull, and carry. Now we refine exercise selection to address your specific needs and introduce strategic variation to prevent staleness and continue driving adaptation.
+
+The goal is not to do as many exercises as possible. The goal is to select the right exercises for your goals and rotate them intelligently.
+
+### The Exercise Hierarchy
+
+Not all exercises are equal. Some should form the foundation of every program. Others play supporting roles. Understanding this hierarchy prevents you from majoring in minors.
+
+**Tier 1 — Primary Compounds**
+
+These are your foundation. Multi-joint movements that load heavy and drive the most adaptation. They should receive priority in your programming - trained first when fresh, tracked most carefully, progressed most consistently.
+
+Squat Variations: Back squat, front squat, safety bar squat
+
+Hinge Variations: Conventional deadlift, sumo deadlift, trap bar deadlift
+
+Horizontal Press: Barbell bench press, dumbbell bench press
+
+Horizontal Pull: Barbell row, dumbbell row, chest-supported row
+
+Vertical Press: Overhead press, push press, seated press
+
+Vertical Pull: Pull-ups, chin-ups, lat pulldown
+
+Every program should include at least one exercise from each category. These are non-negotiable.
+
+**Tier 2 — Secondary Compounds**
+
+Movements that support the primary lifts. They build muscle in patterns that transfer to Tier 1 movements and address areas that primary lifts miss.
+
+Lower Body: Romanian deadlifts, lunges, Bulgarian split squats, leg press, hip thrusts, step-ups
+
+Upper Push: Incline press, dips, close-grip bench, landmine press
+
+Upper Pull: Cable rows, face pulls, Meadows rows, single-arm work
+
+These add volume to muscle groups without the systemic fatigue of primary compounds. They also address unilateral balance and target specific weak points.
+
+**Tier 3 — Isolation Work**
+
+Single-joint movements for targeted development. They add volume to specific muscles without significant systemic fatigue.
+
+Arms: Bicep curls, tricep extensions, hammer curls
+
+Shoulders: Lateral raises, front raises, rear delt flies
+
+Legs: Leg extensions, leg curls, calf raises
+
+Core: Cable crunches, hanging leg raises, ab wheel
+
+Isolation work is not essential for beginners, but it becomes valuable as you advance. It addresses weak points, adds volume where needed, and allows training around injuries.
+
+### When to Vary Exercises
+
+Do not change exercises because you are bored or saw something new on Instagram. Change them strategically.
+
+Reasons to rotate an exercise:
+
+Progress has stalled for 3+ weeks despite adequate recovery. Sometimes the body simply needs a different stimulus. A new exercise in the same movement pattern can restart adaptation.
+
+Pain or discomfort appears. If a movement consistently causes discomfort that is not related to muscle fatigue, switch to a variation that does not. Barbell bench causing shoulder issues? Try dumbbell bench or a slight incline. Low bar squat bothering your elbows? Try high bar or safety bar.
+
+Weak points become apparent that the current exercise does not address. If your lockout is weak on bench press, you might rotate in close-grip bench or floor press. If your quads are lagging, you might rotate in front squats or high bar squats.
+
+You enter a new training block with different goals. The accumulation phase might use more variation and higher rep ranges. The intensification phase might use fewer exercises with heavier loads.
+
+### How to Rotate Intelligently
+
+When you rotate, stay within the same movement pattern. Do not abandon squatting for leg press because squats got hard. Do not replace deadlifts with back extensions because you hit a plateau.
+
+Within a movement pattern, move to a variation that addresses your current limitation or provides a novel stimulus:
+
+If back squat stalls → try front squat, pause squat, or tempo squat.
+
+If conventional deadlift stalls → try sumo, deficit, or pause deadlift.
+
+If flat bench stalls → try incline, close-grip, or pause bench.
+
+If barbell row stalls → try Pendlay row, Meadows row, or chest-supported row.
+
+Maintain your Tier 1 movement pattern. Vary the specific exercise within that pattern.
+
+### Exercise Variation for Specific Goals
+
+**For Bigger Legs:**
+
+Quad Emphasis:
+- Primary rotation: Back Squat → Front Squat → High Bar Squat
+- Secondary: Leg press, hack squat, Bulgarian split squats, walking lunges
+- Isolation: Leg extensions, sissy squats
+
+Hamstring Emphasis:
+- Primary rotation: Romanian Deadlift → Stiff-Leg Deadlift → Good Mornings
+- Secondary: Glute-ham raises, Nordic curls
+- Isolation: Leg curls (seated and lying variations)
+
+**For Bigger Chest:**
+- Primary rotation: Flat Bench → Incline Bench → Close-Grip Bench
+- Secondary: Dumbbell press variations, dips, machine press
+- Isolation: Cable flyes, pec deck, dumbbell flyes
+
+Upper chest often lags. If this is you, prioritise incline work and perform it before flat pressing.
+
+**For Bigger Back:**
+
+Width (Lats):
+- Primary: Pull-ups → Chin-ups → Neutral Grip Pull-ups
+- Secondary: Lat pulldowns (various grips), straight-arm pulldowns
+
+Thickness (Mid-Back):
+- Primary rotation: Barbell Row → Pendlay Row → Meadows Row
+- Secondary: Cable rows, chest-supported rows, T-bar rows, dumbbell rows
+
+**For Bigger Shoulders:**
+- Primary rotation: Overhead Press → Push Press → Seated Press
+- Secondary: Arnold press, landmine press, dumbbell press
+- Isolation: Lateral raises (various angles), face pulls, rear delt work
+
+Side delts create the appearance of width. Prioritise lateral raises and rear delt work if your shoulders lack the capped look.
+
+### The Phase 2 Rotation Protocol
+
+Within Phase 2, rotate your primary compound variations once - at the transition between mesocycles (after Week 4 deload).
+
+Weeks 1–4: Primary variation A (e.g., back squat, conventional deadlift, flat bench)
+Weeks 5–8: Primary variation B (e.g., front squat, sumo deadlift, incline bench)
+
+This provides enough time to progress on each variation while preventing staleness.
+
+Keep secondary and isolation work more stable - these can run the full 8 weeks before rotation, unless a specific need arises.
+
+**Action**
+- Categorize your current exercises into Tier 1, 2, and 3
+- Identify your primary compound for each movement pattern
+- Select your rotation exercise for weeks 5–8
+- Assess weak points and select secondary exercises that address them
+
+### Training Intensity Techniques
+
+You have the foundation. You understand progression and periodization. Now we add advanced tools to your arsenal - techniques that increase training intensity without simply adding more volume.
+
+These are powerful tools. They create greater stimulus in less time when used correctly. But they are also easy to abuse. Overuse leads to excessive fatigue, impaired recovery, and stalled progress.
+
+The rule: use intensity techniques sparingly and strategically. One, maximum two techniques per workout. Apply them to isolation and secondary exercises more than primary compounds. Never use multiple techniques on the same exercise.
+
+**Rest-Pause Sets**
+
+What it is: Extend a set beyond normal failure using brief intra-set rest periods.
+
+How to execute:
+1. Perform a set to near failure (1–2 reps in reserve)
+2. Rack the weight, rest 10–15 seconds (stay at the station, breathe deeply)
+3. Perform more reps until near failure again
+4. Rest 10–15 seconds
+5. One more mini-set to near failure
+
+A rest-pause set might look like: 10 reps → rest → 4 reps → rest → 2 reps. You have now performed 16 total reps with a weight you could only do 10 with straight.
+
+Why it works: The brief rest allows partial ATP regeneration and clearance of metabolites, enabling additional reps. This extends time under tension and recruits more motor units than a straight set to failure.
+
+When to use:
+- Final set of an exercise
+- Isolation movements (curls, tricep work, lateral raises)
+- Machine exercises where form is less critical under fatigue
+
+When to avoid:
+- Heavy compound movements (squats, deadlifts, bench press)
+- Exercises where technique degrades significantly under fatigue
+- When you are already accumulating excessive fatigue
+
+**Drop Sets**
+
+What it is: Immediately reduce weight after reaching failure and continue for more reps, repeating one or more times.
+
+How to execute:
+1. Perform a set to near failure
+2. Immediately reduce weight by 20–30%
+3. Continue to near failure
+4. Reduce weight again
+5. Continue to near failure
+
+A drop set might look like: 50kg x 10 → 40kg x 8 → 30kg x 10
+
+Why it works: By reducing the load, you can continue training past the point where you would normally fail. This thoroughly exhausts the target muscle and creates significant metabolic stress.
+
+When to use:
+- Isolation exercises
+- Machine movements where weight changes are fast
+- Final set of a muscle group for maximum pump and exhaustion
+
+When to avoid:
+- Free weight compounds where setup time defeats the purpose
+- Movements requiring technical precision
+- More than once per muscle group per session
+
+**Tempo Manipulation**
+
+What it is: Deliberately slowing portions of the rep to increase time under tension.
+
+How to execute: Use a tempo prescription like 4-1-2-0:
+- 4 seconds eccentric (lowering)
+- 1 second pause at bottom
+- 2 seconds concentric (lifting)
+- 0 seconds pause at top
+
+A set of 8 reps with a 4-second eccentric provides 32+ seconds of eccentric tension, compared to roughly 8 seconds with a normal tempo. Same reps, dramatically different stimulus.
+
+Why it works: The eccentric (lowering) phase causes the most muscle damage and stimulates significant hypertrophy. Extending this phase increases the growth stimulus without requiring heavier weights.
+
+When to use:
+- Any exercise, but particularly effective for hypertrophy phases
+- Deload weeks to maintain stimulus with lighter loads
+- Exercises where you want to reinforce technique and control
+- 1–2 exercises per session
+
+When to avoid:
+- Heavy strength work where tempo naturally slows anyway
+- When you need to prioritise load progression over time under tension
+
+**Pause Reps**
+
+What it is: Add a deliberate pause at the most difficult portion of the movement.
+
+How to execute: At the bottom of a squat, hold for 2–3 seconds. At the chest on bench press, hold for 2–3 seconds. Eliminate the stretch reflex and build strength from a dead stop.
+
+Why it works: The stretch reflex - the elastic energy stored during the eccentric that helps you "bounce" out of the bottom - is eliminated. You must generate force from a dead stop, building strength specifically at your weakest point.
+
+When to use:
+- Primary compounds when working on sticking points
+- When technique breaks down at a specific position
+- In 2–4 week blocks to address specific weaknesses
+
+When to avoid:
+- As a permanent feature of all training
+- When fatigue is already high
+- With loads that compromise the pause position
+
+**Mechanical Drop Sets**
+
+What it is: Move from a harder variation to an easier variation of the same movement pattern without rest.
+
+How to execute: Complete reps to near failure on the harder variation, immediately switch to the easier variation and continue.
+
+Examples:
+- Close-grip chin-ups → Neutral grip chin-ups → Underhand chin-ups
+- Incline dumbbell press → Flat dumbbell press → Decline dumbbell press
+- Deficit push-ups → Standard push-ups → Knee push-ups
+
+Why it works: Instead of reducing load, you reduce the mechanical disadvantage. This allows continued work on the target muscles after failure on the harder variation.
+
+When to use:
+- Bodyweight exercises where load reduction is not possible
+- When you want extended sets without weight changes
+- For variety and challenge
+
+### Application in Phase 2
+
+Mesocycle 1 (Accumulation — Weeks 1–4): Focus on tempo work and pause reps. These build muscle, reinforce technique, and increase time under tension without excessive neural fatigue.
+
+Apply to: 1–2 exercises per session, preferably secondary or isolation movements.
+
+Mesocycle 2 (Intensification — Weeks 5–8): Introduce rest-pause and drop sets on isolation work. Save neural energy for heavy primary lifts.
+
+Apply to: Final sets of isolation exercises, machine work, arm training.
+
+### The Critical Rule
+
+Never use multiple intensity techniques on the same exercise. One technique per exercise, maximum two techniques per session. These are finishers, not the foundation.
+
+If you find yourself relying on intensity techniques every session for every exercise, you are overcomplicating your training. Progressive overload on basic movements will always be the primary driver of results.
+
+Intensity techniques are seasoning, not the meal.
+
+**Action**
+- Select one intensity technique to introduce this week
+- Apply it only to the final set of one isolation exercise
+- Note the effect on fatigue and recovery
+- Adjust application based on response
+
+### Conditioning Integration
+
+Phase 1 introduced Zone 2 conditioning - the aerobic foundation. Now we build a complete conditioning system that enhances performance, improves recovery, and does not compromise your strength gains.
+
+Most men either ignore conditioning entirely or overdo it with random HIIT that leaves them too fatigued to lift properly. Both approaches are wrong.
+
+Intelligent conditioning makes you better at everything.
+
+**Zone 2 — Aerobic Base (60–70% Max Heart Rate)**
+
+This remains your foundation. You should be able to hold a conversation. It feels easy, which is why most men skip it - they think "easy" means "not working." They are wrong.
+
+Benefits that matter for you:
+- Improved fat oxidation at rest and during exercise
+- Enhanced recovery between sets and between sessions
+- Increased capillary density for better nutrient delivery
+- Cardiovascular health and longevity
+- Active recovery that does not add training stress
+- Improved parasympathetic tone and stress management
+
+Frequency: 2–3 sessions per week
+Duration: 30–45 minutes per session
+Modalities: Incline treadmill walking, cycling, rowing, swimming, outdoor walking
+
+Zone 2 is the conditioning you can do frequently without impacting lifting performance. It should feel like you could continue for hours.
+
+If you are breathing hard, you are out of Zone 2.
+
+**Zone 3/4 — Tempo and Threshold Work**
+
+Uncomfortable but sustainable. You can speak in short sentences but not hold a conversation. This builds work capacity and improves your body's ability to clear lactate.
+
+Benefits:
+- Improved lactate threshold
+- Enhanced work capacity for higher rep training
+- Mental toughness development
+- Efficient calorie burn
+
+Frequency: 1 session per week
+Duration: 20–30 minutes
+Format: Intervals or sustained tempo work
+
+Example Interval Session:
+- Rowing or cycling
+- 3 minutes at tempo pace (uncomfortable but sustainable)
+- 2 minutes easy recovery
+- Repeat 4–6 times
+- Total: 20–30 minutes
+
+Example Tempo Session:
+- 20–25 minutes at steady threshold pace
+- Should feel challenging to maintain but not all-out
+
+**Zone 5 — High Intensity**
+
+Near-maximum effort. You cannot speak. This is true HIIT - not the 45-minute "HIIT classes" that are actually moderate steady-state with rest periods.
+
+Benefits:
+- Improved anaerobic capacity
+- EPOC (excess post-exercise oxygen consumption) - the "afterburn"
+- Time-efficient conditioning
+- Mental toughness
+
+Frequency: 1 session per week maximum
+Duration: 10–15 minutes total work (including rest periods)
+Format: Short, all-out intervals with adequate rest
+
+Example Session:
+- Assault bike or rower
+- 20 seconds absolute maximum effort
+- 40 seconds complete rest (or very easy movement)
+- Repeat 8–10 rounds
+- Total work time: ~3–4 minutes
+- Total session: ~10–12 minutes
+
+This is brutally effective and brutally demanding. More than one session per week will compromise recovery.
+
+### The Weekly Structure
+
+Here is how to integrate conditioning without compromising lifting:
+
+**Option A: 4-Day Lifting Split**
+
+- Monday: Lifting (Heavy Upper)
+- Tuesday: Zone 2 (30–45 min) or complete rest
+- Wednesday: Lifting (Heavy Lower)
+- Thursday: Zone 2 (30–45 min)
+- Friday: Lifting (Moderate Upper)
+- Saturday: Zone 3/4 OR Zone 5 (choose based on recovery and preference)
+- Sunday: Lifting (Moderate Lower) or Rest
+
+**Option B: 3-Day Lifting Split**
+
+- Monday: Lifting (Full Body)
+- Tuesday: Zone 2 (30–45 min)
+- Wednesday: Lifting (Full Body)
+- Thursday: Zone 2 (30–45 min) or Rest
+- Friday: Lifting (Full Body)
+- Saturday: Zone 3/4 or Zone 5
+- Sunday: Rest or light Zone 2
+
+### Conditioning That Complements Strength Training
+
+Some conditioning modalities actively support your lifting. Prioritise these:
+
+**Sled Work**
+
+Pushing and pulling sleds builds leg strength and conditioning simultaneously. It is concentric-only, meaning minimal muscle damage and faster recovery. You can sled hard and still squat two days later.
+
+Protocol: 10–15 minutes after lower body training, or as standalone conditioning. Push heavy for strength, push light and fast for conditioning.
+
+**Loaded Carries**
+
+Farmer's walks, sandbag carries, trap bar carries. These build grip, core stability, and full-body conditioning while reinforcing good posture.
+
+Protocol: 3–5 sets of 40–60 seconds at end of training. Go heavy for strength emphasis, lighter for conditioning emphasis.
+
+**Rowing**
+
+Engages the posterior chain - back, glutes, hamstrings. Low impact on joints. Excellent for Zone 2 and interval work.
+
+Protocol: Primary conditioning modality for most men. Buy a rower for home if possible.
+
+**Cycling**
+
+Low impact, easy to control intensity. Does not interfere with lower body recovery as much as running.
+
+Protocol: Good option for Zone 2 and intervals. Outdoor cycling adds enjoyment factor.
+
+**Incline Treadmill Walking**
+
+The simplest Zone 2 option. Set incline to 10–15%, speed to 3–4 mph. Walk and watch something, listen to something, or think.
+
+Protocol: Ideal for Zone 2. Can do immediately post-lifting or on rest days.
+
+### Conditioning to Avoid
+
+**Long Distance Running**
+
+High impact. Significant interference with lower body strength and recovery. The adaptations it creates (slow-twitch dominance, catabolic hormone environment) are counterproductive to building muscle and strength.
+
+If you love running, keep it short - 20–30 minutes maximum, 1–2 times per week. But recognize it is not optimal for your goals.
+
+**Excessive HIIT**
+
+The fitness industry has overmarketed HIIT. More than 1–2 high-intensity sessions per week impairs strength recovery. If you are doing HIIT classes 4–5 times per week and lifting, you are likely not recovering from either.
+
+True HIIT is brief and brutal. If you can do it for 30+ minutes, it is not high intensity.
+
+**Random Metcons**
+
+CrossFit-style workouts without purpose. These create fatigue without targeted adaptation. Conditioning should have a goal - improving Zone 2 capacity, building threshold, developing max power.
+
+"Being sweaty and tired" is not a training goal.
+
+### Finishers: Conditioning That Fits with Lifting
+
+Short conditioning pieces at the end of lifting sessions. These add conditioning without requiring separate sessions.
+
+Use 1–2 times per week maximum. Keep them under 10 minutes.
+
+Examples:
+
+The 10-Minute EMOM: Every minute on the minute for 10 minutes:
+- 10 kettlebell swings
+- 5 burpees
+
+The Descending Ladder: Countdown from 10 to 1:
+- Assault bike calories
+- Push-ups (10 cals, 10 push-ups, then 9 cals, 9 push-ups, etc.)
+
+The Density Block: Set timer for 8 minutes. Accumulate as many rounds as possible:
+- 200m row
+- 10 goblet squats
+- 10 push-ups
+
+**Action**
+- Schedule your Zone 2 sessions — put them on the calendar
+- Choose one Zone 3/4 or Zone 5 format to try this week
+- Select a finisher to add to one lifting session this week
+- Track resting heart rate to monitor conditioning improvements
+
+### Weak Point Analysis and Correction
+
+Every man has weak points. Muscles that lag behind others. Movement patterns that break down under load. Imbalances that limit performance and increase injury risk.
+
+Phase 1 was about building general strength and capability. Phase 2 is when you identify and address your specific limitations.
+
+### How to Identify Weak Points
+
+**Visual Assessment**
+
+Stand in front of a mirror. Look at yourself with objective eyes. What is underdeveloped compared to surrounding muscles?
+
+Common visual imbalances:
+- Rear delts vs. front delts (most men are front delt dominant)
+- Hamstrings vs. quads (most men are quad dominant)
+- Upper chest vs. lower chest (lower chest often overpowers upper)
+- Mid-back vs. lats (lats often dominate, mid-back lags)
+- Side delts vs. front delts (front delts get hit by all pressing, sides need direct work)
+
+The Apollo physique is balanced. A massive chest with small shoulders looks wrong. Big quads with no hamstrings looks wrong. Aesthetics require proportion.
+
+**Performance Assessment**
+
+Where do your lifts break down? The point of failure reveals the weak link.
+
+Squat weak points:
+- Folding forward coming out of the hole → weak upper back, weak core
+- Getting stuck in the hole → weak quads
+- Hips shooting up first → weak quads, technique issue
+- Knees caving → weak glutes, weak adductors
+- Failing at lockout → weak glutes, weak hamstrings
+
+Bench press weak points:
+- Stuck at the chest → weak chest, weak front delts
+- Stuck at mid-range → weak chest, weak triceps
+- Failing at lockout → weak triceps
+- Shoulder pain → weak rotator cuff, poor scapular control
+
+Deadlift weak points:
+- Cannot break the floor → weak quads, weak positioning
+- Stuck at knees → weak back, weak hamstrings
+- Upper back rounding → weak upper back, weak lats
+- Failing at lockout → weak glutes, weak lower back
+
+Row/Pull-up weak points:
+- Cannot initiate pull → weak lats, weak scapular control
+- Cannot complete contraction → weak rhomboids, weak mid-back
+
+**Pain and Discomfort Patterns**
+
+Recurring discomfort often indicates weakness or imbalance. Your body compensates for weak areas by overloading others.
+
+Knee pain during squats → possibly weak VMO, weak glutes, poor ankle mobility
+
+Shoulder pain during pressing → possibly weak rotator cuff, weak rear delts, poor thoracic mobility
+
+Lower back fatigue during deadlifts → possibly weak core, weak glutes, weak upper back
+
+Elbow pain during pressing → possibly weak triceps, poor shoulder mechanics
+
+Note: pain can have many causes. These are possibilities, not diagnoses. If pain persists, see a professional.
+
+### Common Weak Points and Their Corrections
+
+**Weak Glutes**
+
+Signs: Poor hip drive, excessive forward lean in squat and deadlift, lower back fatigue after hip-dominant movements, flat backside visually.
+
+Corrections:
+- Hip thrusts: 3x12–15, squeeze hard at top
+- Banded walks: lateral and monster walks for activation
+- Single-leg work: Bulgarian split squats, step-ups, single-leg RDLs
+- Glute-focused deadlift variations: sumo deadlift, trap bar deadlift
+- Daily activation: glute bridges before every session
+
+**Weak Upper Back**
+
+Signs: Rounding during deadlifts, folding forward in squats, poor posture, limited row strength.
+
+Corrections:
+- Face pulls: daily, 100 total reps (can be spread throughout day)
+- Chest-supported rows: removes lower back from equation, isolates mid-back
+- Band pull-aparts: between all pressing sets
+- Pause deadlifts: reinforce position at weakest point
+- Snatch-grip work: wider grip emphasises upper back
+
+**Weak Core**
+
+Signs: Lower back fatigue during compound movements, loss of position under load, poor brace, ribcage flaring.
+
+Corrections:
+- Dead bugs: 3x10 each side, slow and controlled
+- Pallof press: anti-rotation strength, 3x10 each side
+- Loaded carries: farmer's walks, front rack carries
+- Ab wheel rollouts: 3x8–10
+- Breathing drills: learn to brace properly before loading
+
+**Weak Hamstrings**
+
+Signs: Quad dominance in squat and deadlift, poor hip hinge pattern, knee discomfort, hips shooting up in squat.
+
+Corrections:
+- Romanian deadlifts: prioritize over conventional pulls temporarily
+- Nordic curls: eccentric focus, build up gradually
+- Glute-ham raises: if available, excellent hamstring builder
+- Leg curls: seated and lying variations, include both
+- Good mornings: light weight, high reps, stretch focus
+
+**Weak Rear Delts**
+
+Signs: Rounded shoulder posture, shoulder discomfort with pressing, visually flat back of shoulder, front delt dominance.
+
+Corrections:
+- Face pulls: already mentioned — cannot overstate importance
+- Reverse flyes: light weight, high reps, squeeze at contraction
+- Rear delt rows: elbows high, pull to face level
+- Band pull-aparts: between pressing sets
+- Reduce pressing volume: if rear delts are severely lagging, you may need to temporarily reduce pressing while bringing them up
+
+### The Prioritization Protocol
+
+You cannot fix everything at once. Identify your top one or two weak points and prioritise them for one mesocycle (4 weeks).
+
+How to Prioritise Weak Points:
+
+1. Train weak points first in the session when you are fresh and neural drive is highest
+2. Add 2–4 extra sets per week specifically for weak points
+3. Use activation work before main movements that require the weak muscle
+4. Reduce volume for strong points to create recovery room for added weak point work
+
+Example: If glutes are weak and interfering with squat and deadlift performance:
+- Begin every lower session with 2 sets of glute bridges
+- Add hip thrusts as first exercise on one lower day
+- Add banded walks to warm-up
+- Reduce quad isolation volume temporarily
+
+**After 4 Weeks:**
+
+Reassess. Has the weak point improved? Use the same assessment methods:
+- Visual: does it look better?
+- Performance: has the sticking point improved?
+- Discomfort: has pain or fatigue in compensating areas decreased?
+
+If improved: maintain with moderate attention, move to next priority
+If not improved: continue emphasis or troubleshoot (are you actually executing the corrections consistently?)
+
+**Action**
+- Perform visual assessment — identify 1–2 lagging muscle groups
+- Perform performance assessment — identify where your lifts break down
+- Note any recurring pain or discomfort patterns
+- Select your top 2 weak points and the corrections you will prioritise
+- Restructure one session this week to address weak points first
+
+### The Phase 2 Training Program
+
+Here is your complete Phase 2 training program. This synthesises everything from the module: progressive overload, periodization, exercise selection, intensity techniques, conditioning integration, and weak point training.
+
+Follow this program for the full 8 weeks of Phase 2. Execute it with the same discipline you brought to Phase 1. Track everything. Progress relentlessly.
+
+### Choose Your Split
+
+**Option A: 4-Day Upper/Lower (Recommended for Most)**
+
+Best for: Most men. Balances frequency, volume, and recovery well. Allows dedicated conditioning days.
+
+**Option B: 3-Day Full Body**
+
+Best for: Limited schedule, men who recover more slowly, older trainees. Hits each muscle group 3x per week with lower volume per session.
+
+**Option C: 5-Day Push/Pull/Legs**
+
+Best for: Advanced trainees with excellent recovery capacity, those who want higher volume per muscle group. Requires more time and careful recovery management.
+
+> The programs below use Option A. If you need Option B or C, the exercises remain similar — adjust the split structure accordingly.
+
+### Weekly Structure
+
+**OPTION A: 4-DAY UPPER/LOWER SPLIT**
+- Monday: Upper Heavy
+- Tuesday: Lower Heavy
+- Wednesday: Rest or Zone 2 Conditioning
+- Thursday: Upper Moderate
+- Friday: Lower Moderate
+- Saturday: Conditioning (Zone 3/4 or Zone 5)
+- Sunday: Rest or Active Recovery
+
+### ACCUMULATION (Weeks 1–4)
+
+Focus: Higher volume, moderate intensity, technique refinement, muscle growth
+RPE Target: 7–8 on working sets
+Week 4: De-load
+
+**Day 1 — Upper Heavy**
+
+1. Barbell Bench Press — 4 sets x 6–8 reps — Rest: 2–3 minutes — Progression: Double progression (hit 8 on all sets → add weight)
+2. Weighted Pull-ups (or Lat Pulldown) — 4 sets x 6–8 reps — Rest: 2–3 minutes
+3. Overhead Press — 3 sets x 8–10 reps — Rest: 2 minutes
+4. Barbell Row — 3 sets x 8–10 reps — Rest: 2 minutes
+5. Face Pulls — 3 sets x 15–20 reps — Rest: 60 seconds
+6. Dumbbell Curl — 2 sets x 10–12 reps — Rest: 60 seconds
+7. Tricep Pushdown — 2 sets x 10–12 reps — Rest: 60 seconds
+
+**Day 2 — Lower Heavy**
+
+1. Back Squat — 4 sets x 6–8 reps — Rest: 2–3 minutes
+2. Romanian Deadlift — 4 sets x 8–10 reps — Rest: 2 minutes
+3. Walking Lunge — 3 sets x 10 each leg — Rest: 90 seconds
+4. Leg Curl — 3 sets x 10–12 reps — Rest: 60 seconds
+5. Standing Calf Raise — 4 sets x 10–12 reps — Rest: 60 seconds
+6. Core Circuit — Dead Bug: 2 x 10 each side / Plank: 2 x 45 seconds — Rest: minimal between exercises, 60 seconds between rounds
+
+**Day 4 — Upper Moderate**
+
+1. Incline Dumbbell Press — 4 sets x 8–10 reps — Rest: 90 seconds
+2. Cable Row — 4 sets x 10–12 reps — Rest: 90 seconds
+3. Dumbbell Shoulder Press — 3 sets x 10–12 reps — Rest: 90 seconds
+4. Lat Pulldown (different grip than Day 1) — 3 sets x 10–12 reps — Rest: 90 seconds
+5. Lateral Raise — 3 sets x 12–15 reps — Rest: 60 seconds
+6. Tricep Overhead Extension — 3 sets x 10–12 reps — Rest: 60 seconds
+7. Hammer Curl — 3 sets x 10–12 reps — Rest: 60 seconds
+8. Face Pulls — 2 sets x 15–20 reps — Rest: 60 seconds
+
+**Day 5 — Lower Moderate**
+
+1. Leg Press (or Front Squat) — 4 sets x 10–12 reps — Rest: 90 seconds
+2. Conventional Deadlift — 3 sets x 6–8 reps — Rest: 2–3 minutes — Note: Lower volume than squat day, maintain technique
+3. Bulgarian Split Squat — 3 sets x 10–12 each leg — Rest: 90 seconds between legs
+4. Hip Thrust — 3 sets x 12–15 reps — Rest: 90 seconds
+5. Leg Extension — 3 sets x 12–15 reps — Rest: 60 seconds
+6. Seated Calf Raise — 3 sets x 15–20 reps — Rest: 60 seconds
+7. Hanging Knee Raise (or Ab Wheel) — 3 sets x 10–15 reps — Rest: 60 seconds
+
+### WEEK 4 DELOAD
+
+Same exercises, same frequency. Adjust as follows:
+- Reduce all working sets by 1 (4 sets → 3 sets, 3 sets → 2 sets)
+- Reduce weight by 10–15%
+- Stop all sets 3–4 reps from failure (RPE 6–7)
+- Maintain movement quality focus
+- No intensity techniques
+- Keep conditioning to Zone 2 only
+
+### INTENSIFICATION (Weeks 5–8)
+
+Focus: Moderate volume, higher intensity, strength expression
+RPE Target: 8–9 on primary movements
+Week 8: De-load
+
+**Exercise Rotation at Week 5:**
+
+Rotate primary movements to provide novel stimulus:
+- Barbell Bench → Close-Grip Bench or Incline Barbell
+- Back Squat → Front Squat or Pause Squat
+- Conventional Deadlift → Sumo Deadlift or Deficit Deadlift
+- Barbell Row → Pendlay Row or Meadows Row
+- Overhead Press → Push Press or Seated Press
+
+Secondary and isolation work can remain similar or adjust based on weak point priorities.
+
+**Day 1 — Upper Heavy (Weeks 5–8)**
+
+1. Close-Grip Bench Press (or Incline Barbell) — 4 sets x 5–6 reps — Rest: 3 minutes — RPE: 8–9
+2. Weighted Chin-ups — 4 sets x 5–6 reps — Rest: 3 minutes
+3. Push Press (or Seated Press) — 3 sets x 6–8 reps — Rest: 2–3 minutes
+4. Pendlay Row — 3 sets x 6–8 reps — Rest: 2–3 minutes
+5. Face Pulls — 3 sets x 15–20 reps
+6. EZ Bar Curl — 2 sets x 8–10 reps + rest-pause on set 2
+7. Skull Crushers — 2 sets x 8–10 reps
+
+**Day 2 — Lower Heavy (Weeks 5–8)**
+
+1. Front Squat (or Pause Back Squat) — 4 sets x 5–6 reps — Rest: 3 minutes — RPE: 8–9
+2. Sumo Deadlift (or Deficit Conventional) — 3 sets x 5–6 reps — Rest: 3 minutes
+3. Barbell Hip Thrust — 3 sets x 8–10 reps — Rest: 2 minutes
+4. Nordic Curl (or GHR) — 3 sets x 6–8 reps — Rest: 90 seconds
+5. Standing Calf Raise — 4 sets x 8–10 reps
+6. Core: Pallof Press — 3 sets x 10 each side
+
+**Day 4 — Upper Moderate (Weeks 5–8)**
+
+1. Dumbbell Bench Press (flat) — 4 sets x 8–10 reps — Rest: 2 minutes
+2. Chest-Supported Row — 4 sets x 8–10 reps — Rest: 90 seconds
+3. Arnold Press — 3 sets x 10–12 reps
+4. Neutral Grip Lat Pulldown — 3 sets x 10–12 reps
+5. Cable Lateral Raise — 3 sets x 12–15 reps + drop set on set 3
+6. Dips — 2 sets x 8–12 reps (add weight if needed)
+7. Incline Dumbbell Curl — 3 sets x 10–12 reps
+8. Face Pulls — 2 sets x 20 reps
+
+**Day 5 — Lower Moderate (Weeks 5–8)**
+
+1. Hack Squat or High Bar Squat — 4 sets x 8–10 reps — Rest: 2 minutes
+2. Romanian Deadlift — 3 sets x 8–10 reps — Rest: 2 minutes
+3. Walking Lunge — 3 sets x 12 each leg
+4. Leg Curl — 3 sets x 10–12 + rest-pause on set 3
+5. Leg Extension — 3 sets x 12–15 + drop set on set 3
+6. Seated Calf Raise — 3 sets x 15–20 reps
+7. Ab Wheel Rollout — 3 sets x 10–12 reps
+
+### WEEK 8 DELOAD
+
+Same protocol as Week 4 de-load. This prepares you for Phase 3.
+
+### CONDITIONING SCHEDULE
+
+**Weeks 1–4 (Accumulation):**
+- Tuesday: Zone 2, 30–40 minutes
+- Thursday (optional): Zone 2, 30 minutes
+- Saturday: Zone 3/4 intervals (20–25 minutes)
+
+**Weeks 5–8 (Intensification):**
+- Tuesday: Zone 2, 30–40 minutes
+- Thursday (optional): Zone 2, 20–30 minutes
+- Saturday: Zone 5 HIIT (10–15 minutes) OR Zone 3/4
+
+Optional Finishers (1–2x per week max): Add to end of Friday session if recovery allows.
+
+### WEAK POINT INTEGRATION
+
+Based on your assessment, integrate weak point work:
+
+**If Glutes Are Priority:**
+- Add hip thrust to Day 1 warm-up (2x10 bodyweight)
+- Add banded walks to all lower body warm-ups
+- Perform hip thrusts before squats on one lower day
+
+**If Upper Back Is Priority:**
+- Add band pull-aparts between all pressing sets
+- Add 50 face pulls daily (can do at home with band)
+- Prioritize rows over pulldowns
+
+**If Core Is Priority:**
+- Add dead bugs to warm-up for all sessions
+- Replace one isolation exercise with loaded carries
+- Add Pallof press to both lower days
+
+For each working set, record:
+- Exercise
+- Weight used
+- Reps achieved
+- RPE (1–10)
+- Notes on form or feel
+
+Review your log before every session. Know your targets. Execute with intention.
+
+### SUMMARY
+
+Weeks 1–3: Execute accumulation program. Push for rep PRs within RPE guidelines. Track everything.
+
+Week 4: Deload. Reduce volume and intensity. Recover fully.
+
+Weeks 5–7: Execute intensification program with rotated exercises. Push heavier loads. Use intensity techniques sparingly on isolation work.
+
+Week 8: De-load. Prepare for Phase 3.
+
+This program works.
+
+The science supports it.
+
+The structure is proven.
+
+Your only job is execution.
+
+**Action**
+- Print or save this program where you can access it every session
+- Set up your tracking system (app, notebook, or spreadsheet)
+- Schedule all sessions and conditioning in your calendar
+- Identify your weak point priority and integrate corrections
+- Execute Week 1 starting your next training day
