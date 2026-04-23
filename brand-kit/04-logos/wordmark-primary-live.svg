@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Urso &amp; Co">
+  <title>Urso &amp; Co — primary wordmark</title>
+  <defs>
+    
+  </defs>
+  <text class="wm" x="200" y="70" text-anchor="middle">Urso <tspan class="amp" dx="2" dy="0">&amp;</tspan> Co</text>
+</svg>

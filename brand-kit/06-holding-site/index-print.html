@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Urso &amp; Co — AI operations for DTC founders (print)</title>
+<meta name="description" content="AI operations studio for £1–10M UK DTC brands. Founded by an ex-DTC operator. £1,497 audit. GoCardless retainer after.">
+<link rel="icon" type="image/x-icon" href="../04-logos/favicon.ico">
+<link rel="stylesheet" href="../02-tokens/colors_and_type.css">
+<link rel="stylesheet" href="site.css">
+<style>
+  /* ---------- Print layout ---------- */
+  @page {
+    size: A4 portrait;
+    margin: 16mm 14mm;
+  }
+
+  @media print {
+    html, body {
+      background: var(--bone) !important;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .page { min-height: auto; }
+
+    .hero {
+      padding: 0 !important;
+      max-width: none;
+      margin: 0;
+    }
+
+    .lockup {
+      width: 72mm !important;
+      margin-bottom: 22mm !important;
+    }
+
+    .tagline {
+      font-size: 34pt !important;
+      line-height: 1.08 !important;
+      margin-bottom: 14mm !important;
+      max-width: 18ch;
+    }
+
+    .positioning { margin-bottom: 14mm !important; max-width: 62ch; }
+    .positioning p:first-child {
+      font-size: 14pt !important;
+      line-height: 1.4 !important;
+      margin-bottom: 6mm !important;
+    }
+    .positioning p {
+      font-size: 11pt !important;
+      line-height: 1.5 !important;
+      margin-bottom: 4mm !important;
+    }
+
+    .cta {
+      /* Preserve the ink-filled CTA in print */
+      background: var(--ink) !important;
+      color: var(--bone) !important;
+      border-color: var(--ink) !important;
+      padding: 10pt 16pt !important;
+      font-size: 10.5pt !important;
+      margin-bottom: 6mm !important;
+    }
+    .cta[href]::after { content: "  (" attr(href) ")"; font-family: var(--font-mono); font-size: 8pt; opacity: 0.6; }
+
+    .meta { font-size: 9pt !important; opacity: 0.75 !important; }
+    .meta .sep { padding: 0 6pt !important; }
+
+    .foot {
+      position: running(footerRegion);
+      border-top: 1px solid var(--stone) !important;
+      margin-top: 14mm;
+      padding-top: 6mm;
+    }
+    .foot-inner {
+      padding: 0 !important;
+      font-size: 8.5pt !important;
+      max-width: none;
+      flex-wrap: wrap;
+      gap: 8pt;
+    }
+    .foot a[href^="mailto:"]::after { content: ""; }
+    .foot .sep { padding: 0 6pt !important; }
+
+    /* Avoid breaking inside key blocks */
+    .tagline, .positioning, .cta, .meta, .foot { break-inside: avoid; }
+
+    /* Kill interactive affordances */
+    a { text-decoration: none !important; border-bottom: 0 !important; }
+    *, *::before, *::after {
+      transition: none !important;
+      animation: none !important;
+    }
+  }
+
+  /* Also present the print view on-screen as what the user will get */
+  @media screen {
+    body { background: color-mix(in oklab, var(--bone) 85%, var(--stone) 15%); padding: 28px 0; }
+    .page {
+      background: var(--bone);
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto;
+      padding: 16mm 14mm;
+      box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 10px 40px rgba(0,0,0,0.08);
+    }
+    .hero { padding: 0; max-width: none; }
+    .foot { margin-top: auto; }
+    .foot-inner { padding: 16px 0 0; }
+  }
+</style>
+</head>
+<body>
+
+<main class="page">
+
+  <section class="hero">
+    <img class="lockup" src="../04-logos/wordmark-lockup.svg" alt="Urso &amp; Co — AI Operations Studio">
+
+    <h1 class="tagline">AI operations for DTC founders, by an ex-DTC founder.</h1>
+
+    <div class="positioning">
+      <p>The technology layer is commodity. The operator-empathy layer is not.</p>
+      <p>We install AI operations infrastructure for UK DTC founders running £1–10M brands. Voice-trained workflows inside Gorgias, Klaviyo, Recharge, and the supplier stack. Human-in-the-loop by default. Installed in five days.</p>
+      <p>Founded by Anton Urso. A pair of gourmet-salt DTC brands scaled to multiple seven figures across UK and US. 60,000+ units shipped. Exited December 2025.</p>
+    </div>
+
+    <a class="cta" href="https://cal.com/ursoandco/discovery">
+      Book a 20-minute discovery call
+    </a>
+
+    <p class="meta"><span>Audit · £1,497</span><span class="sep">·</span><span>Five days</span><span class="sep">·</span><span>Fixed fee</span></p>
+  </section>
+
+  <footer class="foot">
+    <div class="foot-inner">
+      <div class="foot-left">
+        UK-based · GDPR, PECR, EU AI Act posture from day one
+      </div>
+      <div class="foot-right">
+        <a href="mailto:studio@ursoandco.co.uk">studio@ursoandco.co.uk</a>
+        <span class="sep">·</span>
+        <span>Urso &amp; Co Ltd — Companies House #16980197</span>
+      </div>
+    </div>
+  </footer>
+
+</main>
+
+<script>
+  // Auto-open the print dialog once fonts have loaded.
+  (async () => {
+    try {
+      if (document.fonts && document.fonts.ready) {
+        await document.fonts.ready;
+      }
+    } catch (e) { /* continue */ }
+    // Small safety delay so layout settles after font swap.
+    setTimeout(() => { window.print(); }, 500);
+  })();
+</script>
+
+</body>
+</html>

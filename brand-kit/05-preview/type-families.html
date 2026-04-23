@@ -1,0 +1,49 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>Type families</title><link rel="stylesheet" href="_card.css"></head><body>
+<style>
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .fam { border: 1px solid var(--stone); padding: 16px; min-height: 220px; display: flex; flex-direction: column; }
+  .fam .name { font-family: var(--font-sans); font-size: 11px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .fam .role { font-family: var(--font-mono); font-size: 10.5px; opacity: 0.65; margin-bottom: 14px; margin-top: 4px; }
+  .fam .big {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .serif { font-family: var(--font-serif); font-weight: 600; font-size: 52px; line-height: 1; letter-spacing: -0.025em; font-variation-settings: "opsz" 60; }
+  .serif .amp { font-style: italic; color: var(--ox-blood); font-weight: 500; padding: 0 4px; }
+  .sans { font-family: var(--font-sans); font-weight: 500; font-size: 40px; line-height: 1.05; letter-spacing: -0.01em; }
+  .mono { font-family: var(--font-mono); font-weight: 400; font-size: 32px; line-height: 1; font-feature-settings: "tnum" 1, "zero" 1; }
+  .foot { font-family: var(--font-mono); font-size: 10.5px; opacity: 0.6; margin-top: 10px; }
+  .self-host-tag {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 9.5px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border: 1px solid var(--stone);
+    color: var(--ink);
+  }
+</style>
+<div class="grid">
+  <div class="fam">
+    <div class="name">Source Serif 4 <span class="self-host-tag">self-hosted</span></div>
+    <div class="role">wordmark · display · h1–h3</div>
+    <div class="big"><div class="serif">Aa<span class="amp">&amp;</span></div></div>
+    <div class="foot">variable · opsz 8–60 · wght 200–900</div>
+  </div>
+  <div class="fam">
+    <div class="name">IBM Plex Sans</div>
+    <div class="role">body · ui · h4–h6</div>
+    <div class="big"><div class="sans">Aa 01</div></div>
+    <div class="foot">300 · 400 · 500 · 600</div>
+  </div>
+  <div class="fam">
+    <div class="name">IBM Plex Mono</div>
+    <div class="role">data · numerals only</div>
+    <div class="big"><div class="mono">Aa 01</div></div>
+    <div class="foot">tabular nums · zero slash</div>
+  </div>
+</div>
+</body></html>

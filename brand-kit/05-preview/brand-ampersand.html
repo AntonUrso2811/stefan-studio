@@ -1,0 +1,13 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>Ampersand</title><link rel="stylesheet" href="_card.css"></head><body>
+<style>
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: stretch; }
+  .box { border: 1px solid var(--stone); padding: 20px; display: flex; flex-direction: column; justify-content: center; min-height: 130px; }
+  .lbl { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.65; margin-bottom: 10px; }
+  .amp { font-family: var(--font-serif); font-style: italic; font-weight: 600; font-size: 76px; line-height: 1; color: var(--ink); letter-spacing: -0.02em; }
+  .amp.ox { color: var(--ox-blood); }
+</style>
+<div class="row2">
+  <div class="box"><span class="lbl">Default · italic ink</span><span class="amp">&amp;</span></div>
+  <div class="box"><span class="lbl">Hero only · italic ox-blood</span><span class="amp ox">&amp;</span></div>
+</div>
+</body></html>

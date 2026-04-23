@@ -1,0 +1,15 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>Buttons</title><link rel="stylesheet" href="_card.css"></head><body>
+<style>
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; font-family: var(--font-sans); font-size: 15px; font-weight: 500; letter-spacing: 0; padding: 12px 18px; border-radius: 2px; border: 1px solid var(--ink); background: var(--ink); color: var(--bone); cursor: pointer; transition: background 120ms ease, color 120ms ease; }
+  .btn.secondary { background: transparent; color: var(--ink); }
+  .btn.hover { background: var(--ox-blood); border-color: var(--ox-blood); color: var(--bone); }
+  .btn.disabled { background: var(--stone); border-color: var(--stone); color: var(--ink); opacity: 0.8; }
+  .lbl { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.6; margin-bottom: 6px; display: block; }
+</style>
+<div class="grid">
+  <div><span class="lbl">Primary · rest</span><span class="btn">Book a 20-minute discovery call</span></div>
+  <div><span class="lbl">Primary · hover</span><span class="btn hover">Book the audit — £1,497</span></div>
+  <div><span class="lbl">Secondary</span><span class="btn secondary">Read the case study</span></div>
+</div>
+</body></html>

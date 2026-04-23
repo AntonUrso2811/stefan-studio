@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Urso &amp; Co — Brand Kit v1.5</title>
+  <link rel="icon" type="image/x-icon" href="04-logos/favicon.ico">
+  <link rel="stylesheet" href="02-tokens/colors_and_type.css">
+  <style>
+    html, body { background: var(--bone); color: var(--ink); }
+    body { padding: 0; margin: 0; font-family: var(--font-sans); }
+    .wrap { max-width: 1080px; margin: 0 auto; padding: 72px 56px 96px; }
+    header { border-bottom: 1px solid var(--stone); padding-bottom: 32px; margin-bottom: 48px; display: grid; grid-template-columns: auto 1fr; gap: 28px; align-items: end; }
+    header .mark { width: 280px; height: auto; display: block; }
+    header .meta { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink); text-align: right; line-height: 1.7; }
+    header .meta .v { color: var(--ink); }
+
+    h1.h { font-family: var(--font-serif); font-weight: 600; font-size: 64px; line-height: 1.04; letter-spacing: -0.025em; font-variation-settings: "opsz" 60; margin: 0 0 18px 0; max-width: 18ch; text-wrap: pretty; }
+    h1.h .amp { font-style: italic; color: var(--ox-blood); }
+
+    .lede { font-family: var(--font-sans); font-size: 20px; line-height: 1.5; max-width: 62ch; margin: 0 0 12px 0; }
+    .sub { font-family: var(--font-sans); font-size: 15px; line-height: 1.6; max-width: 62ch; color: var(--ink); margin: 0 0 48px 0; }
+
+    section { margin: 0 0 64px 0; }
+    h2.s { font-family: var(--font-serif); font-weight: 600; font-size: 28px; letter-spacing: -0.01em; margin: 0 0 18px 0; font-variation-settings: "opsz" 32; }
+    h2.s::before { content: "§ "; color: var(--ink); font-style: italic; font-weight: 500; }
+
+    /* tree */
+    .tree { border: 1px solid var(--stone); background: var(--bone); padding: 4px 0; }
+    .tree ul { list-style: none; margin: 0; padding: 0; }
+    .tree li { display: grid; grid-template-columns: 280px 1fr; gap: 24px; padding: 11px 22px; border-bottom: 1px solid rgba(196,189,180,0.45); align-items: baseline; }
+    .tree li:last-child { border-bottom: 0; }
+    .tree .path { font-family: var(--font-mono); font-size: 13px; color: var(--ink); }
+    .tree .path a { color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 120ms ease, color 120ms ease; }
+    .tree .path a:hover { color: var(--ox-blood); border-bottom-color: var(--ox-blood); }
+    .tree .desc { font-family: var(--font-sans); font-size: 14px; line-height: 1.5; color: var(--ink); }
+
+    /* swatches */
+    .sw-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+    .sw { border: 1px solid var(--stone); }
+    .sw .chip { height: 110px; border-bottom: 1px solid var(--stone); }
+    .sw .info { padding: 12px 14px; }
+    .sw .tok { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-bottom: 2px; }
+    .sw .hex { font-family: var(--font-mono); font-size: 14px; color: var(--ink); }
+    .sw .role { font-family: var(--font-sans); font-size: 12px; line-height: 1.45; margin-top: 6px; display: block; color: var(--ink); }
+
+    /* type sample */
+    .type-row { border: 1px solid var(--stone); padding: 24px 26px; margin-bottom: 14px; display: grid; grid-template-columns: 170px 1fr; gap: 24px; align-items: baseline; }
+    .type-row .label { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink); }
+    .type-row .specimen { margin: 0; }
+
+    .t-display { font-family: var(--font-serif); font-weight: 600; font-size: 56px; line-height: 1.04; letter-spacing: -0.025em; font-variation-settings: "opsz" 60; }
+    .t-display .amp { font-style: italic; color: var(--ink); }
+    .t-h2 { font-family: var(--font-serif); font-weight: 600; font-size: 32px; letter-spacing: -0.015em; font-variation-settings: "opsz" 36; margin: 0; }
+    .t-body { font-family: var(--font-sans); font-size: 16px; line-height: 1.55; max-width: 56ch; margin: 0; }
+    .t-mono { font-family: var(--font-mono); font-size: 15px; font-variant-numeric: tabular-nums; }
+
+    /* rules grid */
+    .rules { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+    .rule { border: 1px solid var(--stone); padding: 18px 20px; }
+    .rule .n { font-family: var(--font-mono); font-size: 11px; color: var(--ink); letter-spacing: 0.08em; display: block; margin-bottom: 6px; }
+    .rule p { font-family: var(--font-sans); font-size: 14px; line-height: 1.55; margin: 0; max-width: none; }
+    .rule p strong { font-weight: 600; }
+
+    /* voice */
+    .voice { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .voice .col { border: 1px solid var(--stone); padding: 20px 22px; }
+    .voice .tag { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 12px; display: block; }
+    .voice .tag.do { color: var(--ink); }
+    .voice .tag.no { color: var(--ox-blood); }
+    .voice .col p { font-family: var(--font-sans); font-size: 14px; line-height: 1.55; margin: 0 0 10px 0; max-width: none; }
+    .voice .col.no p { color: var(--ink); }
+
+    /* assets */
+    .asset-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+    .asset { border: 1px solid var(--stone); padding: 28px 22px; background: var(--bone); text-align: center; }
+    .asset img { max-width: 100%; height: auto; display: block; margin: 0 auto 14px; max-height: 90px; }
+    .asset.ink { background: var(--ink); }
+    .asset.ink .cap { color: var(--stone); }
+    .asset .cap { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink); }
+
+    /* footer */
+    footer.inv { background: var(--ink); color: var(--bone); padding: 40px 56px; margin-top: 48px; }
+    footer.inv .row { max-width: 1080px; margin: 0 auto; display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; flex-wrap: wrap; }
+    footer.inv .wm { font-family: var(--font-serif); font-weight: 600; font-size: 26px; letter-spacing: -0.01em; color: var(--bone); font-variation-settings: "opsz" 32; }
+    footer.inv .wm .amp { font-style: italic; }
+    footer.inv .meta { font-family: var(--font-sans); font-size: 12px; line-height: 1.55; color: var(--stone); text-align: right; }
+    footer.inv .meta a { color: var(--stone); text-decoration: none; border-bottom: 1px solid rgba(196,189,180,0.3); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <img class="mark" src="04-logos/wordmark-primary-live.svg" alt="Urso & Co">
+      <div class="meta">
+        <span class="v">Brand kit · v1.5</span><br>
+        Foundation · READY<br>
+        2026-04-22
+      </div>
+    </header>
+
+    <h1 class="h">The complete brand kit for Urso <span class="amp">&amp;</span> Co.</h1>
+    <p class="lede">AI operations studio for £1–10M UK DTC brands. This kit is the single source of truth for every asset, surface, and line of copy that carries the name.</p>
+    <p class="sub">Self-contained — docs, tokens, fonts, logos, specimens, and the production holding site. Drop the folder into any project; every path inside resolves locally.</p>
+
+    <section>
+      <h2 class="s">Contents</h2>
+      <div class="tree">
+        <ul>
+          <li><span class="path"><a href="01-docs/README.md">01-docs/README.md</a></span><span class="desc">Manifest — content fundamentals, visual foundations, vocabulary, rules.</span></li>
+          <li><span class="path"><a href="01-docs/foundation-brief.md">01-docs/foundation-brief.md</a></span><span class="desc">v1.5 roll-up. Archetype, positioning, offer ladder, nine-check quality floor.</span></li>
+          <li><span class="path"><a href="01-docs/component-copy-bank.md">01-docs/component-copy-bank.md</a></span><span class="desc">On-voice strings for every component. The pre-ship copy gate.</span></li>
+          <!-- <li><span class="path"><a href="01-docs/voice-system-v1.md">01-docs/voice-system-v1.md</a></span><span class="desc">Voice System framework. Internal IP — don't surface mechanics.</span></li> -->
+          <li><span class="path"><a href="01-docs/SKILL.md">01-docs/SKILL.md</a></span><span class="desc">Agent-skill entrypoint for Claude Code.</span></li>
+          <li><span class="path"><a href="02-tokens/colors_and_type.css">02-tokens/colors_and_type.css</a></span><span class="desc">Palette + variable type scale + semantic tag defaults.</span></li>
+          <li><span class="path">03-fonts/</span><span class="desc">Self-hosted Source Serif 4 (upright + italic, variable TTF).</span></li>
+          <li><span class="path"><a href="04-logos/">04-logos/</a></span><span class="desc">Wordmark family — primary · lockup · stacked · monogram · favicon.</span></li>
+          <li><span class="path"><a href="05-preview/colors-palette.html">05-preview/</a></span><span class="desc">Design-system review cards. Colours, type, components, spacing, iconography.</span></li>
+          <li><span class="path"><a href="06-holding-site/index.html">06-holding-site/index.html</a></span><span class="desc">Production source for ursoandco.co.uk — reference implementation.</span></li>
+          <li><span class="path"><a href="07-deck/Brand Kit Presentation.html">07-deck/Brand Kit Presentation.html</a></span><span class="desc">12-slide deck (1920×1080) — positioning, palette, type, voice, offer, rules.</span></li>
+          <li><span class="path"><a href="../skills/copy-urso.md">../skills/copy-urso.md</a></span><span class="desc">Brand-overlay copy skill. Wraps universal <code>/copy</code>; returns traceable output.</span></li>
+          <li><span class="path"><a href="COWORK-INSTALL.md">COWORK-INSTALL.md</a></span><span class="desc">Operator doc — how to install the kit + skills into Cowork.</span></li>
+          <li><span class="path"><a href="CLAUDE-CODE-REVIEW-PROMPT.md">CLAUDE-CODE-REVIEW-PROMPT.md</a></span><span class="desc">Paste-ready prompt for rigorous third-party critical audit.</span></li>
+          <li><span class="path"><a href="CHANGELOG.md">CHANGELOG.md</a></span><span class="desc">Every change, dated.</span></li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="s">Palette</h2>
+      <div class="sw-grid">
+        <div class="sw"><div class="chip" style="background:#0f1114"></div><div class="info"><span class="tok">Ink</span><span class="hex">#0f1114</span><span class="role">Primary. Wordmark, body, headings.</span></div></div>
+        <div class="sw"><div class="chip" style="background:#f6f2eb;border-bottom:1px solid var(--stone)"></div><div class="info"><span class="tok">Bone</span><span class="hex">#f6f2eb</span><span class="role">Secondary. Default page ground.</span></div></div>
+        <div class="sw"><div class="chip" style="background:#5b1e24"></div><div class="info"><span class="tok">Ox-blood</span><span class="hex">#5b1e24</span><span class="role">Accent. One mark per asset.</span></div></div>
+        <div class="sw"><div class="chip" style="background:#c4bdb4"></div><div class="info"><span class="tok">Stone</span><span class="hex">#c4bdb4</span><span class="role">Utility. Hairlines, captions on Ink.</span></div></div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="s">Typography</h2>
+      <div class="type-row">
+        <div class="label">Display · Source Serif 4</div>
+        <p class="specimen t-display">Urso <span class="amp">&amp;</span> Co</p>
+      </div>
+      <div class="type-row">
+        <div class="label">H2 · Source Serif 4 600</div>
+        <p class="specimen t-h2">Install the ops layer your intuition deserves.</p>
+      </div>
+      <div class="type-row">
+        <div class="label">Body · IBM Plex Sans 400</div>
+        <p class="specimen t-body">Five days. Fixed price. Working system at the end of it. Voice-trained to the brand you built, handed over with a runbook your team can read.</p>
+      </div>
+      <div class="type-row">
+        <div class="label">Data · IBM Plex Mono 400</div>
+        <p class="specimen t-mono">£1,497 · 5-day sprint · 340 → 40 tickets / week</p>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="s">Marks</h2>
+      <div class="asset-grid">
+        <div class="asset"><img src="04-logos/wordmark-primary-live.svg" alt="Primary"><span class="cap">Primary · Ink on Bone</span></div>
+        <div class="asset"><img src="04-logos/wordmark-lockup.svg" alt="Lockup"><span class="cap">Lockup · studio tagline</span></div>
+        <div class="asset ink"><img src="04-logos/wordmark-stacked.svg" alt="Stacked" style="filter: invert(1)"><span class="cap">Stacked · reversed on Ink</span></div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="s">Voice</h2>
+      <div class="voice">
+        <div class="col"><span class="tag do">Do · operator</span>
+          <p>"Five days. £1,497. Working system at the end of it."</p>
+          <p>"Your Gorgias queue is 340 tickets deep on Mondays."</p>
+        </div>
+        <div class="col"><span class="tag no">Don't · consultant</span>
+          <p>"Our comprehensive AI readiness audit delivers transformational insights."</p>
+          <p>"We unlock seamless, cutting-edge customer experience."</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="s">Hard rules</h2>
+      <div class="rules">
+        <div class="rule"><span class="n">01</span><p><strong>Studio, partner, or practice</strong> — never "AI agency."</p></div>
+        <div class="rule"><span class="n">02</span><p><strong>One ox-blood mark per asset.</strong> Default is Ink on Bone.</p></div>
+        <div class="rule"><span class="n">03</span><p><strong>Two typefaces per asset.</strong> Mono only for data.</p></div>
+        <div class="rule"><span class="n">04</span><p><strong>No</strong> gradients · shadows · emoji · hashtags · stock imagery · rounded corners above 2 px.</p></div>
+        <div class="rule"><span class="n">05</span><p><strong>UK English throughout.</strong> £ before the number, no decimals on round figures.</p></div>
+        <div class="rule"><span class="n">06</span><p><strong>Locked hero tagline</strong> — "AI operations for DTC founders, by an ex-DTC founder."</p></div>
+        <div class="rule"><span class="n">07</span><p><strong>Refused vocabulary:</strong> transformation · synergy · unlock · seamless · leverage (v.) · game-changer · cutting-edge · revolutionary · AI-powered.</p></div>
+        <div class="rule"><span class="n">08</span><p><strong>Banned CTAs:</strong> "Click here" · "Learn more" · "Get started" · "Sign up" · "Submit". Replace with a specific action naming a specific outcome.</p></div>
+      </div>
+    </section>
+  </div>
+
+  <footer class="inv">
+    <div class="row">
+      <div class="wm">Urso <span class="amp">&amp;</span> Co</div>
+      <div class="meta">
+        Brand kit v1.5 · 2026-04-22<br>
+        UK GDPR, PECR, EU AI Act posture from day one · ICO-registered<br>
+        <a href="mailto:studio@ursoandco.co.uk">studio@ursoandco.co.uk</a> · Companies House #16980197
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

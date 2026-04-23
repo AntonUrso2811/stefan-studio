@@ -1,0 +1,223 @@
+/* ============================================================
+   Urso & Co — Colour + Type Foundation
+   Source of truth: urso-brand-handoff/outputs/colour + typography
+   Default pairing: Ink on Bone. One Ox-blood mark per asset.
+   ============================================================ */
+
+/* --- Fonts ---
+   IBM Plex Sans + Mono: Google Fonts (OFL, IBM) — @import must come first
+   Source Serif 4: self-hosted variable (OFL, Adobe)                     */
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap");
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("../03-fonts/SourceSerif4-VariableFont_opsz_wght.ttf") format("truetype-variations"),
+       url("../03-fonts/SourceSerif4-VariableFont_opsz_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("../03-fonts/SourceSerif4-Italic-VariableFont_opsz_wght.ttf") format("truetype-variations"),
+       url("../03-fonts/SourceSerif4-Italic-VariableFont_opsz_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  /* ---------- Colour tokens (locked palette) ---------- */
+  --ink:      #0f1114;   /* primary text, wordmark */
+  --bone:     #f6f2eb;   /* default page ground */
+  --ox-blood: #5b1e24;   /* the single accent */
+  --stone:    #c4bdb4;   /* structural utility */
+
+  /* Functional (map to tokens; never introduce new hex) */
+  --fg-1:        var(--ink);     /* body + headings */
+  --fg-2:        var(--stone);   /* captions on ink grounds */
+  --bg-page:     var(--bone);
+  --bg-inverse:  var(--ink);
+  --accent:      var(--ox-blood);
+  --rule:        var(--stone);   /* hairlines */
+
+  /* Hover — functional state only, not a palette colour */
+  --accent-hover: #7a3b42;
+
+  /* ---------- Type families ---------- */
+  --font-serif: "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
+  --font-sans:  "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono:  "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+
+  /* ---------- Modular scale (1.250 major third, base 16px) ---------- */
+  --size-hero:    4.5rem;   /* 72 */
+  --size-h1:      3rem;     /* 48 */
+  --size-h2:      2.25rem;  /* 36 */
+  --size-h3:      1.75rem;  /* 28 */
+  --size-h4:      1.375rem; /* 22 */
+  --size-h5:      1.125rem; /* 18 */
+  --size-h6:      1rem;     /* 16 */
+  --size-body:    1rem;
+  --size-body-lg: 1.25rem;  /* 20 — lead paragraph */
+  --size-body-sm: 0.875rem; /* 14 */
+  --size-caption: 0.8125rem;/* 13 */
+  --size-mono:    0.9375rem;/* 15 — 1 step below sans body */
+
+  /* ---------- Line-heights ---------- */
+  --lh-display:   1.08;
+  --lh-heading:   1.15;
+  --lh-heading-sm:1.30;
+  --lh-body:      1.55;
+  --lh-editorial: 1.65;
+
+  /* ---------- Letter-spacing ---------- */
+  --tr-hero: -0.02em;
+  --tr-h1:   -0.015em;
+  --tr-h2:   -0.01em;
+  --tr-h3:   -0.005em;
+  --tr-label: 0.06em;   /* H6 uppercase */
+
+  /* ---------- Spacing rhythm (rarely deviate) ---------- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --space-9: 6rem;
+
+  /* ---------- Structure ---------- */
+  --rule-hairline: 1px solid var(--stone);
+  --measure: 68ch;            /* 60–75ch, body copy target */
+  --content-max: 68rem;       /* ~1088px — narrow, editorial */
+}
+
+/* ============================================================
+   Semantic base — applied directly to tags.
+   Importing colors_and_type.css gives you the brand for free.
+   ============================================================ */
+
+html, body {
+  background: var(--bg-page);
+  color: var(--fg-1);
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--size-body);
+  line-height: var(--lh-body);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--fg-1);
+  margin: 0 0 var(--space-3) 0;
+  text-wrap: balance;
+}
+
+h1 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: var(--size-h1);
+  line-height: var(--lh-heading);
+  letter-spacing: var(--tr-h1);
+}
+h2 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: var(--size-h2);
+  line-height: var(--lh-heading);
+  letter-spacing: var(--tr-h2);
+}
+h3 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: var(--size-h3);
+  line-height: var(--lh-heading-sm);
+  letter-spacing: var(--tr-h3);
+}
+h4 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: var(--size-h4);
+  line-height: var(--lh-heading-sm);
+}
+h5 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: var(--size-h5);
+  line-height: var(--lh-heading-sm);
+}
+h6 {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: var(--size-h6);
+  line-height: 1.4;
+  text-transform: uppercase;
+  letter-spacing: var(--tr-label);
+}
+
+p {
+  max-width: var(--measure);
+  margin: 0 0 var(--space-4) 0;
+  text-wrap: pretty;
+}
+
+.lead { font-size: var(--size-body-lg); line-height: 1.5; }
+.caption { font-size: var(--size-caption); line-height: 1.5; letter-spacing: 0.005em; color: var(--fg-2); }
+
+small { font-size: var(--size-body-sm); }
+
+code, kbd, samp, pre {
+  font-family: var(--font-mono);
+  font-size: var(--size-mono);
+  font-feature-settings: "tnum" 1, "zero" 1;
+}
+
+/* Links — colour carries the signal; no underline by default.
+   (One ox-blood mark per asset rule — use judiciously.)       */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 120ms ease, border-color 120ms ease;
+}
+a:hover, a:focus-visible {
+  color: var(--accent-hover);
+  border-bottom-color: currentColor;
+}
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Hairlines */
+hr {
+  border: 0;
+  border-top: var(--rule-hairline);
+  margin: var(--space-6) 0;
+}
+
+/* Tabular numbers wherever numbers line up in columns */
+table, .tabular { font-variant-numeric: tabular-nums; }
+
+/* Mono — data cadence, never prose */
+.mono { font-family: var(--font-mono); font-size: var(--size-mono); }
+
+/* Utility — "one ox-blood mark" markers */
+.amp-accent { color: var(--accent); font-style: italic; font-family: var(--font-serif); }
+.rule-accent { border-top-color: var(--accent); }
+
+/* Selection — paper register */
+::selection { background: var(--ink); color: var(--bone); }
+
+/* Editorial long-form body (opt-in; replaces Plex Sans with Source Serif 4 body) */
+.editorial { font-family: var(--font-serif); font-size: 1.125rem; line-height: var(--lh-editorial); font-variation-settings: "opsz" 14; }
+
+/* Optical-size tuning for Source Serif 4 (variable font, opsz 8–60).
+   Display sizes get a larger opsz so the cut gets tighter + sharper;
+   body-size serif gets a smaller opsz for comfortable reading.          */
+h1, h2 { font-variation-settings: "opsz" 48; }
+h3     { font-variation-settings: "opsz" 32; }
+.hero-serif, .display { font-variation-settings: "opsz" 60; }

@@ -1,0 +1,28 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>One-mark rule</title><link rel="stylesheet" href="_card.css"></head><body>
+<style>
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .ex { padding: 16px; border: 1px solid var(--stone); min-height: 160px; position: relative; }
+  .ex .tag { position: absolute; top: 10px; right: 12px; font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; }
+  .ex .tag.ok { color: var(--ink); }
+  .ex .tag.no { color: var(--ox-blood); }
+  .ex h4 { font-family: var(--font-serif); font-weight: 600; font-size: 22px; margin: 12px 0 8px; letter-spacing: -0.01em; }
+  .ex p { font-size: 13px; line-height: 1.5; margin: 0; color: var(--ink); max-width: none; }
+  .ex a { color: var(--ink); border-bottom: 0; }
+  .ex a.accent { color: var(--ox-blood); }
+  .ex h4 .amp { font-style: italic; }
+  .ex h4 .amp.accent { color: var(--ox-blood); }
+</style>
+<div class="row2">
+  <div class="ex">
+    <span class="tag ok">one mark</span>
+    <h4>Urso <span class="amp accent">&amp;</span> Co</h4>
+    <p>Audit · £1,497. Five days. Working system at the end of it. <a href="#">Read the brief</a>.</p>
+  </div>
+  <div class="ex">
+    <span class="tag no">two marks</span>
+    <h4>Urso <span class="amp accent">&amp;</span> Co</h4>
+    <p style="color:#5b1e24">Audit · £1,497.</p>
+    <p>Five days. Working system. <a href="#" class="accent">Read the brief</a>.</p>
+  </div>
+</div>
+</body></html>

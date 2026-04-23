@@ -1,0 +1,13 @@
+<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><title>Wordmark</title><link rel="stylesheet" href="_card.css"></head><body>
+<style>
+  .mark { height: 100px; display: flex; align-items: center; justify-content: center; border: 1px solid var(--stone); background: var(--bone); padding: 16px; }
+  .dark { background: var(--ink); border-color: var(--ink); }
+  img { max-height: 56px; width: auto; display: block; }
+  .label { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.65; margin-bottom: 6px; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+</style>
+<div class="row2">
+  <div><div class="label">Primary · ink on bone</div><div class="mark"><img src="../assets/wordmark-primary.svg" alt="Urso &amp; Co"></div></div>
+  <div><div class="label">Primary · bone on ink</div><div class="mark dark"><img src="../assets/wordmark-primary.svg" alt="Urso &amp; Co" style="filter:invert(1)"></div></div>
+</div>
+</body></html>
