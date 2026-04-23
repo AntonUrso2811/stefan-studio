@@ -14,95 +14,7 @@ lede: "Forget everything the fitness industry has told you about eating."
 next_step: "Eat like someone who respects his body. The rest takes care of itself."
 ---
 
-## Summary
-
-Nutrition without the calorie-counting obsession. A plate-based visual framework, a protein floor, and a kitchen-first mentality. Built on five principles: quality over quantity, protein as priority, intuition over obsession, sustainability over perfection, no demonisation of food groups.
-
-## Content map
-
-- The Apollo Nutrition Philosophy — the five operating principles
-- The Apollo Plate Method — the visual framework for every meal
-- Hit Your Protein Floor — the one target to focus on if you focus on nothing else
-- Building Your Kitchen — setup for home-cooked consistency
-- Kitchen Audit — removing the processed friction
-- Standard List — Quality and Variety (accessible pricing)
-- Premium List — Optimal Quality (higher-end sourcing)
-- Eating Out and Travel — maintaining standards without rigidity
-- Supplements — What's Worth It
-- Nutrition Summary and Implementation
-
-## Frameworks / protocols
-
-**The Five Nutrition Principles**
-1. Quality over quantity — composition matters more than obsessive calorie counting
-2. Protein as the priority — highest-return macronutrient (muscle, satiety, thermic effect)
-3. Intuition over obsession — tracking is a learning tool, not an end state
-4. Sustainability over perfection — any diet you can't maintain for years is a waste
-5. No demonisation of food groups — carbs aren't evil, fat isn't evil, the dose makes the poison
-
-**The Apollo Plate Method**
-- **Protein** — 1/4 to 1/3 of plate. Palm-size portion, every meal (~30–50g). Beef, chicken, pork, lamb, fish, seafood, eggs, Greek yogurt, cottage cheese.
-- **Vegetables & Fruits** — 1/3 to 1/2 of plate. Prioritise variety and colour. Leafy greens, cruciferous, peppers, tomatoes, onions, mushrooms, carrots, zucchini. Berries are nutrient-dense.
-- **Carbohydrates** — 1/4 of plate (flex by activity). Rice, potatoes, sweet potatoes, oats, quinoa, whole-grain bread/pasta. Fist-size on training days; reduce on rest.
-- **Fats** — incorporated naturally from protein sources and cooking methods. Olive oil, butter, ghee, avocado, nuts, seeds, fatty fish, whole eggs, cheese.
-
-**The Non-Negotiables**
-- No ultra-processed foods as meal staples
-- No seed oils
-- No added sugars in main meals
-- No artificial ingredients you can't pronounce
-
-**Protein Floor** — 0.8–1g per pound of bodyweight daily (≈140–176g for an 80kg man). Spread across 3–4 meals, 30–50g per meal. This is a floor, not a ceiling.
-
-**Reference protein amounts** — 3–4 eggs = 18–24g · 200g chicken breast = 40g · 200g beef = 40–45g · 200g salmon = 40g · 250g Greek yogurt = 25g.
-
-**Action Items (Week's implementation)**
-1. Audit your kitchen — remove processed junk; stock quality proteins, vegetables, whole-food carbs
-2. Track protein for 5 days — just protein, not everything
-3. Practice the Plate Method at every main meal
-4. Drink 2–3 litres of water daily
-
-## Visual callouts
-
-- The Apollo Plate — four-section circular visual (protein / veg-fruit / carb / fat-natural)
-- Standard vs Premium shopping lists — two-column grid with hero items
-- Protein reference card — quick-lookup grid of common foods + grams
-- Non-Negotiables list — "no X" badge set
-
-## Full body
-
-(FOUNDATIONS)
-
-  • The Apollo Nutrition Philosophy - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-  • The Apollo Plate Method - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-  • Hit Your Protein Floor - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-   (FOUNDATIONS)
-
-   (FOUNDATIONS)
-
-  • Building Your Kitchen - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-  • KITCHEN AUDIT - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-   (FOUNDATIONS)
-
-  • STANDARD LIST — Quality and Variety - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-  • PREMIUM LIST — Optimal Quality - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-  • Eating Out and Travel - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-  • Supplements — What's Worth It - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
-   (FOUNDATIONS)
-
-  • Nutrition Summary and Implementation - APOLLO NUTRITION FRAMEWORK (FOUNDATIONS)
-
 The Apollo Nutrition Philosophy
-FRAMEWORK (FOUNDATIONS)
 Forget everything the fitness industry has told you about eating.
 
 You don't need to weigh your chicken breast to the gram. You don't need to track every calorie in an
@@ -151,7 +63,6 @@ It worked for generations.
 It still works now.
 
 The Apollo Plate Method
-FRAMEWORK (FOUNDATIONS)
 You don't need to count calories. You need to see your plate.
 
 The Apollo Plate Method is a visual framework for building meals that support your goals without
@@ -229,7 +140,6 @@ cooking with quality fats?
 If yes to all four, you're eating well. Do this for 90% of your meals, and the results will follow.
 
 Hit Your Protein Floor
-(FOUNDATIONS)
 If you only focus on one nutritional target, make it protein.
 
 Protein is the most important macronutrient for body composition. It builds and repairs muscle
@@ -369,7 +279,6 @@ ScienceDirect — Effects of Varying Protein Amounts on Diet-Induced Thermogenes
   • https://www.sciencedirect.com/science/article/pii/S2161831324001662
 
 Eating Structure — When and How Often
-NUTRITION FRAMEWORK (FOUNDATIONS)
 Meal timing is less important than the internet wants you to believe. But structure still matters.
 
 You don't need to eat every three hours to "stoke your metabolism." That's a myth. You also don't
@@ -443,7 +352,6 @@ work. The principles matter more than the specific schedule.
    Grocery Shopping
 
 Food Quality — What to Eat and What to Avoid
-NUTRITION FRAMEWORK (FOUNDATIONS)
 Not all calories are created equal. The source of your food matters as much as the quantity.
 
 The Apollo approach is simple: eat foods that existed 100 years ago. If your great-great-grandfather
@@ -556,7 +464,6 @@ Rigid perfection isn't the goal.
 Consistent quality is.
 
 Building Your Kitchen
-(FOUNDATIONS)
 You can't eat well if your kitchen is stocked poorly. What you buy determines what you eat.
 
 This lesson gives you practical shopping lists at three budget levels. Use them as templates and
@@ -575,7 +482,6 @@ Buy what you'll actually eat. The healthiest food in the world is useless if it 
 realistic about your cooking habits and preferences.
 
 KITCHEN AUDIT
-(FOUNDATIONS)
 Before your next shopping trip, clean out your kitchen.
 
 Remove:
@@ -595,7 +501,6 @@ Remove:
 If it's not in your house, you won't eat it. Make the healthy choice the easy choice.
 
 BUDGET LIST — Essential and Economical
-NUTRITION FRAMEWORK (FOUNDATIONS)
 Proteins:
 
   • Eggs (buy in bulk — cheapest quality protein available)
@@ -643,7 +548,6 @@ Fats:
   • Butter
 
 STANDARD LIST — Quality and Variety
-FRAMEWORK (FOUNDATIONS)
 Everything from the Budget List, plus:
 
 Proteins:
@@ -703,7 +607,6 @@ Extras:
   • Quality dark chocolate (85%+)
 
 PREMIUM LIST — Optimal Quality
-FRAMEWORK (FOUNDATIONS)
 Everything from the Standard List, with upgrades:
 
 Proteins:
@@ -753,7 +656,6 @@ Extras:
   • Specialty items (bone marrow, etc.)
 
 Eating Out and Travel
-(FOUNDATIONS)
 Real life doesn't happen in a controlled kitchen. You'll eat at restaurants. You'll travel. You'll attend
 social events. The Apollo approach works everywhere, you just need to know how to adapt.
 
@@ -818,7 +720,6 @@ At parties and gatherings:
 The goal is to make good choices easy and automatic, not to be inflexible or antisocial.
 
 Supplements — What's Worth It
-FRAMEWORK (FOUNDATIONS)
 Supplements are exactly what the name implies - supplemental. They fill gaps. They don't replace a
 solid diet, and they won't fix a broken one.
 
@@ -1000,7 +901,6 @@ ScienceDirect — Reviewing Evidence on Vitamin D and Testosterone:
     supplementation effects are mixed, but correcting deficiency is important for overall health.
 
 Body Composition — Losing Fat, Building Muscle
-NUTRITION FRAMEWORK (FOUNDATIONS)
 Understanding how body composition actually works gives you control over your results.
 
 THE FUNDAMENTAL EQUATION:
@@ -1088,7 +988,6 @@ Don't obsess over bulk/cut cycles until you've built a foundation.
 Just execute the basics and let your body adapt.
 
 Nutrition Summary and Implementation
-NUTRITION FRAMEWORK (FOUNDATIONS)
 Here's everything you need to execute Apollo Nutrition in Phase 1:
 
 THE NON-NEGOTIABLES:

@@ -1,16 +1,4 @@
-• Intro - The Integrated Life
-
-  • Environment Design - The Integrated Life
-
-  • Systems Over Goals - The Integrated Life
-
-  • Energy and Time Management - The Integrated Life
-
-  • Travel and Lifestyle Maintenance - The Integrated Life
-
-  • The Apollo Lifestyle - The Integrated Life
-
-Intro - The Integrated Life
+Intro
 You have spent the last ninety-plus days building a body, optimising your health, and developing
 habits that most men will never adopt. The question now is: how do you sustain this?
 
@@ -20,7 +8,7 @@ This module is about designing a life that makes excellence automatic. Environme
 energy management, and the ability to maintain your protocols anywhere in the world. This is where
 the programme stops being a programme and becomes how you live.
 
-Environment Design - The Integrated Life
+Environment Design
 > You are a product of your environment more than you are a product of your willpower.
 
 The Apollo Environment Audit:
@@ -93,7 +81,7 @@ Examples:
 
   • Put the book you are reading on your pillow → lower friction for reading before sleep
 
-Systems Over Goals - The Integrated Life
+Systems Over Goals
 Goals tell you where you want to go. Systems get you there. And once you arrive, systems keep you
 there while goals leave you directionless.
 
@@ -169,7 +157,7 @@ Rewire your defaults: default meal when you have not planned is [insert your go-
 Default activity when bored is reading or walking. Default evening activity is something restorative,
 not stimulating.
 
-Energy and Time Management - The Integrated Life
+Energy and Time Management
 > You have two finite resources: energy and time. Every person, system, and commitment in your
 life either adds to these or drains them. Most men never audit this and wonder why they feel
 perpetually depleted.
@@ -230,7 +218,7 @@ Every Sunday evening, review the week:
 go off track for more than a few days. The men who do not review can lose months before realising
 they have slipped.
 
-Travel and Lifestyle Maintenance - The Integrated Life
+Travel and Lifestyle Maintenance
 Travel is where most men abandon everything they have built. The routine breaks, the food changes,
 the sleep shifts, and within a week they have lost momentum that takes another week to rebuild.
 
@@ -296,7 +284,7 @@ Your standards do not take holidays. You can enjoy travel, food, experiences, re
 abandoning everything you have built. The man who maintains 80% adherence while travelling
 returns home with momentum. The man who abandons everything returns to square one.
 
-The Apollo Lifestyle - The Integrated Life
+The Apollo Lifestyle
 > This is not a programme you finish. It is an operating system you run for the rest of your life.
 
 Every module in every phase connects. Training supports hormonal health. Nutrition supports gut

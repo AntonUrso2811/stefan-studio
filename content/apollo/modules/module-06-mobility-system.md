@@ -14,54 +14,6 @@ lede: "A strong man who cannot move well is not capable. He is a liability waiti
 next_step: "Mobility is earned through consistent practice, not occasional attention. Start today."
 ---
 
-## Summary
-
-Mobility is active control through range of motion — strength at the end ranges where injuries actually happen. The module targets the three restrictions 80% of men share (hips, thoracic spine, ankles) with pre-training, post-training, and dedicated daily flows.
-
-## Content map
-
-- Mobility Philosophy — active control, not passive stretching
-- The Big Three Restrictions — hips, thoracic, ankles
-- Pre-Training Protocol (5–10 minutes) — dynamic stretching + activation
-- Post-Training Protocol (5–10 minutes) — static stretching at optimal timing
-- Dedicated Mobility Sessions (10–15 minutes) — the Apollo Daily Flow + foam rolling
-- Pattern-Specific Mobility — lower body / upper body / full body day additions
-- Mobility Summary + Action Items
-
-## Frameworks / protocols
-
-**The Big Three Restrictions** — address these and you solve 80% of movement issues.
-1. **Hip Flexors and Hip Capsule** — shortened by sitting; cause lower back pain + squat depth issues
-2. **Thoracic Spine** — locks from desk work; forces lumbar + shoulder compensation
-3. **Ankles** — dorsiflexion limits squat depth and single-leg stability
-
-**Pre-Training Protocol** — dynamic (never static before training). Hip circles, leg swings, World's Greatest Stretch, cat-cow, arm circles, band pull-aparts. Activation: glute bridges (15), dead bugs (10/side), light jumps (10).
-
-**Post-Training Protocol** — static holds 45–60s each. Hip flexor stretch, pigeon/90-90, hamstring stretch, lat stretch, chest/pec stretch, child's pose with reach.
-
-**The Apollo Daily Flow** — 15-minute daily sequence.
-1. 90-90 Hip Switches — 10/side
-2. Deep Squat Hold — 2 minutes accumulated
-3. Thoracic Rotations — 10/side
-4. Wall Slides — 15 reps
-5. Couch Stretch — 45–60s/side
-6. Banded Ankle Mobilisation — 20 oscillations/side
-
-**Pattern-Specific Additions**
-- Lower body day: deep squat holds, cossack squat transitions, ankle band work, adductor rocks
-- Upper body day: thoracic extensions, wall slides, shoulder circles, prone Y-T-W raises
-- Full body day: complete pre-training protocol, no omissions
-
-**Weekly Targets** — two dedicated mobility sessions (10–15 min each) + daily pre/post/flow non-negotiables.
-
-## Visual callouts
-
-- Big Three Restrictions diagram — body map highlighting hip / thoracic / ankle
-- Daily Flow sequence — six-step visual with reps/time per step
-- Pre-training vs post-training comparison card (dynamic vs static)
-
-## Full body
-
 Mobility Philosophy
 A strong man who cannot move well is not capable. He is a liability waiting to happen.
 

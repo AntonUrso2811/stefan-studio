@@ -4,10 +4,15 @@ Version history for the Apollo integration prompts. **Never overwrite** — bump
 
 ## session-a-module-load
 
-### v1 — 2026-04-23
-- Initial release. Loads 20 Apollo modules into phased-unlock library IA (Onboarding → Phase 1 Foundation → Phase 2 Integration → Phase 3 Mastery). Chunked into 4 sub-sessions (A.0 scaffolding + MOA_01, A.1 Foundation Protocol tier, A.2 Integration Community, A.3 Mastery Community).
-- Module source: GitHub raw URLs primary, inline markdown fallback.
-- Driver: Anton, end-to-end. No Stefan touch-points between chunks.
+### v2 — 2026-04-23 (current)
+- **Word-for-word extraction.** Stefan confirmed the intent is verbatim module content — no editorial restructuring. Module files rebuilt to frontmatter + cleaned body only (stripped the `## Summary` / `## Content map` / `## Frameworks / protocols` / `## Visual callouts` / `## Full body` scaffold that v1 introduced).
+- Session A prompt rewritten: Lovable renders each module body exactly as-is, with frontmatter driving card metadata, phase gating, and next-step CTA. Explicit "do not rewrite" constraints.
+- Phase architecture corrected to four phases (Phase 3 = MOA_14–18, Phase 4 = MOA_19–20) per MOA_01's "Phase 4 at Day 90" reference.
+- QA checklist v2 lead with a verbatim spot-check as the primary gate.
+
+### v1 — 2026-04-23 (superseded)
+- Initial release with `## Summary` / `## Content map` / `## Frameworks / protocols` / `## Visual callouts` / `## Full body` scaffold. Stefan's feedback: "literally implemented word-for-word, for the exact content to be extracted" — the editorial layer was unnecessary.
+- Kept in repo history only; v2 supersedes.
 
 ## session-b-feedback-fixes
 

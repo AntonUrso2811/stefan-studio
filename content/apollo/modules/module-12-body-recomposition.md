@@ -14,68 +14,7 @@ lede: "Body recomposition is the holy grail — building muscle while losing fat
 next_step: "No more guessing. No more following generic advice that does not apply to you."
 ---
 
-## Summary
-
-The decision framework for changing your physique — when recomp actually works, when to cut, when to bulk. Built around body-fat percentage, training age, and specific goals. Gives the precise caloric and macronutrient targets for each path, plus a realistic expectations guide so members stop chasing results that don't match their situation.
-
-## Content map
-
-- Introduction — the framework, not another generic plan
-- The Three Paths — Recomposition / Cutting / Bulking
-- When Recomposition Works — beginners, returning lifters, overfat individuals
-- When to Cut
-- When to Bulk
-- The Decision Flowchart — 4 questions to pick your path
-- Realistic Expectations — fat loss rates, muscle gain rates, recomp rates
-- The Recomp Equation — threading the needle
-- Caloric Targets for Recomp — three options (maintenance / slight deficit / calorie cycling)
-- Protein: The Non-Negotiable (2.0–2.4g/kg)
-- The Cutting Protocol — deficit, pacing, refeeds, cardio role
-- The Bulking Protocol — surplus size, timing, fat gain expectations
-- Training During Each Phase
-- Tracking Progress — scale, measurements, photos, performance
-- Common Mistakes and Corrections
-
-## Frameworks / protocols
-
-**The Three Paths**
-- **Recomposition** — build muscle and lose fat simultaneously; eat around maintenance, train hard
-- **Cutting** — prioritise fat loss; caloric deficit, preserve muscle via training and protein
-- **Bulking** — prioritise muscle gain; caloric surplus, maximise hypertrophy
-
-**Recomp Works Best For** — three situations
-1. Beginners (first 1–2 years of proper training) — newbie gains window
-2. Returning lifters — muscle memory allows simultaneous fat loss during regain
-3. Overfat beginners/intermediates (20–25%+ body fat) — stored energy supports muscle building
-
-**The Decision Flowchart — 4 questions**
-1. What is your current body fat percentage? (Over 20% cut first · 15–20% either · Under 15% bulk or recomp)
-2. How long training consistently? (Under 1y recomp viable · 1–2y either · Over 2y dedicated phases)
-3. Primary goal right now? (Look better fast → cut or bulk · Max muscle → bulk or cut first · Gradual improvement → recomp)
-4. Specific deadline? (Yes → dedicated approach · No → recomp viable)
-
-**Realistic Rates**
-- Fat loss: aggressive 0.75–1% bodyweight/week · moderate 0.5–0.75% · conservative 0.25–0.5% (for 80kg = 0.4–0.8kg/week)
-- Muscle gain (trained, natural): beginner 0.5–1kg/month · intermediate 0.25–0.5kg/month · advanced 0.1–0.25kg/month
-- Recomp: slower than dedicated; expect 0.25–0.5kg muscle AND 0.25–0.5kg fat loss per month. Scale may not move — track with measurements and photos.
-
-**The Recomp Equation — caloric options**
-1. **Maintenance calories** — best for higher body fat (18%+); energy for muscle building comes from fat stores
-2. **Slight deficit (10–15% below maintenance)** — best for beginners + moderate body fat
-3. **Calorie cycling** — higher on training days, lower on rest; weekly average at or slightly below maintenance
-
-**Protein Floor for Recomp — 2.0–2.4g/kg bodyweight** — not optional; 80kg man = 150–180g daily.
-
-## Visual callouts
-
-- Decision Flowchart — 4-question visual branching to Cut/Recomp/Bulk
-- Body-fat ranges card — visual ranges with recommended path
-- Realistic rates table — fat loss + muscle gain + recomp targets
-- Calorie cycling weekly grid — training vs rest day targets
-
-## Full body
-
-Recomp vs Cut vs Bulk - The Decision Framework
+Recomp vs Cut vs Bulk
 
 Introduction
 You have the training knowledge. You have the nutrition tools. You understand recovery. Now we

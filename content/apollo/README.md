@@ -7,18 +7,25 @@ Source of truth for Stefan's **Apollo** course content — 20 modules across 4 p
 ```
 content/apollo/
 ├── README.md                               # this file
-├── modules/                                # 20 module markdown + program index
-├── source-pdfs/                            # PDF originals + .txt extractions (inputs)
+├── modules/                                # 20 module markdown (frontmatter + verbatim body) + index
+├── source-pdfs/                            # PDF originals + .txt extractions + cleaned bodies
 ├── lovable/                                # Lovable handover package
 │   ├── CHANGELOG.md                        # prompt version history
-│   ├── session-a-module-load.v1.md         # Session A: 20-module load
+│   ├── session-a-module-load.v2.md         # Session A (current): 20-module verbatim load
+│   ├── session-a-module-load.v1.md         # Session A v1 (superseded — see CHANGELOG)
 │   ├── session-b-feedback-fixes.v1.md      # Session B: 3 feedback fixes
 │   ├── qa-checklist-session-a.md
 │   ├── qa-checklist-session-b.md
 │   └── pre-integration-snapshot/           # pre-change state (rollback baseline)
 └── scripts/
-    └── extract-moa-pdfs.sh                 # PDF → .txt extractor (run once)
+    ├── extract-moa-pdfs.sh                 # PDF → .txt extractor (pdftotext wrapper)
+    ├── txt-to-body.py                      # .txt → clean markdown (strips PDF boilerplate)
+    └── rebuild-modules.py                  # rebuilds each module from frontmatter + cleaned body
 ```
+
+## Module file shape
+
+Each module file is minimal: YAML frontmatter for metadata (title, phase, tier, lede, next_step, etc.) followed by Stef's verbatim course content, cleaned of PDF artefacts (headers, watermarks, pagination, TOC entries). **No editorial distillation** — the frontmatter drives Lovable's card / navigation / tier-gating, the body renders as-is on the module page.
 
 ## Authoritative direction
 

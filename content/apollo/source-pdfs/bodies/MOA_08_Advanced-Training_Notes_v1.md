@@ -415,8 +415,6 @@ takes weeks to escape.
 Action
  • Understand your week structure: identify which day is heavy, moderate, and light
 
- • Mark your deload weeks on the calendar now - Week 4 and Week 8
-
  • Set RPE targets for each session type and track them
 
  • Commit to taking de-loads as programmed, regardless of how you feel
@@ -477,7 +475,7 @@ The Exercise Hierarchy
 Not all exercises are equal. Some should form the foundation of every program. Others play
 supporting roles. Understanding this hierarchy prevents you from majoring in minors.
 
-Tier 1 - Primary Compounds
+Tier 1
 These are your foundation. Multi-joint movements that load heavy and drive the most adaptation.
 They should receive priority in your programming - trained first when fresh, tracked most carefully,
 progressed most consistently.
@@ -496,7 +494,7 @@ Pull: Pull-ups, chin-ups, lat pulldown
 
 Every program should include at least one exercise from each category. These are non-negotiable.
 
-Tier 2 - Secondary Compounds
+Tier 2
 Movements that support the primary lifts. They build muscle in patterns that transfer to Tier 1
 movements and address areas that primary lifts miss.
 
@@ -509,7 +507,7 @@ Upper Pull: Cable rows, face pulls, Meadows rows, single-arm work
 These add volume to muscle groups without the systemic fatigue of primary compounds. They also
 address unilateral balance and target specific weak points.
 
-Tier 3 - Isolation Work
+Tier 3
 Single-joint movements for targeted development. They add volume to specific muscles without
 significant systemic fatigue.
 
@@ -647,7 +645,7 @@ Exercise Variation and Hypertrophy
 
  • https://pubmed.ncbi.nlm.nih.gov/24832974/
 
-EMG Analysis of Exercise Variations - Chest
+EMG Analysis of Exercise Variations
 
  • Rodríguez-Ridao D et al. (2020) - "Effect of Five Bench Inclinations on the Electromyographic
    Activity of the Pectoralis Major, Anterior Deltoid, and Triceps Brachii during the Bench Press
@@ -655,7 +653,7 @@ EMG Analysis of Exercise Variations - Chest
 
  • https://pmc.ncbi.nlm.nih.gov/articles/PMC7449787/
 
-EMG Analysis - Back Exercises
+EMG Analysis
 
  • Lehman GJ et al. (2004) - "Variations in muscle activation levels during traditional latissimus
    dorsi weight training exercises"
@@ -955,7 +953,7 @@ like you could continue for hours.
 
 If you are breathing hard, you are out of Zone 2.
 
-Zone 3/4 - Tempo and Threshold Work
+Zone 3/4
 Uncomfortable but sustainable. You can speak in short sentences but not hold a conversation. This
 builds work capacity and improves your body's ability to clear lactate.
 
@@ -989,7 +987,7 @@ Example Tempo Session:
 
   • Should feel challenging to maintain but not all-out
 
-Zone 5 - High Intensity
+Zone 5
 Near-maximum effort. You cannot speak. This is true HIIT - not the 45-minute "HIIT classes" that are
 actually moderate steady-state with rest periods.
 
@@ -1176,8 +1174,6 @@ Zone 2 Training and Mitochondrial Function
   • https://pubmed.ncbi.nlm.nih.gov/29344627/
 
 Peter Attia / Inigo San Millan Zone 2 Discussion
-
-  • The Drive Podcast - Zone 2 Training Guide
 
   • https://peterattiamd.com/inigosanmillan/
 
@@ -1432,7 +1428,7 @@ Muscle Imbalances and Injury Risk
 
  • https://pubmed.ncbi.nlm.nih.gov/18923112/
 
-Targeted Hypertrophy - Regional Muscle Growth
+Targeted Hypertrophy
 
  • Wakahara T et al. (2012) - "Association between regional differences in muscle activation in one
    session of resistance exercise and in muscle hypertrophy after resistance training"
@@ -1502,13 +1498,11 @@ OPTION A: 4-DAY UPPER/LOWER SPLIT
 
   • Sunday: Rest or Active Recovery
 
-   WEEK 4 DELOAD
-
 ACCUMULATION (Weeks 1-4)
 Focus: Higher volume, moderate intensity, technique refinement, muscle growth RPE Target: 7-8 on
 working sets Week 4: De-load
 
-Day 1 - Upper Heavy
+Day 1
 
 1. Barbell Bench Press
 
@@ -1554,7 +1548,7 @@ Day 1 - Upper Heavy
 
  • Rest: 60 seconds
 
-Day 2 - Lower Heavy
+Day 2
 
 1. Back Squat
 
@@ -1594,7 +1588,7 @@ Day 2 - Lower Heavy
 
  • Rest: minimal between exercises, 60 seconds between rounds
 
-Day 4 - Upper Moderate
+Day 4
 
 1. Incline Dumbbell Press
 
@@ -1644,7 +1638,7 @@ Day 4 - Upper Moderate
 
  • Rest: 60 seconds
 
-Day 5 - Lower Moderate
+Day 5
 
 1. Leg Press (or Front Squat)
 
@@ -1703,8 +1697,6 @@ Same exercises, same frequency. Adjust as follows:
   • No intensity techniques
 
   • Keep conditioning to Zone 2 only
-
-   WEEK 8 DELOAD
 
 INTENSIFICATION (Weeks 5-8)
 Focus: Moderate volume, higher intensity, strength expression RPE Target: 8-9 on primary

@@ -1,4 +1,12 @@
-The Science of Fasting
+• 16:8 Protocol (Leangains)
+
+  • 18:6 Protocol
+
+  • 20:4 Protocol (Warrior Diet)
+
+  • 5:2 Protocol
+
+   The Science of Fasting
 
 Introduction
 You have heard about intermittent fasting. You have probably seen the claims - burn fat faster, live
@@ -164,7 +172,6 @@ Fat Oxidation During Fasting
 
 Ketone Production and Utilization
 
-  • Cahill GF Jr (2006) - "Fuel metabolism in starvation" - Classic paper on metabolic adaptation to
    fasting
 
   • https://pubmed.ncbi.nlm.nih.gov/16540911/
@@ -1071,19 +1078,19 @@ Hunger Adaptation to Meal Timing
 
   • https://pubmed.ncbi.nlm.nih.gov/31151228/
 
-Examine.com - Intermittent Fasting
+Examine.com
 
   • Comprehensive research summary on IF
 
   • https://examine.com/topics/intermittent-fasting/
 
-Peter Attia - Fasting Resources
+Peter Attia
 
   • Detailed discussions on fasting protocols and research
 
   • https://peterattiamd.com/tag/fasting/
 
-Huberman Lab - Fasting Episode
+Huberman Lab
 
   • Neuroscience perspective on fasting effects
 

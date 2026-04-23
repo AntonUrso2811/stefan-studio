@@ -16,7 +16,8 @@ import sys
 from pathlib import Path
 
 
-ALL_CAPS_SUFFIX = re.compile(r"^(.+?)\s+-\s+([A-Z][A-Z\s\-/&]+)$")
+SUFFIX_PATTERN = re.compile(r"^(.+?)\s+-\s+([A-Z][A-Za-z0-9\s\-/&()]+)$")
+CONNECTOR_WORDS = {"and", "of", "the", "in", "for", "on", "to", "a", "an", "with", "or", "&"}
 
 
 def is_boilerplate(line: str) -> bool:
@@ -47,32 +48,60 @@ def is_boilerplate(line: str) -> bool:
     # "Module NN of 20 • N lessons extracted"
     if re.match(r"^Module \d+ of 20\s*•\s*\d+ lessons extracted\s*$", s):
         return True
-    # TOC bullet lines (bullet point + dash + suffix)
-    if re.match(r"^•\s+.+\s+-\s+[A-Z][A-Z\s\-/&]+\s*$", s):
+    # TOC bullet lines — bullet + " - " + suffix that starts uppercase (ALL CAPS or Title Case).
+    # Length-capped to avoid accidentally stripping prose bullets that happen to use "X - Y Z".
+    if re.match(r"^•\s+[A-Z].+\s+-\s+[A-Z][A-Za-z0-9\s\-/&()]+\s*$", s) and len(s) < 120:
+        return True
+    # Standalone (ALLCAPS) parenthesised label — e.g. "(FOUNDATIONS)"
+    if re.match(r"^\(\s*[A-Z][A-Z0-9\s\-/&]+\s*\)\s*$", s):
         return True
     # Standalone page number
     if re.match(r"^\d{1,3}$", s):
         return True
-    # Stranded all-caps continuation lines (pdf title wraps).
-    # Allow: 1-3 words, all uppercase letters only (plus spaces), no punctuation.
-    # This catches "INITIATION", "SYSTEM", "FRAMEWORK" etc. that are orphaned from their module title.
-    # Preserves legit headers like "WEEK 1: RESET + RHYTHM" (has colon/plus → not matched).
-    if re.match(r"^[A-Z]{2,}(?: [A-Z]{2,}){0,2}$", s):
+    # Stranded all-caps title fragments (pdf wraps, header decorations).
+    # No lowercase, under 60 chars, only caps/digits/parens/dashes/slashes/ampersands/spaces.
+    # Catches: "INITIATION", "FRAMEWORK (FOUNDATIONS)", "APOLLO NUTRITION FRAMEWORK",
+    # "INITIATION WEEK 1", "PHASE 2 INTEGRATION" when stranded.
+    # Preserves legit headers like "WEEK 1: RESET + RHYTHM" (has ":" and "+" → not matched).
+    if (
+        len(s) <= 60
+        and re.match(r"^[A-Z0-9(]+(?:[\s()&\-/][A-Z0-9()]+)*$", s)
+        and not any(c.islower() for c in s)
+        and any(c.isalpha() for c in s)
+    ):
         return True
     return False
 
 
+def is_title_or_caps_suffix(suffix: str) -> bool:
+    """Return True if suffix is ALL CAPS or Title Case — i.e. a module/section name.
+
+    Permissive test: each word starts uppercase OR is a common connector word ("and", "of"...).
+    Rejects prose that just happens to start with a capital, because prose contains multiple
+    lowercase non-connector words in sequence.
+    """
+    # Quick accept: no lowercase at all
+    if not any(c.islower() for c in suffix):
+        return any(c.isupper() for c in suffix)
+    # Title-Case check: split on whitespace + common separators
+    words = [w for w in re.split(r"[\s/()&\-]+", suffix) if w]
+    if not words or len(words) > 8:
+        return False
+    for w in words:
+        if w.lower() in CONNECTOR_WORDS:
+            continue
+        if not w[0].isupper():
+            return False
+    return True
+
+
 def strip_caps_suffix(line: str) -> str:
-    """Strip trailing ' - SECTION NAME' where section name is all caps."""
+    """Strip trailing ' - Module Or Section Name' suffix (ALL CAPS or Title Case)."""
     s = line.rstrip()
-    m = ALL_CAPS_SUFFIX.match(s)
-    if m:
-        # Check if suffix is all caps (allowing spaces, dashes, slashes, ampersands)
-        suffix = m.group(2)
-        if suffix.replace(" ", "").replace("-", "").replace("/", "").replace("&", "").isupper():
-            base = m.group(1).rstrip()
-            # Recurse in case of nested caps suffixes
-            return strip_caps_suffix(base)
+    m = SUFFIX_PATTERN.match(s)
+    if m and is_title_or_caps_suffix(m.group(2)):
+        base = m.group(1).rstrip()
+        return strip_caps_suffix(base)
     return s
 
 

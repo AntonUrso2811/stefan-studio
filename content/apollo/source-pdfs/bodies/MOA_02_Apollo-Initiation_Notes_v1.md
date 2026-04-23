@@ -1,3 +1,5 @@
+• 30-Day Overview: What Success Looks Like
+
 What the Next 30 Days Will Do to You
 The next 30 days are going to change you.
 
@@ -53,8 +55,6 @@ him.
 I always say this - fitness isn't supposed to control you, its supposed to give you energy and clarity.
 
 Let's begin.
-
-   INITIATION WEEK 1
 
 30-Day Overview: What Success Looks Like
 Before we dive into the weekly breakdowns, let me paint a clear picture of where you should be by
@@ -441,8 +441,6 @@ https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal
 
 https://pubmed.ncbi.nlm.nih.gov/39226046/
 
-   INITIATION WEEK 2
-
 Week 1: Summary and Checklist
 Here's everything you're implementing in Week 1:
 
@@ -747,8 +745,6 @@ minutes.
 Do this breathing practice at least once today and ideally at the end of your wind-down routine
 before bed. It's a simple tool for down-regulating your nervous system and improving your recovery.
 
-   INITIATION WEEK 3
-
 Week 2: Summary and Checklist
 Here's everything you're implementing in Week 2, in addition to maintaining all Week 1 habits:
 
@@ -1018,8 +1014,6 @@ General principles:
   • Consistent meal timing reduces random hunger spikes
 
 Hunger is information, not a problem. Learn to read it.
-
-   INITIATION WEEK 4
 
 Week 3 Summary and Checklist
 Here's what Week 3 adds on top of your existing habits:

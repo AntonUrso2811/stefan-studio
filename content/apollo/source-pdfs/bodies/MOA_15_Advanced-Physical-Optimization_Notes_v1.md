@@ -1,74 +1,6 @@
-• Intro - Advanced Physical Optimization
+Posture Architecture
 
-  • Posture Checkpoints - Advanced Physical Optimization
-
-  • Common Dysfunction: Upper Cross Syndrome - Advanced Physical Optimization
-
-  • Common Dysfunction: Anterior Pelvic Tilt - Advanced Physical Optimization
-
-  • Posture is Not a Position — It is a Habit - Advanced Physical Optimization
-
-  • References - Advanced Physical Optimization
-
-  • Sitting - The Silent Destroyer - Advanced Physical Optimization
-
-  • Standing - Advanced Physical Optimization
-
-  • Phone Use - The Modern Plague - Advanced Physical Optimization
-
-  • References - Advanced Physical Optimization
-
-  • Breathing - Advanced Physical Optimization
-
-  • Nasal Breathing vs Mouth Breathing - Advanced Physical Optimization
-
-  • The Diaphragm - Your Primary Breathing Muscle - Advanced Physical Optimization
-
-  • The Breathing Assessment - Advanced Physical Optimization
-
-  • Protocol - Breathing Practice (5 minutes daily) - Advanced Physical Optimization
-
-  • Nasal Breathing During Training - Advanced Physical Optimization
-
-  • Mouth Taping for Sleep - Advanced Physical Optimization
-
-  • References - Advanced Physical Optimization
-
-  • The Work of Dr. John Mew and Dr. Mike Mew - Advanced Physical Optimization
-
-  • What is Mewing? - Advanced Physical Optimization
-
-  • The Mechanism - Advanced Physical Optimization
-
-  • Realistic Expectations for Adults - Advanced Physical Optimization
-
-  • References - Advanced Physical Optimization
-
-  • Hard Chewing - The Lost Stimulus - Advanced Physical Optimization
-
-  • The Chewing Protocol - Advanced Physical Optimization
-
-  • Facial Muscle Training - Advanced Physical Optimization
-
-  • Reducing Facial Bloat - Advanced Physical Optimization
-
-  • Skin Health for Facial Aesthetics - Advanced Physical Optimization
-
-  • References - Advanced Physical Optimization
-
-• Move With Intent - Advanced Physical Optimization
-
-• The Movement Hierarchy - Advanced Physical Optimization
-
-• Daily Movement Flow (15 minutes) - Advanced Physical Optimization
-
-• Walking Like a Man - Advanced Physical Optimization
-
-• Integration - Advanced Physical Optimization
-
-   Posture Architecture
-
-Intro - Advanced Physical Optimization
+Intro
 Phase 1 and Phase 2 built your body. This module refines how you inhabit it.
 
 There is a difference between a man who is strong and a man who carries himself like he is strong.
@@ -81,7 +13,7 @@ gym and then spend sixteen hours a day undoing that work with how they sit, stan
 
 This module fixes that. Permanently.
 
-Posture Checkpoints - Advanced Physical Optimization
+Posture Checkpoints
 The structural blueprint for how you carry yourself.
 
 It is a structural system - your skeletal alignment under gravity and it affects everything from how
@@ -112,7 +44,7 @@ Stand against a wall. Four points should make contact:
 > If any of these checkpoints fail, you have a postural deviation that is limiting your performance and
 your presence.
 
-Common Dysfunction: Upper Cross Syndrome - Advanced
+Common Dysfunction: Upper Cross Syndrome
 Physical Optimization
 This pattern affects the majority of modern men. It presents as:
 
@@ -151,7 +83,7 @@ Perform this every morning. Non-negotiable.
  5. Doorway Pec Stretch — 2 sets of 30 seconds each side. Arm at 90 degrees against door
    frame. Step through until you feel the stretch across the chest and front shoulder. Breathe into it.
 
-Common Dysfunction: Anterior Pelvic Tilt - Advanced
+Common Dysfunction: Anterior Pelvic Tilt
 Physical Optimization
 Excessive forward tilt of the pelvis creates a pronounced arch in the lower back and a protruding
 belly, even in lean men. It shortens the hip flexors, weakens the glutes, and creates chronic lower
@@ -171,7 +103,7 @@ The Fix — Lower Cross Protocol (8 minutes)
  4. 90/90 Hip Stretch — 2 sets of 30 seconds each position. Opens the hip capsule in internal and
    external rotation.
 
-Posture is Not a Position — It is a Habit - Advanced Physical
+Posture is Not a Position — It is a Habit
 Optimization
 Corrective exercise matters, but what matters more is awareness throughout the day. Set three
 alarms on your phone — mid-morning, after lunch, mid-afternoon. When they go off, run through the
@@ -182,14 +114,14 @@ alarms become unnecessary.
 
    Spinal Alignment and Daily Habits
 
-References - Advanced Physical Optimization
+References
   • Nair et al. (2015). "Do slumped and upright postures affect stress responses?" Health
    Psychology. https://pubmed.ncbi.nlm.nih.gov/25222091/
 
   • Hansraj (2014). "Assessment of stresses in the cervical spine caused by posture and position of
    the head." Surgical Technology International. https://pubmed.ncbi.nlm.nih.gov/25393825/
 
-Sitting - The Silent Destroyer - Advanced Physical
+Sitting
 Optimization
 > You train for an hour a day. You spend the other twenty-three either reinforcing good posture or
 destroying it. The hour in the gym cannot overcome sixteen hours of poor positioning.
@@ -221,7 +153,7 @@ The Sitting Protocol:
  6. The 30-Minute Rule. Stand up and move every 30 minutes. Walk for two minutes. Do five
    squats. Perform a standing stretch. The movement matters more than what the movement is.
 
-Standing - Advanced Physical Optimization
+Standing
 Most men stand with their weight shifted forward onto their toes or collapsed into one hip. Neither is
 neutral.
 
@@ -248,7 +180,7 @@ Avoid: Stomach sleeping. This forces cervical rotation and exaggerates lumbar ex
 currently sleep on your stomach, begin training yourself out of it by using body pillows to prevent
 rolling over.
 
-Phone Use - The Modern Plague - Advanced Physical
+Phone Use
 Optimization
 The average person checks their phone over ninety times a day. Each time, the head drops forward
 and down. This sustained flexion load on the cervical spine, often called "text neck" accelerates the
@@ -260,7 +192,7 @@ disappearing into your chest.
 
    Breathing Mechanics Mastery
 
-References - Advanced Physical Optimization
+References
 References:
 
   • Biswas et al. (2015). "Sedentary time and its association with risk for disease incidence,
@@ -270,14 +202,14 @@ References:
   • Dunstan et al. (2012). "Breaking up prolonged sitting reduces postprandial glucose and insulin
    responses." Diabetes Care. https://pubmed.ncbi.nlm.nih.gov/22190484/
 
-Breathing - Advanced Physical Optimization
+Breathing
 Nasal breathing, diaphragmatic function, and respiratory optimisation.
 
 Breathing is the single most underestimated performance variable in human health. You take
 approximately 20,000 breaths per day. If even half of those are dysfunctional - shallow, through the
 mouth, into the chest rather than the diaphragm, you are operating at a fraction of your capacity.
 
-Nasal Breathing vs Mouth Breathing - Advanced Physical
+Nasal Breathing vs Mouth Breathing
 Optimization
 Nasal breathing filters, warms, and humidifies air before it reaches the lungs. It produces nitric oxide
 in the paranasal sinuses - a vasodilator that increases oxygen uptake in the lungs by 10-15%.
@@ -289,7 +221,7 @@ elongated facial structure, recessed jaw, and narrowed dental arches. This is no
 Orthodontic research from the 1970s onward has consistently demonstrated the relationship
 between breathing pattern and craniofacial development.
 
-The Diaphragm - Your Primary Breathing Muscle - Advanced
+The Diaphragm
 Physical Optimization
 Most men breathe with their chest and neck muscles. Watch yourself in the mirror, if your shoulders
 rise when you inhale, you are using accessory muscles rather than the diaphragm.
@@ -305,7 +237,7 @@ the vagus nerve - the primary parasympathetic pathway.
 heart rate, and improves HRV. This is why every breathing protocol for stress management begins
 with diaphragmatic activation.
 
-The Breathing Assessment - Advanced Physical Optimization
+The Breathing Assessment
 Lie on your back. Place one hand on your chest and one on your belly. Breathe normally for 60
 seconds without trying to change anything.
 
@@ -329,7 +261,7 @@ Physical Optimization
   • Standing Breathing Integration — Stand in correct posture. Breathe exclusively through the
    nose, into the belly and lower ribs. 5 breaths. This is where the practice transfers to daily life.
 
-Nasal Breathing During Training - Advanced Physical
+Nasal Breathing During Training
 Optimization
 This will be uncomfortable at first. Start with your warm-ups and Zone 2 cardio - breathe exclusively
 through the nose. Over time, extend nasal breathing into your lighter sets and recovery periods.
@@ -338,7 +270,7 @@ through the nose. Over time, extend nasal breathing into your lighter sets and r
 more training volume you can perform with nasal breathing, the more efficient your oxygen
 utilisation becomes.
 
-Mouth Taping for Sleep - Advanced Physical Optimization
+Mouth Taping for Sleep
 This sounds extreme until you try it. A small piece of surgical tape over the lips during sleep ensures
 nasal breathing throughout the night. The benefits are measurable - reduced snoring, improved
 sleep quality, better oral health, and maintenance of nasal breathing patterns.
@@ -351,7 +283,7 @@ habitual mouth breathers.
 
    Facial Structure and Mewing Fundamentals
 
-References - Advanced Physical Optimization
+References
   • Lundberg et al. (1996). "Nitric oxide and the paranasal sinuses." The Anatomical Record. https://
    pubmed.ncbi.nlm.nih.gov/8842170/
 
@@ -360,7 +292,7 @@ References - Advanced Physical Optimization
   • Lee et al. (2020). "The effect of mouth taping during sleep on snoring." Healthcare. https://
    pubmed.ncbi.nlm.nih.gov/33374386/
 
-The Work of Dr. John Mew and Dr. Mike Mew - Advanced
+The Work of Dr. John Mew and Dr. Mike Mew
 Physical Optimization
 > This lesson will challenge what you have been told about genetics and facial structure. The truth is
 that while your skeletal genetics set a range of possibility, your oral posture, breathing habits, and
@@ -379,7 +311,7 @@ eating processed diets show the opposite - narrow arches, crowded teeth, recesse
 development depending on diet and breathing patterns demonstrated clearly in Weston Price's
 research comparing isolated and modernised communities.
 
-What is Mewing? - Advanced Physical Optimization
+What is Mewing?
 Mewing is the practice of maintaining correct tongue posture - the entire tongue resting against the
 roof of the mouth, with the lips sealed and teeth lightly together or slightly apart.
 
@@ -398,7 +330,7 @@ Correct Tongue Posture:
 
  4. Lips sealed. Breathing through the nose. Teeth lightly together or with 1-2mm of space.
 
-The Mechanism - Advanced Physical Optimization
+The Mechanism
 The tongue exerts approximately 500 grams of force when resting against the palate. Over time, this
 force widens the maxilla (upper jaw), supports forward facial growth, and creates the defined facial
 structure associated with attractiveness - prominent cheekbones, strong jawline, and forward
@@ -430,7 +362,7 @@ Common Mistakes:
 
   • Forcing teeth together. Light contact or very slight separation.
 
-Realistic Expectations for Adults - Advanced Physical
+Realistic Expectations for Adults
 Optimization
 Be honest with yourselves. If you are over 25, you are not going to radically restructure your skull
 with tongue posture alone. What you will notice over weeks and months: a more defined submental
@@ -443,7 +375,7 @@ spine.
 
    Advanced Facial Techniques
 
-References - Advanced Physical Optimization
+References
 References:
 
   • Mew, J. (2004). "The postural basis of malocclusion: A philosophical overview." American
@@ -453,7 +385,7 @@ References:
 
   • Kahn & Ehrlich (2018). Jaws: The Story of a Hidden Epidemic. Stanford University Press.
 
-Hard Chewing - The Lost Stimulus - Advanced Physical
+Hard Chewing
 Optimization
 > This lesson builds on the foundation of correct tongue posture with specific protocols for
 strengthening the muscles of mastication and improving facial tone.
@@ -465,7 +397,7 @@ which are the primary muscles of the jaw.
 Modern diets are soft. Pre-processed. Pre-cut. The mechanical stimulus that maintained strong jaw
 development for thousands of years has been largely eliminated.
 
-The Chewing Protocol - Advanced Physical Optimization
+The Chewing Protocol
 Mastic Gum — This is a natural tree resin from the island of Chios, Greece. It is significantly harder
 than regular chewing gum and provides a much greater mechanical stimulus to the jaw muscles.
 
@@ -484,7 +416,7 @@ your mouth. This sounds excessive. It is not. This is how your jaw was designed 
 dysfunctional jaw creates more problems. Address any existing issues with a qualified dental
 professional before aggressive jaw training.
 
-Facial Muscle Training - Advanced Physical Optimization
+Facial Muscle Training
 The face contains over 40 muscles. Most men never consciously engage them beyond basic
 expressions. Targeted facial exercises can improve muscle tone and definition over time.
 
@@ -503,7 +435,7 @@ The Daily Face Protocol (5 minutes):
  4. Forehead Resistance — Place both hands on the forehead. Try to raise the eyebrows against
    the resistance. Hold 5 seconds. 10 repetitions. This maintains tone in the frontalis muscle.
 
-Reducing Facial Bloat - Advanced Physical Optimization
+Reducing Facial Bloat
 Facial bloat obscures underlying structure. You can have excellent bone structure and jaw
 development, and it will be invisible under water retention and subcutaneous facial fat.
 
@@ -517,7 +449,7 @@ manage stress, and continue body fat reduction through Phase 2 protocols. As ove
 decreases, facial definition improves - the face is one of the last places many men lose fat, but when
 it goes, the change is dramatic.
 
-Skin Health for Facial Aesthetics - Advanced Physical
+Skin Health for Facial Aesthetics
 Optimization
 This is a preview, we cover skin protocols comprehensively in Phase 4. For now, the basics:
 
@@ -533,13 +465,13 @@ This is a preview, we cover skin protocols comprehensively in Phase 4. For now, 
 
    Movement Quality
 
-References - Advanced Physical Optimization
+References
   • Kiliaridis et al. (2014). "Masseter muscle thickness and maxillary dental arch width." European
    Journal of Orthodontics. https://pubmed.ncbi.nlm.nih.gov/8039480/
 
   • Kahn & Ehrlich (2018). Jaws: The Story of a Hidden Epidemic. Stanford University Press.
 
-Move With Intent - Advanced Physical Optimization
+Move With Intent
 Moving with intention, grace, and efficiency.
 
 A man's movement quality communicates more about him than his physique alone. Two men can
@@ -550,7 +482,7 @@ appear more capable, more confident, and more athletic.
 means your body works as an integrated unit rather than a collection of tight, stiff segments fighting
 against each other.
 
-The Movement Hierarchy - Advanced Physical Optimization
+The Movement Hierarchy
  1. Mobility — Can you access the range of motion? (Covered in Phase 1)
 
  2. Stability — Can you control positions within that range?
@@ -562,7 +494,7 @@ The Movement Hierarchy - Advanced Physical Optimization
 > Most men jump to power without addressing the layers beneath it. This is how injuries happen and
 why many strong men move like robots.
 
-Daily Movement Flow (15 minutes) - Advanced Physical
+Daily Movement Flow (15 minutes)
 Optimization
 This is not a warm-up. This is a practice. Perform it in the morning before your day begins.
 
@@ -590,7 +522,7 @@ This is not a warm-up. This is a practice. Perform it in the morning before your
    shoulder, head back, other ear to shoulder. Slow. Any clicking or restrictions are areas that need
    attention.
 
-Walking Like a Man - Advanced Physical Optimization
+Walking Like a Man
 This sounds absurd until you pay attention to how most men walk. Shuffling feet. Eyes down.
 Shoulders rounded. Hands in pockets. This communicates uncertainty and low status before any
 interaction begins.
@@ -601,7 +533,7 @@ ground. Moderate stride length, not shuffling. Pace is deliberate, not rushed.
 
 > Practice this consciously for one week. After that, it becomes automatic.
 
-Integration - Advanced Physical Optimization
+Integration
 Your daily optimisation protocol.
 
 Everything in this module compounds. None of these practices work in isolation, they work because

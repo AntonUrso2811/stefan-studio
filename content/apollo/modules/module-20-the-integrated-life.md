@@ -14,80 +14,7 @@ lede: "You have spent the last ninety-plus days building a body, optimising your
 next_step: "Not for another 30 days. For the rest of your life. This is where the programme stops being a programme and becomes how you live."
 ---
 
-## Summary
-
-The programme capstone. Beyond protocols — designing a life that makes excellence automatic. Covers environment design, systems over goals, energy and time management, travel/lifestyle maintenance, and the final crystallisation of the Apollo Lifestyle. This is where the 90+ days of work becomes identity, not intervention.
-
-## Content map
-
-- Intro — sustaining the work for the rest of your life, not 30 more days
-- Environment Design — The Apollo Environment Audit + The Friction Principle
-- Systems Over Goals — Morning Protocol, Evening Protocol, Weekly Rhythms, Power of Defaults
-- Energy and Time Management — The Energy Audit, Time Blocking
-- Travel and Lifestyle Maintenance
-- The Apollo Lifestyle — final integration
-
-## Frameworks / protocols
-
-**The Apollo Environment Audit** — four zones
-- **Kitchen** — protein accessible; ultra-processed removed entirely; quality equipment; supplements visible; water bottle on counter
-- **Bedroom** — blackout curtains or sleep mask; no TV; phone charging outside bedroom; cool temperature capability; quality bedding
-- **Workspace** — standing desk or adjustable; monitor at eye level; quality chair; light therapy if natural light insufficient; water + snacks; phone in drawer during deep work
-- **Training Space** — gym bag packed always; programme printed or saved; home gym equipment accessible, not buried
-
-**The Friction Principle** — make good behaviour easy, bad behaviour hard. Reduce friction for what you want to do; increase friction for what you want to avoid. Applied examples: sleep in training clothes (lower friction to morning training), social media off home screen (higher friction for scrolling), meal prep Sunday, TV remote in drawer.
-
-**The Apollo Morning Protocol** (first 60-90 min, systematised)
-1. Wake at set time — no snooze
-2. Hydrate — 500ml water
-3. 10 min morning light exposure (combine with step 4)
-4. Movement flow from Phase 3 Module 1 (15 min)
-5. Breathing practice (5 min)
-6. Cold shower (optional — 30-60s)
-7. First meal or coffee (60-90 min after waking for caffeine)
-
-Total: 30-40 minutes. Investment, not cost.
-
-**The Apollo Evening Protocol** (last 60-90 min, systematised)
-1. Last meal finished 2-3h before bed
-2. Screens off / blue-light blocking 60-90 min before bed
-3. Dim lighting throughout the house
-4. Skincare routine (3 min)
-5. Reading, journalling, or light conversation
-6. Mouth tape applied
-7. Lights off at set time
-
-**Weekly Rhythms** — training days immovable, meal prep blocked (Sunday for many), one 15-30 min weekly review, social commitments planned not reactive, recovery time protected.
-
-**The Power of Defaults** — what happens when you don't make a conscious decision. Most men's defaults are destructive (processed food when busy, screens when bored, alcohol when socialising, late nights when stressed). Rewire defaults: default meal / default activity when bored / default evening = restorative.
-
-**The Energy Audit** (1 week) — rate every major activity/interaction: energising (+), neutral (0), draining (−). Common drains Apollo men tolerate: toxic relationships, excessive news, social scrolling, unnecessary meetings, obligations from guilt, alcohol, poor food, insufficient recovery. Common sources neglected: time in nature, quality sleep, elevating connection, creative work, training, solitude.
-
-**Time Blocking** — your calendar should reflect your priorities. If health is a priority but training isn't on your calendar, it's a wish not a priority.
-
-## Visual callouts
-
-- Four-Zone Environment Audit — kitchen / bedroom / workspace / training space (reproducible as checklist quads)
-- Morning Protocol 7-step visual timeline
-- Evening Protocol 7-step visual timeline
-- Energy Audit scoring template (daily grid, +/0/−)
-- Apollo Lifestyle — integration diagram showing the 90+ day arc ending in identity
-
-## Full body
-
-• Intro - The Integrated Life
-
-  • Environment Design - The Integrated Life
-
-  • Systems Over Goals - The Integrated Life
-
-  • Energy and Time Management - The Integrated Life
-
-  • Travel and Lifestyle Maintenance - The Integrated Life
-
-  • The Apollo Lifestyle - The Integrated Life
-
-Intro - The Integrated Life
+Intro
 You have spent the last ninety-plus days building a body, optimising your health, and developing
 habits that most men will never adopt. The question now is: how do you sustain this?
 
@@ -97,7 +24,7 @@ This module is about designing a life that makes excellence automatic. Environme
 energy management, and the ability to maintain your protocols anywhere in the world. This is where
 the programme stops being a programme and becomes how you live.
 
-Environment Design - The Integrated Life
+Environment Design
 > You are a product of your environment more than you are a product of your willpower.
 
 The Apollo Environment Audit:
@@ -170,7 +97,7 @@ Examples:
 
   • Put the book you are reading on your pillow → lower friction for reading before sleep
 
-Systems Over Goals - The Integrated Life
+Systems Over Goals
 Goals tell you where you want to go. Systems get you there. And once you arrive, systems keep you
 there while goals leave you directionless.
 
@@ -246,7 +173,7 @@ Rewire your defaults: default meal when you have not planned is [insert your go-
 Default activity when bored is reading or walking. Default evening activity is something restorative,
 not stimulating.
 
-Energy and Time Management - The Integrated Life
+Energy and Time Management
 > You have two finite resources: energy and time. Every person, system, and commitment in your
 life either adds to these or drains them. Most men never audit this and wonder why they feel
 perpetually depleted.
@@ -307,7 +234,7 @@ Every Sunday evening, review the week:
 go off track for more than a few days. The men who do not review can lose months before realising
 they have slipped.
 
-Travel and Lifestyle Maintenance - The Integrated Life
+Travel and Lifestyle Maintenance
 Travel is where most men abandon everything they have built. The routine breaks, the food changes,
 the sleep shifts, and within a week they have lost momentum that takes another week to rebuild.
 
@@ -373,7 +300,7 @@ Your standards do not take holidays. You can enjoy travel, food, experiences, re
 abandoning everything you have built. The man who maintains 80% adherence while travelling
 returns home with momentum. The man who abandons everything returns to square one.
 
-The Apollo Lifestyle - The Integrated Life
+The Apollo Lifestyle
 > This is not a programme you finish. It is an operating system you run for the rest of your life.
 
 Every module in every phase connects. Training supports hormonal health. Nutrition supports gut

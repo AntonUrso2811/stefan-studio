@@ -14,59 +14,6 @@ lede: "This is not a powerlifting program. This is not a bodybuilding program ei
 next_step: "Now go train."
 ---
 
-## Summary
-
-The hybrid training system — built for strength, athleticism, and longevity, not mirror-muscles or one-rep maxes. Two paths, gym-based or home-based, both arriving at the same destination. The module covers technique for the core movement patterns, weekly programming, and progression logic.
-
-## Content map
-
-- Training Philosophy — what Apollo is and isn't
-- Gym-Based or Home-Based Training — choose one path, commit for Phase 1
-- Technique Library — Key Movements (push, pull, hinge, squat, carry, core)
-- The Traffic Light System — how to know if a weight is right for you
-- Weekly programme structure for the gym path
-- Weekly programme structure for the home path
-- Warm-up + cool-down protocols
-- Progression rules — when to add weight, when to add reps
-- Tracking your training
-- Session structure (warm-up → work → cooldown)
-
-## Frameworks / protocols
-
-**The Three Pillars of Apollo Training**
-1. **Progression** — get stronger over time, consistently, not dramatically
-2. **Longevity** — every rep serves the body, not destroys it; training at 60, 70, 80
-3. **Athleticism** — strength, conditioning, mobility, movement quality, simultaneously
-
-**Two Paths, Same Destination**
-- **Gym-Based** — barbells, dumbbells, cable machines, pull-up bars; heavier loading, more variation
-- **Home-Based** — kettlebell/dumbbell 16–24kg, bands, pull-up bar/rings, dip bar, mat; calisthenics progressions + unilateral focus
-
-**The Six Movement Patterns**
-1. **Horizontal Push** — bench press, push-ups
-2. **Vertical Push** — overhead press, pike push-ups
-3. **Horizontal Pull** — rows (barbell, DB, cable, inverted)
-4. **Vertical Pull** — pull-ups, chin-ups, lat pulldowns
-5. **Hinge** — deadlifts, RDLs, kettlebell swings, hip thrusts
-6. **Squat** — back/front/goblet squats, lunges, split squats, step-ups
-7. **Carry** — farmer, suitcase, overhead
-8. **Core** — anti-extension, anti-rotation, anti-lateral flexion, hip flexion
-
-**The Traffic Light System** — weight-selection protocol: Green (form solid, room to push), Amber (working hard but controlled), Red (form breaking, back off). Governs session-to-session progression decisions.
-
-**Progression Rules**
-- Weeks 1–2: Form first. Moderate weights. Build the habit.
-- Weeks 3–4: Push for progression. Add weight or reps each session where possible.
-- Log everything.
-
-## Visual callouts
-
-- Technique Library — six movement-pattern cards, each with exercise list + cue bullets (reproducible as illustrated cards or short video loops)
-- Traffic Light System — green/amber/red visual (reproducible as colour-coded decision card)
-- Weekly training split diagram — two versions (gym + home)
-
-## Full body
-
 Training Philosophy
 Let's get something straight from the start.
 

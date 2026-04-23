@@ -1,4 +1,4 @@
-Recomp vs Cut vs Bulk - The Decision Framework
+Recomp vs Cut vs Bulk
 
 Introduction
 You have the training knowledge. You have the nutrition tools. You understand recovery. Now we

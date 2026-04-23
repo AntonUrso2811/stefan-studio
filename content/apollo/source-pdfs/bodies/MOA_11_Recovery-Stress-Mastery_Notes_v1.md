@@ -1,4 +1,6 @@
-HRV and Recovery Tracking
+• 4-7-8 Breathing
+
+   HRV and Recovery Tracking
 
 Introduction
 Phase 1 introduced recovery basics - sleep hygiene, rest days, foundational stress management.
@@ -1240,19 +1242,19 @@ Stress and Training
 
  • https://pubmed.ncbi.nlm.nih.gov/20528168/
 
-Huberman Lab - Sleep and Recovery
+Huberman Lab
 
  • Comprehensive podcast on sleep optimization
 
  • https://hubermanlab.com/sleep/
 
-Huberman Lab - Cold Exposure
+Huberman Lab
 
  • Protocol details and research review
 
  • https://hubermanlab.com/the-science-and-use-of-cold-exposure-for-health-and-performance/
 
-Examine.com - Sleep Supplements
+Examine.com
 
  • Evidence-based supplement information
 

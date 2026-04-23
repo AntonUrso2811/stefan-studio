@@ -14,81 +14,7 @@ lede: "You will not fight your biology. You will align with it."
 next_step: "Your body cannot optimise hormone production, cognitive function, and metabolic processes if it does not know what time it is. Give it a consistent schedule and it will reward you."
 ---
 
-## Summary
-
-The circadian biology layer — the 24-hour internal clock that governs sleep, hormones, cognition, metabolism, temperature, and athletic performance. Covers sleep positions for spinal health, the science of the suprachiasmatic nucleus, strategic light exposure at morning/day/evening, chronotype optimisation, and advanced sleep troubleshooting.
-
-## Content map
-
-- Intro — circadian biology as the optimisation frame
-- Sleep Positions and Spinal Health — side (optimal) / back (acceptable) / stomach (eliminate)
-- The Circadian System Deep Dive — SCN, cellular clocks, controlled variables
-- Light as a Tool — morning / daytime / evening protocols
-- Chronotype Optimisation — lark vs owl, optimising for your biology
-- Energy Architecture — mapping your peak hours to demanding work
-- Advanced Sleep Troubleshooting
-
-## Frameworks / protocols
-
-**The Three Sleep Positions**
-- **Side** — optimal. Supports glymphatic clearance (brain waste removal). Optimise with correct pillow height (ear-to-mattress gap), knee pillow, arm position, alternating sides. Left side superior for digestion + reflux.
-- **Back** — acceptable with modifications. Neutral spine but can worsen snoring/apnea. Thin pillow + pillow under knees.
-- **Stomach** — eliminate. Forces cervical rotation + lumbar extension. Use body pillows on either side to prevent roll-over during 1-2 week adaptation.
-
-**What the Circadian System Controls (7 variables)**
-1. Cortisol — peaks morning, declines through day, lowest midnight
-2. Melatonin — rises 2-3h before sleep onset, peaks during sleep, suppressed by light
-3. Testosterone — peaks early morning (test fasted, 7-10am)
-4. Growth Hormone — released primarily during first deep sleep cycle
-5. Body Temperature — rises through morning, peaks late afternoon (why athletic records set then)
-6. Insulin Sensitivity — highest in morning, lowest evening (implications for nutrient timing)
-7. Cognitive Function — peak 2-4h after waking, dip early afternoon (circadian trough), secondary peak late afternoon
-
-**Light as a Tool — three protocols**
-
-**Morning Light** (foundation):
-- 10-15 minutes direct outdoor sunlight within 30-60 min of waking
-- Do NOT wear sunglasses during this window
-- Combine with morning movement from Module 1
-- Outdoor light (5,000-100,000 lux) vs indoor (100-500 lux) — massive differential
-
-**Daytime Light** (maintain signal):
-- Work near windows when possible
-- Outdoor breaks even 5-10 minutes midday
-- If workspace poorly lit, supplemental cool-white 5000-6500K task lighting
-
-**Evening Light** (protect wind-down):
-- 2-3h before bed: switch to dim warm lighting; overhead off
-- Screens: blue-light blocking glasses (amber or red lenses) OR stop screens 60-90 min before bed
-- Warm-toned smart bulbs (2700K or lower) that dim automatically
-- Red/orange night lights in bathroom (standard bright bathroom light destroys melatonin)
-
-**The Non-Negotiable: Consistency** — waking and sleeping at approximately the same time every day, weekends included. Circadian optimisation requires the body to know what time it is.
-
-## Visual callouts
-
-- Circadian 24-hour wheel — 7 variables mapped around the clock
-- Sleep Position comparison — side/back/stomach with anatomy notes
-- Morning/Day/Evening Light protocol three-column card
-- Chronotype spectrum with recommended training + work timing per type
-
-## Full body
-
-• Intro - Sleep & Circadian Mastery
-
-  • Sleep Positions and Spinal Health - Sleep & Circadian Mastery
-
-  • The Circadian System Deep Dive - Sleep & Circadian Mastery
-
-  • Light as a Tool - Sleep & Circadian Mastery
-
-  • Chronotype Optimisation - Sleep & Circadian Mastery
-
-  • Energy Architecture - Sleep & Circadian Mastery
-
-  • Advanced Sleep Troubleshooting - Sleep & Circadian Mastery
-
-Intro - Sleep & Circadian Mastery
+Intro
 Phase 1 taught you that sleep is non-negotiable. Phase 2 took you deeper into sleep architecture,
 supplements, and recovery tracking. You know the basics — 7-9 hours, consistent timing, dark
 room, cool temperature.
@@ -104,7 +30,7 @@ perpetually off.
 
 > You will not fight your biology. You will align with it.
 
-Sleep Positions and Spinal Health - Sleep & Circadian
+Sleep Positions and Spinal Health
 Mastery
 How you sleep shapes how you feel.
 
@@ -153,7 +79,7 @@ contribute to nerve impingement over time.
 > If you are a habitual stomach sleeper: use body pillows placed on either side to prevent rolling
 onto your stomach during the night. This takes 1-2 weeks to adapt but is worth the effort.
 
-The Circadian System Deep Dive - Sleep & Circadian Mastery
+The Circadian System Deep Dive
 Understanding your internal clock.
 
 Every cell in your body has a clock. These cellular clocks are synchronised by a master pacemaker
@@ -209,7 +135,7 @@ approximately the same time every day, including weekends.
 Your body cannot optimise hormone production, cognitive function, and metabolic processes if it
 does not know what time it is. Give it a consistent schedule and it will reward you.
 
-Light as a Tool - Sleep & Circadian Mastery
+Light as a Tool
 Strategic light exposure for energy and sleep.
 
 > Light is the most powerful tool you have for circadian regulation. More powerful than any
@@ -274,7 +200,7 @@ darker months.
 Morning light therapy (10,000 lux for 20-30 minutes within the first hour of waking) is the first-line
 treatment for SAD and can benefit anyone experiencing winter-related drops in mood and energy.
 
-Chronotype Optimisation - Sleep & Circadian Mastery
+Chronotype Optimisation
 Working with your natural rhythm, not against it.
 
 Not every man is wired the same way. Chronotype which is your genetic predisposition toward
@@ -345,7 +271,7 @@ respects your chronotype as much as possible while maintaining consistency. Even
 can adapt to earlier schedules with strategic light exposure and consistent timing, the adaptation
 takes 2-3 weeks but is achievable.
 
-Energy Architecture - Sleep & Circadian Mastery
+Energy Architecture
 Designing your day for sustained performance.
 
 > Your energy is not a constant, it fluctuates predictably across the day based on circadian rhythms,
@@ -410,7 +336,7 @@ Meal Timing for Energy:
   • Evening meals should be moderate, enough to support recovery but not so large they disrupt
    sleep onset. Finish eating 2-3 hours before bed.
 
-Advanced Sleep Troubleshooting - Sleep & Circadian Mastery
+Advanced Sleep Troubleshooting
 Solving persistent sleep issues.
 
 > If you have implemented everything from Phase 1 and Phase 2 sleep protocols and are still

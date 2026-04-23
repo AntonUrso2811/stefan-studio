@@ -14,91 +14,9 @@ lede: "For sixty days you have trained with a generalised programme. The foundat
 next_step: "Choose one as your primary focus for the next 12-16 weeks. You can always shift emphasis in the next training block. But trying to optimise everything simultaneously optimises nothing."
 ---
 
-## Summary
+Identifying Your Training Priority
 
-Phase 3 training splits into four archetypes — Aesthetic, Strength, Calisthenics, or Hybrid. The module gives the full programming for each path, plus a weak-point identification system and a custom-programme builder so members can match training to their specific physique and performance goals.
-
-## Content map
-
-- Intro — why specialise now
-- Identifying Your Training Priority — The Four Archetypes
-- Aesthetic-Focused Programming — principles, muscles that create visual impact
-- Aesthetic Programme — Upper/Lower Split (full 4-day programme)
-- Strength-Focused Programming — neural adaptation, compound priority
-- Strength Programme — Upper/Lower (full programme)
-- Calisthenics Foundations
-- The Calisthenics Progression Ladder
-- Programming Calisthenics
-- Identifying Weak Points
-- The Specialisation Protocol
-- Common Weak Points and Fixes
-- Building Your Custom Programme
-
-## Frameworks / protocols
-
-**The Four Training Archetypes**
-1. **The Aesthetic Build** — visual impact priority. Reference physiques: Brad Pitt in Fight Club, Daniel Craig in Casino Royale, Christian Bale in American Psycho. Hypertrophy-led, shoulder/back/arm emphasis.
-2. **The Strength Build** — maximum force production. Primary compounds, progressive overload non-negotiable. Physique is byproduct, thick + dense + functional.
-3. **The Calisthenics Build** — bodyweight mastery. Muscle-ups, handstands, levers, planches. Wide lats + developed shoulders + lean athletic build.
-4. **The Hybrid** — elements of all three. Most Apollo men gravitate here. Requires careful programming to avoid spreading effort thin.
-
-**How to Choose** — four rules
-- Primary change desired = how you look → Aesthetics first
-- Want to lift objectively heavy → Strength first
-- Want skills (muscle-ups, handstands, impossible bodyweight) → Calisthenics first
-- Genuinely want all three, willing to progress slower → Hybrid
-- **Commit to one focus for 12–16 weeks minimum. Optimising everything = optimising nothing.**
-
-**The Six Visual-Impact Muscles** (Aesthetic priority)
-1. Shoulders (lateral delts especially) — single most impactful for V-taper
-2. Upper back (traps, rhomboids, rear delts) — thickness + 3D look
-3. Lats — width, V-taper from behind
-4. Arms — always visible; triceps are 2/3 of arm size
-5. Chest (upper emphasis) — underdeveloped upper chest = droopy pecs
-6. Abs/Core — visibility from low body fat + direct work for the "blocky" look
-
-**Aesthetic Training Principles** — volume (6-15 reps sweet spot), intensity within 1-2 reps of failure, mind-muscle connection on isolation, controlled eccentrics (2-3s minimum).
-
-**Full Programmes Included** — Aesthetic Upper/Lower 4-day split, Strength Upper/Lower, Calisthenics progression ladder. See Full body for sets/reps/exercises.
-
-## Visual callouts
-
-- Four Archetypes card grid — each with reference physiques and emphasis
-- Aesthetic programme weekly split visual
-- Calisthenics Progression Ladder — beginner → intermediate → advanced skills
-- Weak point identification diagnostic
-
-## Full body
-
-• Intro - Training Specialization
-
-  • Identifying Your Training Priority - Training Specialization
-
-  • Aesthetic-Focused Programming - Training Specialization
-
-  • Aesthetic Programme — Upper/Lower Split - Training Specialization
-
-  • Strength-Focused Programming - Training Specialization
-
-  • Strength Programme — Upper/Lower - Training Specialization
-
-  • Calisthenics Foundations - Training Specialization
-
-  • The Calisthenics Progression Ladder - Training Specialization
-
-  • Programming Calisthenics - Training Specialization
-
-  • Identifying Weak Points - Training Specialization
-
-  • The Specialisation Protocol - Training Specialization
-
-  • Common Weak Points and Fixes - Training Specialization
-
-  • Building Your Custom Programme - Training Specialization
-
-   Identifying Your Training Priority
-
-Intro - Training Specialization
+Intro
 For sixty days you have trained with a generalised programme designed to build a foundation of
 strength, movement quality, and work capacity. That foundation is now solid.
 
@@ -115,7 +33,7 @@ combination.
 This module gives you the programming frameworks for each path, plus the tools to build a custom
 programme that matches your specific goals, schedule, and training experience.
 
-Identifying Your Training Priority - Training Specialization
+Identifying Your Training Priority
 Before you write a single programme, you need honest clarity on what you are training for. This
 seems obvious. It is not. Most men have vague goals - "I want to look good and be strong" and end
 up training in a no-man's-land that serves neither objective optimally.
@@ -158,7 +76,7 @@ would make you most satisfied to achieve?
 > Choose one as your primary focus for the next 12-16 weeks. You can always shift emphasis in the
 next training block. But trying to optimise everything simultaneously optimises nothing.
 
-Aesthetic-Focused Programming - Training Specialization
+Aesthetic-Focused Programming
 Training for visual impact and proportions.
 
 Hypertrophy training for aesthetics is not just about getting bigger everywhere. It is about strategic
@@ -199,7 +117,7 @@ compounds.
 Tempo: Control the eccentric (lowering) phase - 2-3 seconds minimum. This increases time under
 tension and mechanical damage, both of which drive hypertrophy.
 
-Aesthetic Programme — Upper/Lower Split - Training
+Aesthetic Programme — Upper/Lower Split
 Specialization
 Day 1 — Upper (Push Emphasis)
 
@@ -261,7 +179,7 @@ Progression: When you can complete all prescribed sets and reps with good form, 
 by the smallest increment available. For isolation movements, add 1-2 reps before increasing
 weight.
 
-Strength-Focused Programming - Training Specialization
+Strength-Focused Programming
 Training for maximum force production.
 
 Strength training is fundamentally different from hypertrophy training. The adaptations you are
@@ -298,7 +216,7 @@ Your strength programme should centre on these movements or close variations:
 
  5. Pull — barbell row or weighted pull-up
 
-Strength Programme — Upper/Lower - Training
+Strength Programme — Upper/Lower
 Specialization
 Day 1 — Lower (Squat Focus)
 
@@ -371,7 +289,7 @@ Test a true 1RM no more than every 8-12 weeks. Frequent maximal testing is drain
 injury risk. Use rep maxes to estimate, if you can hit 3 reps at a given weight with 1-2 reps in
 reserve, your estimated 1RM is approximately 90-95% of that weight.
 
-Calisthenics Foundations - Training Specialization
+Calisthenics Foundations
 Bodyweight mastery and progression frameworks.
 
 Calisthenics is the art of controlling your body in space. It builds a distinctive physique - wide lats
@@ -393,7 +311,7 @@ training in several ways:
   • Joint health. Many calisthenics progressions require training through full ranges of motion under
    control, which builds tendon and ligament strength that heavy lifting alone does not.
 
-The Calisthenics Progression Ladder - Training Specialization
+The Calisthenics Progression Ladder
 Each skill has a progression — a series of increasingly difficult variations that take you from
 beginner to advanced.
 
@@ -473,7 +391,7 @@ Dips → Planche (Advanced — Long-term Goal):
 
    Weak Point Specialisation
 
-Programming Calisthenics - Training Specialization
+Programming Calisthenics
 For men using calisthenics as a supplement to weight training: add 2-3 calisthenics skill
 progressions to the end of 2-3 sessions per week. For example, practice muscle-up progressions
 after your pull day and handstand work after your push day. Or the other way around, start with
@@ -490,7 +408,7 @@ Calisthenics progression is slower than barbell progression. You cannot simply a
 up every week in the same way. Progression happens through increased reps, improved form,
 harder variations, and longer holds. It takes months, not weeks. This is a practice.
 
-Identifying Weak Points - Training Specialization
+Identifying Weak Points
 Targeted protocols for lagging areas.
 
 After sixty days of consistent training, you know where you are strong and where you are not. This
@@ -507,7 +425,7 @@ Performance: Where do you fail in your lifts? If the bench press fails at the bo
 the limiter. If it fails at lockout, triceps are the issue. If your squat fails in the hole, quad strength is
 lacking. If you cannot maintain your back position in a deadlift, your posterior chain is the weak link.
 
-The Specialisation Protocol - Training Specialization
+The Specialisation Protocol
 Increase volume for the weak point by 50-100% while maintaining (not increasing) volume for
 everything else.
 
@@ -524,7 +442,7 @@ Practical implementation:
   • Run specialisation for 6-8 weeks. Reassess. If the weak point has improved, return to balanced
     programming.
 
-Common Weak Points and Fixes - Training Specialization
+Common Weak Points and Fixes
 Lagging Shoulders: Add lateral raises to every session (3x15-20). Train them daily if needed, the
 lateral delts recover quickly and respond to frequency. Use slow eccentrics and partial reps at the
 end of sets for maximum stimulus.
@@ -544,7 +462,7 @@ Weak Legs: Front squats build quads more effectively than back squats for most p
 Bulgarian split squats — arguably the best single exercise for leg development. Increase training
 frequency to 3 lower body sessions per week during specialisation.
 
-Building Your Custom Programme - Training Specialization
+Building Your Custom Programme
 Putting it all together.
 
 You now have the frameworks for aesthetic, strength, and calisthenics training, plus the tools to

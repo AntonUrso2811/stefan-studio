@@ -14,73 +14,6 @@ lede: "Phase 1 gave you the foundation. Now we add precision tools."
 next_step: "Use these tools when needed. Return to intuitive eating when precision is not required."
 ---
 
-## Summary
-
-Precision nutrition as a toolkit, not a lifestyle. Covers the real method for calculating YOUR actual maintenance calories, when to track (and when not to), the Hierarchy of Nutritional Importance, macronutrient manipulation by goal, nutrient timing that actually matters, and advanced supplementation.
-
-## Content map
-
-- Introduction — Phase 1 = intuition, Phase 2 = precision when needed
-- When to Track Calories — and when not to
-- Calculating Your Actual Caloric Needs (3-step protocol)
-- Setting Caloric Targets — fat loss / maintenance / muscle gain
-- The Precision Tracking Protocol
-- Moving Beyond Tracking
-- Macronutrient Manipulation — the Hierarchy of Nutritional Importance
-- Protein: The Constant
-- Carbohydrates: The Performance Fuel
-- Fats: The Hormone and Absorption Support
-- Carb Cycling Strategy
-- Nutrient Timing — peri-workout window, breakfast reality, late-night eating
-- Advanced Supplementation — Tier 1 (foundational), Tier 2 (performance), Tier 3 (specialised)
-- Troubleshooting Plateaus
-- Different Goals, Different Approaches — cutting, gaining, recomp
-
-## Frameworks / protocols
-
-**When to Track Calories** — five triggers
-1. Plateaued 3+ weeks despite consistent effort
-2. Starting a dedicated fat-loss phase
-3. Struggling to gain weight (hard-gainers dramatically overestimate intake)
-4. Need to hit a specific target for an event
-5. Building awareness after intuitive eating drift
-
-**Do NOT track when** — progress is consistent, tracking triggers anxiety, in maintenance with no goals, solid intuition already built.
-
-**Calculating Your Actual Maintenance (3-step)**
-1. Track current intake 7–10 days without changing habits; calculate daily average
-2. Track daily bodyweight under consistent conditions; calculate weekly average; compare start vs end
-3. Calculate maintenance — if stable, average intake = maintenance. If gained, subtract ~500 cal per 0.5kg gained. If lost, add ~500 cal per 0.5kg lost.
-
-**Caloric Targets by Goal**
-- Fat loss: maintenance − 20–25% (≈ 300–500 cal deficit; 0.5–0.75kg/week)
-- Maintenance: at calculated maintenance
-- Muscle gain: maintenance + 10–15% (modest surplus; larger surpluses just add fat)
-
-**The Precision Tracking Protocol** — six rules
-1. Use a food scale (eyeballing is wildly inaccurate)
-2. Weigh food raw when possible
-3. Log as you go (not at end of day)
-4. Include everything — oils, sauces, snacks
-5. Use reliable database entries; verify macros
-6. Track consistently for the assessment period
-
-**The Hierarchy of Nutritional Importance**
-1. Calories — primary determinant of weight change
-2. Protein — primary determinant of muscle retention/growth
-3. Carbohydrates and Fats — secondary (performance, hormones, adherence)
-
-**Protein Target** — 0.8–1g per pound of bodyweight; higher end during fat loss, lower sufficient during gaining.
-
-## Visual callouts
-
-- Hierarchy of Nutritional Importance pyramid (calories → protein → carbs/fats)
-- Maintenance calculation worksheet — 3-step table users can fill in
-- Carb cycling weekly grid (training day vs rest day calories + macros)
-- Supplementation tier chart (Tier 1/2/3 with evidence rating)
-
-## Full body
-
 Caloric Precision When Needed
 
 Introduction
@@ -1314,13 +1247,13 @@ Fiber and Satiety
 
   • https://pubmed.ncbi.nlm.nih.gov/15797686/
 
-Examine.com - Supplement Guides
+Examine.com
 
   • Evidence-based supplement information
 
   • https://examine.com/supplements/
 
-Precision Nutrition - Nutrition Research
+Precision Nutrition
 
   • Practical application of nutrition science
 

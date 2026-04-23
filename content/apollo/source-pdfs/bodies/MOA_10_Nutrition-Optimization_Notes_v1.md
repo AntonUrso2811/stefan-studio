@@ -1231,13 +1231,13 @@ Fiber and Satiety
 
   • https://pubmed.ncbi.nlm.nih.gov/15797686/
 
-Examine.com - Supplement Guides
+Examine.com
 
   • Evidence-based supplement information
 
   • https://examine.com/supplements/
 
-Precision Nutrition - Nutrition Research
+Precision Nutrition
 
   • Practical application of nutrition science
 

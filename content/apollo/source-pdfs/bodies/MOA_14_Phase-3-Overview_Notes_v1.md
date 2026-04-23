@@ -1,5 +1,3 @@
-• Phase 3 Overview - Phase 3 Overview
-
 Phase 3 Overview - Phase 3 Overview
 You have spent sixty days in the forge.
 

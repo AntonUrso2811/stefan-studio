@@ -14,52 +14,6 @@ lede: "Everything you have learned in Phase 1 is worthless without the right men
 next_step: "Phase 2 awaits those who have earned it."
 ---
 
-## Summary
-
-The mindset layer under every Phase 1 system. Identity over goals, discipline over motivation, consistency over intensity. The module installs the mental operating system that keeps the physical systems running when motivation stops showing up.
-
-## Content map
-
-- The Identity Shift — "I am someone who trains" vs "I am trying to get in shape"
-- Discipline Over Motivation — discipline as removed negotiation
-- The Consistency Compound — 1% per week = 67% better in a year
-- Mental Models for Training — Training is Practice, Ego is the Enemy, Seek Discomfort Not Pain, Long Time Horizon
-- Handling Failure and Setbacks — Failure as Data, Self-Compassion vs Self-Criticism, The 24-Hour Rule
-- Environment Design — remove friction for good, add friction for bad, curate inputs, find your tribe
-- The Apollo Mindset Summary
-
-## Frameworks / protocols
-
-**How to Build Discipline — four practices**
-1. Start with Non-Negotiables (defined in Week 1; not up for debate)
-2. Remove Decision Points (clothes out, meals prepped, training slot fixed)
-3. Never Miss Twice (one miss is human; two is a pattern; three is identity degradation)
-4. Track Your Execution
-
-**Mental Models for Training**
-- Training is Practice — each rep is a repetition of competence, not punishment
-- Ego is the Enemy — train for capability in a year, not weight today
-- Seek Discomfort, Not Pain — productive discomfort vs destructive pain
-- Long Time Horizon — think in years, not weeks
-
-**The 24-Hour Rule**
-When you fail, you have 24 hours to return to baseline. Miss a workout? Train tomorrow. Overeat at dinner? Next meal is on point. Longer waits compound the correction cost.
-
-**Environment Design — four levers**
-1. Remove friction for good behaviours
-2. Add friction for bad behaviours
-3. Curate your inputs (social media is either building you up or tearing you down — no neutral)
-4. Find your tribe (you become the average of the people you spend most time with)
-
-**Action Items** — four weekly practices: identity statement ("I am a man who ___"), eliminate biggest decision-fatigue point, audit social feed (unfollow five), post first win in community.
-
-## Visual callouts
-
-- Apollo Mindset Summary (five clusters: Identity Principles / Discipline Framework / Mental Models / Failure Protocol / Environment Design) — reproducible as a five-card summary grid
-- Identity statement template ("I am a man who _______") — fill-in card
-
-## Full body
-
 The Identity Shift
 Everything you have learned in Phase 1 - training, nutrition, recovery, mobility - is worthless without
 the right mental architecture. Men who transform and stay transformed do not rely on motivation.

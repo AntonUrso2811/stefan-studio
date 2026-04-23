@@ -14,61 +14,15 @@ lede: "You have heard about intermittent fasting. Some of it is true. Some of it
 next_step: "IF is not magic. It is a useful tool that works well for certain people in certain situations."
 ---
 
-## Summary
+• 16:8 Protocol (Leangains)
 
-The strategic-tool module. Covers the real physiology of the fed-to-fasted transition, what fasting actually does (fat oxidation, autophagy, GH, insulin sensitivity, norepinephrine) and what it doesn't (boost metabolism, magically outperform caloric restriction, detox anything). Protocols, selection, and integration with Apollo training.
+  • 18:6 Protocol
 
-## Content map
+  • 20:4 Protocol (Warrior Diet)
 
-- Introduction — why IF was held back until Phase 2
-- The Science of Fasting — fed-to-fasted transition
-- What Happens During Extended Fasting (12–24 hours)
-- What Fasting Does NOT Do
-- The Honest Assessment — why IF actually works for some people
-- IF Protocols and Selection
-- Choosing Your Protocol
-- Integration with Training
-- Breaking Your Fast Correctly
-- Common Mistakes
-- Troubleshooting
-- When NOT to Fast
-- References + research citations
+  • 5:2 Protocol
 
-## Frameworks / protocols
-
-**The Metabolic States**
-- Fed state — 3–5h after a meal; insulin high, cells absorbing
-- Post-absorptive state — insulin drops, glucagon rises, liver releases glycogen
-- Fasted state — begins 8–12h after last meal; insulin low, fat oxidation rises, GH begins climbing
-
-**The Five Effects of Extended Fasting (12–24h)**
-1. Increased fat oxidation (research shows significant rise past 12–14h)
-2. Autophagy activation (markers rise around 16–18h; more significant at 24h+)
-3. Growth hormone increase (up to 5-fold during a 24-hour fast; muscle-sparing, not muscle-building)
-4. Improved insulin sensitivity
-5. Norepinephrine + mental clarity (neurochemical, not placebo)
-
-**The Four Honest Mechanisms Behind IF's Effectiveness**
-1. Simplifies eating decisions (fewer meals = fewer poor-choice moments)
-2. Often naturally reduces caloric intake (skipping breakfast removes 400–600 cal for most)
-3. Creates clear structure (eating windows prevent grazing)
-4. Leverages fat-oxidation metabolic states
-
-**What Fasting Does NOT Do**
-- Boost metabolism (short-term effect is minimal; prolonged fasting actually reduces it)
-- Magically outperform caloric restriction (equal calories + protein = equal fat loss)
-- Detox anything (liver + kidneys handle that 24/7)
-- Become necessary for fat loss
-
-## Visual callouts
-
-- Fed-to-Fasted timeline — hours 0 → 24, with metabolic state transitions marked
-- Five Effects card grid (fat oxidation / autophagy / GH / insulin / norepinephrine)
-- Protocol comparison (16:8 vs 18:6 vs OMAD vs 5:2) — decision matrix by goal/lifestyle
-
-## Full body
-
-The Science of Fasting
+   The Science of Fasting
 
 Introduction
 You have heard about intermittent fasting. You have probably seen the claims - burn fat faster, live
@@ -234,7 +188,6 @@ Fat Oxidation During Fasting
 
 Ketone Production and Utilization
 
-  • Cahill GF Jr (2006) - "Fuel metabolism in starvation" - Classic paper on metabolic adaptation to
    fasting
 
   • https://pubmed.ncbi.nlm.nih.gov/16540911/
@@ -1141,19 +1094,19 @@ Hunger Adaptation to Meal Timing
 
   • https://pubmed.ncbi.nlm.nih.gov/31151228/
 
-Examine.com - Intermittent Fasting
+Examine.com
 
   • Comprehensive research summary on IF
 
   • https://examine.com/topics/intermittent-fasting/
 
-Peter Attia - Fasting Resources
+Peter Attia
 
   • Detailed discussions on fasting protocols and research
 
   • https://peterattiamd.com/tag/fasting/
 
-Huberman Lab - Fasting Episode
+Huberman Lab
 
   • Neuroscience perspective on fasting effects
 

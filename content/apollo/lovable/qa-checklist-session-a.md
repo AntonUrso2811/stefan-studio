@@ -1,6 +1,18 @@
-# Session A QA Checklist — 20-module load
+# Session A v2 QA Checklist — 20-module verbatim load
 
 Internal gate. Anton ticks every box BEFORE Stefan handover. Any unchecked box = fix or document as flagged.
+
+## Verbatim-render check (most important — Stefan's primary intent)
+
+Spot-check three modules (different phases — recommend MOA_01, MOA_10, MOA_20). For each:
+- [ ] Copy any paragraph from the rendered page
+- [ ] Compare to `content/apollo/modules/module-NN-*.md` body
+- [ ] **Zero differences** — no rephrased sentences, no added words, no removed words, no localisation changes, no heading rewrites, no bullet restructuring
+- [ ] "recognise" / "optimise" / "behaviour" / "prioritise" — British spellings intact
+- [ ] "Men of Apollo" terminology intact
+- [ ] Stef's "- Stef" sign-offs intact where present
+
+If any spot-check fails: Lovable rewrote content. Re-run the module load with a sharper prompt before Stefan handover.
 
 ## Coverage
 
@@ -10,14 +22,14 @@ Internal gate. Anton ticks every box BEFORE Stefan handover. Any unchecked box =
 - [ ] MOA_08–13 — Phase 2 Integration card, community only
 - [ ] MOA_14–18 — Phase 3 Mastery card, community only
 - [ ] MOA_19–20 — Phase 4 Longevity card, community only
-- [ ] Program index page matches `content/apollo/modules/index.md`
+- [ ] Program index page (if exposed publicly) matches `content/apollo/modules/index.md`
 
-## IA + gating
+## IA + tier gating
 
 - [ ] Phase cards render in order: Onboarding · Phase 1 · Phase 2 · Phase 3 · Phase 4
 - [ ] Phase 2 locked for accounts under Day 30; Phase 3 under Day 60; Phase 4 under Day 90
 - [ ] Lock state shows "Unlocks Day X" not just "Locked"
-- [ ] Admin-unlock (test account) works for QA
+- [ ] Admin-unlock works on a test account
 - [ ] Revisit-anytime works — can return to a completed module
 - [ ] Protocol-tier test account sees ONLY Onboarding + Phase 1 cards
 - [ ] Community-tier test account sees all five phase cards
@@ -25,50 +37,49 @@ Internal gate. Anton ticks every box BEFORE Stefan handover. Any unchecked box =
 
 ## Module page rendering
 
-- [ ] Lede rendered as hero quote (not buried)
-- [ ] Summary rendered as intro paragraph, not H2 header
-- [ ] Content map renders as TOC with in-page anchor links
-- [ ] Anchor links actually jump to sections in Full body
-- [ ] Frameworks / protocols rendered as visual cards, not plain text
-- [ ] Visual callouts rendered with best-match existing component (spot-check MOA_05 Apollo Plate, MOA_11 HRV Deviation card, MOA_20 Environment Audit)
-- [ ] Full body preserves Stef's prose verbatim — no rewrites, no AI-smoothing
-- [ ] `next_step` CTA links to the next module in sequence
+- [ ] `title` from frontmatter renders as H1 (not part of body)
+- [ ] `lede` from frontmatter renders as hero subtitle (pulled from frontmatter, not re-derived from body)
+- [ ] Body rendered as long-form content — paragraphs, bullets, numbered lists preserved
+- [ ] Blockquote lines (prefixed with `>`) render as quotes
+- [ ] Section headings in body (short title-ish lines) render as H2/H3 based on position — no rewrites
+- [ ] `next_step` from frontmatter renders as footer CTA line
+- [ ] "Next module" link points to the next module in sequence (by phase + order_in_phase)
 - [ ] "Back to phase" link works
 
-## Voice + content fidelity
+## No editorial additions
 
-- [ ] Read aloud Summary of 3 random modules — matches Stef's rhythm (direct, no filler, no "additionally" / "moreover")
-- [ ] Full body passages checked against `content/apollo/source-pdfs/MOA_NN_*.pdf` originals — no deviations
-- [ ] British-English spellings preserved (optimisation, recognise, prioritise, behaviour)
-- [ ] "Men of Apollo" terminology intact across modules
-- [ ] Phase 4 (MOA_19–20) references to "Phase 4" and "ninety-plus days" intact
+- [ ] NO "Summary" or "Key takeaways" section inserted by Lovable
+- [ ] NO "Frameworks" visual cards inserted
+- [ ] NO icons / emoji / decorative images added by the model
+- [ ] NO "In this module you'll learn..." intro Lovable wrote on its own
+- [ ] NO content rewritten as bullets when source was paragraphs, or vice versa
 
 ## Cross-references
 
-- [ ] Module dependencies resolve — if MOA_16 says "see Module 1" that links to Phase 3 Module 1 (MOA_14 or 15 depending on mapping), not the global MOA_01
-- [ ] References to "Phase 1" / "Phase 2" in prose are internally consistent with the phase-card IA
-- [ ] Phase-opener modules (MOA_02, MOA_08 via MOA_13's preview, MOA_14, MOA_19 implicitly) frame each phase clearly
+- [ ] References to "Phase 1" / "Phase 2" etc. in prose are consistent with phase-card IA
+- [ ] References to other modules ("Module 1", "see the Nutrition module") are not broken or mis-linked — if Lovable autolinks, check a sample; if not, leave as plain text
+- [ ] Phase 4 modules (MOA_19–20) reference "Phase 4" and "ninety-plus days" intact
 
 ## Responsive + performance
 
 - [ ] Mobile render pass at 320px — no overflow, type hierarchy clear, cards stack
 - [ ] Tablet render pass at 768px
 - [ ] Desktop render pass at 1440px
-- [ ] Framework cards readable on mobile (not crushed)
-- [ ] Module page load time < 2s on a module with Full body length (spot-check MOA_02 at ~60KB, MOA_08 at ~57KB)
+- [ ] Module page load time < 2s on the largest module (MOA_02 at ~61KB, MOA_08 at ~58KB)
+- [ ] Long modules don't crash the renderer (MOA_02 Apollo Initiation — spot check)
 
-## Regression check
+## Regression check (Session B territory still untouched)
 
-- [ ] Home page unchanged from pre-integration snapshot (no accidental edits)
-- [ ] Protocol lander unchanged from pre-integration snapshot (that's Session B's territory)
-- [ ] Community lander unchanged from pre-integration snapshot
-- [ ] Existing reviews sections unchanged (that's Session B's territory)
-- [ ] Existing imagery unchanged (that's Session B's territory)
+- [ ] Home page unchanged from pre-integration snapshot
+- [ ] Protocol lander unchanged
+- [ ] Community lander unchanged
+- [ ] Existing reviews sections unchanged
+- [ ] Existing imagery unchanged
 - [ ] No console errors on any module page
-- [ ] No broken links across the 20 modules + phase cards + index page
+- [ ] No broken links across the 20 modules + phase cards
 
 ## Sign-off
 
 - [ ] All boxes above checked OR flagged with explanation
-- [ ] Preview URL ready for Stefan + summary of changes doc prepared
-- [ ] Pre-integration snapshot at `content/apollo/lovable/pre-integration-snapshot/` confirmed in place before pushing Session B
+- [ ] Preview URL ready for Stefan + summary of changes doc
+- [ ] Pre-integration snapshot at `content/apollo/lovable/pre-integration-snapshot/` confirmed in place before Session B

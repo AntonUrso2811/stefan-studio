@@ -14,130 +14,9 @@ lede: "You have the knowledge. But information without implementation is worthle
 next_step: "We simplify, prioritize, and commit."
 ---
 
-## Summary
+Building Your Phase 2 Protocol
 
-The Phase 2 capstone. Consolidates five modules of advanced content (training, IF, nutrition, recovery, body recomp) into a single 8-week personalised protocol. Includes the Protocol Hierarchy (three tiers of what to implement when), a 6-question assessment, a fill-in-the-blanks template, and week-by-week execution guidance through to Phase 3.
-
-## Content map
-
-- Introduction — information without implementation is worthless
-- The Protocol Hierarchy — Tier 1 Non-Negotiables, Tier 2 High-Impact, Tier 3 Optimisation
-- Building Your Protocol: The Assessment (6 questions)
-- PHASE 2 PROTOCOL — TEMPLATE
-- Example Completed Protocols
-- WEEK 1: Foundation Reset
-- WEEK 2: Habit Lock-In
-- WEEK 3: Push Phase
-- WEEK 4: Deload Week
-- WEEK 5: Intensification Begins
-- WEEK 6: Intensity Push
-- WEEK 7: Assessment and Push
-- WEEK 8: Deload and Phase Assessment
-- End of Phase 2 Assessment
-- The Weekly Review
-- When to Adjust vs When to Stay the Course
-- The Traffic Light System
-- Avoiding Common Mistakes
-- Phase 3 Overview: Refinement and Specialization
-- Phase 4 Preview: The Complete Man
-- What You Should Have Before Phase 3
-- Your Phase 2 Completion Commitment
-- Final Words
-
-## Frameworks / protocols
-
-**The Protocol Hierarchy — three tiers**
-
-**Tier 1: Non-Negotiables** (must implement — without these, nothing else matters)
-1. Training consistency — follow Phase 2 program; progressive overload on primary lifts
-2. Protein target — hit daily goal, every day
-3. Sleep — 7–9 hours, consistent times
-4. Caloric alignment — match your goal (deficit/maintenance/surplus)
-
-**Tier 2: High-Impact Additions** (after Tier 1 is solid)
-1. Meal timing around training — pre and post-workout nutrition
-2. Recovery tracking — HRV/RHR, subjective assessment, training adjustment
-3. Zone 2 conditioning — 2–3 sessions/week
-4. Stress management — daily breathing, nervous system regulation
-5. Intermittent fasting — if appropriate for goals/lifestyle
-
-**Tier 3: Optimisation** (when Tier 1 and 2 are automatic)
-1. Carb cycling
-2. Advanced supplementation (Tier 2/3 supplements)
-3. Sauna and cold protocols
-4. Nutrient timing precision
-5. Intensity techniques (rest-pause, drop sets, tempo)
-
-**The 6-Question Assessment** — primary goal · body fat estimate · training age · schedule (days/session length/meal prep time) · current weak points · what's worked before
-
-**The 8-Week Structure**
-- Weeks 1–2: Foundation Reset + Habit Lock-In (re-establish baselines, adherence focus)
-- Weeks 3–4: Push Phase + Deload (first intensity block, then recovery week)
-- Weeks 5–6: Intensification Begins + Intensity Push (second block, harder)
-- Weeks 7–8: Assessment Push + Deload (final push, phase review)
-
-**The Weekly Review** — Sunday assessment of training, nutrition, recovery, mindset markers. Adjust next week based on trends.
-
-**The Traffic Light System (Phase 2 variant)** — progress on track (green) · adjust one variable (amber) · stop and reassess (red).
-
-## Visual callouts
-
-- Protocol Hierarchy pyramid — three tiers stacked with items inside
-- 8-Week Structure calendar — phased intensity pattern
-- Protocol Template — fillable worksheet (primary goal / body comp / schedule / weak points)
-- Weekly Review scorecard — training/nutrition/recovery/mindset columns
-
-## Full body
-
-• Introduction - PHASE 2 INTEGRATION
-
-  • The Protocol Hierarchy - PHASE 2 INTEGRATION
-
-  • Building Your Protocol: The Assessment - PHASE 2 INTEGRATION
-
-  • PHASE 2 PROTOCOL - TEMPLATE - PHASE 2 INTEGRATION
-
-  • Example Completed Protocols - PHASE 2 INTEGRATION
-
-  • WEEK 1: Foundation Reset - PHASE 2 INTEGRATION
-
-  • WEEK 2: Habit Lock-In - PHASE 2 INTEGRATION
-
-  • WEEK 3: Push Phase - PHASE 2 INTEGRATION
-
-  • WEEK 4: Deload Week - PHASE 2 INTEGRATION
-
-  • WEEK 5: Intensification Begins - PHASE 2 INTEGRATION
-
-  • WEEK 6: Intensity Push - PHASE 2 INTEGRATION
-
-  • WEEK 7: Assessment and Push - PHASE 2 INTEGRATION
-
-  • WEEK 8: Deload and Phase Assessment - PHASE 2 INTEGRATION
-
-  • End of Phase 2 Assessment - PHASE 2 INTEGRATION
-
-  • The Weekly Review - PHASE 2 INTEGRATION
-
-  • When to Adjust vs When to Stay the Course - PHASE 2 INTEGRATION
-
-  • The Traffic Light System - PHASE 2 INTEGRATION
-
-  • Avoiding Common Mistakes - PHASE 2 INTEGRATION
-
-  • Phase 3 Overview: Refinement and Specialization - PHASE 2 INTEGRATION
-
-  • Phase 4 Preview: The Complete Man - PHASE 2 INTEGRATION
-
-  • What You Should Have Before Phase 3 - PHASE 2 INTEGRATION
-
-  • Your Phase 2 Completion Commitment - PHASE 2 INTEGRATION
-
-  • Final Words - PHASE 2 INTEGRATION
-
-   Building Your Phase 2 Protocol
-
-Introduction - PHASE 2 INTEGRATION
+Introduction
 You have the knowledge.
 
 Five modules of training systems, intermittent fasting, nutrition optimization, recovery mastery, and
@@ -158,7 +37,7 @@ Complexity is the enemy of execution.
 By the end of this module, you will have your protocol written, your calendar mapped, and your path
 forward clear.
 
-The Protocol Hierarchy - PHASE 2 INTEGRATION
+The Protocol Hierarchy
 You cannot do everything at once. Trying to implement every strategy from every module
 simultaneously leads to overwhelm and abandonment.
 
@@ -216,7 +95,7 @@ These provide marginal gains. Only pursue when everything else is dialled in.
 
  5. Intensity techniques - Rest-pause, drop sets, tempo manipulation.
 
-Building Your Protocol: The Assessment - PHASE 2
+Building Your Protocol: The Assessment
 Before building your protocol, honestly assess your current status.
 
 Question 1: What is your primary goal for Phase 2?
@@ -271,7 +150,7 @@ Question 6: What has worked for you before?
 
 Use these answers to build your protocol.
 
-PHASE 2 PROTOCOL - TEMPLATE - PHASE 2 INTEGRATION
+PHASE 2 PROTOCOL
 Fill this out based on your assessment:
 
 Primary Goal: _______________________
@@ -375,7 +254,7 @@ Weekly Review Day: _______
 
    The 30-Day Phase 2 Execution Plan
 
-Example Completed Protocols - PHASE 2 INTEGRATION
+Example Completed Protocols
 Example 1: Fat Loss Focus
 
 Primary Goal: Get lean for summer
@@ -458,7 +337,7 @@ Supplements: Creatine, Vitamin D 3000IU, Omega-3 2g, Magnesium 400mg, Zinc 25mg
 > Now build yours. Write it out. Make it specific. This becomes your operating system for the next 8
 weeks.
 
-WEEK 1: Foundation Reset - PHASE 2 INTEGRATION
+WEEK 1: Foundation Reset
 Your protocol is set. Now we map it to a calendar. Week by week, you will know exactly what to
 focus on, what to implement, and how to progress.
 
@@ -469,8 +348,6 @@ WEEK 1: Foundation Reset
 Focus: Establish baseline, implement core habits
 
 Training:
-
-  • Begin Phase 2 program (Mesocycle 1 - Accumulation)
 
   • Focus on learning any new exercises
 
@@ -508,7 +385,7 @@ Tracking:
 
 > Week 1 Checkpoint: Protocol established. Baseline data collected. Core habits initiated.
 
-WEEK 2: Habit Lock-In - PHASE 2 INTEGRATION
+WEEK 2: Habit Lock-In
 Focus: Solidify routines, push training
 
 Training:
@@ -547,7 +424,7 @@ Tracking:
 
 > Week 2 Checkpoint: Habits becoming automatic. Training intensity appropriate. Nutrition dialled.
 
-WEEK 3: Push Phase - PHASE 2 INTEGRATION
+WEEK 3: Push Phase
 Focus: Training intensity, fine-tuning
 
 Training:
@@ -587,7 +464,7 @@ Tracking:
 > Week 3 Checkpoint: Progression happening. Protocol adjustments made if needed. Fatigue
 managed.
 
-WEEK 4: Deload Week - PHASE 2 INTEGRATION
+WEEK 4: Deload Week
 Focus: Active recovery, assessment
 
 Training:
@@ -645,7 +522,7 @@ Week 4 Assessment Questions:
 > Week 4 Checkpoint: Recovered and ready. First mesocycle complete. Data reviewed. Adjustments
 identified.
 
-WEEK 5: Intensification Begins - PHASE 2 INTEGRATION
+WEEK 5: Intensification Begins
 Focus: New mesocycle, exercise rotation, increased intensity
 
 Training:
@@ -653,8 +530,6 @@ Training:
   • Begin Mesocycle 2 (Intensification phase)
 
   • Rotate primary exercises as planned
-
-  • Higher intensity - RPE 8-9 on primary lifts
 
   • Volume slightly reduced from accumulation phase
 
@@ -684,7 +559,7 @@ Tracking:
 
 > Week 5 Checkpoint: New mesocycle initiated. Intensity increased. Fresh and ready to push.
 
-WEEK 6: Intensity Push - PHASE 2 INTEGRATION
+WEEK 6: Intensity Push
 Focus: Maximum effort, strength expression
 
 Training:
@@ -721,7 +596,7 @@ Tracking:
 
 > Week 6 Checkpoint: Pushing hard. Intensity techniques applied sparingly. Recovery managed.
 
-WEEK 7: Assessment and Push - PHASE 2 INTEGRATION
+WEEK 7: Assessment and Push
 Focus: Evaluate progress, final push before deload
 
 Training:
@@ -758,7 +633,7 @@ Tracking:
 
 > Week 7 Checkpoint: Final push completed. Progress evident. Ready for deload and assessment.
 
-WEEK 8: Deload and Phase Assessment - PHASE 2
+WEEK 8: Deload and Phase Assessment
 Focus: Recovery, comprehensive review, Phase 3 preparation
 
 Training:
@@ -789,7 +664,7 @@ Recovery:
 
   Self-Assessment Framework
 
-End of Phase 2 Assessment - PHASE 2 INTEGRATION
+End of Phase 2 Assessment
 Complete these assessments:
 
 Body Composition:
@@ -844,7 +719,7 @@ Key Learnings:
 
 > Week 8 Checkpoint: Phase 2 complete. Comprehensive assessment done. Ready for Phase 3.
 
-The Weekly Review - PHASE 2 INTEGRATION
+The Weekly Review
 Progress is not linear. Life happens. Circumstances change. The ability to assess yourself
 objectively and make intelligent adjustments separates those who sustain progress from those who
 stall and quit.
@@ -914,7 +789,7 @@ Decision for Next Week:
 
   • Prioritize: _______________________
 
-When to Adjust vs When to Stay the Course - PHASE 2
+When to Adjust vs When to Stay the Course
 Most people adjust too often. They see one bad weigh-in and panic. They have one hard week and
 change everything. This prevents progress.
 
@@ -997,7 +872,7 @@ If energy is consistently low:
 
  5. Check overtraining signs
 
-The Traffic Light System - PHASE 2 INTEGRATION
+The Traffic Light System
 A simple framework for daily decisions:
 
 GREEN: Everything is going well
@@ -1036,7 +911,7 @@ RED: Clear warning signs
 
    Preparing for Phase 3 + 4
 
-Avoiding Common Mistakes - PHASE 2 INTEGRATION
+Avoiding Common Mistakes
 Mistake 1: Changing too often
 
   • Problem: Adjusting weekly based on daily fluctuations
@@ -1067,7 +942,7 @@ Mistake 5: Comparing to others
 
   • Solution: Compare only to your own past data; everyone responds differently
 
-Phase 3 Overview: Refinement and Specialization - PHASE 2
+Phase 3 Overview: Refinement and Specialization
 Phase 2 has given you mastery over the physical - advanced training systems, nutritional precision,
 recovery optimization, and body recomposition strategies. You have spent 60 days building and
 refining your foundation.
@@ -1122,7 +997,7 @@ Mindset Deepening
 > Phase 3 is where you truly individualize your approach based on what you have learned about
 yourself in the first 60 days.
 
-Phase 4 Preview: The Complete Man - PHASE 2
+Phase 4 Preview: The Complete Man
 Phase 4 unlocks at Day 90. This is where the god descends into human form - the physical
 foundation extends into all areas of life.
 
@@ -1169,7 +1044,7 @@ Lifestyle Integration
 > Phase 4 is ongoing - new content added regularly for men who have proven their commitment
 through 90 days of execution.
 
-What You Should Have Before Phase 3 - PHASE 2
+What You Should Have Before Phase 3
 Before Phase 3 unlocks, ensure you have:
 
 Established Habits:
@@ -1217,7 +1092,7 @@ Mindset:
 > If you do not have these, spend more time in Phase 2. There is no rush. The content will be there
 when you are ready.
 
-Your Phase 2 Completion Commitment - PHASE 2
+Your Phase 2 Completion Commitment
 Before moving forward, make this commitment:
 
 I commit to executing my Phase 2 protocol for the full 8 weeks.
@@ -1250,7 +1125,7 @@ I understand that:
 
 Sign: _______________________ Date: _______
 
-Final Words - PHASE 2 INTEGRATION
+Final Words
 You now have everything you need for Phase 2.
 
 The training science to build strength and muscle intelligently.

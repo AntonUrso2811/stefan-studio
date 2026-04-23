@@ -14,96 +14,7 @@ lede: "Most men optimise for the next 30 days. You are going to optimise for the
 next_step: "Longevity is not a separate pursuit from what you have been doing. It is the long-term consequence of doing it well."
 ---
 
-## Summary
-
-The Phase 4 biomarker + protocol module. Moves members from training for the next photo to optimising for the next three decades. Targets the Four Horsemen of chronic disease, gives the full diagnostic panel (Tier 1 Annual Minimum and Tier 2 Optimisation markers), natural testosterone-optimisation protocols, and metabolic/inflammatory/cardiovascular strategies.
-
-## Content map
-
-- Intro — optimise for 30 years, not 30 days
-- The Longevity Mindset — healthspan vs lifespan, the Marginal Decade
-- The Four Horsemen — cardiovascular, cancer, neurodegenerative, metabolic
-- Biomarkers That Matter — Tier 1 Annual Minimum, Tier 2 Optimisation
-- Testosterone Optimisation — Natural Protocols (lifestyle factors in order of impact)
-- Metabolic Health and Insulin Sensitivity
-- Inflammation, Cardiovascular Health, and Aging
-- The Longevity Protocol
-- Module Integration
-
-## Frameworks / protocols
-
-**The Four Horsemen of Chronic Disease** — account for ~80% of deaths in developed nations.
-1. Cardiovascular disease — heart attacks + strokes (leading global killer)
-2. Cancer — second leading cause
-3. Neurodegenerative disease — Alzheimer's, Parkinson's, dementia
-4. Metabolic disease — type 2 diabetes + cascading complications (most preventable)
-
-**The Marginal Decade Framework** — what must you be able to do in your 80s/90s? Carry your own groceries, play with grandchildren, walk up stairs unassisted, get up off the floor. These are the minimum standards that require maintained muscle, cardiovascular fitness, bone density, balance, and cognition over preceding decades.
-
-**Tier 1 — Annual Minimum Biomarkers**
-
-**Lipid Panel (Advanced):**
-- ApoB — single best cardiovascular risk predictor. Optimal <80 mg/dL · Ideal <60 mg/dL
-- Lp(a) — genetically determined, test once. If >50 nmol/L or >30 mg/dL, aggressive risk management required.
-- Triglycerides — optimal <100 mg/dL · >150 fasting indicates metabolic dysfunction
-- HDL — >40 mg/dL minimum · >60 optimal
-
-**Metabolic:**
-- Fasting glucose — optimal 72-85 mg/dL · >100 pre-diabetic
-- Fasting insulin — optimal <6 uIU/mL (rises years before glucose)
-- HbA1c — optimal <5.4% · pre-diabetic 5.7-6.4%
-- HOMA-IR — optimal <1.0
-
-**Inflammatory:**
-- hs-CRP — optimal <1.0 mg/L · >3.0 significant inflammation + cardiovascular risk
-
-**Hormonal:**
-- Total + Free Testosterone (morning, 7-10am, fasted)
-- SHBG — sex hormone-binding globulin
-- Thyroid (TSH, Free T3, Free T4)
-
-**Other:**
-- Vitamin D (25-OH) — optimal 40-60 ng/mL
-- Ferritin — iron storage, avoid both extremes
-- CBC — anaemia, infection screen
-- Liver (ALT, AST), Kidney (Creatinine, eGFR)
-
-**Tier 2 — Optimisation Biomarkers** — Homocysteine, Omega-3 Index, DHEA-S, Cortisol (morning).
-
-**Natural Testosterone Optimisation — 4 lifestyle factors, in order of impact**
-1. **Sleep** — #1 for a reason; execute Phase 1/3 sleep protocols
-2. **Body fat** — adipose contains aromatase (T → oestrogen). Target 12-18% body fat.
-3. **Resistance training** — compound movements under heavy load acutely increase T + GH. Overtraining does the opposite via chronically elevated cortisol.
-4. **Stress management** — cortisol and testosterone are inverse; chronic elevation suppresses T via HPG axis
-
-**Testing Frequency** — annual comprehensive panels. If optimising specific markers (ApoB, testosterone), retest at 90-day intervals.
-
-## Visual callouts
-
-- Four Horsemen card grid — each with preventable levers
-- Biomarker panel — Tier 1 and Tier 2 with optimal ranges (reproducible as a lab-results template)
-- Testosterone Lifestyle Pyramid — 4 factors stacked by impact
-- Marginal Decade illustration — healthspan vs lifespan curves
-
-## Full body
-
-• Intro - Longevity & Optimization
-
-  • The Longevity Mindset - Longevity & Optimization
-
-  • Biomarkers That Matter - Longevity & Optimization
-
-  • Testosterone Optimisation - Natural Protocols - Longevity & Optimization
-
-  • Metabolic Health and Insulin Sensitivity - Longevity & Optimization
-
-  • Inflammation, Cardiovascular Health, and Aging - Longevity & Optimization
-
-  • The Longevity Protocol - Longevity & Optimization
-
-  • Module Integration - Longevity & Optimization
-
-Intro - Longevity & Optimization
+Intro
 Most men optimise for the next 30 days. You are going to optimise for the next 30 years.
 
 Longevity is not about living to 120. It is about extending your healthspan - the years you are fully
@@ -121,7 +32,7 @@ realising it. Resistance training, adequate protein, sleep optimisation, stress 
 - these are all longevity interventions. This module adds the specific markers and strategies that
 take your long-term trajectory from average to exceptional.
 
-The Longevity Mindset - Longevity & Optimization
+The Longevity Mindset
 > The biggest shift this module requires is temporal. Most men think about their health in terms of
 the next competition, the next vacation, the next photo. Longevity thinking means asking a different
 question: what will the cumulative effect of today's decisions be in twenty years?
@@ -155,7 +66,7 @@ throughout the preceding decades.
 
 Everything in this programme is building toward that. This module makes it explicit.
 
-Biomarkers That Matter - Longevity & Optimization
+Biomarkers That Matter
 Annual blood work is the minimum standard. But most standard check-ups test for obvious disease
 rather than optimal function. The Apollo approach tests for optimisation - catching trends before
 they become problems.
@@ -256,7 +167,7 @@ Annual comprehensive panels. If optimising specific markers (e.g., improving Apo
 increasing testosterone through lifestyle), retest the relevant markers at 90-day intervals to track
 progress.
 
-Testosterone Optimisation - Natural Protocols - Longevity &
+Testosterone Optimisation
 Optimization
 Testosterone is the master male hormone. It drives muscle protein synthesis, fat metabolism, bone
 density, mood, motivation, cognitive function, and sexual health. It has been declining across
@@ -336,7 +247,7 @@ for the lifestyle factors above. A man who sleeps 5 hours, carries 30% body fat,
 stressed will not supplement his way to optimal testosterone. Fix the foundation first. Supplements
 are the final 5-10%.
 
-Metabolic Health and Insulin Sensitivity - Longevity &
+Metabolic Health and Insulin Sensitivity
 Optimization
 Insulin resistance is arguably the most dangerous health condition most men have never been
 diagnosed with. It underlies type 2 diabetes, cardiovascular disease, non-alcoholic fatty liver
@@ -415,7 +326,7 @@ metabolic function.
 This is not a permanent tool. Two weeks of data will teach you more about your metabolic health
 than years of guessing.
 
-Inflammation, Cardiovascular Health, and Aging - Longevity &
+Inflammation, Cardiovascular Health, and Aging
 Optimization
 Chronic low-grade inflammation, sometimes called "inflammaging" is the common thread running
 through all four horsemen of chronic disease. It accelerates arterial plaque formation, promotes
@@ -473,7 +384,7 @@ table.
 Resting Heart Rate — A lower resting heart rate generally indicates better cardiovascular fitness.
 Optimal: 50-65 bpm. Above 80 bpm at rest is associated with increased cardiovascular risk.
 
-The Longevity Protocol - Longevity & Optimization
+The Longevity Protocol
 The Five Pillars of the Apollo Longevity Protocol:
 
 1. Maintain Muscle Mass — You will naturally lose 3-8% of muscle mass per decade after 30 if you
@@ -525,7 +436,7 @@ You already take most of these. The additions here are specific to the longevity
 
   • Optional: Astaxanthin 4-12mg (antioxidant, skin, cardiovascular)
 
-Module Integration - Longevity & Optimization
+Module Integration
 Quarterly Review:
 
   • Body composition assessment (photos, measurements, waist circumference)

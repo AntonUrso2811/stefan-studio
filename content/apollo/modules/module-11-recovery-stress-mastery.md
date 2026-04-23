@@ -14,67 +14,9 @@ lede: "Most importantly, you will understand stress as a unified system."
 next_step: "Recovery is not passive. It is an active practice that requires the same intention and discipline as your training."
 ---
 
-## Summary
+• 4-7-8 Breathing
 
-Recovery as a trained skill. HRV and RHR as objective recovery signals, nervous-system regulation as a daily practice, advanced sleep optimisation, and strategic use of heat, cold, and restoration tools. Stress is treated as a unified load drawn from training, work, relationships, finances — managed in total, not in silos.
-
-## Content map
-
-- Introduction — total stress load; recovery as active practice
-- HRV and Recovery Tracking — what it is, why it matters
-- How to Measure HRV (chest strap / wearable / phone app)
-- The HRV Measurement Protocol
-- Interpreting HRV Data — baseline + 7-day rolling average
-- Resting Heart Rate: The Simpler Metric
-- Subjective Recovery Markers — sleep quality, energy, motivation, mood, soreness, performance, appetite
-- Building Your Tracking System — daily / weekly / monthly cadence
-- Nervous System Regulation — sympathetic/parasympathetic balance
-- Advanced Sleep Optimisation — sleep architecture, chronotypes, environment deep-dive
-- Heat Exposure (Sauna) — protocol + evidence
-- Cold Exposure — protocol + timing around training
-- Contrast Therapy — heat/cold alternation
-- Restoration Practices — breathwork, meditation, walking
-- Total Stress Load Management
-- Signs of Under-Recovery + Troubleshooting
-
-## Frameworks / protocols
-
-**HRV Measurement Protocol** — five requirements for useful data
-1. Measure at the same time daily (upon waking ideal)
-2. Same position (lying or seated, but consistent)
-3. Before caffeine, food, or activity
-4. After using the bathroom (full bladder affects readings)
-5. Minimum 1–2 minutes measurement
-
-**HRV Deviation Interpretation**
-- \>10% above baseline — well-recovered; good day for hard training
-- ±5% of baseline — normal; train as programmed
-- 10–15% below baseline — accumulated stress; reduce intensity or volume
-- \>20% below baseline — system stressed; light training, recovery focus, or rest
-
-**Resting Heart Rate Interpretation** — simpler alternative
-- At baseline — normal recovery
-- +3–5 beats — some accumulated stress
-- +5 beats — significant stress; prioritise recovery
-- (Trends matter more than single readings; three consecutive elevated days indicates a real problem)
-
-**The Tracking Cadence**
-- Daily (30 seconds): HRV/RHR measurement, sleep quality 1–10, energy 1–10
-- Weekly (5 min): review 7-day trend; note patterns with training/sleep/stress; adjust next week
-- Monthly: overall trend review; assess training load sustainability; adjust programming if chronic under-recovery
-
-**Subjective Recovery Markers** — sleep quality, energy, motivation to train, mood, muscle soreness, gym performance, appetite. Complement, don't replace, objective data.
-
-## Visual callouts
-
-- HRV Deviation card — colour-coded bands (green/amber/red with training prescription)
-- Daily/Weekly/Monthly cadence card — three-column visual of what to track at each tier
-- Subjective recovery scorecard — 1–10 sliders for the seven markers
-- Sympathetic vs Parasympathetic ANS diagram
-
-## Full body
-
-HRV and Recovery Tracking
+   HRV and Recovery Tracking
 
 Introduction
 Phase 1 introduced recovery basics - sleep hygiene, rest days, foundational stress management.
@@ -1316,19 +1258,19 @@ Stress and Training
 
  • https://pubmed.ncbi.nlm.nih.gov/20528168/
 
-Huberman Lab - Sleep and Recovery
+Huberman Lab
 
  • Comprehensive podcast on sleep optimization
 
  • https://hubermanlab.com/sleep/
 
-Huberman Lab - Cold Exposure
+Huberman Lab
 
  • Protocol details and research review
 
  • https://hubermanlab.com/the-science-and-use-of-cold-exposure-for-health-and-performance/
 
-Examine.com - Sleep Supplements
+Examine.com
 
  • Evidence-based supplement information
 
