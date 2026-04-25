@@ -26,7 +26,16 @@ Version history for the Apollo integration prompts. **Never overwrite** — bump
 
 ## session-c-final-polish
 
-### v1 — 2026-04-24
+### v2 — 2026-04-25 (current)
+- **Scope reduced to modules-only.** v2 ships only Job 1 from v1 (Lovable typography pass on module pages). Jobs 2 (reviews rewrite), 3 (Higgs Field imagery pilot), and 4 (customer review submission) are **deferred to Session D**, which will be authored alongside the in-flight conversion audit on the home + /protocols landers.
+- **Why deferred.** Three reasons: (a) the conversion audit will land voice + structure decisions for reviews and imagery — touching them now forces a Session D re-do; (b) Stefan's brand foundation in `brand-kit/` is currently a stub — the `/brand` skill hasn't been run for him, so there's no canonical voice fingerprint, and reviews/imagery are downstream of voice; (c) the customer review submission form needs to mirror whatever Session D lands as the on-page review treatment, building it now risks scrap-and-rebuild.
+- **Repo-side h2/h3 work already shipped.** Commit `f1353c6` (merged into main as `05104b7` via PR #1, 2026-04-25) added named h2/h3 structural headings to all 20 module markdown files. Body prose byte-identical — verified by stripping `## ` / `### ` prefixes from each modified file and diffing cleanly to its pre-Session-C version. Module-14 (Phase 3 overview) intentionally untouched (single short section).
+- **v2 Lovable prompt** (`session-c-final-polish.v2.md`) is one job: render-layer typography for module pages (body 18/1.65 mobile, 19/1.7 desktop, 66ch measure, h2 hair-rule, h3 spec, auto-TOC from h2 only, sticky mobile drawer, scroll-progress bar). Hard out-of-scope statement on home, /protocols, /community, reviews block, imagery, submission form. Type tokens must be scoped to module pages only — no global bleed.
+- **QA checklist rewritten** (`qa-checklist-session-c.md`) — modules-only typography spec checks + cross-section regression checks against pre-v2 screenshots of home / /protocols / /community to catch any scope bleed.
+- v1 retained in repo for historical reference and as input material for Session D.
+- Driver: Anton, end-to-end.
+
+### v1 — 2026-04-24 (superseded)
 - Final polish pass per Stefan's feedback (2026-04-24, WhatsApp 09:43–09:47 GMT+1). Four jobs:
   1. **Module hierarchy + typography** — named h2/h3 headings added to all 20 source MD files (prerequisite, pre-session), plus Lovable-side typography spec (18/1.65 body, 66ch measure, hair-rule h2s, auto-TOC from h2 only, sticky mobile drawer, scroll-progress bar on module pages).
   2. **Reviews rewrite (de-named + de-AI'd)** — exactly 4 reviews in the universal block, first-name + last-initial only, zero product specifics, zero em dashes, zero AI vocabulary, varied sentence rhythm. 8-entry sample pool provided; Lovable picks 4.
