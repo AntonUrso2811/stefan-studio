@@ -99,6 +99,7 @@ Use the LIVE forms verbatim. Do not introduce new variants without §10 sign-off
 - `LIVE` `START THE NUTRITION PROTOCOL →` — individual blueprint card [T3]
 - `LIVE` `ADD THE HOME GYM →` — Home Gym Add-on card [T3]
 - `LIVE` `SUBMIT APPLICATION →` — Collective application form [T3]
+- `LIVE` `SUBMIT REVIEW →` — customer review submission form on home + /protocols [Session F, 2026-04-25, Stefan sign-off]
 
 ### Secondary (text links)
 

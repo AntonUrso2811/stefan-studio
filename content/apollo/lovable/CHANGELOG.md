@@ -108,7 +108,7 @@ Version history for the Apollo integration prompts. **Never overwrite** — bump
 
 ## session-f-reviews-pull-and-form
 
-### v1 — 2026-04-25 (current — plan approved, ship pending)
+### v1 — 2026-04-25 (current — Stefan binary sign-off received 2026-04-25; Lovable execution and production publish proceeding per the locked sequence)
 - **Override:** Session B Job 2 (one-source-three-placements reviews block — manufactured 6-card render on home + /protocols + Collective deflection) and the Session D Job 0.2/0.3/0.4 review-block patches (name format normalisation, dedup, product tags). The data binding from `public/reviews.csv` to the Reviews block is severed.
 - **Grounds for override:** the 2026-04-25 audit of the upstream 251-row review pool (`apollo-reviews-export.csv`) returned **zero rows scoring `LIKELY_REAL` or `PROBABLY_REAL`**. Quantitative tells:
   1. The top sentence appears 26 times across "different" reviewers (*"I'll keep this on the shelf for years."*); top 40 sentences each appear 3–26 times.
@@ -136,5 +136,7 @@ Version history for the Apollo integration prompts. **Never overwrite** — bump
 - **Inherited locks (unchanged):** S-A 20-module verbatim; S-B/Job1 protocols zero-exec; S-C v1 Job 2 review-content rules (apply to whatever lands in `reviews_published` going forward); S-Cv2 module typography; S-D Job 0/1/2 conversion blocks; S-E proof-block reset (imagery untouched).
 - **Out of scope:** the "What Men Write Back" YouTube block (verbatim hold), module pages, all Session D conversion blocks, all Session E imagery, the Collective application form, any auto-relaunch of the Reviews block (manual session triggered when `reviews_published` ≥ 6 and Stefan signs off), confirmation emails to submitters (deliberate — keeps surface area small).
 - **Approver gate:** Stefan binary YES/NO on the preview before production publish. Sign-off block on `qa-checklist-session-f.md`.
-- **Status pipeline:** Plan approved (2026-04-25) → Lovable execution (next) → Anton runs `qa-checklist-session-f.md` against preview → Stefan binary gate → production publish → form open for real submissions → `reviews_published` accumulates → Reviews block relaunch in a future session when count ≥ 6.
-- **Driver:** Anton, end-to-end. Stefan async-reviews.
+- **Stefan sign-off:** **Received 2026-04-25.** Production publish authorised. Lovable execution + QA gate for Anton; production publish gated only on Anton (no second Stefan gate required).
+- **Status pipeline:** Plan approved (2026-04-25) → **Stefan sign-off received (2026-04-25)** → Lovable execution → Anton runs `qa-checklist-session-f.md` against preview → production publish → form open for real submissions → `reviews_published` accumulates → Reviews block relaunch in a future session when count ≥ 6.
+- **Driver:** Anton, end-to-end. Stefan async-approved direction and brief.
+- **Component copy bank update (2026-04-25):** §2.2 marked old `Reviews` strings `PULLED — pending real submissions`; new `LIVE` entries added for the holding section header `Open for real reviews.`, the 60-word body, the YouTube-link microcopy, and the form sub + disclosure. §3 added `SUBMIT REVIEW →` to the locked CTA register.
