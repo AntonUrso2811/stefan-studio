@@ -14,9 +14,9 @@ lede: "For sixty days you have trained with a generalised programme. The foundat
 next_step: "Choose one as your primary focus for the next 12-16 weeks. You can always shift emphasis in the next training block. But trying to optimise everything simultaneously optimises nothing."
 ---
 
-Identifying Your Training Priority
+## Identifying Your Training Priority
 
-Intro
+### Intro
 For sixty days you have trained with a generalised programme designed to build a foundation of
 strength, movement quality, and work capacity. That foundation is now solid.
 
@@ -33,7 +33,7 @@ combination.
 This module gives you the programming frameworks for each path, plus the tools to build a custom
 programme that matches your specific goals, schedule, and training experience.
 
-Identifying Your Training Priority
+## Identifying Your Training Priority
 Before you write a single programme, you need honest clarity on what you are training for. This
 seems obvious. It is not. Most men have vague goals - "I want to look good and be strong" and end
 up training in a no-man's-land that serves neither objective optimally.
@@ -76,7 +76,7 @@ would make you most satisfied to achieve?
 > Choose one as your primary focus for the next 12-16 weeks. You can always shift emphasis in the
 next training block. But trying to optimise everything simultaneously optimises nothing.
 
-Aesthetic-Focused Programming
+## Aesthetic-Focused Programming
 Training for visual impact and proportions.
 
 Hypertrophy training for aesthetics is not just about getting bigger everywhere. It is about strategic
@@ -117,7 +117,7 @@ compounds.
 Tempo: Control the eccentric (lowering) phase - 2-3 seconds minimum. This increases time under
 tension and mechanical damage, both of which drive hypertrophy.
 
-Aesthetic Programme — Upper/Lower Split
+### Aesthetic Programme — Upper/Lower Split
 Specialization
 Day 1 — Upper (Push Emphasis)
 
@@ -179,7 +179,7 @@ Progression: When you can complete all prescribed sets and reps with good form, 
 by the smallest increment available. For isolation movements, add 1-2 reps before increasing
 weight.
 
-Strength-Focused Programming
+## Strength-Focused Programming
 Training for maximum force production.
 
 Strength training is fundamentally different from hypertrophy training. The adaptations you are
@@ -216,7 +216,7 @@ Your strength programme should centre on these movements or close variations:
 
  5. Pull — barbell row or weighted pull-up
 
-Strength Programme — Upper/Lower
+### Strength Programme — Upper/Lower
 Specialization
 Day 1 — Lower (Squat Focus)
 
@@ -289,7 +289,7 @@ Test a true 1RM no more than every 8-12 weeks. Frequent maximal testing is drain
 injury risk. Use rep maxes to estimate, if you can hit 3 reps at a given weight with 1-2 reps in
 reserve, your estimated 1RM is approximately 90-95% of that weight.
 
-Calisthenics Foundations
+## Calisthenics Foundations
 Bodyweight mastery and progression frameworks.
 
 Calisthenics is the art of controlling your body in space. It builds a distinctive physique - wide lats
@@ -311,7 +311,7 @@ training in several ways:
   • Joint health. Many calisthenics progressions require training through full ranges of motion under
    control, which builds tendon and ligament strength that heavy lifting alone does not.
 
-The Calisthenics Progression Ladder
+### The Calisthenics Progression Ladder
 Each skill has a progression — a series of increasingly difficult variations that take you from
 beginner to advanced.
 
@@ -389,9 +389,9 @@ Dips → Planche (Advanced — Long-term Goal):
 
  8. Full planche (most people will never reach this — and that is fine)
 
-   Weak Point Specialisation
+##    Weak Point Specialisation
 
-Programming Calisthenics
+### Programming Calisthenics
 For men using calisthenics as a supplement to weight training: add 2-3 calisthenics skill
 progressions to the end of 2-3 sessions per week. For example, practice muscle-up progressions
 after your pull day and handstand work after your push day. Or the other way around, start with
@@ -408,7 +408,7 @@ Calisthenics progression is slower than barbell progression. You cannot simply a
 up every week in the same way. Progression happens through increased reps, improved form,
 harder variations, and longer holds. It takes months, not weeks. This is a practice.
 
-Identifying Weak Points
+### Identifying Weak Points
 Targeted protocols for lagging areas.
 
 After sixty days of consistent training, you know where you are strong and where you are not. This
@@ -425,7 +425,7 @@ Performance: Where do you fail in your lifts? If the bench press fails at the bo
 the limiter. If it fails at lockout, triceps are the issue. If your squat fails in the hole, quad strength is
 lacking. If you cannot maintain your back position in a deadlift, your posterior chain is the weak link.
 
-The Specialisation Protocol
+### The Specialisation Protocol
 Increase volume for the weak point by 50-100% while maintaining (not increasing) volume for
 everything else.
 
@@ -442,7 +442,7 @@ Practical implementation:
   • Run specialisation for 6-8 weeks. Reassess. If the weak point has improved, return to balanced
     programming.
 
-Common Weak Points and Fixes
+### Common Weak Points and Fixes
 Lagging Shoulders: Add lateral raises to every session (3x15-20). Train them daily if needed, the
 lateral delts recover quickly and respond to frequency. Use slow eccentrics and partial reps at the
 end of sets for maximum stimulus.
@@ -462,19 +462,19 @@ Weak Legs: Front squats build quads more effectively than back squats for most p
 Bulgarian split squats — arguably the best single exercise for leg development. Increase training
 frequency to 3 lower body sessions per week during specialisation.
 
-Building Your Custom Programme
+## Building Your Custom Programme
 Putting it all together.
 
 You now have the frameworks for aesthetic, strength, and calisthenics training, plus the tools to
 address weak points. This lesson teaches you to design a programme that matches your specific
 goals, schedule, and recovery capacity.
 
-Define Your Primary Goal
+### Define Your Primary Goal
 
 Choose one: aesthetics, strength, calisthenics, or hybrid. Write it down. This determines your
 training split, rep ranges, and exercise selection.
 
-Determine Available Training Days
+### Determine Available Training Days
 
 Be realistic. Not aspirational. How many days per week can you consistently train for the next 12-16
 weeks?
@@ -488,7 +488,7 @@ weeks?
 
   • 6 days: Push/pull/legs repeated. Only appropriate for advanced trainees with excellent recovery.
 
-Select Your Exercises
+### Select Your Exercises
 
 Every session needs:
 
@@ -501,7 +501,7 @@ Every session needs:
 Choose exercises you can progressively overload. If you have never done a movement before,
 spend 2-3 sessions learning the pattern with light weight before loading it.
 
-Programme Your Progression
+### Programme Your Progression
 
 Every programme needs a progression model — how you will systematically increase the challenge
 over time.
@@ -515,12 +515,12 @@ over time.
   • Variation progression (calisthenics): Master a variation, then advance to the next in the
    progression ladder.
 
-Build In Deloads
+### Build In Deloads
 
 Every 4th or 5th week. Reduce volume by 40-50% and intensity by 10-15%. This is not optional.
 Continuous accumulation without deloads leads to staleness, overuse injuries, and burnout.
 
-Step 7: Write It Down
+### Step 7: Write It Down
 
 Your programme should be documented in full before you begin. Every session, every exercise,
 sets, reps, rest periods. Walk into the gym with a plan. Execute the plan. Log the results.

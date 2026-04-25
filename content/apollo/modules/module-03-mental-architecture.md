@@ -14,7 +14,7 @@ lede: "Everything you have learned in Phase 1 is worthless without the right men
 next_step: "Phase 2 awaits those who have earned it."
 ---
 
-The Identity Shift
+## The Identity Shift
 Everything you have learned in Phase 1 - training, nutrition, recovery, mobility - is worthless without
 the right mental architecture. Men who transform and stay transformed do not rely on motivation.
 They undergo an identity shift. Mental attitude is the backbone of everything you do, unless you've
@@ -42,7 +42,7 @@ who executes these standards consistently.
 
 That is the Apollo Initiation.
 
-Discipline Over Motivation
+## Discipline Over Motivation
 Motivation is emotion. It fluctuates based on sleep, stress, mood, weather, and a thousand other
 variables beyond your control. Building your fitness on motivation won't cut it.
 
@@ -59,7 +59,7 @@ and rarely resolves in favour of action.
 The disciplined man spends no energy on these decisions. The choice was made once, at a higher
 level, and execution follows. This frees mental bandwidth for things that actually matter.
 
-How to Build Discipline:
+### How to Build Discipline:
 
 Start with Non-Negotiables: You have already defined these in Week 1. They are not up for debate.
 Wake time, training sessions, basic nutrition - these happen regardless of circumstance.
@@ -76,7 +76,7 @@ Track Your Execution: What gets measured gets managed. Use a simple tracker for 
 negotiables. Checking boxes builds momentum and makes adherence visible. You will not want to
 break a streak.
 
-The Consistency Compound
+## The Consistency Compound
 Results come from consistency, not intensity. The man who trains moderately for ten years will
 outperform the man who trains intensely for six months and quits.
 
@@ -93,7 +93,7 @@ at 80% beats a perfect program you abandon at week three.
 This is why the Apollo approach emphasises fundamentals over advanced tactics. Master the
 basics. Execute them consistently. Time does the rest.
 
-Protecting Consistency:
+### Protecting Consistency:
 
 Plan for Obstacles: Travel, illness, work deadlines - these will happen. Plan for them in advance.
 What is your minimum viable training when traveling? How do you maintain nutrition at restaurants?
@@ -106,43 +106,43 @@ Focus on Process, Not Outcome: Daily execution is within your control. Scale wei
 Attach your identity to what you do, not to external results. The results follow the process, but they
 are not the measure of success. Showing up is.
 
-Mental Models for Training
+## Mental Models for Training
 Your mindset in the gym determines your results as much as your programming.
 
-Training is Practice:
+### Training is Practice:
 
 Reframe training from "working out" to "practice." You are practicing being the strongest, most
 capable version of yourself. Each rep is a repetition of competence. This shifts the experience from
 punishment to refinement.
 
-Ego is the Enemy:
+### Ego is the Enemy:
 
 The fastest way to get injured and stall progress is training for the mirror or the audience. Nobody
 cares what weight you are lifting. They care about whether you look capable a year from now. Check
 your ego at the door. Use weights you can control. Progress intelligently.
 
-Seek Discomfort, Not Pain:
+### Seek Discomfort, Not Pain:
 
 Growth happens at the edge of comfort. You should feel challenged, pushed, uncomfortable. This is
 the stimulus for adaptation. But sharp pain, compromised form, and grinding reps to failure are
 counterproductive. Learn the difference between productive discomfort and destructive pain.
 
-Long Time Horizon:
+### Long Time Horizon:
 
 Think in years, not weeks. You are not trying to get results by next month. You are building a body
 that serves you for decades. This perspective changes everything - you prioritize joint health over
 one-rep maxes, sleep over extra sessions, sustainability over extremes.
 
-Handling Failure and Setbacks
+## Handling Failure and Setbacks
 You will fail. You will miss training sessions, eat poorly, sleep badly, and fall short of your standards.
 This is inevitable. What separates successful men from unsuccessful ones is response to failure.
 
-Failure is Data:
+### Failure is Data:
 
 When you fail, do not catastrophise. Analyse. Why did it happen? What system broke down? How
 can you prevent it next time? Failure without analysis is wasted. Failure with analysis is education.
 
-Self-Compassion vs. Self-Criticism:
+### Self-Compassion vs. Self-Criticism:
 
 Research consistently shows that self-compassion leads to better outcomes than harsh self-
 criticism. This is not about lowering standards. It is about productive response. Beating yourself up
@@ -151,40 +151,40 @@ after a slip does not improve future behaviour - it often triggers further slips
 Acknowledge the failure, identify the cause, commit to the next action. Then move forward. The past
 is fixed. The present is where you operate.
 
-The 24-Hour Rule:
+### The 24-Hour Rule:
 
 When you fail, you have 24 hours to return to baseline. Miss a workout? Train tomorrow. Overeat at
 dinner? Next meal is on point. The longer you wait to correct, the harder it becomes. Momentum
 works in both directions.
 
-Environment Design
+## Environment Design
 Your environment shapes behavior more than willpower. Design it for success.
 
-Remove Friction for Good Behaviors:
+### Remove Friction for Good Behaviors:
 
 Gym bag packed the night before. Healthy food visible and prepared. Training clothes laid out.
 Water bottle filled. Every small friction removed makes execution more likely.
 
-Add Friction for Bad Behaviors:
+### Add Friction for Bad Behaviors:
 
 No junk food in the house. Phone in another room while sleeping. Alcohol not stocked. Video games
 unplugged. You are not relying on willpower to resist temptation - you are removing the temptation.
 
-Curate Your Inputs:
+### Curate Your Inputs:
 
 What you consume mentally affects what you do physically. Follow accounts that inspire and
 educate. Unfollow accounts that promote unrealistic standards, negativity, or distraction. Your social
 media feed is either building you up or tearing you down. There is no neutral.
 
-Find Your Tribe:
+### Find Your Tribe:
 
 You become the average of the people you spend time most with. Surround yourself with men who
 share your standards. This is why the Apollo community exists. Iron sharpens iron. Find training
 partners, accountability partners, men who will call you out when you slip and celebrate when you
 execute.
 
-The Apollo Mindset Summary
-IDENTITY PRINCIPLES:
+## The Apollo Mindset Summary
+### IDENTITY PRINCIPLES:
 
   • You are someone who trains, eats with intention, and prioritizes recovery
 
@@ -192,7 +192,7 @@ IDENTITY PRINCIPLES:
 
   • Who you are becoming matters more than what you are achieving
 
-DISCIPLINE FRAMEWORK:
+### DISCIPLINE FRAMEWORK:
 
   • Non-negotiables are not debated
 
@@ -202,7 +202,7 @@ DISCIPLINE FRAMEWORK:
 
   • Track execution, not just outcomes
 
-MENTAL MODELS:
+### MENTAL MODELS:
 
   • Training is practice for becoming capable
 
@@ -212,7 +212,7 @@ MENTAL MODELS:
 
   • Seek discomfort, avoid destruction
 
-FAILURE PROTOCOL:
+### FAILURE PROTOCOL:
 
   • Analyse without catastrophising
 
@@ -220,7 +220,7 @@ FAILURE PROTOCOL:
 
   • Self-compassion enables improvement
 
-ENVIRONMENT DESIGN:
+### ENVIRONMENT DESIGN:
 
   • Remove friction for good behaviours
 
@@ -230,7 +230,7 @@ ENVIRONMENT DESIGN:
 
   • Surround yourself with men who elevate you
 
-ACTION ITEMS:
+### ACTION ITEMS:
 
  1. Write down the identity statement: "I am a man who _______" - fill in who you are becoming
 

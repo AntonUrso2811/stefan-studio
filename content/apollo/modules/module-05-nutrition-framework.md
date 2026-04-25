@@ -14,7 +14,7 @@ lede: "Forget everything the fitness industry has told you about eating."
 next_step: "Eat like someone who respects his body. The rest takes care of itself."
 ---
 
-The Apollo Nutrition Philosophy
+## The Apollo Nutrition Philosophy
 Forget everything the fitness industry has told you about eating.
 
 You don't need to weigh your chicken breast to the gram. You don't need to track every calorie in an
@@ -62,7 +62,7 @@ It worked for generations.
 
 It still works now.
 
-The Apollo Plate Method
+## The Apollo Plate Method
 You don't need to count calories. You need to see your plate.
 
 The Apollo Plate Method is a visual framework for building meals that support your goals without
@@ -73,7 +73,7 @@ The Framework:
 
 Picture your plate divided into sections:
 
-PROTEIN — 1/4 to 1/3 of the plate
+### PROTEIN — 1/4 to 1/3 of the plate
 
 Every main meal includes a substantial portion of quality protein. This is the anchor of the meal,
 everything else builds around it.
@@ -85,7 +85,7 @@ intentional about combining sources and likely need higher total volume.
 Visual guide: A portion roughly the size of your palm, or slightly larger. For most men, this translates
 to 30-50g of protein per meal.
 
-VEGETABLES & FRUITS — 1/3 to 1/2 of the plate
+### VEGETABLES & FRUITS — 1/3 to 1/2 of the plate
 
 This is where most men fail. Vegetables provide fibre, micronutrients, and volume that keeps you full
 without excessive calories. They're also where you get the phytonutrients that support everything
@@ -98,7 +98,7 @@ particularly nutrient-dense.
 
 Visual guide: Half your plate should be covered in plants. More is fine. Less is a problem.
 
-CARBOHYDRATES — 1/4 of the plate (flex based on activity)
+### CARBOHYDRATES — 1/4 of the plate (flex based on activity)
 
 Carbs are fuel. They support training performance, recovery, and hormone function. The amount you
 need depends on your activity level.
@@ -109,7 +109,7 @@ pasta. Minimally processed sources that your great-grandmother would recognise a
 Visual guide: About a fist-sized portion on training days. Reduce slightly on rest days when energy
 demands are lower. This is where you have flexibility.
 
-FATS — incorporated naturally
+### FATS — incorporated naturally
 
 You don't need to add a "fat section" to your plate. Fats come naturally from your protein sources
 (eggs, fatty fish, meat) and from cooking methods (olive oil, butter, ghee). They also come from
@@ -121,7 +121,7 @@ nuts and seeds, fatty fish (salmon, sardines, mackerel), whole eggs, cheese.
 What to avoid: Industrial seed oils (canola, soybean, corn, vegetable oil), anything hydrogenated,
 excessive fried foods.
 
-The Non-Negotiables:
+### The Non-Negotiables:
 
   • No ultra-processed foods as meal staples
 
@@ -131,7 +131,7 @@ The Non-Negotiables:
 
   • No artificial ingredients you can't pronounce
 
-Application:
+### Application:
 
 You don't need to measure. You need to look at your plate and ask: Is there a solid protein source?
 Are vegetables taking up significant space? Are my carbs coming from whole food sources? Am I
@@ -139,7 +139,7 @@ cooking with quality fats?
 
 If yes to all four, you're eating well. Do this for 90% of your meals, and the results will follow.
 
-Hit Your Protein Floor
+## Hit Your Protein Floor
 If you only focus on one nutritional target, make it protein.
 
 Protein is the most important macronutrient for body composition. It builds and repairs muscle
@@ -152,14 +152,14 @@ Research consistently shows that higher protein intakes support muscle retention
 improves body composition, and enhances recovery from training. This isn't controversial. It's one
 of the most well-established findings in nutrition science.
 
-Your Target: 0.8-1g per pound of bodyweight per day
+### Your Target: 0.8-1g per pound of bodyweight per day
 
 For an 80kg man, that's 140-176g of protein daily. Aim for the middle to upper end of that range.
 
 This is your floor, not your ceiling. You can eat more. You're unlikely to eat too much unless you're
 forcing down protein shakes all day. Most men under eat protein, not overeat it.
 
-Spread It Across Meals
+### Spread It Across Meals
 
 Don't try to hit your entire protein target in one meal. Research on muscle protein synthesis
 suggests that spreading protein intake across 3-4 meals optimises the anabolic response. Each
@@ -168,7 +168,7 @@ meal should contain 30-50g of protein for most men.
 This is why breakfast matters. If you're eating toast and coffee for breakfast, you're starting the day
 in a protein deficit you'll struggle to make up.
 
-Reference Amounts:
+### Reference Amounts:
 
 Use these to build intuition:
 
@@ -184,7 +184,7 @@ Use these to build intuition:
 
   • 200g cottage cheese = 18-22g protein
 
-Track Loosely for One Week
+### Track Loosely for One Week
 
 If you've never paid attention to protein intake, spend one week tracking loosely. You don't need an
 app, just write down what you eat and look up the protein content. Most men are shocked to
@@ -193,7 +193,7 @@ discover how little protein they actually consume.
 After a week, you'll have the intuition to hit your target without tracking. You'll know what a high-
 protein meal looks like. You'll know which foods are protein-dense and which are protein-poor.
 
-Prioritise Whole Food Sources
+### Prioritise Whole Food Sources
 
 Protein shakes are convenient, but they're supplements, not replacements. Get the majority of your
 protein from whole food sources: meat, fish, eggs, dairy. These come packaged with other nutrients
@@ -278,7 +278,7 @@ ScienceDirect — Effects of Varying Protein Amounts on Diet-Induced Thermogenes
 
   • https://www.sciencedirect.com/science/article/pii/S2161831324001662
 
-Eating Structure — When and How Often
+## Eating Structure — When and How Often
 Meal timing is less important than the internet wants you to believe. But structure still matters.
 
 You don't need to eat every three hours to "stoke your metabolism." That's a myth. You also don't
@@ -288,7 +288,7 @@ extreme fasting protocols create more problems than they solve.
 What actually matters is having a consistent eating structure that ensures you hit your protein target
 and supports your training.
 
-The Apollo Default: 3 Main Meals + Optional Snack
+### The Apollo Default: 3 Main Meals + Optional Snack
 
 For most men, three solid meals per day with an optional snack or post-workout protein is the sweet
 spot. This provides:
@@ -301,7 +301,7 @@ spot. This provides:
 
   • No requirement for constant meal prep or eating every few hours
 
-Meal Timing Around Training:
+### Meal Timing Around Training:
 
 Pre-Training: Eat a balanced meal 2-3 hours before training, or a lighter snack 60-90 minutes before.
 You want fuel in your system, but not a full stomach. Some men train well fasted; most perform
@@ -314,7 +314,7 @@ nutrient uptake, and you're likely hungry anyway.
 Don't overthink this. If you're eating three solid meals and training falls somewhere between those
 meals, you're fine.
 
-Breakfast Matters:
+### Breakfast Matters:
 
 Skip the cereal. Skip the toast and jam. Skip the sugar-laden granola marketed as health food.
 
@@ -335,7 +335,7 @@ Good breakfast options:
   • Protein smoothie with Greek yogurt, protein powder (cleanest option you can find, keep that in
    mind), fruit, and nut butter (if you're in a rush)
 
-Evening Eating:
+### Evening Eating:
 
 Eating carbs at night won't make you fat. Eating too many total calories makes you fat. If your total
 intake is appropriate, when you eat, those calories matter very little.
@@ -343,7 +343,7 @@ intake is appropriate, when you eat, those calories matter very little.
 That said, a lighter evening meal (more protein and vegetables, moderate carbs) may improve sleep
 quality for some men. Experiment and see what works for you.
 
-Consistency Over Perfection:
+### Consistency Over Perfection:
 
 The best meal timing is the one you'll actually follow. If you hate breakfast, don't force it, just make
 sure your first meal is protein-rich. If you prefer two larger meals over three moderate ones, that can
@@ -351,13 +351,13 @@ work. The principles matter more than the specific schedule.
 
    Grocery Shopping
 
-Food Quality — What to Eat and What to Avoid
+## Food Quality — What to Eat and What to Avoid
 Not all calories are created equal. The source of your food matters as much as the quantity.
 
 The Apollo approach is simple: eat foods that existed 100 years ago. If your great-great-grandfather
 wouldn't recognise it as food, be skeptical.
 
-BUILD YOUR DIET AROUND THESE:
+### BUILD YOUR DIET AROUND THESE:
 
 Protein Sources:
 
@@ -435,7 +435,7 @@ Quality Fats:
 
   • Fatty fish
 
-MINIMIZE OR ELIMINATE:
+### MINIMIZE OR ELIMINATE:
 
 Ultra-Processed Foods: Anything with a long ingredient list of things you don't recognise. Chips,
 crackers, cookies, packaged snacks, frozen meals, fast food. These foods are engineered to
@@ -454,7 +454,7 @@ but it shouldn't be a daily staple.
 Artificial Ingredients: Artificial sweeteners, colours, flavours, and preservatives. If the ingredient list
 reads like a chemistry experiment, put it back.
 
-The 90/10 Principle:
+### The 90/10 Principle:
 
 Eat according to these guidelines 90% of the time. The other 10% is for life - birthday cake, pizza
 with friends, a beer on the weekend.
@@ -463,7 +463,7 @@ Rigid perfection isn't the goal.
 
 Consistent quality is.
 
-Building Your Kitchen
+## Building Your Kitchen
 You can't eat well if your kitchen is stocked poorly. What you buy determines what you eat.
 
 This lesson gives you practical shopping lists at three budget levels. Use them as templates and
@@ -481,7 +481,7 @@ things you don't recognise, reconsider.
 Buy what you'll actually eat. The healthiest food in the world is useless if it rots in your fridge. Be
 realistic about your cooking habits and preferences.
 
-KITCHEN AUDIT
+### KITCHEN AUDIT
 Before your next shopping trip, clean out your kitchen.
 
 Remove:
@@ -500,7 +500,7 @@ Remove:
 
 If it's not in your house, you won't eat it. Make the healthy choice the easy choice.
 
-BUDGET LIST — Essential and Economical
+### BUDGET LIST — Essential and Economical
 Proteins:
 
   • Eggs (buy in bulk — cheapest quality protein available)
@@ -547,7 +547,7 @@ Fats:
 
   • Butter
 
-STANDARD LIST — Quality and Variety
+### STANDARD LIST — Quality and Variety
 Everything from the Budget List, plus:
 
 Proteins:
@@ -606,7 +606,7 @@ Extras:
 
   • Quality dark chocolate (85%+)
 
-PREMIUM LIST — Optimal Quality
+### PREMIUM LIST — Optimal Quality
 Everything from the Standard List, with upgrades:
 
 Proteins:
@@ -655,11 +655,11 @@ Extras:
 
   • Specialty items (bone marrow, etc.)
 
-Eating Out and Travel
+## Eating Out and Travel
 Real life doesn't happen in a controlled kitchen. You'll eat at restaurants. You'll travel. You'll attend
 social events. The Apollo approach works everywhere, you just need to know how to adapt.
 
-RESTAURANT RULES:
+### RESTAURANT RULES:
 
 Lead with protein. Look at the menu and identify the best protein option first. Grilled steak, roasted
 chicken, fish, seafood. Build the meal around that.
@@ -676,7 +676,7 @@ Skip the bread basket. Don't fill up on empty carbs before your meal even arrive
 One indulgence per meal. Want the appetiser? Skip dessert. Want the dessert? Skip the appetiser.
 Don't let one restaurant meal become a complete free-for-all.
 
-BY CUISINE:
+### BY CUISINE:
 
 Steakhouse: Easy mode. Steak or fish with vegetables. Skip the loaded baked potato and creamed
 spinach.
@@ -690,7 +690,7 @@ the chips and cheese-heavy dishes.
 Asian: Stir-fries with protein and vegetables, steamed dishes, sashimi. Watch for sugary sauces.
 Rice on the side.
 
-TRAVEL:
+### TRAVEL:
 
 Plan ahead. Research restaurants near your hotel. Identify grocery stores. Know your options
 before you're hungry and desperate.
@@ -702,7 +702,7 @@ protein bars or jerky as backup. But sometimes they don't, I always make sure to
 
 Stay hydrated: Travel dehydrates you. Drink water throughout, especially on flights.
 
-SOCIAL EVENTS:
+### SOCIAL EVENTS:
 
 Don't be the guy who can't eat anything or makes a big deal about his diet. That's not the Apollo
 way.
@@ -719,7 +719,7 @@ At parties and gatherings:
 
 The goal is to make good choices easy and automatic, not to be inflexible or antisocial.
 
-Supplements — What's Worth It
+## Supplements — What's Worth It
 Supplements are exactly what the name implies - supplemental. They fill gaps. They don't replace a
 solid diet, and they won't fix a broken one.
 
@@ -727,7 +727,7 @@ The fitness industry makes billions selling supplements with exaggerated claims 
 evidence. Most of it is marketing, not science. Here's what actually works, what might help, and
 what's a waste of money.
 
-TIER 1 — WORTH IT FOR MOST MEN:
+### TIER 1 — WORTH IT FOR MOST MEN:
 
 Creatine Monohydrate
 
@@ -779,7 +779,7 @@ supplements) is poorly absorbed — avoid it.
 Timing: Take with food to avoid nausea. If you're also supplementing magnesium, take them at
 different times as they can compete for absorption.
 
-TIER 2 — SITUATIONALLY USEFUL:
+### TIER 2 — SITUATIONALLY USEFUL:
 
 Protein Powder (Whey or Casein)
 
@@ -806,7 +806,7 @@ Electrolytes
 If you train hard, sweat a lot, or eat low-carb, you may need additional sodium, potassium, and
 magnesium. Especially important in hot climates or during longer training sessions.
 
-TIER 3 — PROBABLY NOT WORTH IT:
+### TIER 3 — PROBABLY NOT WORTH IT:
 
 BCAAs: If you're eating adequate protein, BCAAs are redundant. Your whole food protein already
 contains them.
@@ -818,7 +818,7 @@ Fat Burners: Mostly caffeine with other stimulants. Potentially dangerous, minim
 Most Pre-Workouts: Overpriced caffeine with proprietary blends. If you want a pre-workout boost,
 drink coffee, have a tablespoon of honey and a date or two.
 
-THE BOTTOM LINE:
+### THE BOTTOM LINE:
 
 Get your diet right first.
 
@@ -900,10 +900,10 @@ ScienceDirect — Reviewing Evidence on Vitamin D and Testosterone:
   • Note: Observational studies show association between vitamin D and testosterone. RCTs on
     supplementation effects are mixed, but correcting deficiency is important for overall health.
 
-Body Composition — Losing Fat, Building Muscle
+## Body Composition — Losing Fat, Building Muscle
 Understanding how body composition actually works gives you control over your results.
 
-THE FUNDAMENTAL EQUATION:
+### THE FUNDAMENTAL EQUATION:
 
 Body composition changes based on energy balance and how you partition that energy.
 
@@ -918,7 +918,7 @@ Body Recomposition: Losing fat while building muscle simultaneously. Very possib
 beginners, those returning to training, and those with higher body fat. Requires eating at
 maintenance or a slight deficit while training hard and prioritising protein.
 
-PRACTICAL FAT LOSS:
+### PRACTICAL FAT LOSS:
 
 If fat loss is your goal:
 
@@ -936,7 +936,7 @@ If fat loss is your goal:
  5. Track progress properly — Weigh daily, take the weekly average. Weight fluctuates daily due to
     water, food volume, and other factors. The trend matters, not any single data point.
 
-PRACTICAL MUSCLE GAIN:
+### PRACTICAL MUSCLE GAIN:
 
 If building muscle is your goal:
 
@@ -948,7 +948,7 @@ If building muscle is your goal:
  3. Progressive overload — You must get stronger over time. If you're not progressing in the gym,
    you're not optimising muscle growth.
 
-WHAT THE SCALE DOESN'T TELL YOU:
+### WHAT THE SCALE DOESN'T TELL YOU:
 
 Scale weight is one data point. It doesn't differentiate between muscle, fat, water, and food in your
 digestive system.
@@ -968,7 +968,7 @@ Better indicators of progress:
 A man who gains 2kg but drops a belt notch is making excellent progress, regardless of what the
 scale says.
 
-THE APOLLO APPROACH:
+### THE APOLLO APPROACH:
 
 For most men in Phase 1, the goal is body recomposition - lose some fat, build some muscle,
 improve overall composition. This happens naturally when you:
@@ -987,10 +987,10 @@ Don't obsess over bulk/cut cycles until you've built a foundation.
 
 Just execute the basics and let your body adapt.
 
-Nutrition Summary and Implementation
+## Nutrition Summary and Implementation
 Here's everything you need to execute Apollo Nutrition in Phase 1:
 
-THE NON-NEGOTIABLES:
+### THE NON-NEGOTIABLES:
 
  1. Hit your protein floor daily
 
@@ -1006,7 +1006,7 @@ THE NON-NEGOTIABLES:
 
  6. Eat enough vegetables — Half your plate at main meals
 
-THE STRUCTURE:
+### THE STRUCTURE:
 
   • 3 main meals per day, each with 30-50g protein
 
@@ -1017,7 +1017,7 @@ THE STRUCTURE:
   • Pre and post-training nutrition doesn't need to be complicated — eat a meal 2-3 hours before,
    eat within 1-2 hours after
 
-THE MINDSET:
+### THE MINDSET:
 
   • Quality over quantity
 
@@ -1027,7 +1027,7 @@ THE MINDSET:
 
   • Food is fuel and pleasure, not a math problem
 
-ACTION ITEMS FOR THIS WEEK:
+### ACTION ITEMS FOR THIS WEEK:
 
  1. Audit your kitchen — Remove the processed junk. Stock quality proteins, vegetables, and
    whole food carbs.

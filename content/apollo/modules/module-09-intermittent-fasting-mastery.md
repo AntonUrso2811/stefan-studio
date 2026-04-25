@@ -22,9 +22,9 @@ next_step: "IF is not magic. It is a useful tool that works well for certain peo
 
   • 5:2 Protocol
 
-   The Science of Fasting
+##    The Science of Fasting
 
-Introduction
+### Introduction
 You have heard about intermittent fasting. You have probably seen the claims - burn fat faster, live
 longer, boost testosterone, increase mental clarity. Some of it is true. Some of it is overhyped. Most
 of it is presented without the nuance you need to make it actually work for you.
@@ -40,7 +40,7 @@ understand meal composition. You have a rhythm with food that works.
 > Now you are ready to add IF as a strategic tool - understanding exactly what it does, who it works
 for, and how to implement it without sacrificing the muscle you are building.
 
-The Fed-to-Fasted Transition
+### The Fed-to-Fasted Transition
 > Before you implement any protocol, you need to understand what is actually happening in your
 body when you fast. Not the Instagram version. The real physiology.
 
@@ -64,7 +64,7 @@ The "fasted state" typically begins 8-12 hours after your last meal. By this poi
 
 This is the metabolic state that fasting protocols aim to extend and leverage.
 
-What Happens During Extended Fasting (12-24 hours) -
+### What Happens During Extended Fasting (12-24 hours) -
 Increased Fat Oxidation
 
 As glycogen depletes and insulin remains low, your body up-regulates fat burning. Hormone-
@@ -133,7 +133,7 @@ a real neurochemical response. The combination of stable blood glucose (no post-
 elevated norepinephrine, and ketone production (which the brain can use for fuel) creates a state
 many find optimal for cognitive work.
 
-What Fasting Does NOT Do
+### What Fasting Does NOT Do
 It does not "boost metabolism." Short-term fasting has minimal effect on metabolic rate. Very
 prolonged fasting (multiple days) can actually reduce metabolic rate. The "stoke the metabolic fire
 with frequent meals" myth has been thoroughly debunked, but so has the idea that fasting speeds
@@ -149,7 +149,7 @@ timing. "Detox" is marketing, not physiology.
 It is not necessary for fat loss. Plenty of people get extremely lean eating 5-6 meals per day. IF is
 one approach, not the only approach.
 
-The Honest Assessment
+### The Honest Assessment
 
 Intermittent fasting works primarily because:
 
@@ -169,9 +169,9 @@ day-to-day.
 > IF is not magic. It is a useful tool that works well for certain people in certain situations.
 Understanding this prevents both dismissing it entirely and expecting miracles.
 
-   IF Protocols and Selection
+##    IF Protocols and Selection
 
-References
+### References
 Fed-to-Fasted Transition
 
   • Anton SD et al. (2018) - "Flipping the Metabolic Switch: Understanding and Applying Health
@@ -239,11 +239,11 @@ Fasting Insulin and Metabolic Health
 
   • https://pubmed.ncbi.nlm.nih.gov/28715993/
 
-Intro
+### Intro
 > There is no single "intermittent fasting" protocol. Multiple approaches exist, each with different
 tradeoffs. The right choice depends on your lifestyle, goals, and how your body responds.
 
-16:8 Protocol (Leangains)
+### 16:8 Protocol (Leangains)
 The most popular and sustainable approach. Fast for 16 hours, eat within an 8-hour window.
 
 Typical implementation:
@@ -288,7 +288,7 @@ Who should avoid it:
 
 I personally use this protocol.
 
-18:6 Protocol
+### 18:6 Protocol
 A tighter window. Fast for 18 hours, eat within 6 hours.
 
 Typical implementation:
@@ -330,7 +330,7 @@ Who should avoid it:
 > Before moving onto a more challenging fast, always acclimate your body and work your way up to
 it.
 
-20:4 Protocol (Warrior Diet)
+### 20:4 Protocol (Warrior Diet)
 Fast for 20 hours, eat within a 4-hour window. Essentially one large meal with possible small
 additions.
 
@@ -372,7 +372,7 @@ Who should avoid it:
 
   • Anyone with digestive issues (huge meals stress the gut)
 
-5:2 Protocol
+### 5:2 Protocol
 Not daily fasting, but weekly. Eat normally five days per week, severely restrict calories (500-600) on
 two non-consecutive days.
 
@@ -400,9 +400,9 @@ Who should avoid it:
 
   • Most people focused on consistent training performance
 
-   Implementing IF Without Losing Muscle
+##    Implementing IF Without Losing Muscle
 
-The Apollo Recommendation
+### The Apollo Recommendation
 For most men in this community, start with 16:8.
 
 It provides meaningful fasting benefits while remaining sustainable and practical. It allows adequate
@@ -414,7 +414,7 @@ If 16:8 works well and you want to experiment, you can tighten to 18:6 during fa
 
 Do not start with aggressive protocols.
 
-How to Choose Your Protocol
+### How to Choose Your Protocol
 
 Ask yourself:
 
@@ -430,7 +430,7 @@ Ask yourself:
 > The best protocol is the one you will actually follow. Theoretical optimization means nothing if you
 cannot execute it.
 
-The Protein Priority
+### The Protein Priority
 This is where most people screw up intermittent fasting. They focus on the fasting window and
 forget that the feeding window determines results.
 
@@ -458,7 +458,7 @@ Example for 80kg man (target: 145-160g protein):
 > This is achievable but requires every meal to be protein-focused. You cannot waste meals on low-
 protein foods and expect to hit your target.
 
-Protein Distribution Within Feeding Window
+### Protein Distribution Within Feeding Window
 Research suggests that distributing protein across multiple feedings optimizes muscle protein
 synthesis better than consuming it all at once. The muscle-full effect means there is a ceiling to how
 much protein can stimulate MPS in a single meal - roughly 40-60g for most people.
@@ -474,7 +474,7 @@ Practical application:
 
   • Do not rely on one massive meal to hit your daily target
 
-Pre and Post-Training Nutrition
+### Pre and Post-Training Nutrition
 Training in a fasted state is possible (covered in Lesson 4), but you should not remain fasted long
 after training. The post-workout period is when your muscles are primed for nutrient uptake.
 
@@ -492,7 +492,7 @@ Solutions:
 > The "anabolic window" is not as narrow as old-school bodybuilding claimed, but eating protein
 within 2-3 hours of training is still advisable for maximising muscle protein synthesis.
 
-Pre-Sleep Protein
+### Pre-Sleep Protein
 If your feeding window ends at 8pm and you sleep at 11pm, you have 3 hours without protein
 before an 8-hour overnight fast. That is 11 hours without amino acids available for muscle repair.
 
@@ -503,7 +503,7 @@ This is not mandatory, but it is optimising.
 
 > If your goal is maximum muscle retention during a fasted protocol, pre-sleep protein helps.
 
-What to Eat When Breaking the Fast
+### What to Eat When Breaking the Fast
 Your first meal matters. After 16 hours without food, you want:
 
  1. Protein first - Start with your protein source. This ensures you prioritise what matters most.
@@ -534,7 +534,7 @@ Avoid breaking your fast with:
 
   • Low-protein meals that waste your limited feeding opportunities
 
-Supplementation During Fasting
+### Supplementation During Fasting
 What breaks a fast? Technically, anything with calories. Practically, the question is whether the
 calories are significant enough to disrupt the fasted state's benefits.
 
@@ -573,9 +573,9 @@ Grey area:
 The practical approach: if a splash of cream in your coffee helps you sustain the fast and makes no
 meaningful difference to your results, do not stress about it.
 
-   Fasted Training
+##    Fasted Training
 
-Signs You Are Losing Muscle
+### Signs You Are Losing Muscle
 Monitor these indicators:
 
   • Strength decreasing in the gym over multiple weeks
@@ -589,7 +589,7 @@ Monitor these indicators:
 > If these appear, you are likely undereating protein, undereating calories overall, or both. Adjust
 before continuing.
 
-What the Research Says
+### What the Research Says
 Can you train in a fasted state? Yes.
 
 Should you? It depends.
@@ -620,7 +620,7 @@ Muscle Breakdown: There is some concern that fasted training increases muscle pr
 breakdown. This is technically true but overblown. The increase is modest, and as long as you eat
 adequate protein post-training, net protein balance is maintained.
 
-Who Should Train Fasted
+### Who Should Train Fasted
 Fasted training works well for:
 
  1. Morning trainers who are not hungry - If you train at 6am and do not want to eat at 5am,
@@ -635,7 +635,7 @@ Fasted training works well for:
  4. Low-to-moderate intensity sessions - Zone 2 cardio and lighter training sessions are well-
    suited to fasted states.
 
-Who Should Avoid Fasted Training
+### Who Should Avoid Fasted Training
 Fasted training is not ideal for:
 
  1. High-volume or high-intensity sessions - Heavy leg days, high-rep hypertrophy work, and
@@ -650,9 +650,9 @@ Fasted training is not ideal for:
  4. Very long training sessions - Sessions over 90 minutes likely benefit from pre or intra-workout
    nutrition.
 
-   **Caffeine and Fasted Training**
+###    **Caffeine and Fasted Training**
 
-Fasted Training Protocols
+### Fasted Training Protocols
 Train with nothing but water, black coffee, or plain tea. Consume your first meal post-training when
 your feeding window opens.
 
@@ -699,7 +699,7 @@ performance for most people.
 
 Be mindful of your total daily caffeine intake and timing relative to sleep.
 
-Practical Recommendations
+### Practical Recommendations
 
  1. Experiment - Try fasted training for 2-3 weeks and assess performance, energy, and results.
     Your response is individual.
@@ -712,9 +712,9 @@ Practical Recommendations
  4. Do not force it - If fasted training consistently compromises your performance, it is not worth it.
     Training quality matters more than training timing.
 
-   Troubleshooting IF
+##    Troubleshooting IF
 
-References
+### References
 Performance in Fasted State
 
   • Aird TP et al. (2018) - "Effects of fasted vs fed-state exercise on performance and post-exercise
@@ -736,9 +736,9 @@ Muscle Protein Synthesis and Fasting
 
   • https://pubmed.ncbi.nlm.nih.gov/20125140/
 
-   **Adaptation timeline:**
+###    **Adaptation timeline:**
 
-Hunger Management
+### Hunger Management
 Intermittent fasting is not universally easy. Most people face challenges during adaptation and
 implementation. Knowing how to troubleshoot these issues prevents unnecessary suffering and
 program abandonment.
@@ -779,7 +779,7 @@ eating at certain times - it will signal hunger at those times regardless of act
 > If hunger remains unbearable after 3 weeks of consistent practice, IF may not be right for you.
 That is fine. It is not mandatory.
 
-Energy Crashes
+### Energy Crashes
 Some people experience energy crashes during fasting, particularly in the first few weeks.
 
 Causes and solutions:
@@ -807,7 +807,7 @@ many energy issues.
 > Solution: Ensure you eat sufficient calories during your feeding window. Track for a few days to
 verify.
 
-Social Situations
+### Social Situations
 Fasting protocols can create friction with social eating - breakfast meetings, family meals, dinner
 events outside your window.
 
@@ -825,7 +825,7 @@ Strategies:
  4. Focus on the average - What matters is your pattern over weeks and months, not any single
     day. 90% adherence is excellent.
 
-Sleep Disruption
+### Sleep Disruption
 Some people experience sleep issues when fasting, particularly if their eating window ends too
 early.
 
@@ -848,9 +848,9 @@ protein and fat.
 > Solution: Include complex carbohydrates and protein in your final meal. Consider a small protein
 serving before bed.
 
-   IF and Body Composition
+##    IF and Body Composition
 
-When IF is NOT Right for You
+### When IF is NOT Right for You
 Intermittent fasting is not appropriate for everyone. Consider avoiding or discontinuing IF if:
 
  1. You have a history of disordered eating - IF can trigger restrictive patterns and unhealthy
@@ -875,9 +875,9 @@ Intermittent fasting is not appropriate for everyone. Consider avoiding or disco
 > There is no shame in deciding IF is not for you. It is one tool among many. The goal is results, not
 adherence to any particular method.
 
-   During Fat Loss
+##    During Fat Loss
 
-IF During Fat Loss Phases
+### IF During Fat Loss Phases
 Intermittent fasting is not one-size-fits-all across different body composition goals. How you
 implement IF should change based on whether you are losing fat, maintaining, or building muscle.
 
@@ -913,7 +913,7 @@ Fat loss IF protocol:
 
   • Include 1-2 re-feed days per week at maintenance calories
 
-IF During Maintenance
+### IF During Maintenance
 At maintenance calories, IF is a lifestyle choice rather than a fat loss tool. Some people prefer it.
 Others do not.
 
@@ -939,7 +939,7 @@ Maintenance IF protocol:
 
   • Focus on consistency over perfection
 
-IF During Muscle Gain Phases
+### IF During Muscle Gain Phases
 This is where IF becomes more challenging and potentially counterproductive for some people.
 
 The challenge:
@@ -1005,7 +1005,7 @@ If you want some fasting benefits while prioritising muscle gain, consider:
 
 These provide some fasting benefits without the daily constraint on eating.
 
-Cycling IF Based on Goals
+### Cycling IF Based on Goals
 A practical approach is cycling IF based on your current phase:
 
 Cutting phase: Implement 16:8 or 18:6. Leverage IF's fat loss benefits.
@@ -1017,7 +1017,7 @@ Gaining phase: Relax or abandon IF. Prioritize eating enough. Return to IF when 
 This gives you the benefits of IF when they matter most (fat loss) without fighting against it when it is
 counterproductive (muscle gain).
 
-Tracking Progress
+### Tracking Progress
 
 When using IF for body composition, track:
 
@@ -1034,9 +1034,9 @@ When using IF for body composition, track:
 > If you are losing fat, maintaining strength, and feeling decent, IF is working. If you are losing
 strength, feeling terrible, or not progressing, something needs adjustment.
 
-   Additional Resources
+##    Additional Resources
 
-References
+### References
 IF vs Continuous Restriction
 
   • Cioffi I et al. (2018) - "Intermittent versus continuous energy restriction on weight loss and
@@ -1074,7 +1074,7 @@ Muscle Full Effect
 
   • https://pubmed.ncbi.nlm.nih.gov/20844183/
 
-Pre-Sleep Protein
+### Pre-Sleep Protein
 
   • Res PT et al. (2012) - "Protein ingestion before sleep improves postexercise overnight recovery"
 

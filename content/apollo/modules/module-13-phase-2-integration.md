@@ -14,9 +14,9 @@ lede: "You have the knowledge. But information without implementation is worthle
 next_step: "We simplify, prioritize, and commit."
 ---
 
-Building Your Phase 2 Protocol
+## Building Your Phase 2 Protocol
 
-Introduction
+### Introduction
 You have the knowledge.
 
 Five modules of training systems, intermittent fasting, nutrition optimization, recovery mastery, and
@@ -37,14 +37,14 @@ Complexity is the enemy of execution.
 By the end of this module, you will have your protocol written, your calendar mapped, and your path
 forward clear.
 
-The Protocol Hierarchy
+### The Protocol Hierarchy
 You cannot do everything at once. Trying to implement every strategy from every module
 simultaneously leads to overwhelm and abandonment.
 
 > The key is prioritization - selecting the highest-impact elements for your specific situation and
 building a sustainable system.
 
-The Protocol Hierarchy
+### The Protocol Hierarchy
 
 Not all elements are equal. Some are foundational and non-negotiable. Others are optimizations that
 matter only after the foundation is solid.
@@ -95,7 +95,7 @@ These provide marginal gains. Only pursue when everything else is dialled in.
 
  5. Intensity techniques - Rest-pause, drop sets, tempo manipulation.
 
-Building Your Protocol: The Assessment
+### Building Your Protocol: The Assessment
 Before building your protocol, honestly assess your current status.
 
 Question 1: What is your primary goal for Phase 2?
@@ -150,7 +150,7 @@ Question 6: What has worked for you before?
 
 Use these answers to build your protocol.
 
-PHASE 2 PROTOCOL
+### PHASE 2 PROTOCOL
 Fill this out based on your assessment:
 
 Primary Goal: _______________________
@@ -252,9 +252,9 @@ Photos: Monthly - Day: _______ Training Log: App / Notebook / Spreadsheet
 
 Weekly Review Day: _______
 
-   The 30-Day Phase 2 Execution Plan
+##    The 30-Day Phase 2 Execution Plan
 
-Example Completed Protocols
+### Example Completed Protocols
 Example 1: Fat Loss Focus
 
 Primary Goal: Get lean for summer
@@ -337,13 +337,13 @@ Supplements: Creatine, Vitamin D 3000IU, Omega-3 2g, Magnesium 400mg, Zinc 25mg
 > Now build yours. Write it out. Make it specific. This becomes your operating system for the next 8
 weeks.
 
-WEEK 1: Foundation Reset
+### WEEK 1: Foundation Reset
 Your protocol is set. Now we map it to a calendar. Week by week, you will know exactly what to
 focus on, what to implement, and how to progress.
 
 Phase 2 Week-by-Week Breakdown
 
-WEEK 1: Foundation Reset
+### WEEK 1: Foundation Reset
 
 Focus: Establish baseline, implement core habits
 
@@ -385,7 +385,7 @@ Tracking:
 
 > Week 1 Checkpoint: Protocol established. Baseline data collected. Core habits initiated.
 
-WEEK 2: Habit Lock-In
+### WEEK 2: Habit Lock-In
 Focus: Solidify routines, push training
 
 Training:
@@ -424,7 +424,7 @@ Tracking:
 
 > Week 2 Checkpoint: Habits becoming automatic. Training intensity appropriate. Nutrition dialled.
 
-WEEK 3: Push Phase
+### WEEK 3: Push Phase
 Focus: Training intensity, fine-tuning
 
 Training:
@@ -464,7 +464,7 @@ Tracking:
 > Week 3 Checkpoint: Progression happening. Protocol adjustments made if needed. Fatigue
 managed.
 
-WEEK 4: Deload Week
+### WEEK 4: Deload Week
 Focus: Active recovery, assessment
 
 Training:
@@ -522,7 +522,7 @@ Week 4 Assessment Questions:
 > Week 4 Checkpoint: Recovered and ready. First mesocycle complete. Data reviewed. Adjustments
 identified.
 
-WEEK 5: Intensification Begins
+### WEEK 5: Intensification Begins
 Focus: New mesocycle, exercise rotation, increased intensity
 
 Training:
@@ -559,7 +559,7 @@ Tracking:
 
 > Week 5 Checkpoint: New mesocycle initiated. Intensity increased. Fresh and ready to push.
 
-WEEK 6: Intensity Push
+### WEEK 6: Intensity Push
 Focus: Maximum effort, strength expression
 
 Training:
@@ -596,7 +596,7 @@ Tracking:
 
 > Week 6 Checkpoint: Pushing hard. Intensity techniques applied sparingly. Recovery managed.
 
-WEEK 7: Assessment and Push
+### WEEK 7: Assessment and Push
 Focus: Evaluate progress, final push before deload
 
 Training:
@@ -633,7 +633,7 @@ Tracking:
 
 > Week 7 Checkpoint: Final push completed. Progress evident. Ready for deload and assessment.
 
-WEEK 8: Deload and Phase Assessment
+### WEEK 8: Deload and Phase Assessment
 Focus: Recovery, comprehensive review, Phase 3 preparation
 
 Training:
@@ -662,9 +662,9 @@ Recovery:
 
  • Full recovery before Phase 3
 
-  Self-Assessment Framework
+##   Self-Assessment Framework
 
-End of Phase 2 Assessment
+### End of Phase 2 Assessment
 Complete these assessments:
 
 Body Composition:
@@ -719,12 +719,12 @@ Key Learnings:
 
 > Week 8 Checkpoint: Phase 2 complete. Comprehensive assessment done. Ready for Phase 3.
 
-The Weekly Review
+### The Weekly Review
 Progress is not linear. Life happens. Circumstances change. The ability to assess yourself
 objectively and make intelligent adjustments separates those who sustain progress from those who
 stall and quit.
 
-The Weekly Review
+### The Weekly Review
 
 Every week, take 10-15 minutes to review your progress and make decisions. Schedule this - put it
 on your calendar.
@@ -789,7 +789,7 @@ Decision for Next Week:
 
   • Prioritize: _______________________
 
-When to Adjust vs When to Stay the Course
+### When to Adjust vs When to Stay the Course
 Most people adjust too often. They see one bad weigh-in and panic. They have one hard week and
 change everything. This prevents progress.
 
@@ -817,7 +817,7 @@ Adjust when:
 
   • Signs of overtraining or excessive stress
 
-How to Adjust
+### How to Adjust
 
 When adjustment is needed, change one variable at a time. Otherwise, you cannot identify what
 worked.
@@ -872,7 +872,7 @@ If energy is consistently low:
 
  5. Check overtraining signs
 
-The Traffic Light System
+### The Traffic Light System
 A simple framework for daily decisions:
 
 GREEN: Everything is going well
@@ -909,9 +909,9 @@ RED: Clear warning signs
 
 > Check in with yourself daily. What colour is today? Adjust accordingly.
 
-   Preparing for Phase 3 + 4
+##    Preparing for Phase 3 + 4
 
-Avoiding Common Mistakes
+### Avoiding Common Mistakes
 Mistake 1: Changing too often
 
   • Problem: Adjusting weekly based on daily fluctuations
@@ -942,14 +942,14 @@ Mistake 5: Comparing to others
 
   • Solution: Compare only to your own past data; everyone responds differently
 
-Phase 3 Overview: Refinement and Specialization
+### Phase 3 Overview: Refinement and Specialization
 Phase 2 has given you mastery over the physical - advanced training systems, nutritional precision,
 recovery optimization, and body recomposition strategies. You have spent 60 days building and
 refining your foundation.
 
 Phase 3 takes you further. Here is what is coming.
 
-Phase 3 Overview: Refinement and Specialization
+### Phase 3 Overview: Refinement and Specialization
 
 Phase 3 unlocks at Day 60. It assumes you have executed Phase 1 and Phase 2 consistently. The
 content becomes more specialized and individualized.
@@ -997,7 +997,7 @@ Mindset Deepening
 > Phase 3 is where you truly individualize your approach based on what you have learned about
 yourself in the first 60 days.
 
-Phase 4 Preview: The Complete Man
+### Phase 4 Preview: The Complete Man
 Phase 4 unlocks at Day 90. This is where the god descends into human form - the physical
 foundation extends into all areas of life.
 
@@ -1044,7 +1044,7 @@ Lifestyle Integration
 > Phase 4 is ongoing - new content added regularly for men who have proven their commitment
 through 90 days of execution.
 
-What You Should Have Before Phase 3
+### What You Should Have Before Phase 3
 Before Phase 3 unlocks, ensure you have:
 
 Established Habits:
@@ -1092,7 +1092,7 @@ Mindset:
 > If you do not have these, spend more time in Phase 2. There is no rush. The content will be there
 when you are ready.
 
-Your Phase 2 Completion Commitment
+### Your Phase 2 Completion Commitment
 Before moving forward, make this commitment:
 
 I commit to executing my Phase 2 protocol for the full 8 weeks.
@@ -1125,7 +1125,7 @@ I understand that:
 
 Sign: _______________________ Date: _______
 
-Final Words
+### Final Words
 You now have everything you need for Phase 2.
 
 The training science to build strength and muscle intelligently.

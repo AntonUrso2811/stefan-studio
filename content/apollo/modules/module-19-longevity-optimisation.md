@@ -14,7 +14,7 @@ lede: "Most men optimise for the next 30 days. You are going to optimise for the
 next_step: "Longevity is not a separate pursuit from what you have been doing. It is the long-term consequence of doing it well."
 ---
 
-Intro
+## Intro
 Most men optimise for the next 30 days. You are going to optimise for the next 30 years.
 
 Longevity is not about living to 120. It is about extending your healthspan - the years you are fully
@@ -32,7 +32,7 @@ realising it. Resistance training, adequate protein, sleep optimisation, stress 
 - these are all longevity interventions. This module adds the specific markers and strategies that
 take your long-term trajectory from average to exceptional.
 
-The Longevity Mindset
+## The Longevity Mindset
 > The biggest shift this module requires is temporal. Most men think about their health in terms of
 the next competition, the next vacation, the next photo. Longevity thinking means asking a different
 question: what will the cumulative effect of today's decisions be in twenty years?
@@ -66,7 +66,7 @@ throughout the preceding decades.
 
 Everything in this programme is building toward that. This module makes it explicit.
 
-Biomarkers That Matter
+## Biomarkers That Matter
 Annual blood work is the minimum standard. But most standard check-ups test for obvious disease
 rather than optimal function. The Apollo approach tests for optimisation - catching trends before
 they become problems.
@@ -167,7 +167,7 @@ Annual comprehensive panels. If optimising specific markers (e.g., improving Apo
 increasing testosterone through lifestyle), retest the relevant markers at 90-day intervals to track
 progress.
 
-Testosterone Optimisation
+## Testosterone Optimisation
 Optimization
 Testosterone is the master male hormone. It drives muscle protein synthesis, fat metabolism, bone
 density, mood, motivation, cognitive function, and sexual health. It has been declining across
@@ -247,7 +247,7 @@ for the lifestyle factors above. A man who sleeps 5 hours, carries 30% body fat,
 stressed will not supplement his way to optimal testosterone. Fix the foundation first. Supplements
 are the final 5-10%.
 
-Metabolic Health and Insulin Sensitivity
+## Metabolic Health and Insulin Sensitivity
 Optimization
 Insulin resistance is arguably the most dangerous health condition most men have never been
 diagnosed with. It underlies type 2 diabetes, cardiovascular disease, non-alcoholic fatty liver
@@ -326,7 +326,7 @@ metabolic function.
 This is not a permanent tool. Two weeks of data will teach you more about your metabolic health
 than years of guessing.
 
-Inflammation, Cardiovascular Health, and Aging
+## Inflammation, Cardiovascular Health, and Aging
 Optimization
 Chronic low-grade inflammation, sometimes called "inflammaging" is the common thread running
 through all four horsemen of chronic disease. It accelerates arterial plaque formation, promotes
@@ -384,7 +384,7 @@ table.
 Resting Heart Rate — A lower resting heart rate generally indicates better cardiovascular fitness.
 Optimal: 50-65 bpm. Above 80 bpm at rest is associated with increased cardiovascular risk.
 
-The Longevity Protocol
+## The Longevity Protocol
 The Five Pillars of the Apollo Longevity Protocol:
 
 1. Maintain Muscle Mass — You will naturally lose 3-8% of muscle mass per decade after 30 if you
@@ -436,7 +436,7 @@ You already take most of these. The additions here are specific to the longevity
 
   • Optional: Astaxanthin 4-12mg (antioxidant, skin, cardiovascular)
 
-Module Integration
+## Module Integration
 Quarterly Review:
 
   • Body composition assessment (photos, measurements, waist circumference)
