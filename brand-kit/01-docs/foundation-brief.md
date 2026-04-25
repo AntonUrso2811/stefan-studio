@@ -1,348 +1,283 @@
-# ⚠️ TODO — STEFAN BRAND CONTENT NOT YET AUTHORED
+# Stefan Jankovic / Men of Apollo — Foundation Brief
 
-This file was cloned from the urso-studio template. Replace the content below
-with Stefan-specific brand material by running the /brand skill in Claude Code:
-
-    /brand — Author foundation brief for Stefan
-
-Until then, this file is INVALID and any tool that reads it must refuse.
-
-Original Urso content is preserved below as reference structure only.
+**Version:** 1.0 · **Status:** Extracted via T1–T5 protocol (founder unavailable for direct interview) · **Date:** 2026-04-25 · **Author:** Anton Urso via Claude Code
 
 ---
 
+## How to read this file
 
----
-type: brand
-phase: roll-up
-foundation_version: v1.5
-workspace_type: agency
-under_agency: none
-client: urso-and-co
-last_edited: 2026-04-19
-status: READY
-tags:
-  - brand
-  - foundation
-  - roll-up
-  - foundation-brief
-aliases:
-  - Foundation Brief
-  - Brand Foundation
-  - Foundation
-updated: 2026-04-19
----
+Stefan was not available for the standard `/brand` interview. This foundation was extracted from a tiered signal hierarchy. Every claim cites its source by tier, file, or URL. Confidence is rated per section. The gap report at the end lists what only Stefan can resolve.
 
-# Foundation Brief — Urso & Co (agency workspace)
+**Signal tiers:**
 
-> Master index for the Urso & Co brand foundation. **Status: READY.** All 5 phases complete + Phase 1.5 captured + agency-mode house-style overlay produced. The `/copy` skill consumes this doc first on every draft — do not delete it, do not rename it.
+- **T1** — Founder-direct artefacts. The Compass deep-research dossier at `brand-kit/00-research/dossier-2026-04-25.md`; the 20 module bodies at `content/apollo/modules/`.
+- **T2** — Founder public surface. Instagram [@stefs.way](https://www.instagram.com/stefs.way/) (175K followers, 264 posts); YouTube [@Stefswayy](https://www.youtube.com/@Stefswayy); Skool community `skool.com/stefs-way-1201`; Stan store `stan.store/stefsway`.
+- **T3** — Founder product surface. Live `menofapollo.com` (homepage + `/protocols`) — captured 2026-04-25 as PDFs in `~/Downloads/screencapture-preview-apollo-ascension-landing-lovable-app-*.pdf`.
+- **T4** — Customer triangulation. Live-site reviews (Liam, Nathan L., Richard, Joe, Matthew, Niall); Session C 8-review pool at `content/apollo/lovable/session-c-final-polish.v1.md` lines 89–96; "What Men Write Back" YouTube comment block on T3.
+- **T5** — Negative space. The men's-fitness adjacent category Stefan refuses (TRT/peptide creators, Tate-sphere, Goggins-sphere, Kinobody overlap).
+
+**Confidence ratings:** *high* (T1+T2 alignment, multiple corroborating sources) / *medium* (T2 or T3 only) / *low* (inferred — flag for Stefan when he surfaces).
 
 ---
 
-## Status
+## 1. Brand identity
 
-- **Foundation version**: v1.5
-- **Workspace type**: agency (the agency itself; its own brand and its client-facing quality floor in one roll-up)
-- **Under agency**: none (Urso & Co *is* the agency; no parent)
-- **Last updated**: 2026-04-22
-- **Readiness**: `READY` — all phases complete; brand kit v1 finalised (outlined SVGs + 19 PNGs + favicon, wordmark C1 selected); component copy bank v1 added; **Voice System framework v1 reverse-engineered and documented at `methods/voice-system-v1.md`** (awaiting Anton's Y / E / F review per section); Claude Design re-upload package staged at `CLAUDE-DESIGN-RE-PROMPT.md`
-
-### Phase checklist
-
-| Phase | Output | Status | Notes |
-|---|---|---|---|
-| 1 — Research Sheet | [[research-sheet]] | ✓ final | Market-strategic (DR-sourced); ethnographic gap flagged; founder-proxy operator voice substitutes |
-| 1.5 — Founder Insight Interview | [[founder-insight-interview]] | ✓ captured | Live session 2026-04-19; Q6 + Q7 are positioning-level gold |
-| 2 — Avatar | [[avatar]] | ✓ final | One primary avatar; UK £1–10M DTC founder; 4 open questions resolved in this brief (§ Outstanding items) |
-| 3 — Offer Brief | [[offer-brief]] | ✓ final | 5-tier ladder locked (Audit £1,497 / £1,497 / £2,997 / £5,997 / Voice System Install £19k); Big Idea + UMS reconciled with Q6/Q7 |
-| 4 — Beliefs | [[beliefs]] | ✓ final | 7 belief chains with proof; sequenced for asset type |
-| 5 — Brand Identity | [[brand-identity]] | ✓ final | Mode A; 7 fields confirmed; visual system locked (Source Serif 4 + IBM Plex Sans; Ink + Bone + Ox-blood + Stone) |
-| Agency overlay — House Style | [[house-style]] | ✓ final | Quality floor + MSA clause + monthly ROI template + tooling defaults |
-
-All phases final. No BLOCKED fields. `/copy` may draft.
-
----
-
-## Summary of each sub-doc
-
-### [[research-sheet]] — Phase 1
-
-Market-strategic research sheet derived from `Deep Research.md` and the five `_context/` briefs. Category-level findings:
-
-- The generic "AI agency" category is in public collapse (Gartner 40%+ cancellation, MIT 95% pilot failure, Ottley / Saraev public de-risking, Skool community at 332k members).
-- The tooling layer commoditised (Cowork GA April 2026, Skills Feb 2026, n8n ~96% of low-code by Q4 2025).
-- What held and expanded: audit + build + adoption + governance. The frame shifted from "build" to "AI operations partner."
-- Regulatory tailwinds (EU AI Act enforcement 2026-08-02, Data (Use and Access) Act 2025) are a differentiation lever for UK operators vs US inbound.
-- ICP locked: £1–10M UK DTC / Shopify-WooCommerce, 2–20 employees, founder or head of ops, GoCardless-native, sceptical of AI agency pitches.
-- **Gap flagged**: no verbatim forum / Amazon / Reddit buyer quotes; substituted by founder-proxy operator voice (Anton's Celtic Coastal + Baja Coastal, 2023–2025).
-
-### [[founder-insight-interview]] — Phase 1.5
-
-Live founder interview, captured verbatim 2026-04-19. Key carry-forwards:
-
-- **Q1 (peer network)**: transatlantic, cross-vertical, including ex-business partner at KeraRose (US hair care, ~$1–1.5M/month). Operator credibility is e-com-native, not UK-specific.
-- **Q4 (non-conversion)**: *"it just felt a bit too salesy"* — validates the dry, restraint-led voice discipline.
-- **Q6 (positioning gold)**: the avatar's quiet aspiration is *profitable, frictionless scale* — not Chad-scale. Net margin above 20% as the business grows, not revenue-theatre. Kills the "we'll 10x you" copy category.
-- **Q7 (the avatar's operator DNA)**: *"intuition and heartbeat"* — they are not under-skilled. Kills any "I'll teach you how to run your ops" framing. Urso & Co installs infrastructure their intuition deserves.
-
-### [[avatar]] — Phase 2
-
-One primary avatar: the £1–10M UK DTC founder, early 30s to mid 40s, Shopify / Klaviyo / Gorgias / Recharge stack, operator-literate, margin-literate, prior-attempt-fatigued on AI vendors. Quote source split disclosed (CONSTRUCTED vs VERBATIM) — later waves (LinkedIn DMs, discovery call transcripts) will upgrade CONSTRUCTED lines over the 90-day sprint.
-
-**Avatar one-liner**:
-> *A £1–10M UK DTC founder who doesn't need teaching, needs infrastructure. Margin-literate, reality-primary, burned by AI vendors, and quietly desperate to scale without losing themselves to the business they built to get free. The buy trigger is a specific pain number — not a pitch.*
-
-### [[offer-brief]] — Phase 3
-
-5-tier ladder locked:
-
-| Tier | Price | Format |
+| Field | Value | Source |
 |---|---|---|
-| AI Ops Audit | £1,497 fixed | 5-day sprint |
-| Starter retainer | £1,497/mo | 3-mo min |
-| Growth retainer | £2,997/mo | 3-mo min |
-| Partner retainer | £5,997/mo | 3-mo min |
-| Voice System Install | £19k one-time | 2–3 weeks |
+| Founder | Stefan Jankovic | T1 dossier §1; T3 live site `BY STEFAN JANKOVIC · MEN OF APOLLO` |
+| Personal handle | Stef's Way / `@stefs.way` / `@Stefswayy` | T2 IG, YouTube |
+| Consumer brand | Men of Apollo | T3 menofapollo.com |
+| What they sell | The Apollo Protocols (low-ticket, $97 stack); The Collective (high-ticket, application-only, lifetime access) | T3 live site offer page |
+| Confidence | High | — |
 
-Big Idea: *"The technology layer is commodity. The operator-empathy layer is not."* Reconciled with Q6 (buyer's destination: profitable frictionless scale) and Q7 (UMS does not teach — it installs infrastructure the operator's intuition deserves).
-
-Public framing discipline: *"a pair of gourmet salt DTC brands scaled to multiple seven figures across UK and US, 60,000+ units shipped, exited December 2025."* Brand names (Celtic Coastal / Baja Coastal) stay in sales conversations.
-
-MSA boundary clause (one-sentence mirror): *"Retainers cover voice-trained content inside installed workflows; standalone content projects are scoped and priced separately."*
-
-### [[beliefs]] — Phase 4
-
-Seven belief chains, each with avatar-voice blocker, target belief, bridging proof, and sequencing rules per asset type (outbound → landing → proposal → case study → retention). The belief order across a full buyer journey:
-
-1. Not another generic AI agency
-2. Anton has earned operator credibility
-3. The audit delivers real work
-4. The retainer won't scope-creep
-5. Voice-trained outputs will actually sound like my brand
-6. This studio will still be here in 12 months
-7. Installing Urso & Co is the right move THIS quarter
-
-### [[brand-identity]] — Phase 5 (Mode A)
-
-Founder-direct input. All 7 required fields CONFIRMED 2026-04-19.
-
-- **Archetype**: Sage (primary) + Magician (secondary). Explicitly NOT Hero, NOT Caregiver.
-- **Register**: quietly authoritative operator; Basecamp / Stripe Press / Monocle / accountant's letterhead register.
-- **Cultural ancestors**: Jason Fried, Stripe Press, Monocle, Derek Sivers, The Economist, a good accountant's letterhead, university press book covers.
-- **Aspirational identity**: *"The Founder Who's No Longer The Bottleneck."*
-- **Signature vocabulary** (10): ops, install, ship, workflow, voice-trained, runbook, backend, queue, margin, retention.
-- **Refused vocabulary** (10): agency, transformation, synergy, unlock, seamless, leverage (verb), game-changer, cutting-edge, revolutionary, AI-powered.
-- **Sentence fingerprint**: 12–18 words average, periodic, declarative, operator-slang.
-- **Founder signature stories** (3 production-ready anchors): Easter Sunday 2025 IP letter; Amazon listings pulled mid-scale; customer spec/cert questions with no knowledge base.
-- **Visual system** (locked): Source Serif 4 + IBM Plex Sans + IBM Plex Mono; Ink `#0f1114` + Bone `#f6f2eb` + Ox-blood `#5b1e24` + Stone `#c4bdb4`; one ox-blood mark per asset; B&W first.
-
-### [[house-style]] — Agency overlay
-
-Quality floor for every Urso & Co deliverable — internal, public, and client-facing. Includes:
-
-- 9-check quality floor
-- Universal always/never rules
-- UK language conventions
-- Consolidated signature and refused vocabulary
-- Voice System reference (TBD hook — full framework to be documented in `_methods/voice-system-v1.md` in a later session)
-- Approval chain (current + scaling path)
-- Monthly ROI report template (6 sections, delivered day 25 of each retainer month)
-- Tooling defaults (Cowork, Claude Projects, n8n, GoCardless, Smartlead, Apollo, Cal.com, Notion, Attio, Docuseal)
-- MSA clause (full version as code block + one-sentence mirror)
-- Compliance posture (public + internal)
-- Two client engagement types (Primary ICP / Adjacent workflow) + two case study template variants
-- Case study naming policy (anonymised by default; named with written consent)
+**Disambiguation lock.** A 6'11" Serbian-Canadian basketball player named *Stefan Janković* is more Google-indexed than the coach. Brand copy must lead with **"Stefan Jankovic, founder of Men of Apollo"** and avoid biography overlap (no "big man," no Mississauga, no Calgary references). [T1 dossier §8]
 
 ---
 
-## Changelog
+## 2. Archetype + register
 
-### v1.5 — Voice System framework + Claude Design re-prompt (2026-04-22)
+**Primary archetype: Sage / Mentor.** [T1 dossier §5; high confidence]
 
-- **Voice System v1 documented** at [[urso-brand-handoff/methods/voice-system-v1|methods/voice-system-v1.md]]. Reverse-engineered from observable artefacts in the vault (foundation/, outputs/, _context/, plus founder voice patterns across 2026-04-19 and 2026-04-22 sessions). Covers: inputs, outputs, 5-step capture phase, application phase, 7 principles, Cowork-native architecture, calibration cadence per tier, 7 failure modes with fixes, what's documented vs what's not, full provenance trail.
-- **`urso-brand-handoff/methods/` sub-folder created** — keeps the framework alongside the brand handoff scope rather than spinning a new root folder. Path chosen for: (a) no VAULT-RULES new-root approval friction, (b) framework gets uploaded as part of the standard brand handoff package to any future Claude Design / Cowork session.
-- **Claude Design re-upload package staged** at [[urso-brand-handoff/CLAUDE-DESIGN-RE-PROMPT|CLAUDE-DESIGN-RE-PROMPT.md]]. Canonical "press play again" artefact for any future Claude Design re-run. Field-by-field manifest (blurb, folder upload, 7 fonts + 4 SVGs + favicon + 3 PNGs, notes block), output goal explicitly named (marketing site design system, not product UI), banned-list comprehensive, component copy bank referenced, fallback path to Cowork documented if Claude Design output disappoints.
-- **Voice System status**: v1 awaits Anton's Y/E/F review per section. v2 incorporates corrections + adds: specific prompt templates per capture step, Stefan / MoA worked example (when consent permits), quantitative calibration metrics, multi-brand portfolio edge cases, contractor handover playbook.
-- **Public release status**: framework remains private per pre-committed 90-day decision (memory file `project_voice_system_private.md`). Revisit month 9+ if delivery history supports productisation as a public Skill.
-- **foundation_version bumped** v1.4 → v1.5.
-- **last-updated.txt** synced.
+> *"For years, I've learned the best ways to train, eat, sleep."* — T2 Skool about page
+> *"I'll help you find your way and keep you accountable."* — T2 Skool tagline
 
-### v1.4 — Kit finalisation + component copy bank (2026-04-22)
+**Secondary archetype: Sovereign / Ruler.** Apollo as the god of *order and proportion* — the namer of an order, the assembler of a cohort. "Men of Apollo" is plural-collective, not singular-personal. [T1 dossier §5; high confidence]
 
-- **Wordmark selection**: Concept 1 (Brass plate) chosen as primary. Rationale captured in [[urso-brand-handoff/outputs/logo/README|outputs/logo/README]] § "Why Concept 1 was selected" — keeps ox-blood budget free for content accents, lockup composition (C5) reads cleaner with ink-only primary, durability over current-decade colour commitment.
-- **Outlined SVG production**: 4 outlined SVGs produced (font-independent, print-safe, offline-safe) — primary, monogram, stacked, lockup. Generated via Python `fontTools` + `uharfbuzz` against Fontsource SIL OFL bundles (sandbox lacked Inkscape). Glyph outlines + GPOS kerning identical to a Figma "Flatten Selection" export. Known limitation: Fontsource bundle is `wght`-only; opsz axis values from spec (60 for primary, 8 for monogram) couldn't be applied. Sub-pixel difference at wordmark sizes; favicon at 16px would benefit from opsz 8 cut. Re-render path documented: install Adobe Source Serif 4 variable font + Figma "Flatten" once available.
-- **PNG raster set**: 19 PNGs produced across 4 wordmark families. Primary at 6 sizes (200 / 400 / 600 / 800 / 1600 / 2400); stacked at 3 (400 / 800 / 1200); lockup at 3 (460 / 920 / 1380); monogram favicon set at 7 (16 / 32 / 48 / 64 / 96 / 128 / 256). All transparent backgrounds, Ink #0f1114 fill (verified pixel-level).
-- **Favicon bundle**: multi-resolution `favicon.ico` compiled from monogram 16/32/48 sizes. Companion `_favicon-test.html` included for browser-side verification.
-- **Component copy bank v1**: new file at [[urso-brand-handoff/outputs/copy/component-copy-bank|outputs/copy/component-copy-bank.md]] — closes the gap between brand voice principles ([[brand-identity]], [[house-style]]) and component-level copy (CTAs, section headers, status pills, tooltips, card templates, error/empty states). Drop-in for any design system generator (Claude Design, Figma, Cowork) to prevent SaaS-default drift.
-- **foundation_version bumped** v1.2 → v1.4 (skipping v1.3 increment since v1.3 was the prior changelog entry's identifier, not a separate version state).
-- **last-updated.txt** synced to reflect v1.4 production state.
+**Register blend (locked, do not drift):**
 
-### v1.3 — Fixes + post-production (2026-04-21)
+- **60% warm mentor** — first-name use, "let's do this together," "I'll see you inside," "I'll personally keep you accountable"
+- **30% minimalist operator** — short declarative sentences, "simple / sustainable / effortless," anti-extreme framing
+- **10% classical-aesthetic** — Apollo, Greek body, "cinematic, nostalgic" film register
 
-- `email-signature.html` comment corrected to reflect actual code (Ox-blood mark is on the "AI Operations Studio" descriptor, not the hairline; hairline is Stone, structural)
-- `proposal-template.md` + `invoice-template.md` payment terms aligned to **"Due on receipt; work begins the Monday following cleared payment"** (tightens the commercial posture across both docs)
-- `brand-identity.md` WCAG contrast ratios backfilled from estimates (~15.2:1 / ~9.1:1 / ~1.7:1 / ~1.6:1 / ~9.4:1) to measured (16.95:1 / 11.36:1 / 1.49:1 / 1.67:1 / 10.16:1). Direction held across all pairs; decimals shifted
-- `_MOC/Brand.md` Deliverables section updated to index the shipped kit outputs (replaces "To be produced" placeholder list with live wikilinks to each artefact)
-- This CHANGELOG entry added; foundation_version bumped to v1.2
-
-### v1.2 — Brand kit v1 shipped (2026-04-19)
-
-- 18 kit artefacts produced in `urso-brand-handoff/outputs/` via a separate Cowork session
-- 5 SVG wordmark concepts ([[urso-brand-handoff/outputs/logo/README|logo/]]), [[urso-brand-handoff/outputs/colour/colour-system|colour-system.md]], [[urso-brand-handoff/outputs/typography/type-system|type-system.md]]
-- 5 applied templates: LinkedIn banner spec, email signature (HTML), proposal, one-pager, invoice
-- [[urso-brand-handoff/outputs/guidelines/brand-guidelines|brand-guidelines.md]] — one-page contractor handoff
-- Status: drafts — final wordmark selected after Anton's visual review
-
-### v1.1 (2026-04-19, 17:42 onward)
-
-- Phase 3 ([[offer-brief]]) produced; 5-tier ladder locked with Voice System Install at £19k
-- Phase 4 ([[beliefs]]) produced; 7 belief chains sequenced
-- Phase 5 ([[brand-identity]]) produced; Mode A direct input; visual system (typography + colour) locked from session taste calls
-- House Style ([[house-style]]) produced; agency overlay covering quality floor, MSA clause, ROI template, tooling, engagement types
-- Foundation Brief (this file) produced; status upgraded to READY
-- Offer-brief.md updated to reconcile with Phase 1.5 Q6 ("profitable, frictionless scale") and Q7 ("intuition, not knowledge")
-
-### v1 (2026-04-19, 16:09–16:13)
-
-- Phase 1 ([[research-sheet]]) drafted — market-strategic; ethnographic gap flagged
-- Phase 1.5 ([[founder-insight-interview]]) captured live with Anton
-- Phase 2 ([[avatar]]) drafted — pending review (resolved in v1.1 via this brief, § Outstanding items)
-- Foundation structure established; `last-updated.txt` seeded
+**He is NOT:** cold marble (too warm), fire and sword (too measured), monastic (too aspirational), academic (no citations), grindset (banned), red-pill (banned), Kinobody-bro (refused — Apollo not Pagan-God-Mode).
 
 ---
 
-## Outstanding items — resolved in v1.1
+## 3. Positioning — the unique claim
 
-The v1 [[avatar]] flagged four open questions. Resolutions:
+> *A Greek-Apollo physique, built effortlessly through a sustainable system, by a man who refuses to sound like a guru.*
 
-1. **Geographic skew — UK pure or UK-primary/US-receptive?** **Resolved: UK-pure for the avatar + outbound ICP.** The founder's peer network is transatlantic (KeraRose, ex-partner US ops), but the commercial ICP and brand are UK-locked for the first 90 days. Discipline decision; enables focused outreach. If pipeline math breaks by day 60, reopen via Dashboard kill criterion.
-2. **Gender skew — 70/30 M or 60/40?** **Resolved: 70/30 M / F skew retained as starting assumption** pending first 10 discovery calls. After 10, update avatar frontmatter with observed skew (tracked in Clients/ records).
-3. **Team-size range — 2–20 or 3–15?** **Resolved: retain 2–20 per positioning brief.** Some £3–5M UK DTC brands run leaner, but the broader range captures the full addressable pipeline without excluding viable buyers.
-4. **One avatar or two?** **Resolved: one primary avatar** for the first 90 days. If operational brain (female co-founder / ops lead) emerges as a distinct decision-maker persona in 5+ discovery calls, add a secondary avatar in v1.2. For now, the primary founder-voice avatar holds all outreach.
+[T1 dossier §6; high confidence]
 
----
+The three-part position is genuinely uncontested in the men's-fitness landscape:
 
-## Dashboard delta (proposed — awaiting approval before applying)
+1. **Apollonian aesthetic** — order, proportion, light. *Not* Hercules (brute), Ares (war), or Pagan-God-Mode (Kinobody).
+2. **Effortless / non-extreme execution** — opposite of grindset, no-days-off, 4am-club. The brand's strongest rhetorical energy goes to rejecting macro-tracking, crash diets, all-or-nothing cycles.
+3. **Non-guru personality** — first-name, no persona, no mythologised self. Not Tate, not Hamza, not Goggins.
 
-Current [[Dashboard]] retainer ladder line:
+**The hook (signature thesis line):**
 
-```
-- Retainer ladder: £1,497 / £2,997 / £5,997 + Adoption & Training £12–18k/engagement from audit #3
-```
+> *"You know what to do, you're just not doing it."* — T2 IG bio, verbatim
 
-Proposed update:
-
-```
-- Retainer ladder: £1,497 / £2,997 / £5,997 + Voice System Install £19k one-time (from audit #3)
-```
-
-Rationale: locks Voice System Install as the named tier (replaces "Adoption & Training" label), sets the price at £19k (previous range £12–18k — bumped for the expanded scope including voice framework deployment, Cowork architecture setup, Skills library, VA training, 30-day hand-holding, quarterly recalibration for 12 months).
-
-**Waiting for Anton's "apply" before editing Dashboard.**
+This is the brand's nine-word thesis. The reader is not ignorant, they are avoidant. The product is not education, it is enforcement.
 
 ---
 
-## _MOC/Brand.md delta (proposed — awaiting approval before applying)
+## 4. ICP — who buys what
 
-Current `[[_MOC/Brand]]` has a "Brand briefs (_context)" section and a "Deliverables (`urso-brand-handoff/outputs/`)" section. It does **not** currently index the foundation docs produced in this session.
+### Protocol tier (low-ticket — $97 stack, $34.99 individual blueprints)
 
-Proposed addition — a new section between "Brand briefs (_context)" and "Deliverables":
+**Plain-English ICP:**
+The plateaued, intelligent, underperforming man (or woman per Session B locks — see "tension" note below) who has tried five scattered programmes and wants one they actually finish. No prior training background required. They've been told they need to track every macro and they want permission to stop. [T3 /protocols "WHO THE PROTOCOLS ARE FOR" + Session B Job 1 lock]
 
-```markdown
-## Foundation Brief (READY — v1.1, 2026-04-19)
+Verbatim ICP language already on /protocols [T3]:
+- "Anyone starting from scratch — no training background required"
+- "Men and women who want a structure to follow, not another scattered plan"
+- "Anyone who's tried five programmes and wants one they actually finish"
 
-Built via `/brand` skill, agency workspace mode. `/copy` skill consumes these.
+### Collective tier (high-ticket — application-only, invitation-reviewed-monthly, lifetime access)
 
-- [[urso-brand-handoff/foundation/foundation-brief|Foundation Brief (roll-up)]] — start here
-- [[urso-brand-handoff/foundation/research-sheet|Research Sheet — Phase 1]]
-- [[urso-brand-handoff/foundation/founder-insight-interview|Founder Insight Interview — Phase 1.5]]
-- [[urso-brand-handoff/foundation/avatar|Avatar — Phase 2]]
-- [[urso-brand-handoff/foundation/offer-brief|Offer Brief — Phase 3]]
-- [[urso-brand-handoff/foundation/beliefs|Beliefs — Phase 4]]
-- [[urso-brand-handoff/foundation/brand-identity|Brand Identity — Phase 5]]
-- [[urso-brand-handoff/foundation/house-style|House Style (agency overlay)]]
-```
+**Plain-English ICP:**
+The high-discipline-elsewhere man who has held the standard in his career or finances but not his body. He is ready to hold himself to one standard across body, career, and home. He wants the founder personally in his corner — not automated, not AI. [T3 homepage "THIS IS FOR MEN WHO" identity bullets]
 
-**Waiting for Anton's "apply" before editing `_MOC/Brand.md`.**
+Verbatim ICP language already on home [T3]:
+- "Took care of their finances but not their body"
+- "Know what discipline looks like in their career but haven't applied it to their health"
+- "Are ready to hold themselves to one standard across their body, their career, and their house"
+- "Are building a body that matches their ambition"
 
----
+### Tension to flag (medium confidence — needs Stefan)
 
-## Next-session queue
+The Session B lock (universal-entry on /protocols, "men and women") collides with the brand's overall masculine-coded register everywhere else (Men of Apollo, "Stefan writes like a man who has actually done it," "Men who:"). The "men and women" line on /protocols reads as inserted, not native. **Decision needed:** does Stefan want /protocols genuinely universal, or is the audience men-but-women-can-buy? The current copy is half-pregnant.
 
-Items intentionally deferred from this session:
+### Exclusion (already on T3, preserve)
 
-### Near-term (next 1–2 sessions)
+> *"This is not for everyone. If you're still looking for the shortcut — peptides, a macro app, a new supplement stack — this isn't it."* — T3 /protocols final section, verbatim
 
-1. **Voice System documentation** — `_methods/voice-system-v1.md`. Create new root-level folder `_methods/` (requires explicit approval per VAULT-RULES); document Anton's copy framework in versioned form. Foundation docs reference this by name already.
-2. **MSA template update** — paste the full MSA boundary clause block into the MSA template file (`_templates/msa-template.md` or equivalent). Separate legal session.
-3. **Dashboard delta** — apply the retainer-ladder update once Anton approves.
-4. **_MOC/Brand.md delta** — apply the Foundation Brief index section once Anton approves.
-5. **Avatar v1.2** — after first 10 discovery calls, update gender skew + verbatim quote upgrades.
-
-### Medium-term (month 2 build-out)
-
-1. **Visual asset production** — wordmark SVGs (5 concepts → 1 final), logo variants, LinkedIn banner, email signature, proposal template, one-pager, invoice template, brand-guidelines.pdf. Scheduled for **Week 2 Saturday sprint** per orientation doc.
-2. **Adjacent case study (Stefan / Men of Apollo)** — drafted when engagement produces publishable outcomes (with Stefan's written consent).
-3. **Voice Fingerprint template** — formalise the audit deliverable template, delivered as part of every £1,497 audit.
-
-### Long-term (month 6+)
-
-1. **Revisit public Skill / SDK / API question** — re-evaluate whether to publicise the Voice System framework based on private delivery history.
-2. **Voice System v2** — integrate learnings from first 5 engagements into framework documentation.
-3. **Positioning refresh (only if triggered)** — if adjacent engagements exceed 40% of pipeline, revisit DTC-lock; otherwise, positioning stays as-is.
+Stefan already does the exclusion clause well. Do not rewrite.
 
 ---
 
-## Working links
+## 5. Voice principles (7) — applied to Stefan
 
-### Internal (vault)
-
-- [[Dashboard]] — landing page, locked decisions, kill criteria
-- [[execution-playbook]] — the *why*
-- [[90-day-checklist]] — the *what*
-- [[Deep Research]] — market reference
-- [[VAULT-RULES]] — the contract
-- [[_MOC/Brand]] — brand domain index
-
-### Foundation docs (this folder)
-
-- [[research-sheet]] — Phase 1
-- [[founder-insight-interview]] — Phase 1.5
-- [[avatar]] — Phase 2
-- [[offer-brief]] — Phase 3
-- [[beliefs]] — Phase 4
-- [[brand-identity]] — Phase 5
-- [[house-style]] — agency overlay
-
-### Source briefs (read-only, `_context/`)
-
-- [[urso-brand-handoff/_context/positioning-brief|Positioning Brief]]
-- [[urso-brand-handoff/_context/name-rationale|Name Rationale]]
-- [[urso-brand-handoff/_context/voice-and-principles|Voice & Principles]]
-- [[urso-brand-handoff/_context/playbook-excerpt|Playbook Excerpt]]
-- [[urso-brand-handoff/_context/deep-research-takeaways|Deep Research Takeaways]]
+| # | Principle | Stefan-specific rule | Citation |
+|---|---|---|---|
+| V-1 | **Specificity over abstraction** | Name a number, a study, a phase, a day. *"180kg deadlift at thirty-nine"* beats *"got stronger."* The Five Inputs cards on /protocols cite Leproult JAMA 2011, Wu Horm Metab Res 2011 — keep that calibre. | T3 /protocols "The Mechanism" |
+| V-2 | **Restraint is the aesthetic** | Confident understatement. No exclamation marks (one allowed: *"FINALLY"* in Skool — sparingly). No power words. *"That's the whole review."* | T1 dossier §1; T4 review |
+| V-3 | **Operator voice, not consultant voice** | *Protocol, system, blueprint, input, framework, stack* — not *journey, transformation, unleash, unlock.* | T1 dossier §1, signature vocabulary |
+| V-4 | **Founder DNA, not founder mimicry** | Capture the *triad-with-anaphoric-No*, the *"without [X]"* construction, the *accusatory-second-person opener*. Do not mimic Stefan's phrasing tics word-for-word — capture the patterns. | T1 dossier §1 |
+| V-5 | **Verbatim over paraphrase** | When quoting Stefan or customers, paste exact words. Reviews stay verbatim per Session C lock. | Session C lock |
+| V-6 | **No banned vocabulary, ever** | See §7 below. One slip ships generic. | — |
+| V-7 | **Human-in-loop** | Every Stefan-branded shipment goes to Stefan async-review before customer-facing publish. Anton can sign off for unblocking purposes; Stefan retains final voice authority. | Anton workflow rule |
 
 ---
 
-## `/copy` skill — how to read this brief
+## 6. Owned vocabulary
 
-When `/copy` loads, it should:
+Words and phrases Stefan uses at statistically unusual rates. Use these freely; they signal native voice.
 
-1. Read this file first
-2. Check `status: READY` — proceed; `BLOCKED` — refuse
-3. Load [[brand-identity]] for voice + visual constraints
-4. Load [[house-style]] for quality floor + refused vocabulary + scope boundary
-5. Load [[avatar]] for buyer voice anchor (verbatim quotes)
-6. Load [[beliefs]] for the belief chain matching the asset type
-7. Load [[offer-brief]] for offer specifics (pricing, tier, funnel position)
-8. Load [[founder-insight-interview]] Q6/Q7 if the draft involves aspirational framing or mechanism claims
-9. Draft; self-check against the 9-point quality floor in [[house-style]]; then return
+**Nouns:** *protocol, blueprint, system, input, stack, framework, the five inputs, Greek body, the Apollo system, the Collective, cohort, Apollo Map, phase.* [T1 dossier §1; T3 live site]
 
-Every `/copy` output should stamp `foundation_version: v1.1` in its frontmatter so the Stale Copy Audit can track version-bump drift later.
+**Verbs:** *run (a protocol), build, hold (oneself to a standard), rebuild, stack, follow, programme.* [T1+T3]
+
+**Adjectives:** *lean, simple, sustainable, effortless, structured, calm, lived-in, year-round, honest.* [T1+T3]
+
+**Phrases / constructions (tier-A — use freely):**
+
+- *"You know what to do, you're just not doing it."* [T2 IG bio]
+- *"Without [the thing gurus do]"* — *"without obsessing," "without tracking every calorie," "without confusion."* [T1 dossier §1]
+- *"No [X]. No [Y]. No [Z]. Just [the thing]."* — triad with anaphoric No. [T2 YouTube description]
+- *"Run it. We've got you either way."* [T3 guarantee — already locked]
+- *"I'll see you inside."* [T2 Skool closer]
+- *"Train, eat, sleep [+ mindset]"* — the four-pillar taxonomy in that order. [T1+T2]
+- *"Men of Apollo is the system I wish I'd had at the start. The Protocols are the entry point. The Collective is where men finish the job."* [T3 founder block — verbatim, do not paraphrase]
+
+**Numbers / specifics that recur:** 90 days · five inputs · ninety-day arc · 30-day check-in · twelve weeks · "first thirty: reset. Next thirty: build. Last thirty: lock it in."
 
 ---
 
-## Related
+## 7. Refused vocabulary
 
-- [[_MOC/Brand]] — parent map of content
-- [[urso-brand-handoff/CLAUDE|Brand handoff — CLAUDE.md]] — orientation brief (outer read order)
+Hard ban. One hit fails review. Sources: T1 dossier §1 negative findings + Session C banned lexicon + Stefan's anti-extreme positioning.
+
+### Tier-A bans (category-default words Stefan *actively rejects*)
+
+- **Status hierarchy:** alpha, sigma, high-value, king, chad, top G
+- **Grindset:** grind, grindset, hustle, no days off, 4am club, beast mode
+- **Combat:** beast, savage, warrior, spartan, conquer, dominate, crush
+- **Hormonal-shortcut:** TRT, peptides, testosterone (as a product), cycle, enhanced, gear
+- **Macro-cult:** macros, calorie deficit, IIFYM, tracking calories, weighing food (except as the *enemy* — see /protocols agitation copy)
+- **Motivation register:** motivation, hype, push through, no excuses
+- **Tribe/brotherhood:** brotherhood, tribe, the boys, lions, wolves
+- **AI / generic-fitness vocabulary:** journey, transformative, transform, game-changer, life-changing, blown away, next level, unleash, unlock (verb), seamless, leverage (verb), revolutionary, level up, take it to another level, mind-blowing, unreal
+
+### Tier-B watch-list (currently used once on live site — flag if Stefan keeps or kills)
+
+- **"transformation arc"** — appears on homepage 90-day pillar [T3]. *transformation* is on the Tier-A ban list. Likely should swap to "90-day arc" or "90-day phase" to align. **Stefan-decision required.**
+- **"ambition"** — appears in homepage identity bullet 04 ("a body that matches their ambition") [T3]. Borderline — Sage register accepts it; flag to Stefan for keep/swap.
+
+### Punctuation bans
+
+- Em dashes (—) in customer-facing copy. [Session C lock]
+- Semicolons. [Session C lock]
+- Mid-sentence colons. [Session C lock]
+- Caps-lock shouting (one exception: "FINALLY" appears in Skool — keep sparingly). [T1 dossier §1]
+- Profanity. [T1 dossier §1 — zero instances across all surfaces]
+
+---
+
+## 8. Banned CTAs
+
+Avoid these strings on every customer-facing surface:
+
+- ❌ "Click here", "Learn more", "Find out more"
+- ❌ "Get started" — too generic; replace with the named action
+- ❌ "Sign up" / "Subscribe" / "Join the newsletter" — Stefan does not run a newsletter on the current surfaces
+- ❌ "Submit" without a noun — label the action
+- ❌ "Transform your life", "Change your life", "Start your journey"
+- ❌ "Unlock your potential", "Unleash the [anything]"
+- ❌ "Get jacked", "Get shredded", "Get ripped" — wrong physique frame (Stefan = Apollo, not Pagan-God-Mode)
+- ❌ Anything with an exclamation mark on a primary CTA
+
+**Native CTA register (already live on T3, preserve and reuse):**
+
+- ✅ "Start the 90-day build →"
+- ✅ "Get the full stack →"
+- ✅ "Apply for the Collective →"
+- ✅ "Start with the Protocols →"
+- ✅ "Add the Home Gym →"
+- ✅ "Submit application →" (form context only)
+
+---
+
+## 9. Tier architecture + offer ladder (locked — do not redesign)
+
+| Tier | Surface | Price | Cadence | What's included |
+|---|---|---|---|---|
+| **Free / top-of-funnel** | YouTube, IG, Skool free tier | £0 | — | Content, "7 Day Reset Guide" lead magnet [T2 IG bio] |
+| **Individual blueprints** | `/protocols` | $34.99 each | one-time, lifetime access | Training Blueprint, Nutrition Blueprint, Home Gym Add-on |
+| **Full Protocol Stack** | `/protocols` (Best Value bundle) | $97 (was $139.96) | one-time, lifetime access | All four blueprints + Recovery Blueprint (bundle exclusive) + 90-day timeline + priority Collective application |
+| **The Collective** | `/` (homepage) → application form | application-only, price not on public surface | invitation-reviewed-monthly, lifetime access | 90-day cohorts, weekly calls, Apollo Map, direct coaching from Stefan |
+
+**Currency note:** Prices are in **USD** on the live site. Stefan and Anton are UK-based. Flag for Stefan: is USD intentional (global addressable market) or should this swap to GBP / multi-currency? **Stefan-decision required.**
+
+**The verbatim guarantee** [T3 — locked, do not rewrite]:
+
+> *"Run it. We've got you either way. Run the 90-day programme. Follow the five inputs. If by day 30 you don't see your energy, sleep, and strength move in the right direction, email us and we'll swap the blueprint for a different one — or coach you through what's not working. We don't refund digital files, but we don't leave men stuck either."*
+
+This is a swap-not-refund guarantee. Distinct from category-default 30-day-money-back. Preserve the language.
+
+---
+
+## 10. Quality checklist (before any Stefan-branded copy ships)
+
+Run this against every customer-facing string. Fail any = do not ship.
+
+- [ ] **V-1 specificity:** names a number, day, phase, study, or specific outcome
+- [ ] **V-2 restraint:** no exclamation marks on primary CTAs; no power words
+- [ ] **V-3 operator voice:** uses owned vocabulary (protocol/system/input/blueprint), not consultant-speak
+- [ ] **V-4 founder DNA:** if it doesn't sound like Stefan, rewrite
+- [ ] **V-5 verbatim:** quoted material is exact (especially reviews)
+- [ ] **V-6 banned vocabulary scan:** zero hits against §7 list
+- [ ] **Em-dash scan:** zero `—` characters in customer-facing strings
+- [ ] **CTA register:** one of the native CTA forms in §8, not banned
+- [ ] **Disambiguation:** lead with "Stefan Jankovic, founder of Men of Apollo" if name appears; avoid biography overlap with the basketball player
+- [ ] **Tier alignment:** Protocol-lander zero executive/founder/CEO language [Session B Job 1 lock]
+- [ ] **Tension flags resolved:** if "men and women" appears on /protocols, decision recorded; if "transformation arc" appears, decision recorded
+- [ ] **Human-in-loop:** marked for Stefan async review before customer-facing publish
+
+---
+
+## 11. Gap report — what only Stefan can resolve
+
+Flagged here for the next time he's available. Until resolved, these read as "*low* confidence" in any downstream copy.
+
+1. **/protocols universal-entry vs male-coded brand.** Does *"men and women"* on /protocols stay or swap to *"anyone"* / *"men"* depending on whether the female audience is real or aspirational?
+2. **"Transformation arc" on homepage.** Keep, swap to *"90-day arc"*, or accept *transformation* as on-brand for Stefan despite the dossier's negative finding?
+3. **USD vs GBP pricing.** Intentional global addressable market or accidental?
+4. **Collective price point.** Not surfaced publicly; decision: keep application-only opaque, or surface a price band ("from £X / year")?
+5. **Stoic register depth.** Stefan currently uses the *register* (discipline, mindset, life worth living) without naming Aurelius/Seneca/Epictetus [T1 dossier §3]. Is this restraint deliberate (preferred — sophisticated audience reads it as on-brand) or accidental (would happily quote Aurelius if asked)? Recommendation: **lock as deliberate** — quoting stoic figures would regress Men of Apollo into category-default.
+6. **PED/TRT positioning.** Stefan currently abstains entirely from the topic [T1 dossier §2]. Is silence the locked position, or would he be open to a measured "natural-by-default, not anti-PED-as-ideology" stance? Silence is currently serving him; the recommendation is **keep silent**, but flag for explicit lock.
+7. **Cinematic-filmmaker identity vs Men of Apollo commerce.** Stefan's YouTube About leans heavily into filmmaker identity (Sony FX3, DaVinci, LUTs) [T1 dossier §8]. If Men of Apollo eventually commercialises that (selling LUTs, filmmaking course), it splits the audience. Is the filmmaker identity strictly upstream-of-funnel content marketing, or a future product category?
+8. **The third-person mythic register on YouTube About** ("A man with big dreams and a camera") vs first-person warm register on Skool ("me, Stefan") [T1 dossier §8 register inconsistency]. Which voice leads Men of Apollo's primary surfaces (home + /protocols)? **Recommendation:** first-person warm leads sales surfaces; mythic register reserved for content/lifestyle channels.
+9. **/brand interview for v2.** When Stefan surfaces, run the standard `/brand` interview to upgrade this from extracted (T1–T5) to direct (T0). Schedule async.
+
+---
+
+## Confidence summary
+
+| Section | Confidence | Reason |
+|---|---|---|
+| §1 Brand identity | High | T1+T2+T3 alignment |
+| §2 Archetype + register | High | T1 dossier §5 + T2 corroboration |
+| §3 Positioning | High | T1 dossier §6 |
+| §4 ICP | Medium | T3 live site direct quotes; tension flagged in §11 |
+| §5 Voice principles | High | T1 fingerprint + T2 corroboration |
+| §6 Owned vocabulary | High | T1 frequency analysis + T3 corroboration |
+| §7 Refused vocabulary | High | T1 negative findings + Session C lock |
+| §8 Banned CTAs | High | T2 + T3 + Anton's locked CTA conventions |
+| §9 Tier architecture | High | T3 live site (pricing visible) |
+| §10 Quality checklist | High | Composed from §§5–8 |
+| §11 Gap report | — | Open items |
+
+**Overall: medium-high.** Deliverable copy can be authored from this foundation with Anton sign-off, pending Stefan async-review on §11 items.
+
+---
+
+## Cross-reference
+
+- Voice cadence anchors → `voice-system-v1.md`
+- Component-level on-voice strings → `component-copy-bank.md`
+- Hard rules for agents → `project-rules.md`
+- Source dossier → `brand-kit/00-research/dossier-2026-04-25.md`
+- Live-site PDFs → `~/Downloads/screencapture-preview-apollo-ascension-landing-lovable-app-{,protocols-}2026-04-25-08_3*.pdf`

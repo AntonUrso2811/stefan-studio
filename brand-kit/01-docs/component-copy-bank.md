@@ -1,364 +1,268 @@
-# ⚠️ TODO — STEFAN BRAND CONTENT NOT YET AUTHORED
+# Stefan Jankovic / Men of Apollo — Component Copy Bank
 
-This file was cloned from the urso-studio template. Replace the content below
-with Stefan-specific brand material by running the /brand skill in Claude Code:
-
-    /brand — Author foundation brief for Stefan
-
-Until then, this file is INVALID and any tool that reads it must refuse.
-
-Original Urso content is preserved below as reference structure only.
+**Version:** 1.0 · **Status:** Extracted (T1–T5) · **Date:** 2026-04-25 · **Pairs with:** `foundation-brief.md`, `voice-system-v1.md`
 
 ---
 
+## How to read this file
 
----
-type: brand
-status: current
-version: v1
-generated_from: brand-identity.md + house-style.md + offer-brief.md + avatar.md + voice-and-principles.md
-last_edited: 2026-04-22
-tags:
-  - brand
-  - copy
-  - components
-  - design-system
-  - kit
-aliases:
-  - Component Copy Bank
-  - Copy Bank
-  - Design System Copy
-updated: 2026-04-22
----
-
-# Component Copy Bank — Urso & Co
-
-> Sample copy for design system components and applied templates. Every string here is on-voice — drop into Claude Design / Figma / Cowork-generated UI without modification. Closes the gap between brand voice principles ([[brand-identity]], [[house-style]]) and component-level copy where generators default to generic SaaS strings.
->
-> **Use this when**: feeding any design system generator, populating component templates, scaffolding a marketing site, or briefing a contractor on copy.
+Pre-approved on-voice strings for component-level copy. Categorised by surface. Verbatim strings already live on T3 are marked `LIVE` and must not be paraphrased without explicit Stefan-approval. New strings are marked `DRAFT` and need Anton sign-off before shipping.
 
 ---
 
-## Buttons / CTAs
+## 1. Hero — primary headlines
 
-### Primary CTAs (one per asset, pick one)
+### Homepage hero (currently The Collective lander)
 
-- **"Book a 20-minute discovery call"** — default for hero / footer
-- **"Book the audit — £1,497"** — for the offer-aware buyer (post-discovery)
-- **"Send a one-line brief"** — softer entry, for cold audiences
-- **"See the audit deliverables"** — when the question is "what do I get"
+`LIVE` — *"The Men's Collective Built on Five Inputs, Not Five Hundred Opinions."* [T3 home]
+- Sub: *"One training system. One nutrition framework. One recovery protocol. Run together, ninety days at a time, for a lean and built year-round frame."*
+- Pre-headline kicker: *"Private Collective · Invitation Only · By Stefan Jankovic"*
 
-### Secondary CTAs
+`DRAFT` (alternate — if home is repositioned to top-of-funnel splash that ladders to both tiers):
+- *"You know what to do. We make sure you do it."* — pulls IG bio thesis onto the home; works as universal-entry headline above a Protocols / Collective fork
 
-- "Read the case study"
-- "Download the brief (PDF)"
-- "See the workflow live"
-- "Walk me through the install"
+### /protocols hero (Protocols Lander)
 
-### Tertiary / inline
+`LIVE` — *"The Five Inputs That Do 95% of What Men Are Paying Thousands to Inject."* [T3 /protocols]
+- Sub: *"Sleep. Sunlight. Heavy compound lifts. Real food. A calm nervous system. Run in compound over 90 days. No tracking. No needle. No bulk you regret. Just the system your body already wants to run."*
+- Pre-headline kicker: *"By Stefan Jankovic · Men of Apollo · Private Coaching Collective"*
 
-- "Or email studio@ursoandco.co.uk"
-- "Skip to tiers"
-- "What's an audit?" (inline glossary link)
+**Lock:** the /protocols hero is Stefan's strongest conversion line on the entire site. Do not rewrite. Do not "improve." Do not paraphrase.
 
-### Banned CTAs (don't generate)
+---
+
+## 2. Section headers — by section type
+
+### Mechanism / "what's inside" sections
+
+- `LIVE` *"The Mechanism"* (eyebrow), *"The Five Inputs That Do 95% of the Work"* (header) [T3 /protocols]
+- `LIVE` *"The Stack"* (eyebrow), *"The Full Protocol Stack"* (header) [T3 /protocols]
+- `LIVE` *"What You're Actually Building"* (eyebrow), *"Three pillars. One body that holds up — for life."* (header) [T3 /protocols] ⚠️ contains em dash — strip on next ship
+- `LIVE` *"The Holistic Approach"* (eyebrow) [T3 /protocols]
+- `DRAFT` *"The system. Delivered in four blueprints."* (sub-header for offer block) [T3]
+
+### Proof / social-proof sections
+
+- `LIVE` *"Proof"* (eyebrow), *"What the five inputs produce in six months."* (header) [T3]
+- `LIVE` *"Replies"* (eyebrow), *"What Men Write Back"* (header), *"Unsolicited. Straight from my YouTube comments. Unedited."* (sub) [T3]
+- `LIVE` *"Reviews"* (header), *"Past clients of the Protocols and the Collective. Names shortened to first name and initial."* (sub) [T3]
+- `LIVE` *"More stories inside the Collective →"* (closer link) [T3]
+
+### Identity / "who this is for"
+
+- `LIVE` *"This is not for everyone"* (eyebrow), *"This is for men who:"* (header) [T3 home]
+- `LIVE` *"Who the Protocols are for"* (eyebrow), *"This is for anyone ready to start."* (header) [T3 /protocols]
+- `LIVE` *"If three of the four lines describe you, keep reading."* (qualifier closer on home) [T3]
+
+### Founder
+
+- `LIVE` *"The Founder"* (eyebrow), *"I built this because nothing I tried worked."* (header) [T3 /protocols]
+- `LIVE` *"The Founder"* (eyebrow), *"I rebuilt myself. Then I built this."* (header) [T3 home]
+- `LIVE` sign-off: *"— Stef"* [T3]
+
+### Guarantee
+
+- `LIVE` *"Our Guarantee"* (eyebrow), *"Run it. We've got you either way."* (header) [T3 /protocols]
+
+### FAQ
+
+- `LIVE` *"Everything you need to know."* (header) [T3]
+- Question stems already live: *"How do I get the protocols, and what do I get?"* / *"What's your refund policy?"* / *"Do I need a gym?"* / *"How is this different from a standard bulk/cut programme?"* / *"Do I need to track calories or macros?"* / *"How long until I see results?"* / *"What's the path after I buy the Protocols?"*
+
+### Final CTA / closer
+
+- `LIVE` *"This is not for everyone."* (header) [T3 /protocols final]
+- `LIVE` *"Ninety days. Five inputs. One standard."* (kicker) [T3]
+- `LIVE` *"— I'll see you inside."* (sign-off) [T3]
+- `LIVE` *"Become the next result."* (header on /protocols mid-section) [T3]
+- `LIVE` *"Join Men of Apollo"* (eyebrow) [T3]
+
+### Collective-specific (homepage)
+
+- `LIVE` *"The Standard"* (eyebrow) [T3 home]
+- `LIVE` *"Apply to the Collective."* (header) [T3 home]
+- `LIVE` *"Before the Collective"* (eyebrow), *"Can't wait for doors to open?"* (header) [T3 home]
+
+---
+
+## 3. CTAs — primary buttons
+
+Use the LIVE forms verbatim. Do not introduce new variants without §10 sign-off.
+
+### Primary (one per section)
+
+- `LIVE` `START THE 90-DAY BUILD →` — /protocols hero [T3]
+- `LIVE` `GET THE FULL STACK →` — /protocols offer block, repeat-CTAs [T3]
+- `LIVE` `APPLY FOR THE COLLECTIVE →` — home hero, home final, /protocols Collective deflection [T3]
+- `LIVE` `START WITH THE PROTOCOLS →` — home secondary CTA, "before the Collective" [T3]
+- `LIVE` `START THE TRAINING PROTOCOL →` — individual blueprint card [T3]
+- `LIVE` `START THE NUTRITION PROTOCOL →` — individual blueprint card [T3]
+- `LIVE` `ADD THE HOME GYM →` — Home Gym Add-on card [T3]
+- `LIVE` `SUBMIT APPLICATION →` — Collective application form [T3]
+
+### Secondary (text links)
+
+- `LIVE` *"Or apply for the Collective"* — under /protocols hero CTA [T3]
+- `LIVE` *"Or buy the Protocols first — every buyer gets priority application within 7 days."* — under home Collective CTA [T3]
+- `LIVE` *"Full details, guarantee, and FAQ below."* — under /protocols offer card [T3]
+- `LIVE` *"More stories inside the Collective →"* — closer of reviews block [T3]
+
+---
+
+## 4. Banned CTAs
+
+Do not ship any of these on Stefan-branded surfaces. (See `foundation-brief.md` §8 for full reasoning.)
 
 - ❌ "Click here", "Learn more", "Find out more"
-- ❌ "Get started" (generic; replace with the specific action)
-- ❌ "Sign up", "Subscribe" (no signups; bookings only)
-- ❌ "Submit" (label the action: "Send brief", "Book call")
+- ❌ "Get started" (without a named action)
+- ❌ "Sign up", "Subscribe", "Join the newsletter"
+- ❌ "Submit" (without a noun)
+- ❌ "Transform your life", "Change your life", "Start your journey"
+- ❌ "Unlock your potential", "Unleash the [anything]"
+- ❌ "Get jacked", "Get shredded", "Get ripped" (wrong physique frame)
+- ❌ Any CTA ending in `!`
 
 ---
 
-## Section headers
+## 5. Microcopy — labels, badges, status
 
-### Hero (above the fold)
+### Pricing block
 
-- **Tagline (locked)**: *"AI operations for DTC founders, by an ex-DTC founder."*
-- **Sub-tagline alternates**:
-  - "I ran a pair of gourmet salt DTC brands to multiple seven figures. Now I install the ops infrastructure I wish I'd had."
-  - "AI operations studio for £1–10M UK DTC brands. Five-day audits. Voice-trained installs. UK-based."
+- `LIVE` *"BEST VALUE"* (badge on Full Stack card) [T3]
+- `LIVE` *"All four blueprints. One payment. Lifetime access."* (offer summary) [T3]
+- `LIVE` *"Four blueprints, normally $34.99 each."* (price-anchor microcopy) [T3]
+- `LIVE` *"Recovery Blueprint bundle exclusive — $34.99 value, not sold separately"* [T3] ⚠️ contains em dash — strip on next ship
+- `LIVE` *"OR SHOP INDIVIDUALLY"* (section divider) [T3]
+- `LIVE` *"ALL FOUR BLUEPRINTS · LIFETIME ACCESS"* (bottom-of-card line) [T3]
+- `LIVE` *"SAVE $42.96"* (discount badge) [T3]
 
-### What we do / install
+### Reviews block
 
-- "What we install"
-- "Three workflows. Five days. Working systems."
-- "The ops layer your intuition deserves"
-- "Voice-trained operations, installed in your stack"
+- `LIVE` `★★★★ 4.67  6 REVIEWS` (rating line) [T3]
+- `LIVE` *"VERIFIED"* (badge on each review) [T3]
+- `LIVE` `NEWEST | HIGHEST RATING` (sort tabs) [T3]
+- `LIVE` *"YOU'VE REACHED THE END. THANK YOU FOR READING."* (reviews-list closer) [T3]
 
-### How we work
+### Modules / Stack labels
 
-- "How an audit runs"
-- "Five days, fixed price, working PoC at the end"
-- "From cold call to retainer in 14 days"
+- `LIVE` *"Training Blueprint"* / *"Nutrition Blueprint"* / *"Recovery Blueprint"* / *"Home Gym Add-on"* [T3]
+- `LIVE` *"WHAT'S INSIDE"* (card section header) [T3]
+- `LIVE` *"WHO IT'S FOR"* (card section header) [T3]
 
-### Pricing / tiers
+### Footer
 
-- "Tiers"
-- "Audit. Then four ways to retain us."
-- "What £1,497 actually buys"
-
-### Selected work / case studies
-
-- "Selected work"
-- "What we've shipped"
-- "Case studies — by the workflow installed, not the vertical"
-
-### About / founder
-
-- "About Urso & Co"
-- "Why this studio exists"
-- "I ran a brand for 3.5 years. Here's what I install now."
-
-### Compliance / footer
-
-- *"UK-based · GDPR, PECR, EU AI Act posture from day one."*
-- *"Urso & Co Ltd · Companies House #16980197 · ICO registered"*
-
-### Banned section headers
-
-- ❌ "Welcome to Urso & Co" (welcome copy is for products, not consultancies)
-- ❌ "Our team" (single founder; use "About" or skip)
-- ❌ "Transform your operations" (banned verb)
-- ❌ "Unlock your potential" (banned verb)
-- ❌ "Our services" (consultancy-generic; name the specific offer)
-- ❌ "Why choose us" (positioning-defensive register)
+- `LIVE` *"© 2026 ALL RIGHTS RESERVED · MEN OF APOLLO · PRIVATE COACHING COLLECTIVE · APPLICATIONS BY INVITATION"* [T3]
 
 ---
 
-## Status pills / badges
+## 6. Form labels — Collective application
 
-Short, all-caps in IBM Plex Sans Medium, Stone or Ox-blood depending on context.
-
-- **AVAILABLE NOW** — tiers with capacity (Stone)
-- **WAITLIST** — tiers at capacity (Ox-blood, the one-mark)
-- **AUDIT-FIRST** — retainers requiring prior audit (Stone)
-- **FROM AUDIT #3** — Voice System Install unlock condition (Stone)
-- **NEW** — for genuinely new content; sparingly (Stone)
-- **DRAFT** — work in progress, never on public surfaces (Stone, internal only)
+- `LIVE` `FIRST NAME` / `LAST NAME` / `EMAIL`
+- `LIVE` *"How long have you been training consistently?"*
+- `LIVE` *"What's the biggest thing stopping you right now?"* (one-sentence)
+- `LIVE` `SUBMIT APPLICATION →`
 
 ---
 
-## Tooltips / inline microcopy
+## 7. Founder voice — verbatim blocks (preserve byte-identical)
 
-- on **£1,497**: *"Fixed-price 5-day audit. No discovery-dependent pricing. No deferred terms."*
-- on **"voice-trained"**: *"Every workflow output composes through your brand voice spec. Generic AI output never ships."*
-- on **"GoCardless"**: *"UK B2B Direct Debit. ~£4 max collection cost per invoice. Capped fee."*
-- on **"MSA"**: *"Master Services Agreement. 3-month minimum, 30-day rolling notice."*
-- on **"DPA"**: *"Data Processing Addendum. Signed at retainer kick-off, scoped to the workflows installed."*
-- on **"Cowork workspace"**: *"Per-client Claude workspace with installed Skills + voice context. Yours; lives on your stack."*
-- on **"Voice Fingerprint"**: *"Diagnostic deliverable from the audit. Brand voice spec doc that powers every workflow output."*
+### /protocols founder block
 
----
+> *"I built this because nothing I tried worked.*
+>
+> *I spent years knowing I was capable of more than I was living. Procrastinating. Inconsistent. Starting things and never finishing. Then something clicked and I rebuilt — body first, then everything else.*
+>
+> *Better energy. Sharper thinking. More discipline in my work, my relationships, all of it. I looked for one programme that connected all of it. Didn't exist. So I built it.*
+>
+> *Men of Apollo is the system I wish I'd had at the start. The Protocols are the entry point. The Collective is where men finish the job."*
 
-## Form labels (sparse — Cal.com handles bookings)
+⚠️ Contains one em dash (*"I rebuilt — body first"*). Per Session C lock, em dashes should be stripped from customer-facing copy. Recommendation: replace with a period: *"…and I rebuilt. Body first, then everything else."* — preserves rhythm without the em dash. **Stefan-decision required.**
 
-If a discovery form ever ships:
+### Homepage founder block
 
-- "Brand name"
-- "Annual revenue band" (radio: <£500k / £500k–£1M / £1M–£3M / £3M–£10M / >£10M)
-- "Team size" (radio: 1–5 / 6–20 / 21+)
-- "Top one operational pain right now" (textarea, 1 sentence)
-- "Best email"
-- *Submit button*: **"Send brief"** (never "Submit")
+> *"I rebuilt myself. Then I built this.*
+>
+> *I spent years knowing I was capable of more than I was living. Procrastinating. Inconsistent. Starting things and not finishing them. Then something clicked and I decided to rebuild. My body first, then everything else followed.*
+>
+> *Better energy. Sharper thinking. More discipline in my work, my relationships, all of it. I looked for a programme that connected all of those things and it didn't exist. So I built one.*
+>
+> *Men of Apollo is the collective I wish I had when I was starting. It's here now because men like us deserve more than generic plans and motivational noise.*
+>
+> ***The Protocols are what I teach. The Collective is where I hold men to it.***
+>
+> *— Stef"*
 
-Form helper text:
+No em dashes. Ship as-is.
 
-- *"60 seconds. No newsletter. Reply within one working day."*
+### Guarantee block (verbatim — locked)
 
----
+> *"Run it. We've got you either way.*
+>
+> *Run the 90-day programme. Follow the five inputs. If by day 30 you don't see your energy, sleep, and strength move in the right direction, email us and we'll swap the blueprint for a different one — or coach you through what's not working. We don't refund digital files, but we don't leave men stuck either."*
 
-## Card copy templates
+⚠️ Contains one em dash. Recommendation: *"…swap the blueprint for a different one. Or coach you through what's not working."* — same rhythm.
 
-### Case study card — ICP variant
+### Final exclusion block (verbatim — locked)
 
-```
-[Anonymised brand name or named with consent]
-"Recovered 14% of subscription LTV in 60 days"
+> *"This is not for everyone.*
+>
+> *If you're still looking for the shortcut — peptides, a macro app, a new supplement stack — this isn't it. The Protocols work because the five inputs work, and the five inputs only work when a man decides to run them.*
+>
+> *If you're ready to hold yourself to a higher standard, start here.*
+>
+> *Ninety days. Five inputs. One standard.*
+>
+> *— I'll see you inside."*
 
-Installed: subscription churn recovery workflow. Voice-trained
-Klaviyo flows. Cancel-reason capture. Founder-time reclaimed:
-6 hours/week.
-
-Metric badge (large, ox-blood): +14% LTV
-Footer: 90 days · Growth tier · UK skincare brand · £3M revenue
-```
-
-### Case study card — Adjacent variant
-
-```
-[Named with written consent — e.g., Men of Apollo]
-"Installed the program backend for a 500k-follower coaching platform"
-
-Voice-trained content layer + high-ticket program operations
-infrastructure. Backend systems live in the client's stack.
-
-Metric badge (large, ox-blood): backend ops live
-Footer: ongoing · Partner tier · Creator + high-ticket coaching
-```
-
-### Pricing tier card
-
-```
-Tier name (h3): Audit
-Price (large display, ox-blood — the one-mark): £1,497
-Frequency line (small): one-time, fixed
-
-Description (3 lines max):
-5-day sprint. Ops map, working proof-of-concept, Voice Fingerprint,
-90-day roadmap. Delivered before any retainer is proposed.
-
-CTA: Book the audit — £1,497
-```
-
-### Pricing tier card — retainer
-
-```
-Tier name (h3): Growth
-Price: £2,997
-Frequency: per month
-Footer: 3-month minimum · 30-day rolling notice
-
-Description:
-2–3 installed workflows. Weekly Loom. Bi-weekly strategy calls.
-Cowork workspace + Skills library. Voice spec applied across
-workflows + monthly calibration review.
-
-CTA: See what's included
-```
-
-### ROI report card (monthly retention asset)
-
-```
-Header: Month [N] — [Client name]
-Sub-header: [Date range]
-
-Three metrics blocks (each with one large number in ox-blood,
-when present — but ONLY one block ox-blood per card):
-- Hours reclaimed: [n]
-- Revenue influenced: £[n]
-- Costs avoided: £[n]
-
-One-line founder quote (italic, indented):
-"[Client's verbatim feedback, with permission]"
-
-Footer: Workflows in production · Next month focus · Scope check
-```
+⚠️ Contains two em dashes (around the parenthetical list of shortcuts). Recommendation: *"If you're still looking for the shortcut, peptides, a macro app, a new supplement stack, this isn't it."* — same rhythm using commas. Or, more on-brand: *"If you're still looking for the shortcut — peptides, a macro app, a new supplement stack — this isn't it"* could be re-rhythmed as a triad: *"Peptides. A macro app. A new supplement stack. If that's the shortcut you're after, this isn't it."* **Stefan-decision required.**
 
 ---
 
-## Empty states (when product UI emerges)
+## 8. Phase / cohort labels (locked — Session A v2 IA)
 
-For a future internal client portal or admin UI:
-
-- "No workflows installed yet — start with the audit."
-- "No retainer active — book a discovery call."
-- "Voice System Install unlocks after audit #3."
-- "No reports for this month yet — your next ROI report ships day 25."
-
----
-
-## Error / alert copy
-
-- **Generic error**: *"Something broke. Email studio@ursoandco.co.uk and we'll sort it within one working day."*
-- **404**: *"That page doesn't exist. [Back to home](/) or [book a call](/discovery)."*
-- **Form validation**: *"[Field] is required."* (no exclamation marks; no "oops")
-- **Booking confirmation**: *"Confirmed. You'll get a calendar invite from studio@ursoandco.co.uk within 5 minutes. If it doesn't arrive, check spam, then email me."*
+- `LIVE` *"Phase 1 — Foundation"* (MOA_02–07)
+- `LIVE` *"Phase 2 — Integration"* (MOA_08–13)
+- `LIVE` *"Phase 3 — Mastery"* (MOA_14–18)
+- `LIVE` *"Phase 4 — Longevity"* (MOA_19–20)
+- `LIVE` *"Onboarding"* (MOA_01)
+- `DRAFT` *"First thirty: reset. Next thirty: build. Last thirty: lock it in."* — phase rhythm line for Phase 1 in particular [T3 home]
 
 ---
 
-## Sample lorem / placeholder copy (for design system templates)
+## 9. Tier-architecture parallelism (use anywhere both tiers appear together)
 
-When a design system needs placeholder body text in a Source Serif 4 / Plex Sans component, use ON-VOICE strings instead of lorem ipsum:
+Stefan's signature paired construction. Use verbatim or modulate only the verbs.
 
-### Short (for card descriptions, ~20 words)
+- `LIVE` *"The Protocols are the entry point. The Collective is where men finish the job."* [T3 founder block]
+- `LIVE` *"The Protocols teach you exactly how to run each of the five. The Collective is where we hold each other to it."* [T3 /protocols mechanism closer]
+- `LIVE` *"The Protocols Are the Entry Point. The Collective Is Where Men Finish."* [T3 /protocols Collective deflection header]
 
-> The ops layer your intuition deserves. Voice-trained workflows installed in five days, run from your Cowork workspace.
-
-### Medium (for hero sub-taglines, ~40 words)
-
-> AI operations studio for £1–10M UK DTC brands. Founded by an ex-DTC operator who scaled a pair of gourmet salt brands to multiple seven figures across UK and US. We install the ops infrastructure your team actually adopts.
-
-### Long (for about / explainer sections, ~80 words)
-
-> Most AI agencies sell tools. We sell the operator judgement that makes the tools work in a real DTC business. The audit produces an ops map, a working proof-of-concept, a voice fingerprint, and a 90-day roadmap. Five days, £1,497, fixed price. Retainers cover voice-trained content inside installed workflows. Standalone projects price separately. UK-based. GDPR, PECR, and EU AI Act posture from day one.
+Pattern: **`The Protocols [teach/are/deliver]. The Collective [holds/runs/finishes].`** This is the brand's clearest articulation of the offer ladder. Use it.
 
 ---
 
-## Copy review checklist (use against any generated component output)
+## 10. Sign-off process for new strings
 
-Before any component copy ships:
+Any `DRAFT` string in this bank — or any new string not in this bank at all — runs through:
 
-- [ ] No banned vocabulary (agency, transformation, synergy, unlock, seamless, leverage-as-verb, game-changer, cutting-edge, revolutionary, AI-powered)
-- [ ] No banned CTAs (Click here, Learn more, Get started, Sign up)
-- [ ] CTAs name a specific action with a specific outcome
-- [ ] Section headers carry specific nouns (not vague gerunds like "Innovating Together")
-- [ ] UK English (colour, organisation, behaviour) — not US
-- [ ] £ symbol, no decimals on round figures (£1,497 not £1,497.00)
-- [ ] Numbers preserved as-shipped (60,000+ units, not "many thousands")
-- [ ] One ox-blood mark per component — usually a price or a single inline link
-- [ ] No exclamation marks
-- [ ] No emojis (unless explicitly user-requested for a specific surface — never in brand assets)
-- [ ] No hashtags
-- [ ] No "AI agency" — always "AI operations studio / partner / practice"
+1. **Anton drafts** against the foundation-brief + voice-system rules
+2. **Self-check** against `foundation-brief.md` §10 quality checklist
+3. **Anton signs off** for unblocking purposes
+4. **Stefan async-reviews** before customer-facing publish
+5. **Sign-off recorded** by adding the string to this bank as `LIVE` with a date and source citation
+
+Any string that hits production without surviving steps 1–4 should be considered out-of-band and rolled back.
 
 ---
 
-## Voice register quick check
+## 11. Gap report
 
-Read the generated copy aloud. If it sounds like:
+Strings the bank is missing because the source surfaces haven't been sampled. Fill on Stefan's next surface or when the live site adds these:
 
-| Sound | Verdict |
-|---|---|
-| A peer DTC founder explaining what they do at a dinner table | ✓ on voice |
-| A senior operator briefing their team on a Monday | ✓ on voice |
-| A McKinsey deck cover | ✗ rewrite |
-| A Skool-graduate Loom thumbnail | ✗ rewrite |
-| A SaaS landing page from 2022 | ✗ rewrite |
-| A wellness brand on Instagram | ✗ rewrite |
-| A law firm letterhead from 1980 | ✗ rewrite (too stiff — we're modern) |
-
----
-
-## How to use this with Claude Design specifically
-
-Two paths:
-
-### A — If Claude Design is still in input phase
-
-Paste this entire file's contents into the **"Any other notes?"** field, OR upload `component-copy-bank.md` via the assets uploader. The generator now has explicit string examples for buttons, headers, microcopy, and cards — drift risk drops dramatically.
-
-### B — If Claude Design has already generated output
-
-Review the generated design system pass-by-pass against this bank. For every component with sample copy:
-
-1. Is the CTA on the bank? If not, replace.
-2. Is the section header on the bank? If not, replace.
-3. Is the tooltip / microcopy on-voice? If not, replace from this bank.
-4. If this bank doesn't have the specific string needed, *generate it on-voice* using the principles in [[brand-identity#Voice character]] — then add it back to this bank for v2.
-
----
-
-## Updates / v2 candidates
-
-This is v1 — covers the obvious component categories. Add to this bank as new component types emerge:
-
-- Onboarding tour copy (when the holding site grows into a richer site)
-- Email sequence subject lines + preheaders (when outbound starts week 4)
-- LinkedIn post hook variants (built-in-public posts, when case studies land)
-- Slack response templates (for retained client communications)
-- ROI report narrative paragraphs (for the monthly client deliverable)
-
-Each v2 update bumps the version number and gets a CHANGELOG line.
-
----
-
-## Related
-
-- [[brand-identity]] — Phase 5 (voice principles, sentence fingerprint, signature/refused vocabulary)
-- [[house-style]] — agency overlay (refused vocabulary list, scaffolding conventions, language conventions)
-- [[offer-brief]] — Phase 3 (locked tagline, headline candidates, hook variants)
-- [[avatar]] — Phase 2 (verbatim avatar voice anchor)
-- [[urso-brand-handoff/_context/voice-and-principles|Voice & Principles]] — source brief
-- [[foundation-brief]] — roll-up
-- [[_MOC/Brand]] — parent map of content
+- **Email subject lines** — no email surface sampled. Stefan does not appear to run a newsletter currently; this slot may stay empty.
+- **404 page copy** / **error states** — not in the captured PDFs.
+- **Loading-state microcopy** — not captured.
+- **Cart / checkout flow microcopy** — captured at button-level only; full flow unsampled.
+- **Email confirmation copy** — not sampled.
+- **Long-form content / blog voice** — Stefan does not appear to publish long-form on the current surfaces.
+- **Reply / DM / WhatsApp voice** — surfaces not sampled; relevant if Stefan moves to email-led nurture.

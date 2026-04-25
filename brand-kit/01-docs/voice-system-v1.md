@@ -1,401 +1,201 @@
-# ⚠️ TODO — STEFAN BRAND CONTENT NOT YET AUTHORED
+# Stefan Jankovic / Men of Apollo — Voice System v1
 
-This file was cloned from the urso-studio template. Replace the content below
-with Stefan-specific brand material by running the /brand skill in Claude Code:
-
-    /brand — Author foundation brief for Stefan
-
-Until then, this file is INVALID and any tool that reads it must refuse.
-
-Original Urso content is preserved below as reference structure only.
+**Version:** 1.0 · **Status:** Extracted (T1–T5) · **Date:** 2026-04-25 · **Pairs with:** `foundation-brief.md`
 
 ---
 
+## How to read this file
 
----
-type: method
-version: v1
-status: current
-generated_from: reverse-engineered 2026-04-22 from foundation/, outputs/, _context/, plus founder voice patterns observed across 2026-04-19 + 2026-04-22 sessions
-last_edited: 2026-04-22
-tags:
-  - method
-  - voice
-  - copy
-  - framework
-  - internal
-  - urso-co-ip
-aliases:
-  - Voice System
-  - Urso & Co Voice System
-  - VS-v1
-  - Voice Framework
-updated: 2026-04-22
----
-
-# Voice System — Urso & Co Method Doc
-
-> **Internal IP — version 1.** The framework Urso & Co uses to install voice-trained operations into client AI workflows. Reverse-engineered from the patterns visible across the brand foundation + observable founder behaviour. Anton reacts; v2 incorporates corrections.
->
-> **Why this exists**: AI-generated content sounds identical across brands. Generic Claude / GPT output reads the same whether it's for a coffee subscription, a B2B SaaS, or a recruitment agency. The Voice System ensures every workflow output Urso & Co installs sounds like the *client's* brand — by construction at workflow-output time, not by manual polish pass after.
+The foundation-brief is *what* Stefan's brand is. This file is *how* it sounds — the syntactic, lexical, and rhythmic patterns that produce on-voice copy. Every pattern here cites verbatim source. When in doubt, return to the cadence anchors in §6 and read them out loud before writing.
 
 ---
 
-## What it is
+## 1. The dominant syntactic move
 
-A **5-step capture + apply system** for translating a brand's actual voice into a Cowork-installable Skill that runs at the workflow output layer. Per-client. Productised. Reusable across every workflow installed for that client.
+Stefan's voice runs on a single repeated structural trick: **direct second-person accusation followed by a clean, minimalist promise.** [T1 dossier §1 — high confidence]
 
-It's not:
+The brand's nine-word thesis:
 
-- A prompt template
-- A "better way to talk to Claude"
-- A copywriting service
-- A creative agency offering
-- An LLM fine-tune
+> *"You know what to do, you're just not doing it."* — T2 IG bio
 
-It is:
+The reader is not ignorant. The reader is avoidant. The product is not education — it is enforcement. Every other voice pattern radiates from this move.
 
-- A diagnostic process (the Voice Fingerprint deliverable)
-- A spec doc (the Fingerprint output)
-- A composable Skill (`voice-calibration.md` per client workspace)
-- An ongoing calibration cadence (monthly / weekly / quarterly per tier)
+When writing a new section, ask: *Does this assume the reader knows the answer and isn't doing it, or does it assume the reader needs to be taught?* If the former — write Stefan. If the latter — wrong frame.
 
 ---
 
-## Inputs the framework requires
+## 2. Sentence fingerprint
 
-Before any voice work happens, the audit collects:
-
-1. **Brand corpus** — past brand-authored content
-   - 3-month sample of marketing emails (Klaviyo / Mailchimp / Beehiiv)
-   - 3 months of social posts (Instagram / LinkedIn / TikTok captions, NOT just published content — IG Stories voiceovers count)
-   - Past customer-facing CX replies (Gorgias / Zendesk threads)
-   - Existing brand guidelines if any
-2. **Founder voice samples — RAW**
-   - DMs they've sent (with sensitive content redacted)
-   - Voice notes they've recorded (transcribed)
-   - Off-cuff posts (not the polished ones)
-   - Podcast transcripts where the founder spoke unscripted
-   - **Critical**: marketing-polished content is *polluted input* — it produces a fingerprint of the brand's current voice, not the founder's actual voice. The Voice Sample Validator catches this (see § Failure modes).
-3. **Customer voice samples — verbatim**
-   - Trustpilot / G2 / Yotpo reviews (5-star for love language, 1-star for horror language)
-   - Discovery / sales call transcripts (Fathom / Granola / Loom AI)
-   - Support tickets that escalated (these are highest-signal)
-   - Forum / Reddit / Facebook group posts where the brand or its category gets discussed
-4. **Refused vocabulary list** — words and phrases the brand never uses, even if competitors do
-5. **Owned vocabulary list** — words the brand uses freely, that signal the brand's specific operator stance
-6. **Structural patterns** — sentence patterns the brand uses, sentence patterns it would never use
-
-Inputs (1)–(3) are *evidence*; (4)–(6) are *constraints*. Both are required.
-
----
-
-## Outputs the framework produces
-
-**Per client engagement**:
-
-1. **Voice Fingerprint** — the spec document. Audit deliverable. Living artefact (updated quarterly minimum). Lives at `<client-workspace>/context/brand-voice-spec.md`.
-2. **`voice-calibration.md` Skill** — installed in the client's Cowork workspace. Composable with every other workflow Skill. Lives at `<client-workspace>/skills/voice-calibration.md`.
-3. **Per-component copy strings** — for design system or applied template needs. Drawn from the [[../outputs/copy/component-copy-bank|component copy bank]] template, customised for the client's specific vocabulary.
-4. **Calibration review reports** — monthly (Growth tier), weekly (Partner tier), quarterly (Voice System Install). Each report cites 3-5 output samples with on-voice / drift verdict + correction notes.
-
-**Across the studio** (Urso & Co IP, not client-specific):
-
-- This method doc itself (versioned `v1`, `v2`, `v3`...)
-- Aggregate pattern library: rhythm signatures, common archetype mappings, refused-vocabulary baselines per vertical
-- Voice Sample Validator heuristic (see § Failure modes)
-
----
-
-## Mechanics — the 5-step capture phase
-
-Runs during the audit (5-day sprint).
-
-### Step 1 — Corpus collection (Audit Day 1–2)
-
-Discovery conversation with founder + corpus extraction. Collect a minimum of:
-
-- **5 brand emails** (3-month sample, varied: launch, transactional, win-back, founder voice)
-- **5 founder posts/DMs** (raw, not marketing-polished — flag if all available samples are polished)
-- **3 customer testimonials in their words** (Trustpilot, G2, recorded calls)
-- **1 existing brand guideline doc** (or note its absence)
-- **3 examples of "this isn't us" copy** — content the founder rejected and why
-
-Capture in `<client-workspace>/context/corpus/`. Keep raw — no editing.
-
-### Step 2 — Pattern extraction (Audit Day 2–3)
-
-Run a structured analysis against the corpus. Outputs become the Voice Fingerprint draft:
-
-- **Sentence length** — average, variance, max, min
-- **Rhythm** — periodic vs flowing, declarative vs interrogative ratio
-- **Voice** — active vs passive ratio (target: ≥85% active)
-- **Vocabulary frequency** — top 50 most-used content words (excluding stop words)
-- **Vocabulary absence** — generic-competitor words this brand avoids (helps surface refused list)
-- **Sentence pattern library** — 5–10 templates the brand re-uses (e.g., *"X. Then Y."* / *"Your X is Y. We make it Z."*)
-- **Banned vocabulary** — words this brand wouldn't be caught dead using
-
-This step is currently manual + structured. v2 candidate: automate via a Python script that runs corpus analysis and emits a structured report.
-
-### Step 3 — Voice Fingerprint draft (Audit Day 3–4)
-
-Synthesise the patterns into a Voice Fingerprint document with the same 7+ sections as [[../foundation/brand-identity|brand-identity.md]] uses for Urso & Co itself:
-
-- **Archetype** — Pearson 12, primary + optional secondary
-- **Register** — named (e.g., "quietly authoritative operator")
-- **Voice character** — the specific narrator (a person, not a role)
-- **Cultural ancestors** — 3–5 named refs
-- **Aspirational identity** — who the buyer becomes
-- **Signature vocabulary** — 8–10 owned words
-- **Refused vocabulary** — 8–10 banned words
-- **Sentence fingerprint** — length / rhythm / structure with examples
-- **Do/Don't worked examples** — minimum 5 pairs, drawn from the client's actual past content
-
-Every field tagged `[INFERRED from corpus]` until the founder confirms. Provenance stays in the doc.
-
-### Step 4 — Founder calibration call (Audit Day 4)
-
-Walk the founder through the Voice Fingerprint draft. For each field, get explicit:
-
-- **Y** — confirmed as written
-- **E** — edit, here's what it should say
-- **F** — flip, this is wrong, here's what it actually is
-
-Document founder edits verbatim. Replace `[INFERRED]` with `[CONFIRMED YYYY-MM-DD]`.
-
-**Critical**: this is not an interview. It's a reaction session. The framework does the work; the founder reacts. Faster, higher quality, captures founder taste without forcing founder to articulate from scratch (which most founders can't do well even when they have strong taste).
-
-### Step 5 — voice-calibration Skill installation (Audit Day 5)
-
-Translate the Voice Fingerprint into a Cowork-readable Skill at `<client-workspace>/skills/voice-calibration.md`.
-
-The Skill structure:
-
-```markdown
-# voice-calibration — <client name>
-
-When invoked by another Skill, enforce these rules on the draft output:
-
-## 1. Vocabulary check
-- Owned words (use freely): [list from Voice Fingerprint]
-- Refused words (never use): [list from Voice Fingerprint]
-- If draft contains any refused word → rewrite without it
-- Reject draft if owned-word density < 15% of content words
-
-## 2. Sentence fingerprint check
-- Average length: [X] words (variance ±[Y])
-- Reject draft if average sentence length is more than 30% off target
-- Use one of these signature patterns where natural: [pattern list]
-- Avoid these patterns: [pattern list]
-
-## 3. Anchor check
-- Every claim must be anchored to a specific number, tool, or named moment
-- Reject draft if it makes any claim with no anchor
-
-## 4. Restraint check
-- If draft sounds like SaaS pitch / consultancy deck / wellness brand → rewrite
-- If draft contains exclamation marks → remove
-- If draft uses "we are passionate about" or equivalent → rewrite
-
-## 5. Architecture check
-- Use UK English (colour, organisation, behaviour) [or US if specified]
-- £ symbol (or $) without decimals on round figures
-- ISO dates internally; natural-language dates in user-facing copy
-
-Output: voice-calibrated draft + a one-line explanation of each rule applied.
-Human review required before any client-facing send.
-```
-
-The Skill becomes a function any other workflow Skill can compose with. Per-workflow output runs through it before reaching `deliverables/`.
-
----
-
-## Mechanics — the application phase (steady-state)
-
-When a client workflow generates copy:
-
-1. The originating workflow Skill (e.g., `subscription-churn-recovery.md`) drafts the message based on its trigger (cohort signal, customer behaviour, etc.)
-2. Before output, the workflow Skill **composes with `voice-calibration.md`**
-3. voice-calibration runs the 5 checks above
-4. Output ships to `<client-workspace>/deliverables/<date>-<workflow>.md` for human review
-5. Human reviewer (Anton or VA) signs off; output sends via the workflow's normal channel (Klaviyo, Gorgias, Notion, email)
-
-**The composition step is non-optional.** Workflow Skill templates are written so they cannot output without invoking voice-calibration. This is the design discipline that makes the system non-bypassable.
-
----
-
-## Principles — the 7 rules
-
-These are the load-bearing beliefs the framework runs on. If a workflow output violates any of these, voice-calibration rejects it.
-
-1. **Specificity over abstraction** — every sentence names a specific number, tool, or moment. *"Your Gorgias queue is 340 tickets deep on Mondays"* beats *"Your CX process has bottlenecks."*
-2. **Restraint is the aesthetic** — under-claim, let specifics do the work. The brand that shouts signals desperation; the brand that speaks quietly with precision signals competence.
-3. **Operator voice over consultant voice** — *queue, margin, retention, install* over *synergy, KPI, transformation*. Operators trust operators.
-4. **Founder DNA, not founder mimicry** — capture how they *think*, not their *accent*. The fingerprint distils patterns, not personality tics.
-5. **Verbatim over paraphrase** — quote the buyer back to themselves whenever possible. The avatar's own words land harder than any agency copywriter's interpretation.
-6. **No banned vocabulary, ever** — the refused list is absolute. One slip ships generic.
-7. **Human-in-loop, always** — voice-trained output ships through human review before reaching named customers. Autonomy is a design choice per workflow with the client, never a default.
-
----
-
-## Architecture — Cowork-native deployment
-
-Per-client file tree (locked):
-
-```
-~/studio/<client-slug>/
-├── CLAUDE.md                       # client objectives, escalation rules
-├── skills/
-│   ├── voice-calibration.md        # ← THE Voice System for THIS client
-│   ├── cx-triage.md                # workflow Skill (composes with voice-calibration)
-│   ├── churn-recovery.md           # workflow Skill (composes with voice-calibration)
-│   ├── weekly-report.md            # workflow Skill (composes with voice-calibration)
-│   └── monthly-roi-report.md       # workflow Skill (composes with voice-calibration)
-├── context/
-│   ├── brand-voice-spec.md         # the Voice Fingerprint output
-│   ├── corpus/                     # source material, raw
-│   │   ├── past-emails.md
-│   │   ├── founder-posts.md
-│   │   ├── customer-quotes.md
-│   │   └── refused-list.md
-│   └── customer-personas.md
-└── deliverables/                   # workflow outputs land here, human-reviewed before send
-```
-
-**Per-client.** **Compounds.** The framework's outputs (Voice Fingerprint, voice-calibration Skill) belong to the client — they walk away with them at engagement end. The framework itself (this method doc, the 5-step capture procedure, the principles, the Voice Sample Validator) is Urso & Co IP — not licensed to clients, not productised publicly in v1 timeframe.
-
----
-
-## Calibration cadence
-
-Voice drifts as brands evolve. Calibration cadence is built into every retainer tier:
-
-| Tier | Frequency | What gets reviewed |
+| Property | Stefan's pattern | Source |
 |---|---|---|
-| **Audit** (one-off) | Day 4 of audit | Initial Voice Fingerprint with founder reaction (Y/E/F) |
-| **Starter retainer** | None built-in | One workflow only, voice spec stable for the engagement length |
-| **Growth retainer** | 1× per month | Voice spec accuracy as brand evolves; 3–5 output samples reviewed; minor edits to Fingerprint approved |
-| **Partner retainer** | 1× per week | Tighter calibration; output samples reviewed weekly; vocabulary list pruned and grown |
-| **Voice System Install** (£19k) | Quarterly for 12 months | Re-calibration as client business changes; major Fingerprint revisions; v2 / v3 of the Skill |
+| Average length | 10–14 words; short-to-medium; declarative | T1 dossier §1 |
+| Punctuation | No em dashes (one exception currently flagged on /protocols founder block — see Tier-B in foundation-brief §7). Hyphens sparing. Ellipses for dramatic pause in video descriptions only. Emojis as visual bullets, not tonal softeners. | T1 dossier §1 |
+| Rhythm | Triad with anaphoric "No" is signature | T1 dossier §1 + T2 YouTube |
+| Caps | One word allowed: *"FINALLY"* in Skool. No general caps-lock shouting. | T1 dossier §1 |
+| Profanity | Zero | T1 dossier §1 |
 
-**Drift signal**: if any calibration review flags >20% of sampled outputs as off-voice, schedule an immediate Fingerprint refresh, regardless of the next scheduled review.
+### The signature triad — anaphoric "No"
 
----
+> *"No crash diets. No starvation. No 'all-or-nothing' cycles. Just a system you can actually maintain."* — T2 YouTube description, Nov 29 2025
+>
+> *"No more guessing or giving up. This time it will actually work."* — T2 Skool about
 
-## Failure modes — what goes wrong, what to do
+This rhythm is Stefan's most copyable structural move. Pattern: **`No [bad thing 1]. No [bad thing 2]. No [bad thing 3]. Just [the alternative].`** Use sparingly — three times across home + /protocols max. Overuse turns it into a tic.
 
-### 1. Polished corpus problem
-**Symptom**: founder provides only marketing-polished samples; Fingerprint captures the *current brand voice*, not the *founder's actual voice*.
-**Fix**: insist on raw samples — DMs, voice notes, off-cuff IG Stories. Use the Voice Sample Validator (below) to flag polish.
-**Voice Sample Validator heuristic**: scan each sample for these polish signals:
-- CTAs (*"link in bio," "DM me," "sign up below"*)
-- Hashtags (≥3 per sample)
-- Emoji density >1 per 100 words
-- AI-tell phrases (*"delve," "tapestry," "leverage," "harness"*)
-- All sentences between 12–18 words (real speech varies wildly)
-- *"In today's [X]"* or *"Whether you're X or Y"* constructions
-- 5+ power words per 100 words (*"transform," "unlock," "discover," "proven"*)
-If any 3+ signals fire on a sample → flag, request rawer alternative.
+Currently live on /protocols [T3] and matching the rhythm correctly:
+> *"No injections. No shortcuts. Run honestly."*
 
-### 2. Drift over time
-**Symptom**: brand voice evolves (new product launch, audience shift, founder maturation), Fingerprint goes stale.
-**Fix**: calibration review cadence (above). Drift trigger at >20% off-voice samples.
+### The "without" construction
 
-### 3. Generic-fallback problem
-**Symptom**: under load (high-volume CX day, peak holiday), Cowork may produce generic output if voice-calibration Skill isn't invoked correctly by the workflow Skill.
-**Fix**: workflow Skill template requires voice-calibration composition as the *last* step before output. Composition is non-optional in the Skill structure.
+Stefan positions by **subtraction**, not addition. The dominant move:
 
-### 4. Founder over-edit
-**Symptom**: founder rewrites every output, defeating the system. Eventually the founder is doing the work the system was supposed to do.
-**Fix**: weekly review where founder picks 3 examples to flag (not every output). Flagged examples feed Fingerprint refinements. Output ships without founder pre-approval after the first 30 days unless flagged.
+> *"Get lean and stay lean year-round **without** obsessing over food, tracking every calorie, or living in the gym."* — T2 YouTube
+>
+> *"Imagine knowing exactly what to do to get in amazing shape, **without any confusion**."* — T2 Skool
+>
+> *"For men tired of conflicting macro advice **who want to eat real food and see results**."* — T3 /protocols Nutrition Blueprint
 
-### 5. Vocabulary inflation
-**Symptom**: over time the refused list grows to 50+ words; the owned list grows to 30+; both lose enforcement teeth.
-**Fix**: quarterly vocabulary prune. Hold each list to ~10 items. Demote rarely-flagged words to a secondary list (informational, not enforced).
-
-### 6. Multi-brand portfolio
-**Symptom**: client owns multiple brands (M&A, holding company, sub-brand structure). One Voice Fingerprint can't cover all.
-**Fix**: one Fingerprint per brand. One Cowork workspace per brand. Workspace tree replicated. Pricing scales accordingly (each brand is a separate audit + retainer line).
-
-### 7. Client team over-rides
-**Symptom**: client's internal CX or marketing team rewrites Cowork output before send because they "have their own voice." Cowork output goes unused.
-**Fix**: include client team in the Day 4 calibration call. Get their reactions captured in the Fingerprint. Make the framework theirs, not Urso & Co's imposition.
+Pattern: **`[the thing the reader wants] without [the cost the gurus charge for it].`** Use this anywhere a feature could be expressed as benefit-with-condition.
 
 ---
 
-## What's documented now (v1) vs not yet
+## 3. Opener patterns
 
-### v1 documents:
+Three openers dominate Stefan's accessible content. Use these — anything else will read like another writer.
 
-- The "what it is" framing
-- Inputs / outputs / mechanics (capture + apply)
-- The 7 principles
-- Architecture (Cowork deployment per client)
-- Calibration cadence per tier
-- 7 failure modes + fixes
-
-### v1 does NOT document yet (v2 candidates):
-
-- **Specific prompt templates for each step.** Currently in Anton's head; v2 should specify the exact prompts the operator runs at each capture step.
-- **Worked example showing the framework on a real corpus.** Stefan / Men of Apollo is the obvious candidate — when engagement permits publication and Stefan consents, write up his Voice Fingerprint as a worked-example case study.
-- **Quantitative calibration metrics.** Currently the rules in voice-calibration.md are qualitative ("if draft sounds like SaaS pitch"). v2 should add measurable thresholds (% owned-vocabulary density, sentence-length variance ranges).
-- **Edge cases** — multi-brand portfolios (covered briefly in Failure mode 6), brand voice transitions during M&A, client team handovers, founder departures.
-- **Pricing rationale** — when to apply audit-only voice work vs full Voice System Install. Currently in [[../foundation/offer-brief|offer-brief.md]] but not cross-linked to the framework.
-- **Quality benchmarks** — what "good" looks like when reviewing voice-trained output. Currently relies on Anton's taste; v2 should codify enough that a contractor or VA can apply the standard.
+| Opener | Verbatim example | When to use |
+|---|---|---|
+| **Imagine [future state]…** | *"Imagine knowing exactly what to do to get in amazing shape, without any confusion."* — T2 Skool | Top-of-funnel content; soft entry |
+| **If you want to [X] without [Y]…** | *"If you want to get lean and stay lean year-round without obsessing over food…"* — T2 YouTube | Mid-funnel; offer-aware reader |
+| **Accusatory one-liner** | *"You know what to do, you're just not doing it."* — T2 IG bio | Hero / above-fold; the brand thesis |
 
 ---
 
-## Provenance
+## 4. Closer patterns
 
-This v1 was reverse-engineered on **2026-04-22** from observable artefacts in the Urso & Co vault:
+Closers are **invitational imperatives** with explicit next-action framing. No motivational uplift, no quote walls, no "you got this." [T1 dossier §1]
 
-- [[../foundation/voice|voice-and-principles.md]] (in `_context/`) — vocabulary lists, sentence patterns, visual hierarchy
-- [[../foundation/brand-identity|brand-identity.md]] — do/don't worked examples, sentence fingerprint, archetype, cultural ancestors
-- [[../foundation/house-style|house-style.md]] — refused vocabulary, language conventions, scaffolding rules
-- [[../foundation/founder-insight-interview|founder-insight-interview.md]] — Q6 (frictionless scale aspiration), Q7 (intuition-not-knowledge — kills "we'll teach you" register)
-- [[../foundation/offer-brief|offer-brief.md]] — UMP/UMS statements about voice-trained ops, headline candidates demonstrating the patterns in action
-- [[../outputs/copy/component-copy-bank|component-copy-bank.md]] — applied component-level copy showing the patterns at micro level
-- Session conversation patterns (Anton's own voice in sessions on 2026-04-19 and 2026-04-22)
-- The `/brand` skill's Voice Sample Validator heuristic (informed Failure mode 1's checklist)
+| Closer | Verbatim example | Channel |
+|---|---|---|
+| Operational invitation | *"Join now and let's do this together. I'll see you inside💥"* — T2 Skool | Sales surfaces |
+| Sign-off | *"— I'll see you inside."* — T3 /protocols final block | Bottom of long-form |
+| Operational frame | *"Whether your goal is a lean, athletic physique or simply feeling better in your body, this will give you the blueprint."* — T2 YouTube | Content closers |
+| Personal authority | *"— Stef"* — T3 homepage founder block | Founder-voice blocks |
 
-**Not yet captured** (still in Anton's head, awaiting his correction):
-
-- The exact step-by-step procedure he uses when applying the framework on a new client
-- Specific prompt templates / Skill code that operationalise the framework in Cowork
-- His criteria for picking which brand archetype fits which client (currently inferred from category)
-- Edge case handling beyond the 7 failure modes documented
-
-**Anton's review path**: read this v1, mark every section with one of:
-
-- ✓ accurate, ship as-is
-- ~ partially accurate, here's the correction
-- ✗ wrong, here's what it actually is
-- + missing, here's what to add
-
-v2 incorporates corrections + adds the items in "v1 does NOT document yet."
+**Banned closers:** Marcus Aurelius quotes; "stay disciplined / stay focused / keep grinding"; religious sign-offs; aphorisms without operational instruction.
 
 ---
 
-## Public release status
+## 5. Signature constructions (repeat 3+ times across the site)
 
-**Private. Not for redistribution.** This framework is Urso & Co's IP. Reasoning captured in the project memory:
+Use these as architectural beams. They are reproducible without becoming tics.
 
-> *Anton owns timing decisions for public release of the Voice System framework. Pre-committed for first 90 days: no public Skill / SDK / API release. Framework lives as private Skills inside per-client Cowork workspaces, never on the Anthropic marketplace. Revisit month 9+ if delivery history supports it.*
-
-When (and if) the framework moves to public release in month 9+:
-
-- Productise as a Claude Skill on the Anthropic marketplace
-- Companion documentation (this doc, with worked examples) becomes a paid asset or a free lead magnet
-- Decision deferred — driven by delivery history, not present timeline
+1. **Without [the thing gurus do].** *"without any confusion / without obsessing / without tracking every calorie / without making things too hard."* [T1 dossier §1]
+2. **Train, eat, sleep [+ mindset].** Always in that order. The four-pillar taxonomy. [T1+T2]
+3. **The [number] inputs / pillars / blueprints.** Numbered architecture. *"The Five Inputs," "Three pillars," "Four blueprints."* [T3]
+4. **First thirty / next thirty / last thirty.** The 90-day arc broken into named phases. *"First thirty: reset. Next thirty: build. Last thirty: lock it in."* [T3 homepage]
+5. **The Protocols are [X]. The Collective is [Y].** The tier-architecture parallelism. *"The Protocols are the entry point. The Collective is where men finish the job."* [T3 founder block — verbatim, do not paraphrase]
 
 ---
 
-## Related
+## 6. Cadence anchors — verbatim, read out loud before writing
 
-- [[../foundation/foundation-brief|Foundation Brief]] — workspace roll-up
-- [[../foundation/brand-identity|Brand Identity]] — applied to Urso & Co itself
-- [[../foundation/house-style|House Style]] — agency overlay
-- [[../outputs/copy/component-copy-bank|Component Copy Bank]] — voice applied at component level
-- [[../foundation/founder-insight-interview|Founder Insight Interview]] — Q6 / Q7 source for the framework's positioning
-- [[../foundation/offer-brief|Offer Brief]] — commercial wrapper (Voice Fingerprint as audit deliverable, voice-calibration in retainers, Voice System Install £19k)
-- [[../../_MOC/Brand|MOC — Brand]] — parent map of content
+Five passages quoted in full. When in doubt, read these aloud and match the rhythm. [Source: T2 + T3]
+
+### A. The thesis (T2 IG bio)
+
+> *"You know what to do, you're just not doing it. I help men fix their training, nutrition & mindset. Free 7 Day Reset Guide + Greek Body Blueprint."*
+
+Notice: nine-word accusation; six-word promise; concrete deliverable. No padding.
+
+### B. The mechanism reveal (T3 /protocols hero)
+
+> *"The Five Inputs That Do 95% of What Men Are Paying Thousands to Inject. Sleep. Sunlight. Heavy compound lifts. Real food. A calm nervous system. Run in compound over 90 days. No tracking. No needle. No bulk you regret. Just the system your body already wants to run."*
+
+Notice: bold-claim headline naming the enemy (peptides); five-word noun list; triad-with-anaphoric-No; closer that frames the system as already-existing-in-the-body.
+
+### C. The founder block (T3 /protocols)
+
+> *"I built this because nothing I tried worked. I spent years knowing I was capable of more than I was living. Procrastinating. Inconsistent. Starting things and never finishing. Then something clicked and I rebuilt — body first, then everything else. Men of Apollo is the system I wish I'd had at the start. The Protocols are the entry point. The Collective is where men finish the job."*
+
+Notice: blunt past-tense self-diagnosis; one-word verbs as fragments (*Procrastinating. Inconsistent.*); the parallelism *Protocols / Collective / entry point / finish the job.*
+
+### D. The guarantee (T3 /protocols — already locked)
+
+> *"Run it. We've got you either way. Run the 90-day programme. Follow the five inputs. If by day 30 you don't see your energy, sleep, and strength move in the right direction, email us and we'll swap the blueprint for a different one — or coach you through what's not working. We don't refund digital files, but we don't leave men stuck either."*
+
+Notice: imperative opener; three-word reassurance; conditional with concrete day-marker; principled close that names what they *do* and *don't* do without apology.
+
+### E. The exclusion (T3 /protocols final)
+
+> *"This is not for everyone. If you're still looking for the shortcut — peptides, a macro app, a new supplement stack — this isn't it. The Protocols work because the five inputs work, and the five inputs only work when a man decides to run them."*
+
+Notice: declarative gate; named enemies (peptides, macro app, supplement stack); causal close that puts the locus of control on the reader.
+
+---
+
+## 7. Cultural ancestors — echoed but never named
+
+Stefan does not cite influences in any accessible copy. The structural fingerprints below are *echoed* — the voice borrows the register without the names. Do not name these in copy. [T1 dossier §3]
+
+- **Andrew Huberman** — the word *protocols* itself, the lab-jargon-as-consumer-vocabulary register
+- **Greg O'Gallagher / Kinobody** — the Greek-aesthetic positioning (Stefan reframes to Apollo to differentiate)
+- **Alex Hormozi** — value-ladder product architecture, risk-reversal copy patterns
+- **Casey Neistat / Matt D'Avella / Will Tennyson** — the cinematic-YouTube lineage (Sony FX3, DaVinci, LUTs)
+- **Stoic register, diluted** — discipline / mindset / a life worth living, *without* quoting Aurelius / Seneca / Epictetus
+
+**Hard rule:** if any of these names appear in Stefan-branded copy, voice-review fails. The restraint *is* the differentiation.
+
+---
+
+## 8. The 7 principles applied — daily practice
+
+A working checklist for any writer producing Stefan-branded text. Print this and pin it.
+
+| # | Principle | Stefan-specific test | Pass signal | Fail signal |
+|---|---|---|---|---|
+| V-1 | Specificity over abstraction | Does this name a number, day, phase, study, named outcome? | *"180kg deadlift at thirty-nine."* | *"Got stronger fast."* |
+| V-2 | Restraint is the aesthetic | Did I delete every adjective the sentence survives without? Are there zero exclamation marks on primary CTAs? | *"That's the whole review."* | *"This is GAME-CHANGING!"* |
+| V-3 | Operator voice, not consultant | Did I use owned vocabulary (protocol, system, input, blueprint, stack, framework, phase) before reaching for category-generic words? | *"The Recovery Blueprint."* | *"Your wellness journey."* |
+| V-4 | Founder DNA, not mimicry | Read it out loud — does it sound like the cadence anchors in §6 or like a different writer? | Triad-with-No or accusatory-second-person | Quote walls; "let's go!"; positivity-spam |
+| V-5 | Verbatim over paraphrase | Are quoted lines (reviews, founder blocks) byte-identical to source? | Reviews unchanged, em-dashes scrubbed only | Tightened-up reviews; new "improved" reviews |
+| V-6 | No banned vocabulary | Has the list in `foundation-brief.md` §7 been scanned? | Zero hits | Any hit |
+| V-7 | Human-in-loop | Is there a marked checkpoint for Stefan async review before customer-facing publish? | Anton signs-off → Stefan reviews | Auto-shipped from generator |
+
+---
+
+## 9. Negative space — what would land badly if introduced
+
+These are not "don't do" preferences. They are positioning failures that would visibly fracture the brand. [T1 dossier §8]
+
+- **Stoic name-dropping.** Aurelius / Seneca / Epictetus quote walls. The restraint is the differentiation; quoting regresses Men of Apollo into category-default.
+- **Red-pill / masculinity-under-siege language.** Hypergamy, sexual market value, "modern men under attack." Absent to date; introducing it would destroy the calm-mentor register.
+- **PED/TRT advocacy or direct attack.** Silence is currently the position. Either direction (advocate or anti) would fracture the natural-by-default stance.
+- **"Grind / no days off / 4am club."** Actively violates *"effortless not extreme."*
+- **Hard caps-lock hype, swearing, alpha vocabulary.** Breaks the warm-mentor voice on contact.
+- **Personal-trauma origin story.** Stefan's founder block is *measured* self-diagnosis ("I spent years knowing I was capable of more"), not *trauma narrative* ("I hit rock bottom"). Do not escalate.
+- **Credentialing ("ISSA-certified," "studied under X").** Stefan's authority frame is *experiential* — "for years, I've learned." Adding credentials would introduce a frame Stefan has explicitly avoided.
+
+---
+
+## 10. Voice register split — locked decision
+
+Stefan operates three registers across his channels [T1 dossier §8]. Lock which one leads which surface so they stop colliding.
+
+| Register | Use on | Example | Lock |
+|---|---|---|---|
+| **Warm-first-person mentor** | Sales surfaces (`/`, `/protocols`, founder blocks, application form, email) | *"Let's do this together. I'll see you inside."* | **Leads** |
+| **Minimalist-operator** | Mechanism cards, protocol descriptions, microcopy, FAQ | *"Squat. Hinge. Press. Pull. Heavy compound work on a structured split."* | **Leads on mechanism + product detail** |
+| **Third-person mythic** | YouTube About; lifestyle / cinematic content; press copy | *"A man with big dreams and a camera, building strength, discipline, and a life worth living."* | **Reserved — content channels only.** Do not use on sales surfaces. |
+
+**Why lock this:** if mythic register leaks onto /protocols, the page reads as brand-mythologising while trying to convert — direct response dies. Mythic register sells identity over time, not transactions today.
+
+---
+
+## 11. Gap report
+
+Items only Stefan can resolve. See `foundation-brief.md` §11 for the full register. Voice-system-specific gaps:
+
+1. **Cadence calibration on long-form.** The dossier and live PDFs give us hero / mechanism / founder / closer cadence. Stefan's voice on *long-form blog or email* is unsampled — when he surfaces, capture 1–2 long-form pieces to fill that register.
+2. **Voice on objection-handling / FAQ.** Currently the live FAQ on /protocols is collapsed (questions visible, answers hidden in PDF). Voice for the answer-side has not been sampled. Capture when Stefan ships an open FAQ.
+3. **Voice on critic / hostile-comment response.** No sampled material. Likely matters as the brand grows. Capture from YouTube comment replies if/when surfaced.
