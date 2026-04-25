@@ -26,7 +26,13 @@ Version history for the Apollo integration prompts. **Never overwrite** — bump
 
 ## session-c-final-polish
 
-### v2 — 2026-04-25 (current)
+### v2 — 2026-04-25 (current — shipped, Stefan sign-off received 2026-04-25)
+- **Status**: Stefan walked module-05 / module-10 / module-19 on mobile + desktop and signed off "modules read better". Anton publishes preview → production in Lovable. Session C closed.
+- **Two iteration sub-rounds during execution:**
+  - **v2.1 — markdown sync.** First Lovable run produced the typography components and CSS but Lovable's local `src/content/modules/*.md` were stale (zero h2/h3 in DOM). Sync prompt sent the canonical raw GitHub URLs for all 19 modules; Lovable updated its copies in place. Re-check: 10 h2 + 40 h3 in module-05, TOC populated, scroll-progress mounted. ✓
+  - **v2.2 — body typography fix.** After v2.1, headings rendered correctly but body paragraphs were 14px / 22.4px (Tailwind `font-body` was winning the cascade over the unset `.module-reader p` rule). Patch added scoped `.module-reader p` rules for 18/1.65 mobile, 19/1.7 desktop. Re-check: body 19px / 32.3px on desktop. ✓
+- **Verified post-ship** via Chrome MCP DOM inspection on /members module-05: h1 56/60 desktop, h2 32px with hair-rule on non-first h2s, h3 24px, body 19px / 1.7, TOC populated, scroll-progress mounted. Cross-section regression passed: home, /protocols, /members render unchanged from pre-v2 baseline (no `.module-reader` leak).
+- **Minor outstanding (parked):** `.module-reader` max-width is 857px; spec was 66ch (~720px at 19px). Stefan did not flag the column width during sign-off — defer to a future session only if reader feedback surfaces it.
 - **Scope reduced to modules-only.** v2 ships only Job 1 from v1 (Lovable typography pass on module pages). Jobs 2 (reviews rewrite), 3 (Higgs Field imagery pilot), and 4 (customer review submission) are **deferred to Session D**, which will be authored alongside the in-flight conversion audit on the home + /protocols landers.
 - **Why deferred.** Three reasons: (a) the conversion audit will land voice + structure decisions for reviews and imagery — touching them now forces a Session D re-do; (b) Stefan's brand foundation in `brand-kit/` is currently a stub — the `/brand` skill hasn't been run for him, so there's no canonical voice fingerprint, and reviews/imagery are downstream of voice; (c) the customer review submission form needs to mirror whatever Session D lands as the on-page review treatment, building it now risks scrap-and-rebuild.
 - **Repo-side h2/h3 work already shipped.** Commit `f1353c6` (merged into main as `05104b7` via PR #1, 2026-04-25) added named h2/h3 structural headings to all 20 module markdown files. Body prose byte-identical — verified by stripping `## ` / `### ` prefixes from each modified file and diffing cleanly to its pre-Session-C version. Module-14 (Phase 3 overview) intentionally untouched (single short section).
