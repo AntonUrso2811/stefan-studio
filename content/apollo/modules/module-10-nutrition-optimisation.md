@@ -14,9 +14,9 @@ lede: "Phase 1 gave you the foundation. Now we add precision tools."
 next_step: "Use these tools when needed. Return to intuitive eating when precision is not required."
 ---
 
-Caloric Precision When Needed
+## Caloric Precision When Needed
 
-Introduction
+### Introduction
 Phase 1 gave you the foundation - protein prioritisation, the Apollo Plate Method, whole foods,
 eliminating liquid calories. You have spent 30 days building intuition around food quality and meal
 composition.
@@ -41,7 +41,7 @@ working.
 Return to intuitive eating when precision is not required. The goal is competence across the
 spectrum.
 
-When to Track Calories
+### When to Track Calories
 Phase 1 deliberately avoided calorie counting. For most people most of the time, focusing on food
 quality and protein intake handles calories automatically. Tracking every morsel creates an unhealthy
 relationship with food and is unsustainable long-term.
@@ -49,7 +49,7 @@ relationship with food and is unsustainable long-term.
 But there are times when precision matters. Knowing how to accurately assess and manipulate
 caloric intake is a skill worth having.
 
-When to Track Calories
+### When to Track Calories
 
 Track when:
 
@@ -78,7 +78,7 @@ Do not track when:
 
  4. You have tracked before and have solid food intuition. Once you know, you know.
 
-Calculating Your Actual Caloric Needs
+### Calculating Your Actual Caloric Needs
 Forget the online calculators. They provide rough estimates at best. Here is how to find your real
 maintenance calories:
 
@@ -109,7 +109,7 @@ calories per 0.5kg lost.
 > This method gives you YOUR actual maintenance based on YOUR metabolism, activity level, and
 lifestyle - not a formula's guess.
 
-Setting Caloric Targets
+### Setting Caloric Targets
 Once you know maintenance:
 
 For fat loss: Subtract 20-25% from maintenance. This creates a deficit of roughly 300-500 calories
@@ -125,7 +125,7 @@ while minimizing fat gain. Larger surpluses do not build muscle faster - they ju
 
 Example: 2800 maintenance → 3000-3200 target for gaining
 
-The Precision Tracking Protocol
+### The Precision Tracking Protocol
 When you do track, do it properly:
 
  1. Use a food scale. Eyeballing portions is wildly inaccurate. A food scale costs little and changes
@@ -145,7 +145,7 @@ When you do track, do it properly:
 
  6. Track consistently for the assessment period. Sporadic tracking teaches nothing.
 
-Moving Beyond Tracking
+### Moving Beyond Tracking
 Tracking is a tool, not a lifestyle. The goal is to build awareness and hit specific targets, then return
 to intuitive eating with better calibration.
 
@@ -161,9 +161,9 @@ After 4-8 weeks of tracking:
 
 Track in phases. Do not track forever.
 
-   Macronutrient Manipulation
+##    Macronutrient Manipulation
 
-References
+### References
 Energy Balance and Weight Regulation
 
   • Hall KD et al. (2012) - "Energy balance and its components: implications for body weight
@@ -183,7 +183,7 @@ TDEE Calculation Accuracy
 
   • https://pubmed.ncbi.nlm.nih.gov/23703834/
 
-Macronutrient Manipulation
+### Macronutrient Manipulation
 Calories determine whether you gain or lose weight. Macronutrients determine what that weight is
 made of and how you feel along the way.
 
@@ -281,7 +281,7 @@ When to moderate fats:
 
   • If you tend to overeat high-fat foods
 
-Carb Cycling: The Practical Application
+### Carb Cycling: The Practical Application
 Carb cycling means varying carbohydrate intake based on activity level. Higher carbs on training
 days, lower carbs on rest days. This is not magic, it is logical matching of fuel to demand.
 
@@ -309,7 +309,7 @@ Distribution:
 
 > This keeps weekly calories identical while optimising fuel around training.
 
-Advanced Carb Cycling
+### Advanced Carb Cycling
 High/Medium/Low day approach:
 
   • High carb days (heavy training): 3g per kg bodyweight
@@ -321,7 +321,7 @@ High/Medium/Low day approach:
 > Adjust fat inversely to keep calories consistent - higher fat on low carb days, lower fat on high
 carb days.
 
-Protein Pulsing
+### Protein Pulsing
 Some research suggests that varying protein intake - higher on training days, slightly lower on rest
 days - may optimize muscle protein synthesis while allowing the anabolic response to remain
 sensitive.
@@ -337,7 +337,7 @@ If you want to experiment:
 
 Ensure weekly protein intake remains adequate.
 
-Fat Intake Optimisation
+### Fat Intake Optimisation
 Prioritise fat quality over quantity manipulation:
 
 Emphasise:
@@ -359,9 +359,9 @@ Minimize:
 > The omega-3 to omega-6 ratio matters for inflammation and recovery. Most modern diets are
 heavily skewed toward omega-6. Prioritise omega-3 sources.
 
-   Nutrient Timing Deep Dive
+##    Nutrient Timing Deep Dive
 
-References
+### References
 Protein Requirements for Athletes
 
   • Jäger R et al. (2017) - "International Society of Sports Nutrition Position Stand: protein and
@@ -402,7 +402,7 @@ Training Low, Competing High
 
   • https://pubmed.ncbi.nlm.nih.gov/21060149/
 
-Timing
+### Timing
 Does when you eat matter? The fitness industry has swung from "meal timing is everything" to
 "meal timing doesn't matter at all." The truth is in between.
 
@@ -421,7 +421,7 @@ improvements.
 > For most people, those marginal improvements are not worth obsessing over. For those pushing
 for optimised results, they matter.
 
-Pre-Workout Nutrition
+### Pre-Workout Nutrition
 The Goal: Provide fuel for training without GI distress.
 
 Timing: 1-3 hours before training, depending on meal size.
@@ -468,7 +468,7 @@ Example pre-workout meals:
 
 > If training fasted: See Module 2 protocols. Ensure post-workout nutrition is prioritised.
 
-Intra-Workout Nutrition
+### Intra-Workout Nutrition
 For most sessions under 75 minutes, water is sufficient.
 
 For longer or very intense sessions, intra-workout nutrition can help:
@@ -496,7 +496,7 @@ Options:
 > For standard 45-75 minute sessions, do not overcomplicate. Water and good pre-workout
 nutrition are sufficient.
 
-Post-Workout Nutrition
+### Post-Workout Nutrition
 The Anabolic Window: Myth vs Reality
 
 The old-school belief that you must consume protein within 30 minutes of training or lose your gains
@@ -533,7 +533,7 @@ again within 8 hours, glycogen replenishment is not time-sensitive. Whole food c
 > If you train twice daily or have another session within 8 hours, prioritise faster-digesting carbs
 (white rice, potatoes, fruit) over slower options (oats, whole grains, legumes).
 
-Pre-Sleep Nutrition
+### Pre-Sleep Nutrition
 You will spend 7-9 hours without food while sleeping. Pre-sleep nutrition can support overnight
 recovery.
 
@@ -553,9 +553,9 @@ Avoid:
 
   • Excessive fluid (nighttime waking)
 
-   **How many meals per day?**
+###    **How many meals per day?**
 
-Meal Frequency
+### Meal Frequency
 For muscle protein synthesis: Research suggests 3-5 protein feedings spread throughout the day
 optimises MPS better than 1-2 large feedings or 6+ small feedings. The "muscle full" effect limits
 how much protein can stimulate MPS at once (~40-60g), so spreading intake helps.
@@ -569,9 +569,9 @@ calories without feeling stuffed.
 > Practical recommendation: 3-4 meals containing 30-50g protein each, spaced 3-5 hours apart.
 Adjust based on your eating window if using IF.
 
-   Eating for Performance vs Aesthetics
+##    Eating for Performance vs Aesthetics
 
-References
+### References
 Post-Exercise Nutrition
 
   • Aragon AA & Schoenfeld BJ (2013) - "Nutrient timing revisited: is there a post-exercise anabolic
@@ -593,14 +593,14 @@ Pre-Sleep Protein
 
   • https://pubmed.ncbi.nlm.nih.gov/27667262/
 
-Meal Frequency
+### Meal Frequency
 
   • Schoenfeld BJ et al. (2015) - "Effects of meal frequency on weight loss and body composition: a
    meta-analysis"
 
   • https://pubmed.ncbi.nlm.nih.gov/26024494/
 
-Performance-Focused Nutrition
+### Performance-Focused Nutrition
 Your nutritional approach should match your current priority. Training for maximum gym
 performance requires different fuelling than dieting for a photoshoot. Understanding these
 differences allows you to shift strategies as goals change.
@@ -658,7 +658,7 @@ Meals:
 
   • Evening: Greek yogurt, nuts, berries (450 cal)
 
-Aesthetics-Focused Nutrition
+### Aesthetics-Focused Nutrition
 When aesthetics are the priority - you want to get leaner, more defined, more visually impressive -
 nutrition shifts toward creating and sustaining a caloric deficit while preserving muscle.
 
@@ -713,9 +713,9 @@ Meals:
 
   • Pre-bed: Cottage cheese (200 cal)
 
-   Advanced Supplementation
+##    Advanced Supplementation
 
-The Transition Between Phases
+### The Transition Between Phases
 Do not swing dramatically between performance and aesthetics nutrition. Transition gradually.
 
 From performance to aesthetics (starting a cut):
@@ -763,7 +763,7 @@ Maintenance phases allow:
 > Spend at least 2-4 weeks at maintenance between cutting and gaining phases. Longer
 maintenance phases (2-3 months) after extended diets allow better long-term results.
 
-Further Supplementation?
+### Further Supplementation?
 Phase 1 covered the foundation - creatine, vitamin D, omega-3s, magnesium, zinc. These remain
 your Tier 1 priorities. If you are not taking these consistently, advanced supplements are premature.
 
@@ -771,9 +771,9 @@ your Tier 1 priorities. If you are not taking these consistently, advanced suppl
 benefits for specific situations. None of these are necessary. All of them are secondary to food,
 training, sleep, and Tier 1 supplements.
 
-   **Protein Powder**
+###    **Protein Powder**
 
-Tier 2: Evidence-Based Options
+### Tier 2: Evidence-Based Options
 These have research support and meaningful effects for specific goals.
 
 What it does: Adaptogen that modulates the stress response. Reduces cortisol, may improve
@@ -860,9 +860,9 @@ Dose: As needed to meet protein targets. Typically 25-50g per serving.
 said before, if you choose any protein powder go with the unflavoured option with minimal additives
 that means no artificial sweeteners etc...
 
-   **Boron**
+###    **Boron**
 
-Tier 3: Situational Options
+### Tier 3: Situational Options
 These have evidence but niche applications. Consider only if Tier 1 and 2 are covered and you have
 specific needs.
 
@@ -909,7 +909,7 @@ Dose: 6-10mg daily
 
 > Notes: Easy to obtain from diet (fruits, nuts, vegetables). Supplement if dietary intake is low.
 
-What to Avoid...
+### What to Avoid...
 Testosterone boosters (proprietary blends): Most are underdosed combinations with no
 meaningful effect. Save your money.
 
@@ -925,7 +925,7 @@ superior if amino acid supplementation is needed.
 Most "pre-workouts": Proprietary blends of underdosed ingredients plus excessive caffeine. Build
 your own with caffeine, citrulline, and beta-alanine if desired.
 
-The Supplement Hierarchy
+### The Supplement Hierarchy
 Before adding anything beyond Tier 1:
 
  1. Is your diet dialled in? Supplements cannot fix poor nutrition.
@@ -939,9 +939,9 @@ Before adding anything beyond Tier 1:
 > If yes to all four, Tier 2 supplements may provide marginal benefits. If no to any, fix the foundation
 before adding complexity.
 
-   Nutrition Troubleshooting
+##    Nutrition Troubleshooting
 
-References
+### References
 Ashwagandha
 
   • Chandrasekhar K et al. (2012) - "A prospective, randomized double-blind, placebo-controlled
@@ -982,7 +982,7 @@ Tongkat Ali
 
   • https://pubmed.ncbi.nlm.nih.gov/35234121/
 
-Fat Loss Problem
+### Fat Loss Problem
 Despite best efforts, problems arise. Plateaus happen. Energy crashes. Digestive issues. This lesson
 provides diagnostic frameworks for common nutrition problems.
 
@@ -1024,7 +1024,7 @@ Diagnostic Questions:
 
   • Solution: Take 2-4 weeks at maintenance, then resume if needed.
 
-The Diet Break Protocol
+### The Diet Break Protocol
 When fat loss stalls after 8+ weeks of dieting:
 
   • Raise calories to maintenance for 1-2 weeks
@@ -1067,7 +1067,7 @@ Diagnostic Questions:
 
   • Solution: Reduce energy expenditure or increase intake to compensate.
 
-Hard Gainer Protocol
+### Hard Gainer Protocol
  1. Calculate needs accurately (track and assess as per Lesson 1)
 
  2. Add 300-500 calories above true maintenance
@@ -1153,9 +1153,9 @@ Diagnostic Questions:
 
   • Solution: Increase water intake, especially with fibre increase.
 
-   **Problem: Constant Hunger**
+###    **Problem: Constant Hunger**
 
-Digestive Optimisation Protocol
+### Digestive Optimisation Protocol
  1. Eat slowly, chew thoroughly
 
  2. Include fermented foods (yogurt, sauerkraut, kimchi)
@@ -1204,7 +1204,7 @@ Diagnostic Questions:
 
   • Solution: Prioritise sleep.
 
-Satiety Protocol
+### Satiety Protocol
   • Start every meal with protein and vegetables
 
   • Drink water before and during meals
@@ -1219,9 +1219,9 @@ Satiety Protocol
 
   • Differentiate hunger from boredom, habit, or emotion
 
-   Additional Resources
+##    Additional Resources
 
-References
+### References
 Diet Breaks for Fat Loss
 
   • Byrne NM et al. (2018) - "Intermittent energy restriction improves weight loss efficiency in obese

@@ -16,9 +16,9 @@ next_step: "Recovery is not passive. It is an active practice that requires the 
 
 • 4-7-8 Breathing
 
-   HRV and Recovery Tracking
+##    HRV and Recovery Tracking
 
-Introduction
+### Introduction
 Phase 1 introduced recovery basics - sleep hygiene, rest days, foundational stress management.
 You understand that recovery is not optional, that sleep is non-negotiable, and that you cannot out-
 train poor recovery.
@@ -37,14 +37,14 @@ load separates the men who sustain progress for years from those who burn out in
 > Recovery is not passive. It is an active practice that requires the same intention and discipline as
 your training.
 
-What is HRV?
+### What is HRV?
 Your body provides signals about its recovery status. Learning to read these signals - both
 subjective feelings and objective data - allows you to train smarter, avoid overreaching, and sustain
 progress long-term.
 
 Heart Rate Variability (HRV) is one of the most useful objective markers available.
 
-What is HRV?
+### What is HRV?
 
 Your heart does not beat like a metronome. Even at rest, the time between beats varies - sometimes
 0.9 seconds, sometimes 1.1 seconds. This variation is Heart Rate Variability.
@@ -55,7 +55,7 @@ and parasympathetic nervous system (rest and digest, recovery).
 > Higher HRV generally indicates better recovery status and parasympathetic dominance. Lower
 HRV suggests stress accumulation and sympathetic dominance.
 
-Why HRV Matters for Training
+### Why HRV Matters for Training
 When you are well-recovered, your nervous system is flexible - able to respond to stress and return
 to baseline efficiently. This shows as higher HRV.
 
@@ -67,7 +67,7 @@ lower HRV.
 it occasionally, but chronically training through suppressed HRV leads to overreaching, plateaus,
 and eventually illness or injury.
 
-How to Measure HRV
+### How to Measure HRV
 HRV requires measurement of the actual intervals between heartbeats, not just heart rate. This
 requires either:
 
@@ -82,7 +82,7 @@ hardware needed.
 For consistent tracking, the method matters less than using the same method every time under the
 same conditions.
 
-The HRV Measurement Protocol
+### The HRV Measurement Protocol
 
 Consistency is critical. HRV fluctuates throughout the day based on many factors. To get useful
 data:
@@ -97,7 +97,7 @@ data:
 
  5. Minimum 1-2 minutes of measurement - Longer is more accurate
 
-Interpreting HRV Data
+### Interpreting HRV Data
 Your baseline matters more than absolute numbers. A person with baseline HRV of 45 is not less
 healthy than someone with baseline of 75. Genetics, age, and fitness level affect absolute values.
 What matters is your deviation from YOUR baseline.
@@ -120,7 +120,7 @@ volume.
 HRV significantly below baseline (20%+ lower): Your system is stressed. Take it easy - light training,
 extra recovery focus, or rest.
 
-Resting Heart Rate: The Simpler Metric
+### Resting Heart Rate: The Simpler Metric
 If HRV feels too complex, resting heart rate (RHR) provides similar information with less technology.
 
 Measure RHR upon waking, before getting out of bed. Track it daily.
@@ -136,7 +136,7 @@ RHR elevated 5+ beats above baseline: Significant stress - prioritize recovery
 Like HRV, trends matter more than single readings. Three consecutive days of elevated RHR
 indicates a problem.
 
-Interpreting RHR
+### Interpreting RHR
 RHR at baseline: Normal recovery status
 
 RHR elevated 3-5 beats above baseline: Some accumulated stress
@@ -146,7 +146,7 @@ RHR elevated 5+ beats above baseline: Significant stress - prioritize recovery
 Like HRV, trends matter more than single readings. Three consecutive days of elevated RHR
 indicates a problem.
 
-Subjective Recovery Markers
+### Subjective Recovery Markers
 
 Data is useful, but do not ignore how you feel. Track these subjective markers:
 
@@ -164,10 +164,10 @@ Performance: Strength and endurance in the gym. Unexpected drops signal under-re
 
 Appetite: Both suppressed appetite and excessive hunger can indicate stress
 
-The Combined Assessment
+### The Combined Assessment
 [No text content available]
 
-Building Your Tracking System
+### Building Your Tracking System
 Keep it simple and sustainable:
 
 Daily (30 seconds):
@@ -196,9 +196,9 @@ Monthly:
 
 Do not obsess over data. Use it as information to guide decisions, not as a source of anxiety.
 
-   Nervous System Regulation
+##    Nervous System Regulation
 
-References
+### References
 HRV and Training Adaptation
 
   • Plews DJ et al. (2013) - "Training Adaptation and Heart Rate Variability in Elite Endurance
@@ -221,7 +221,7 @@ HRV and Overtraining
 
   • https://pubmed.ncbi.nlm.nih.gov/23339018/
 
-The Different Systems
+### The Different Systems
 The Autonomic Nervous System
 
 Your autonomic nervous system operates below conscious control, regulating heart rate, digestion,
@@ -237,7 +237,7 @@ promotes digestion, enables recovery and repair. Necessary for restoration and l
 Health and performance require balance - the ability to activate sympathetic response when needed
 and return to parasympathetic dominance afterward.
 
-The Problem of Chronic Sympathetic Dominance -
+### The Problem of Chronic Sympathetic Dominance -
 RECOVERY & STRESS MASTERY
 Modern life keeps many men stuck in low-grade sympathetic activation. Work stress, financial
 pressure, relationship tension, constant connectivity, poor sleep - these maintain elevated stress
@@ -267,7 +267,7 @@ This manifests as:
 
 You must address the nervous system directly.
 
-Vagal Tone: The Key to Recovery
+### Vagal Tone: The Key to Recovery
 The vagus nerve is the primary nerve of the parasympathetic system. It runs from the brainstem
 through the neck and into the chest and abdomen, influencing heart, lungs, and digestive organs.
 
@@ -279,7 +279,7 @@ nervous system flexibility.
 
 > The good news: vagal tone can be trained and improved through specific practices.
 
-Breathing: The Direct Access Point
+### Breathing: The Direct Access Point
 Breathing is unique - it is both automatic and under voluntary control. This makes it a direct access
 point to the autonomic nervous system.
 
@@ -289,7 +289,7 @@ Exhalation activates parasympathetic tone (slight heart rate decrease).
 
 > By manipulating breath, you manipulate nervous system state.
 
-Extended Exhale Breathing
+### Extended Exhale Breathing
 The simplest technique for activating parasympathetic response.
 
 Protocol:
@@ -310,7 +310,7 @@ The extended exhale emphasizes parasympathetic activation. Use this for:
 
   • Any time you need to downregulate
 
-Physiological Sigh
+### Physiological Sigh
 Research from Stanford (Balban et al., 2023) identified this as the most effective rapid stress
 reduction technique.
 
@@ -328,7 +328,7 @@ stress markers.
 
 > Use for: Acute stress, pre-performance anxiety, rapid downregulation needed.
 
-Box Breathing
+### Box Breathing
 Balanced technique used by military and first responders for maintaining calm under pressure.
 
 Protocol:
@@ -348,7 +348,7 @@ extended exhale breathing - useful for alert calmness rather than deep relaxatio
 
 > Use for: Pre-training focus, stressful situations requiring performance, building stress resilience.
 
-4-7-8 Breathing
+### 4-7-8 Breathing
 Strongly parasympathetic technique for sleep induction.
 
 Protocol:
@@ -366,14 +366,14 @@ induces drowsiness quickly.
 
 > Use for: Sleep onset, deep relaxation, acute anxiety.
 
-Cold Exposure for Nervous System Training
+### Cold Exposure for Nervous System Training
 Cold exposure (covered in detail in Lesson 4) trains nervous system resilience. The cold triggers
 sympathetic activation; controlling your response and breathing through it builds capacity to
 regulate your nervous system under stress.
 
 Regular cold exposure has been shown to improve vagal tone and HRV over time.
 
-Daily Nervous System Practices
+### Daily Nervous System Practices
 
 Morning (2-3 minutes):
 
@@ -403,7 +403,7 @@ As Needed:
 
   • Takes 30 seconds and can be done anywhere
 
-The Long Game
+### The Long Game
 Nervous system regulation is a skill that develops over time. Consistent practice builds:
 
   • Greater baseline vagal tone
@@ -418,10 +418,10 @@ Nervous system regulation is a skill that develops over time. Consistent practic
 
 > It is the foundation that allows hard training to produce results rather than breakdown.
 
-   Advanced Sleep Optimization
+##    Advanced Sleep Optimization
 
-References
-Physiological Sigh
+### References
+### Physiological Sigh
 
   • Balban MY et al. (2023) - "Brief structured respiration practices enhance mood and reduce
    physiological arousal"
@@ -449,14 +449,14 @@ Box Breathing and Stress
 
   • https://pubmed.ncbi.nlm.nih.gov/28626434/
 
-Intro
+### Intro
 Phase 1 established sleep non-negotiables: 7-9 hours, consistent timing, dark and cool
 environment, screen-free wind-down. These fundamentals handle 80% of sleep optimization.
 
 This lesson covers the remaining 20% - advanced strategies for those who have the basics dialled
 and want to push further.
 
-Understanding Sleep Architecture
+### Understanding Sleep Architecture
 Sleep is not uniform. It cycles through stages, each with different functions:
 
 Stage 1 (N1): Light transitional sleep. Minutes long. Easy to wake from.
@@ -472,7 +472,7 @@ REM Sleep: Rapid eye movement sleep. Brain highly active, body paralyzed. Critic
 function, memory consolidation, emotional regulation. About 20-25% of total sleep, concentrated in
 second half of night.
 
-Why Architecture Matters
+### Why Architecture Matters
 Different sleep stages serve different functions.
 
 Disrupted architecture - even with adequate total sleep time impairs recovery.
@@ -483,7 +483,7 @@ but miss critical restoration.
 Late-night training can elevate body temperature and stress hormones, reducing deep sleep in the
 critical first half of the night.
 
-Optimizing Deep Sleep (N3)
+### Optimizing Deep Sleep (N3)
 Deep sleep is where physical recovery happens.
 
 Growth hormone peaks, tissue repair occurs, and the body rebuilds from training stress. Maximizing
@@ -511,7 +511,7 @@ enhance deep sleep. Also reduces next-day fatigue.
 Magnesium. Supports GABA function and relaxation. Magnesium glycinate (300-400mg) before
 bed.
 
-Optimizing REM Sleep
+### Optimizing REM Sleep
 REM sleep is where cognitive restoration happens.
 
 Memory consolidation, emotional processing, and mental recovery occur during REM.
@@ -532,7 +532,7 @@ REM quality.
 Avoid sleeping pills when possible. Many sleep medications (especially benzodiazepines and Z-
 drugs) suppress REM sleep.
 
-Light Exposure Protocols
+### Light Exposure Protocols
 Light is the primary regulator of your circadian rhythm.
 
 Strategic light exposure powerfully influences sleep quality.
@@ -574,7 +574,7 @@ of natural melatonin release.
 
   • Red or orange night lights if needed
 
-Temperature Manipulation
+### Temperature Manipulation
 Core body temperature follows a circadian rhythm - higher during the day, dropping at night. Sleep
 onset is triggered partly by this temperature drop.
 
@@ -595,7 +595,7 @@ cools enhances sleep onset and deep sleep.
 
 Protocol: 10-20 minutes of heat exposure, finishing 60-90 minutes before intended sleep time.
 
-Sleep Supplements
+### Sleep Supplements
 
 Use supplements to enhance sleep, not replace good sleep hygiene. Supplements cannot
 overcome poor sleep practices.
@@ -633,7 +633,7 @@ sedation, potential long-term cognitive concerns.
 
 Alcohol as sleep aid: Disrupts architecture despite aiding onset.
 
-Travel and Shift Work
+### Travel and Shift Work
 When sleep timing must deviate from normal:
 
 Jet Lag Protocol:
@@ -660,9 +660,9 @@ Shift Work:
 
  • Accept that shift work has health costs - minimise duration if possible
 
-   Sauna and Cold Protocols
+##    Sauna and Cold Protocols
 
-References
+### References
 Sleep Stages and Recovery
 
  • Dattilo M et al. (2011) - "Sleep and muscle recovery: endocrinological and molecular basis for a
@@ -717,13 +717,13 @@ L-Theanine and Sleep
 
   • https://pubmed.ncbi.nlm.nih.gov/30707852/
 
-Intro
+### Intro
 Heat and cold exposure are powerful recovery tools when used strategically. They influence
 cardiovascular health, nervous system function, inflammation, and mental resilience.
 
 Phase 1 introduced these concepts. Now we provide specific protocols.
 
-Sauna
+### Sauna
 Physiological Effects:
 
 When you enter a sauna, your body responds to heat stress:
@@ -758,7 +758,7 @@ response and endorphin release contribute.
 Cognitive: Some evidence suggests heat exposure may reduce dementia risk, possibly through
 cardiovascular benefits and heat shock protein production.
 
-The Sauna Protocol
+### The Sauna Protocol
 Frequency: 3-4 sessions per week minimum for health benefits. Daily use is safe for most people.
 
 Temperature: 176-212°F (80-100°C) for traditional dry sauna. Lower for infrared.
@@ -805,7 +805,7 @@ Cautions:
 
   • Consult physician if cardiovascular conditions exist
 
-Cold Exposure
+### Cold Exposure
 Physiological Effects:
 
 Cold exposure triggers sympathetic activation and a cascade of physiological responses:
@@ -851,7 +851,7 @@ cold water immersion as immediate post-lifting recovery.
 > Cold is fine after conditioning or on rest days. The concern is specifically cold immersion
 immediately post-strength training.
 
-The Cold Protocol
+### The Cold Protocol
 Temperature: 50-59°F (10-15°C) is effective. Colder is not necessarily better - discomfort matters
 more than absolute temperature. Ice baths are typically 35-45°F (2-7°C).
 
@@ -894,7 +894,7 @@ Advanced Protocol (Ongoing):
 
  5. Total weekly exposure: 10 minutes minimum
 
-The Mental Game
+### The Mental Game
 Cold exposure is as much mental training as physical. The goal is not to endure suffering but to
 remain calm and controlled in discomfort.
 
@@ -908,7 +908,7 @@ remain calm and controlled in discomfort.
 
 This mental practice transfers directly to other challenging situations.
 
-Contrast Therapy
+### Contrast Therapy
 Alternating hot and cold exposure creates a "vascular pump" effect, vasodilation from heat,
 vasoconstriction from cold, repeated cycling.
 
@@ -924,7 +924,7 @@ Protocol:
 
 This is excellent for recovery days and creates a strong mood-enhancing effect.
 
-Practical Implementation
+### Practical Implementation
 
 If you have sauna access:
 
@@ -952,9 +952,9 @@ If you have both:
 
   • Separate cold from strength training by 4+ hours
 
-   Stress as a Training Variable
+##    Stress as a Training Variable
 
-References
+### References
 Sauna and Cardiovascular Health
 
   • Laukkanen T et al. (2015) - "Association Between Sauna Bathing and Fatal Cardiovascular and
@@ -1000,7 +1000,7 @@ Cold and Strength Training (CAUTION)
 
   • https://pubmed.ncbi.nlm.nih.gov/25144131/
 
-Intro
+### Intro
 Here is the truth most fitness content ignores: the stress from your training does not exist in
 isolation. It combines with every other stress in your life. Your body does not distinguish between
 stress from squats, stress from your job, stress from your relationship, or stress from financial
@@ -1008,7 +1008,7 @@ pressure.
 
 > It is all stress. And you have a finite capacity to handle it.
 
-The Unified Stress Model
+### The Unified Stress Model
 Hans Selye, the father of stress research, described the General Adaptation Syndrome - the body's
 response to any stressor:
 
@@ -1021,7 +1021,7 @@ response to any stressor:
 > This applies to all stress - physical, psychological, emotional. Your body responds to a deadline at
 work with the same hormonal cascade (cortisol, adrenaline) as a heavy deadlift session.
 
-Allostatic Load
+### Allostatic Load
 Allostatic load is the cumulative burden of chronic stress and life events. It represents the "wear and
 tear" on the body from repeated stress cycles.
 
@@ -1046,7 +1046,7 @@ High allostatic load manifests as:
 You can also have high allostatic load from training if you are training too hard without adequate
 recovery.
 
-The Stress Bucket Model
+### The Stress Bucket Model
 Imagine your capacity to handle stress as a bucket.
 
 Stress flows in from all sources.
@@ -1095,7 +1095,7 @@ Recovery draining stress:
 
 This is when breakdown occurs - illness, injury, burnout, plateaued performance.
 
-Training Implications
+### Training Implications
 Your training program cannot exist in a vacuum. The appropriate training load depends on what else
 is filling your stress bucket.
 
@@ -1138,7 +1138,7 @@ Scale of 1-10:
 > This is intelligent stress management that allows for long-term progress rather than short-term
 breakdown.
 
-When to Push vs Pull Back
+### When to Push vs Pull Back
 Push (train harder) when:
 
   • Sleep is consistently good (7-9 hours)
@@ -1169,7 +1169,7 @@ Pull back (train easier) when:
 
   • You are getting sick frequently
 
-The Minimum Effective Dose
+### The Minimum Effective Dose
 During high stress periods, ask: what is the minimum training that maintains my fitness without
 adding significant stress?
 
@@ -1191,7 +1191,7 @@ it.
 > You are not losing progress by training lighter during high stress. You are preserving the ability to
 train hard when circumstances allow.
 
-Long-Term Stress Management
+### Long-Term Stress Management
 Training is one component of a larger system. Sustainable long-term progress requires managing
 the entire system.
 
@@ -1223,7 +1223,7 @@ Periodic practices:
 
   • Reassessment of goals and priorities
 
-The Apollo Approach
+### The Apollo Approach
 We train hard.
 
 Discipline is non-negotiable.
@@ -1236,16 +1236,16 @@ exceeding capacity.
 
 > You are building something that lasts decades, not weeks. Manage your stress accordingly.
 
-   Additional Resources
+##    Additional Resources
 
-References
+### References
 General Adaptation Syndrome
 
   • Selye H (1950) - "Stress and the General Adaptation Syndrome"
 
   • https://pubmed.ncbi.nlm.nih.gov/15432478/
 
-Allostatic Load
+### Allostatic Load
 
   • McEwen BS (1998) - "Stress, adaptation, and disease. Allostasis and allostatic load"
 

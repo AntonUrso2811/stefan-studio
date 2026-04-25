@@ -14,7 +14,7 @@ lede: "This is not a powerlifting program. This is not a bodybuilding program ei
 next_step: "Now go train."
 ---
 
-Training Philosophy
+## Training Philosophy
 Let's get something straight from the start.
 
 This is not a powerlifting program. We're not chasing one-rep maxes or trying to deadlift ridiculous
@@ -63,7 +63,7 @@ decades, not bodies that peak at 30 and fall apart at 40.
 
 That's the Apollo standard.
 
-Gym-Based or Home-Based Training
+## Gym-Based or Home-Based Training
 Before we go further, you need to make a choice: Gym or Home or both.
 
 All of those paths lead to the same destination. Both will build strength, muscle, and athleticism.
@@ -97,7 +97,7 @@ execute it fully.
 
    GYM
 
-Technique Library — Key Movements
+## Technique Library — Key Movements
 Before you touch a weight, you need to understand the movements. Poor technique is how people
 get injured, stall progress, and build imbalanced physiques. Good technique is how you maximise
 muscle engagement, stay healthy, and progress for years without setbacks.
@@ -216,18 +216,18 @@ For visual demonstrations of these movements, I recommend studying content from 
 prioritize form: Jeff Nippard, Eugene Teo, and Renaissance Periodization all produce high-quality
 technique breakdowns. Watch. Study. Practice with light weight before going heavy.
 
-Foundation Program (3-Day Full Body)
+## Foundation Program (3-Day Full Body)
 This is your Phase 1 training program if you chose the Gym-Based path. It's a 3-day full body split
 designed for foundational strength and movement quality.
 
-Why Full Body?
+### Why Full Body?
 
 For most men, especially those returning to training or building consistency - full body training 3
 times per week is optimal. You hit every muscle group multiple times per week with moderate
 volume, which maximises the muscle protein synthesis response. It's also forgiving if life gets in the
 way: miss one session and you've still trained everything that week.
 
-The Structure:
+### The Structure:
 
 Three training days per week, with at least one rest day between sessions.
 
@@ -247,7 +247,7 @@ Each session follows this structure:
 
   • Cooldown/Stretch (5-10 minutes)
 
-DAY A — PUSH EMPHASIS
+### DAY A — PUSH EMPHASIS
 Warm-Up (5-10 min)
 
   • 3-5 min light cardio (bike, rowing, or brisk walking)
@@ -288,7 +288,7 @@ Core:
 
 Cooldown: 5 minutes stretching — chest, hip flexors, hamstrings
 
-DAY B — PULL EMPHASIS
+### DAY B — PULL EMPHASIS
 Warm-Up (5-10 min)
 
   • Light cardio
@@ -329,7 +329,7 @@ Core:
 
 Cooldown: 5 minutes stretching — lats, lower back, glutes
 
-DAY C — LEGS EMPHASIS
+### DAY C — LEGS EMPHASIS
 Warm-Up (5-10 min)
 
   • Light cardio
@@ -370,7 +370,7 @@ Core:
 
 Cooldown: 5 minutes stretching — quads, hip flexors, hamstrings, glutes
 
-Progression Protocol
+### Progression Protocol
 Week 1-2: Focus on form. Use weights that feel moderate — you should finish sets with 2-3 reps "in
 the tank." Don't go to failure.
 
@@ -407,18 +407,18 @@ University Hospitals — Progressive Overload: The Secret to Building Muscle Str
 
   • https://www.uhhospitals.org/blog/articles/2025/08/progressive-overload
 
-Foundation Program (4-Day Upper/Lower)
+## Foundation Program (4-Day Upper/Lower)
 If you have 4 days available for training and prefer to split your focus between upper and lower
 body, this is your alternative program. It allows slightly more volume per muscle group while
 maintaining the full-body frequency benefits.
 
-The Structure:
+### The Structure:
 
 Four training days per week, alternating upper and lower focus.
 
 Example schedule: Monday (Upper) / Tuesday (Lower) / Thursday (Upper) / Friday (Lower)
 
-UPPER A — PUSH FOCUS
+### UPPER A — PUSH FOCUS
 Warm-Up: 5-10 minutes
 
 Primary: Barbell Bench Press — 4 sets x 6-8 reps Secondary: Barbell Row — 4 sets x 8-10 reps
@@ -434,7 +434,7 @@ Accessory:
 
 Core: Plank 3 x 45 sec, Dead Bug 3 x 8 each side
 
-LOWER A — SQUAT FOCUS
+### LOWER A — SQUAT FOCUS
 Warm-Up: 5-10 minutes
 
 Primary: Barbell Back Squat — 4 sets x 6-8 reps Secondary: Romanian Deadlift — 3 sets x 8-10
@@ -450,7 +450,7 @@ reps Accessory:
 
 Core: Hanging Leg Raise 3 x 10, Side Plank 2 x 30 sec each
 
-UPPER B — PULL FOCUS
+### UPPER B — PULL FOCUS
 Warm-Up: 5-10 minutes
 
 Primary: Pull-Ups or Weighted Pull-Ups — 4 sets x 6-10 reps Secondary: Incline Dumbbell
@@ -468,7 +468,7 @@ Core: Ab Wheel 3 x 8, Pallof Press 3 x 10 each side
 
    HOME
 
-LOWER B — HINGE FOCUS
+### LOWER B — HINGE FOCUS
 Warm-Up: 5-10 minutes
 
 Primary: Barbell Deadlift — 4 sets x 5-6 reps Secondary: Front Squat or Goblet Squat — 3 sets
@@ -484,11 +484,11 @@ x 8-10 reps Accessory:
 
 Core: Reverse Crunch 3 x 12, Plank 2 x 45 sec
 
-Home-Based (4-Day Minimal Equipment)
+## Home-Based (4-Day Minimal Equipment)
 This is your Phase 1 program if you chose the Home-Based path. Built around a kettlebell/dumbbell,
 bands, pull-up bar, and bodyweight.
 
-Equipment Required:
+### Equipment Required:
 
   • Kettlebell or Dumbbell (16-24kg — heavier is better if you can handle it)
 
@@ -498,13 +498,13 @@ Equipment Required:
 
   • Mat
 
-The Structure:
+### The Structure:
 
 Four training days per week. Sessions run 30-45 minutes.
 
 Example schedule: Monday / Tuesday / Thursday / Friday
 
-DAY 1 — PUSH + PULL STRENGTH (UPPER BODY)
+### DAY 1 — PUSH + PULL STRENGTH (UPPER BODY)
 Warm-Up (5 min):
 
   • Arm circles, band pull-aparts, scapular push-ups
@@ -531,7 +531,7 @@ Core:
 
  • Plank: 2 sets x 45 seconds
 
-DAY 2 — LOWER BODY + CORE
+### DAY 2 — LOWER BODY + CORE
 Warm-Up (5 min):
 
  • Hip circles, leg swings, glute bridges
@@ -558,7 +558,7 @@ Core:
 
  • Side Plank: 2 sets x 30 seconds each side
 
-DAY 3 — FULL BODY CONDITIONING + STRENGTH -
+### DAY 3 — FULL BODY CONDITIONING + STRENGTH -
 Warm-Up (5 min):
 
   • Jumping jacks, bodyweight squats, arm circles
@@ -585,7 +585,7 @@ Core:
 
   • Plank Shoulder Taps: 3 sets x 10 each side
 
-DAY 4 — PULL, GRIP & CONDITIONING
+### DAY 4 — PULL, GRIP & CONDITIONING
 Warm-Up (5 min):
 
   • Light cardio, band pull-aparts, cat-cow
@@ -616,7 +616,7 @@ Core:
 
   • Ab Wheel or Plank Rollout: 3 sets x 8-10 reps
 
-Progression for Home Training
+### Progression for Home Training
 Since you have limited loading options, you progress through:
 
  1. Adding reps (8 reps → 12 reps → 15 reps)
@@ -634,13 +634,13 @@ Since you have limited loading options, you progress through:
 When a movement becomes easy (you can do 15+ controlled reps), progress to a harder variation
 rather than just adding endless reps.
 
-Conditioning — Zone 2 and Finishers
+## Conditioning — Zone 2 and Finishers
 Strength training alone doesn't build a complete physique or a capable body. You need conditioning
 - cardiovascular work that builds your engine, improves recovery, and keeps you healthy long-term.
 
 In Phase 1, conditioning has two components: Zone 2 work and short finishers.
 
-Zone 2 Training
+### Zone 2 Training
 
 Zone 2 is low-intensity steady-state cardio performed at a heart rate where you can maintain a
 conversation. Roughly 60-70% of your max heart rate. It feels sustainable, challenging but not
@@ -667,7 +667,7 @@ Zone 2 Protocol:
 
   • Intensity check: you should be able to speak in full sentences. If you can't, slow down.
 
-Short Finishers
+### Short Finishers
 
 Finishers are brief, higher-intensity conditioning pieces added to the end of strength sessions or
 done as standalone workouts. They elevate your heart rate, burn additional calories, and build work
@@ -703,7 +703,7 @@ Peter Attia Complete Zone 2 Guide:
 
   • https://peterattiamd.com/guide-to-zone-2-training/
 
-Recovery and De-load Rules
+## Recovery and De-load Rules
 Training is stress. Productive stress, but stress nonetheless. You don't get stronger during workouts,
 you get stronger during recovery, when your body adapts to the stress you placed on it.
 
@@ -711,7 +711,7 @@ Most men under-train recovery and overtrain effort. They think more is always be
 Intelligent recovery is what separates men who make consistent progress from men who burn out,
 get injured, or plateau.
 
-Daily Recovery Practices:
+### Daily Recovery Practices:
 
 Sleep: 7-9 hours per night. Non-negotiable. This is where growth hormone pulses, testosterone
 peaks, and tissue repair happens at the highest rate. If you're not sleeping enough, you're leaving
@@ -726,13 +726,13 @@ sweating heavily in training. More if you're in a warmer climate.
 Mobility: Your daily 10-minute routine (from Week 1) serves recovery by improving blood flow and
 maintaining range of motion.
 
-Rest Days:
+### Rest Days:
 
 Take at least one full rest day per week. On rest days, don't just sit on the couch - active recovery is
 better. Walk, do mobility work, get outside. Light movement promotes blood flow and aids recovery
 without adding training stress.
 
-De-load Weeks:
+### De-load Weeks:
 
 Every 4-6 weeks of hard training should be followed by a de-load week. During a de-load, you
 reduce training volume and/or intensity by approximately 40-50%. Same exercises, same frequency,
@@ -742,7 +742,7 @@ Why de-load? You might feel fine, but your nervous system, joints, and muscles a
 that hasn't fully dissipated. A de-load allows that fatigue to clear, often resulting in feeling stronger
 when you return to normal training.
 
-Signs You Need Extra Recovery:
+### Signs You Need Extra Recovery:
 
   • Persistent fatigue that sleep doesn't fix
 
@@ -793,11 +793,11 @@ JAMA — Effect of 1 Week of Sleep Restriction on Testosterone Levels:
 
   • https://jamanetwork.com/journals/jama/fullarticle/1029127
 
-Pain, Injury, and Regression Guidelines
+## Pain, Injury, and Regression Guidelines
 Training for decades requires knowing the difference between productive discomfort and genuine
 warning signs. This lesson gives you the framework to train hard without being stupid about it.
 
-Discomfort vs. Pain:
+### Discomfort vs. Pain:
 
 Productive discomfort is the burn of muscles working, the fatigue of effort, the challenge of pushing
 through. This is normal and expected. Embrace it.
@@ -806,7 +806,7 @@ Pain is sharp, localised, and usually immediate. It's your body telling you some
 in joints (knees, shoulders, lower back, elbows) is never something to push through. Stop the
 movement immediately.
 
-The Traffic Light System:
+### The Traffic Light System:
 
 Green Light (Train Normally): Everything feels good. No pain. Mild muscle soreness from previous
 sessions is fine.
@@ -818,7 +818,7 @@ different exercise that doesn't cause the sensation. Don't push through.
 Red Light (Stop): Sharp pain, sudden weakness, or anything that feels "wrong." Stop the exercise
 immediately. Don't try to test it. If it doesn't resolve quickly, seek professional evaluation.
 
-Common Issue Troubleshooting:
+### Common Issue Troubleshooting:
 
 Lower Back Pain During Deadlifts: Usually a form issue - rounding of the lumbar spine under load.
 Reduce weight significantly, film yourself, and fix your form. Consider switching to trap bar deadlifts
@@ -833,7 +833,7 @@ Knee Pain During Squats: Check if your knees are caving inward - this is a commo
 knees track over toes. Try box squats or goblet squats to groove proper mechanics. Reduce depth
 temporarily if needed.
 
-When to See a Professional:
+### When to See a Professional:
 
   • Pain that persists for more than a week despite rest
 
@@ -849,7 +849,7 @@ Don't be the guy who trains through an injury for months and turns a minor issue
 Get it evaluated. A few weeks of modified training beats months of forced layoff from a worsened
 injury.
 
-Regression Options:
+### Regression Options:
 
 If an exercise is causing issues, regress before you abandon. Regression options for common
 movements:
@@ -865,10 +865,10 @@ movements:
 Regressing is not failure. It's smart training. Master the regression, rebuild strength, then progress
 when ready.
 
-Training Summary and Implementation
+## Training Summary and Implementation
 Here's everything you need to execute Phase 1 training:
 
-Your Path:
+### Your Path:
 
 Choose one:
 
@@ -880,7 +880,7 @@ Choose one:
 
 Commit to it for all 30 days. No switching.
 
-Weekly Structure:
+### Weekly Structure:
 
   • 3-4 strength training sessions (per your chosen path)
 
@@ -890,23 +890,23 @@ Weekly Structure:
 
   • 1+ full rest days
 
-Session Structure:
+### Session Structure:
 
 Every session: warm-up → work → cooldown/stretch. Don't skip the warm-up. Don't skip the
 cooldown.
 
-Progression:
+### Progression:
 
 Weeks 1-2: Focus on form. Moderate weights. Build the habit. Weeks 3-4: Push for progression.
 Add weight or reps each session where possible.
 
 Log everything.
 
-Recovery:
+### Recovery:
 
 Sleep 7-9 hours. Eat enough protein. Stay hydrated. Do your mobility. Take rest days seriously.
 
-Mindset:
+### Mindset:
 
 You're not trying to destroy yourself. You're building a system that compounds over time. Show up
 consistently. Execute the basics. Progress gradually. That's the entire formula.

@@ -16,7 +16,7 @@ next_step: "Phase 2 unlocks tomorrow. This is where we go deeper."
 
 • 30-Day Overview: What Success Looks Like
 
-What the Next 30 Days Will Do to You
+## What the Next 30 Days Will Do to You
 The next 30 days are going to change you.
 
 Not in some vague, motivational poster way. In a real, measurable way. By the end of the Apollo
@@ -72,11 +72,11 @@ I always say this - fitness isn't supposed to control you, its supposed to give 
 
 Let's begin.
 
-30-Day Overview: What Success Looks Like
+## 30-Day Overview: What Success Looks Like
 Before we dive into the weekly breakdowns, let me paint a clear picture of where you should be by
 Day 30. This isn't vague aspiration. These are concrete markers.
 
-Physical Changes
+### Physical Changes
 
 If you're carrying excess fat, you should see visible reduction - particularly in your face, waist, and
 midsection. We're not promising dramatic weight loss because that depends on your starting point,
@@ -87,14 +87,14 @@ recomposition - losing fat while building or maintaining muscle.
 If you're already relatively lean, you'll notice improved muscle tone, better posture, and more
 vascularity. Your body will start to look harder, more athletic.
 
-Performance Changes
+### Performance Changes
 
 Your training sessions should feel noticeably better by Week 4 than they did in Week 1. You'll be
 lifting more weight or doing more reps with the same weight. Your conditioning will have improved -
 you won't be as gassed after circuits or finishers. Movement quality will be better because you've
 been doing daily mobility work.
 
-Energy and Recovery
+### Energy and Recovery
 
 This is where most men notice the biggest shift. If you've been sleeping poorly, eating garbage, and
 living in a state of chronic low-grade stress, fixing those things produces dramatic results quickly.
@@ -102,14 +102,14 @@ By Day 30, you should be waking up before your alarm, feeling genuinely rested. 
 crashes should be gone or significantly reduced. Your mood will be more stable. Mental clarity will
 be sharper.
 
-Habit Installation
+### Habit Installation
 
 By Day 30, training should feel automatic. You shouldn't be debating whether to work out - it's just
 what you do on training days. Same with nutrition. You shouldn't be constantly fighting cravings or
 feeling deprived. The new eating pattern should feel normal, even enjoyable. Sleep hygiene should
 be habitual - you'll naturally start winding down at the same time each night without forcing it.
 
-Mindset Shift
+### Mindset Shift
 
 This is the subtle but crucial one. By Day 30, your internal identity should have shifted. You're no
 longer someone who is "trying to get in shape." You're someone who trains. You're someone who
@@ -118,7 +118,7 @@ they're descriptive of who you are.
 
 That's what we're building toward. Now let's break down how we get there.
 
-WEEK 1: RESET + RHYTHM
+## WEEK 1: RESET + RHYTHM
 Week 1 is about one thing: removing chaos and establishing baseline rhythm.
 
 Most men come into this with lives that are fundamentally disordered. They wake up at different
@@ -142,7 +142,7 @@ And you'll have established a digital wind-down routine that actually allows you
 
 None of these things are complicated. All of them are non-negotiable.
 
-Action 1: Set a Fixed Wake Time
+### Action 1: Set a Fixed Wake Time
 Starting tomorrow, you wake up at the same time every day. Not "weekdays." Every day. Including
 weekends.
 
@@ -192,7 +192,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC7584347/
 https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2023.1059257/
 full
 
-Action 2: Morning Sunlight + Walking
+### Action 2: Morning Sunlight + Walking
 Within the first hour of waking, get outside and expose your eyes to natural sunlight. Combine this
 with a walk - even 10-15 minutes is enough. Even opening your window and putting your head out
 to breathe in fresh air is enough.
@@ -244,7 +244,7 @@ health
 https://med.stanford.edu/news/insights/2020/06/setting-your-biological-clock-reducing-stress-
 while-sheltering-in-place.html
 
-Action 3:Remove Liquid Calories and Processed Food
+### Action 3:Remove Liquid Calories and Processed Food
 This week, we make one clean dietary cut: no more liquid calories, and no more ultra-processed
 snacks.
 
@@ -317,7 +317,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8434988/
 
 https://www.cnn.com/2025/02/26/health/ultraprocessed-hyperpalatable-foods-wellness
 
-Action 4: Three Full-Body Training Sessions
+### Action 4: Three Full-Body Training Sessions
 This week, you'll complete three full-body training sessions. These are intentionally simple. We're
 not trying to destroy you in Week 1. We're building the habit of showing up.
 
@@ -357,7 +357,7 @@ The specific exercises and rep schemes are in the Training module. Go there now 
 already and familiarise yourself with the Week 1 protocol. Then schedule your three sessions for this
 week.
 
-Action 5: 10-Minute Daily Mobility
+### Action 5: 10-Minute Daily Mobility
 Every single day this week, you'll do 10 minutes of mobility work. Non-negotiable. Even on rest
 days. Even when you're tired. Even when you don't feel like it.
 
@@ -400,7 +400,7 @@ improves.
 
 Start today. Pull up the mobility protocol and do your first 10 minutes.
 
-Action 6: Digital Wind-Down Routine
+### Action 6: Digital Wind-Down Routine
 Starting tonight, you'll implement a digital wind-down routine in the hour before bed. This means no
 screens - no phone, no laptop, no TV - for the final 30-60 minutes before you intend to sleep.
 
@@ -457,7 +457,7 @@ https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal
 
 https://pubmed.ncbi.nlm.nih.gov/39226046/
 
-Week 1: Summary and Checklist
+### Week 1: Summary and Checklist
 Here's everything you're implementing in Week 1:
 
 Daily:
@@ -496,7 +496,7 @@ week. Post your struggles if you have them. This is what the community is for.
 
 Week 2, we go deeper.
 
-WEEK 2: STRUCTURE + SYSTEMS
+## WEEK 2: STRUCTURE + SYSTEMS
 Week 1 was about clearing the slate. Week 2 is about installing the structure that will carry you
 forward.
 
@@ -520,7 +520,7 @@ By the end of this week, you should have a clear training schedule locked into y
 nutrition framework that feels sustainable, and conditioning sessions that are becoming routine. The
 chaos of Week 0 should feel like a distant memory.
 
-Action 1: Choose Your Training Path
+### Action 1: Choose Your Training Path
 It's time to commit to a training path: Gym-Based or Home-Based.
 
 Both paths will get you results. Both are built on the same principles: compound movements,
@@ -552,7 +552,7 @@ Once you've chosen, go to the Training module and familiarise yourself with your
 programming. Your training frequency increases to 4 sessions this week (we're adding one), and the
 structure becomes more defined.
 
-Action 2: Lock In the Apollo Plate Method
+### Action 2: Lock In the Apollo Plate Method
 This week, you implement the Apollo Plate Method for every main meal.
 
 This is not a diet. It's a framework - a visual and practical guide for building meals that support your
@@ -602,7 +602,7 @@ portion of clean carbs appropriate to your activity level? Good. That's it.
 The Nutrition module goes deeper on meal ideas, grocery lists, and specific templates. Review it
 and plan your meals for the week.
 
-Action 3: Hit Your Protein Floor
+### Action 3: Hit Your Protein Floor
 This week, protein becomes a non-negotiable priority. You need to hit your protein floor every single
 day.
 
@@ -653,7 +653,7 @@ just log protein sources and approximate grams. After a week of awareness, you'l
 sense of whether a meal has enough protein or not. Then you can stop tracking and rely on the plate
 method.
 
-Action 4: Add Zone 2 Conditioning
+### Action 4: Add Zone 2 Conditioning
 This week, you add two Zone 2 conditioning sessions to your routine. These are in addition to your
 strength training sessions.
 
@@ -713,7 +713,7 @@ mitochondrial-health
 
 https://inscyd.com/article/zone2-training/
 
-Action 5: Posture and Breathing Awareness
+### Action 5: Posture and Breathing Awareness
 This week, you're going to start paying attention to two things you probably never think about: how
 you hold your body and how you breathe.
 
@@ -761,7 +761,7 @@ minutes.
 Do this breathing practice at least once today and ideally at the end of your wind-down routine
 before bed. It's a simple tool for down-regulating your nervous system and improving your recovery.
 
-Week 2: Summary and Checklist
+### Week 2: Summary and Checklist
 Here's everything you're implementing in Week 2, in addition to maintaining all Week 1 habits:
 
 Daily:
@@ -794,7 +794,7 @@ consistent execution of fundamentals.
 
 Week 3, we increase intensity.
 
-WEEK 3: STRENGTH + CONDITIONING BASE
+## WEEK 3: STRENGTH + CONDITIONING BASE
 You've done the work. You've built the habits. Now we push.
 
 Week 3 is where the intensity increases. Training gets harder. Conditioning gets more demanding.
@@ -823,7 +823,7 @@ the system.
 By the end of Week 3, you should be noticeably stronger than Week 1, visibly leaner, and operating
 with more energy than you've had in months. Let's make it happen.
 
-Action 1: Progressive Overload Introduced
+### Action 1: Progressive Overload Introduced
 Progressive overload is the single most important principle in strength training. Without it, your body
 has no reason to adapt. With it, you get steadily stronger and more muscular over time.
 
@@ -863,7 +863,7 @@ A note on recovery: progression requires recovery. If you're not sleeping well, 
 protein, or running yourself into the ground with stress, your ability to progress will stall. The system
 works together.
 
-Action 2: Conditioning Intensity Increase
+### Action 2: Conditioning Intensity Increase
 This week, we add one higher-intensity conditioning session to your routine. You'll now have:
 
   • 2 Zone 2 sessions (30-45 minutes, conversational pace)
@@ -919,7 +919,7 @@ Example weekly structure:
 Adjust based on your training path, but maintain the principle: distribute intensity across the week,
 don't stack everything together.
 
-Action 3: Sleep Consistency Enforced
+### Action 3: Sleep Consistency Enforced
 If you've been inconsistent with sleep, that ends now.
 
 Week 1 established a wake time. Week 2 introduced the wind-down routine. Week 3 is where we
@@ -971,7 +971,7 @@ young-men
 
 https://www.sciencedaily.com/releases/2011/05/110531162142.htm
 
-Action 4: Hunger Management Strategies
+### Action 4: Hunger Management Strategies
 As you train harder and eat cleaner, your appetite will shift. Some men find hunger decreases as
 blood sugar stabilises and cravings fade. Others find hunger increases as their metabolism adapts
 to the training load.
@@ -1031,7 +1031,7 @@ General principles:
 
 Hunger is information, not a problem. Learn to read it.
 
-Week 3 Summary and Checklist
+### Week 3 Summary and Checklist
 Here's what Week 3 adds on top of your existing habits:
 
 Training:
@@ -1066,7 +1066,7 @@ Weekly:
 
 You're over the hump. Week 4 is about locking everything in and preparing for Phase 2.
 
-WEEK 4: CONSISTENCY + IDENTITY
+## WEEK 4: CONSISTENCY + IDENTITY
 Week 4 is not about adding more. It's about solidifying what you've built.
 
 By now, you've been at this for three weeks. The habits should be feeling more automatic. Training
@@ -1089,7 +1089,7 @@ shouldn't be something you're trying to do, it should be a description of how yo
 
 This shift from behaviour to identity is what creates lasting change. Let's cement it.
 
-Action 1: Review Your Apollo Scorecard
+### Action 1: Review Your Apollo Scorecard
 Pull out your Scorecards from Weeks 1, 2, and 3. Look at them side by side.
 
 What to look for:
@@ -1124,7 +1124,7 @@ address preparation and environment. If training performance has stalled, look a
 
 Write down your top 1-2 weak links. These become your focus areas.
 
-Action 2: Identify Your Weak Links
+### Action 2: Identify Your Weak Links
 Every man has weak links - the areas of the system where they're most likely to break down.
 
 For some men, it's consistency. They do well for a week, then something happens and they fall off
@@ -1152,7 +1152,7 @@ Phase 2 is where we address weak links more directly. The content in Phase 2 wil
 optimisation, more advanced training periodisation, nutrition timing, sleep optimisation, stress
 management. But you need to know what to focus on. That comes from this analysis.
 
-Action 3: Lock In Your Personal Training Schedule
+### Action 3: Lock In Your Personal Training Schedule
 It's time to create a sustainable weekly schedule that you can run indefinitely.
 
 Over the past four weeks, you've experimented with different training days and times. By now, you
@@ -1194,7 +1194,7 @@ Example weekly template:
 Adjust this to fit your life. The specific days and times don't matter as much as the consistency.
 What matters is that you have a schedule and you stick to it.
 
-Action 4: Identity Shift
+### Action 4: Identity Shift
 The final and most important action of Phase 1 isn't physical. It's mental.
 
 You've been building habits for 30 days. Now those habits need to become your identity.
@@ -1239,7 +1239,7 @@ eat whole foods, I sleep eight hours." It's descriptive, not aspirational.
 
 That's identity. That's what the Initiation has been building toward.
 
-Week 4 Summary and Checklist
+### Week 4 Summary and Checklist
 Week 4 is about consolidation:
 
 Complete this week:
@@ -1273,7 +1273,7 @@ By Day 30:
 
   • Prepare for Phase 2 unlock
 
-Phase 1 Completion: Preparing for Phase 2
+## Phase 1 Completion: Preparing for Phase 2
 You've completed the Apollo Initiation.
 
 Take a moment to acknowledge that. Not because you need external validation but because

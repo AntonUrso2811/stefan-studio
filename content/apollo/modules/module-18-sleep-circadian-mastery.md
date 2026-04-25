@@ -14,7 +14,7 @@ lede: "You will not fight your biology. You will align with it."
 next_step: "Your body cannot optimise hormone production, cognitive function, and metabolic processes if it does not know what time it is. Give it a consistent schedule and it will reward you."
 ---
 
-Intro
+## Intro
 Phase 1 taught you that sleep is non-negotiable. Phase 2 took you deeper into sleep architecture,
 supplements, and recovery tracking. You know the basics — 7-9 hours, consistent timing, dark
 room, cool temperature.
@@ -30,14 +30,14 @@ perpetually off.
 
 > You will not fight your biology. You will align with it.
 
-Sleep Positions and Spinal Health
+## Sleep Positions and Spinal Health
 Mastery
 How you sleep shapes how you feel.
 
 > You spend approximately one-third of your life in a sleep position. The position you choose
 directly affects spinal alignment, breathing quality, recovery, and even facial aesthetics.
 
-Side Sleeping — The Optimal Position
+### Side Sleeping — The Optimal Position
 
 Side sleeping improves glymphatic clearance which is the brain's waste removal system that is
 most active during sleep. This means side sleeping may support better cognitive recovery and
@@ -62,7 +62,7 @@ Left side specifically may be superior for digestion due to the anatomical posit
 and intestines. If you experience acid reflux, left-side sleeping reduces symptoms significantly
 compared to right-side or back sleeping.
 
-Back Sleeping — Acceptable With Modifications
+### Back Sleeping — Acceptable With Modifications
 
 Back sleeping maintains neutral spinal alignment but can worsen snoring and sleep apnea due to
 gravitational effects on the tongue and soft palate.
@@ -70,7 +70,7 @@ gravitational effects on the tongue and soft palate.
 If you back-sleep: use a thinner pillow to avoid pushing the head forward. Place a pillow under the
 knees to reduce lower back strain. If you snore, consider transitioning to side sleeping.
 
-Stomach Sleeping — Eliminate This
+### Stomach Sleeping — Eliminate This
 
 Stomach sleeping forces the cervical spine into sustained rotation (your head must turn to one side
 to breathe) and exaggerates lumbar extension. This creates neck pain, lower back tension, and can
@@ -79,7 +79,7 @@ contribute to nerve impingement over time.
 > If you are a habitual stomach sleeper: use body pillows placed on either side to prevent rolling
 onto your stomach during the night. This takes 1-2 weeks to adapt but is worth the effort.
 
-The Circadian System Deep Dive
+## The Circadian System Deep Dive
 Understanding your internal clock.
 
 Every cell in your body has a clock. These cellular clocks are synchronised by a master pacemaker
@@ -135,14 +135,14 @@ approximately the same time every day, including weekends.
 Your body cannot optimise hormone production, cognitive function, and metabolic processes if it
 does not know what time it is. Give it a consistent schedule and it will reward you.
 
-Light as a Tool
+## Light as a Tool
 Strategic light exposure for energy and sleep.
 
 > Light is the most powerful tool you have for circadian regulation. More powerful than any
 supplement, more impactful than any sleep hack. Get light exposure right and everything
 downstream improves.
 
-Morning Light — The Foundation
+### Morning Light — The Foundation
 
 Get bright light exposure within 30-60 minutes of waking. This is not optional. This sets the cortisol
 awakening response, initiates the countdown to melatonin release approximately 14-16 hours later,
@@ -157,7 +157,7 @@ Protocol:
 
   • Combine with your morning movement practice from Module 1 for efficiency.
 
-Daytime Light — Maintain the Signal
+### Daytime Light — Maintain the Signal
 
 Bright light exposure throughout the day reinforces the circadian signal that "it is daytime - be alert
 and active."
@@ -170,7 +170,7 @@ and active."
   • If your workspace is poorly lit, consider supplemental task lighting that provides bright, cool-
    white light (5000-6500K colour temperature).
 
-Evening Light — Protect the Wind-Down
+### Evening Light — Protect the Wind-Down
 
 This is where most men sabotage their sleep without realising it. Bright light and especially blue light
 (460-480nm wavelength) after sunset suppresses melatonin production and delays sleep onset.
@@ -190,7 +190,7 @@ Protocol:
   • Red or orange night lights in the bathroom - that middle-of-the-night bright bathroom light
    destroys melatonin more than you think.
 
-Light and Mood
+### Light and Mood
 
 Seasonal Affective Disorder (SAD) is the extreme version, but subclinical effects of inadequate light
 exposure affect many men, particularly those in northern climates or who work indoors all day.
@@ -200,7 +200,7 @@ darker months.
 Morning light therapy (10,000 lux for 20-30 minutes within the first hour of waking) is the first-line
 treatment for SAD and can benefit anyone experiencing winter-related drops in mood and energy.
 
-Chronotype Optimisation
+## Chronotype Optimisation
 Working with your natural rhythm, not against it.
 
 Not every man is wired the same way. Chronotype which is your genetic predisposition toward
@@ -259,7 +259,7 @@ Evening Type:
   • Use bright morning light aggressively to pull your circadian phase earlier if early waking is non-
    negotiable
 
-Social Jet Lag
+### Social Jet Lag
 
 The mismatch between your biological clock and your social obligations (work schedule, family
 demands) creates "social jet lag." This is particularly problematic for evening types who must wake
@@ -271,7 +271,7 @@ respects your chronotype as much as possible while maintaining consistency. Even
 can adapt to earlier schedules with strategic light exposure and consistent timing, the adaptation
 takes 2-3 weeks but is achievable.
 
-Energy Architecture
+## Energy Architecture
 Designing your day for sustained performance.
 
 > Your energy is not a constant, it fluctuates predictably across the day based on circadian rhythms,
@@ -336,13 +336,13 @@ Meal Timing for Energy:
   • Evening meals should be moderate, enough to support recovery but not so large they disrupt
    sleep onset. Finish eating 2-3 hours before bed.
 
-Advanced Sleep Troubleshooting
+## Advanced Sleep Troubleshooting
 Solving persistent sleep issues.
 
 > If you have implemented everything from Phase 1 and Phase 2 sleep protocols and are still
 struggling, this lesson addresses the most common remaining issues.
 
-Problem: Falling Asleep Takes More Than 20 Minutes
+### Problem: Falling Asleep Takes More Than 20 Minutes
 
 Possible causes:
 
@@ -361,7 +361,7 @@ Possible causes:
    are not asleep within 20 minutes, get up, go to another room, do something boring in dim light,
    and return when sleepy.
 
-Problem: Waking Up at 3-4 AM and Cannot Fall Back Asleep
+### Problem: Waking Up at 3-4 AM and Cannot Fall Back Asleep
 
 This is often a cortisol pattern issue. Blood sugar dropping overnight can trigger a cortisol spike that
 wakes you. Solutions:
@@ -373,7 +373,7 @@ wakes you. Solutions:
   • If stress is the driver, journalling before bed to "download" worries can prevent the 3am cortisol
    surge from racing thoughts
 
-Problem: Sleeping Enough Hours But Waking Tired
+### Problem: Sleeping Enough Hours But Waking Tired
 
 This suggests poor sleep quality rather than insufficient duration:
 
@@ -388,14 +388,14 @@ This suggests poor sleep quality rather than insufficient duration:
 
   • Mouth breathing during sleep — revisit the mouth taping protocol from Module 1.
 
-Problem: Variable Sleep Quality Night to Night
+### Problem: Variable Sleep Quality Night to Night
 
 Consistency is the answer. If your sleep timing varies by more than 30-60 minutes day to day, this
 alone can explain variable quality. Lock your wake time, this is more important than your bedtime.
 Your body adjusts bedtime based on sleep pressure, but the wake time anchors the circadian
 rhythm.
 
-When to Seek Professional Help:
+### When to Seek Professional Help:
 
 If you have consistently applied the protocols in this programme for 4+ weeks and still experience:
 chronic difficulty falling or staying asleep, excessive daytime sleepiness despite adequate sleep

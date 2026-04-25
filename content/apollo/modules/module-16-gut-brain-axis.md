@@ -14,9 +14,9 @@ lede: "This is the module most fitness programs will never give you. And it is a
 next_step: "You are not what you eat. You are what you absorb."
 ---
 
-The Microbiome Explained
+## The Microbiome Explained
 
-Intro
+### Intro
 > This is the module most fitness programs will never give you. And it is arguably the one that
 matters most for your long-term results.
 
@@ -42,7 +42,7 @@ Body composition. Skin quality. Immune function. Everything.
 This module takes you through the science, the testing, and the practical protocols to optimise this
 system.
 
-Your Gut
+### Your Gut
 Trillions of organisms that run your biology.
 
 The human gut microbiome contains an estimated 100 trillion microorganisms representing over
@@ -72,7 +72,7 @@ significant amounts of dopamine and GABA. The enteric nervous system - the netwo
 embedded in the gut wall contains over 500 million neurons and operates semi-independently from
 the central nervous system. This is why scientists refer to the gut as "the second brain."
 
-What Destroys the Microbiome
+### What Destroys the Microbiome
   • Antibiotics. A single course of broad-spectrum antibiotics can eliminate up to 30% of gut
    bacteria species. Some species never fully recover without deliberate intervention. Research
    published in Nature Microbiology (2018) found that certain bacterial populations took up to six
@@ -96,9 +96,9 @@ What Destroys the Microbiome
    some species begin consuming the gut's protective mucus layer instead, thinning it and
    increasing permeability.
 
-   Gut Health and Performance
+##    Gut Health and Performance
 
-References
+### References
   • Sender et al. (2016). "Revised estimates for the number of human and bacteria cells in the body."
    Cell. https://pubmed.ncbi.nlm.nih.gov/26824647/
 
@@ -108,7 +108,7 @@ References
   • Chassaing et al. (2015). "Dietary emulsifiers impact the mouse gut microbiota." Nature. https://
    pubmed.ncbi.nlm.nih.gov/25731162/
 
-Nutrient Absorption
+### Nutrient Absorption
 The direct line between your gut and your results.
 
 This is where it gets practical. How does a dysfunctional gut actually affect your training,
@@ -139,7 +139,7 @@ absorbing 120g or less.
 signal that protein digestion is suboptimal. Other indicators include undigested food visible in stool
 and a feeling of food "sitting" in the stomach for hours.
 
-Energy and Mental Clarity
+### Energy and Mental Clarity
 The gut-brain axis is bidirectional - the gut communicates with the brain and the brain
 communicates with the gut. When gut inflammation is present, pro-inflammatory cytokines travel via
 the vagus nerve and bloodstream to the brain, creating neuroinflammation.
@@ -152,7 +152,7 @@ caffeine.
 and reward processing. In plain terms, an inflamed gut makes you feel tired, unmotivated, and
 unable to focus, regardless of how disciplined your habits are.
 
-Body Composition
+### Body Composition
 Gut microbiome composition directly influences body composition through multiple mechanisms:
 
  1. Energy Harvest. Different bacterial profiles extract different amounts of energy from the same
@@ -169,7 +169,7 @@ Gut microbiome composition directly influences body composition through multiple
    including ghrelin, leptin, and GLP-1. Dysbiosis can dysregulate appetite signalling, making it
    harder to maintain appropriate caloric intake.
 
-Recovery
+### Recovery
 Systemic inflammation from gut dysfunction impairs recovery from training. If your gut is chronically
 producing inflammatory signals, your body is fighting a two-front war, the controlled damage from
 training and the uncontrolled damage from gut permeability.
@@ -177,18 +177,18 @@ training and the uncontrolled damage from gut permeability.
 > This is why some men train hard, eat well, sleep adequately, and still feel overtrained. The missing
 variable is often gut health.
 
-   Testing
+##    Testing
 
-References
+### References
   • Turnbaugh et al. (2006). "An obesity-associated gut microbiome with increased capacity for
    energy harvest." Nature. https://pubmed.ncbi.nlm.nih.gov/17183312/
 
   • Felger & Treadway (2019). "Inflammation effects on motivation and motor activity."
    Neuropsychopharmacology. https://pubmed.ncbi.nlm.nih.gov/27480574/
 
-   How to Eat for Gut Health
+##    How to Eat for Gut Health
 
-Tests you can do
+### Tests you can do
 What tests exist, what they tell you, and what is actually worth doing.
 
 > You cannot optimise what you do not measure. But the gut health testing market is full of
@@ -272,7 +272,7 @@ If you get tested, do not try to interpret complex results yourself. Work with a
 practitioner or integrative gastroenterologist who specialises in gut health. The protocols in this
 module provide a solid foundation for everyone. Testing tells you where to focus additional effort.
 
-Chewing
+### Chewing
 Practical nutrition for microbiome optimisation.
 
 Phase 1 and Phase 2 taught you what to eat for body composition and performance. This lesson
@@ -309,7 +309,7 @@ The Chewing Protocol:
 > This feels painfully slow at first. You will adapt. The benefits are not subtle - reduced bloating,
 improved satiety, better nutrient absorption, and improved digestive comfort.
 
-Foods That Build the Microbiome
+### Foods That Build the Microbiome
 Prebiotic Foods — These are fibres that feed beneficial bacteria. They are the fertiliser for your gut
 garden.
 
@@ -338,7 +338,7 @@ repair. Homemade bone broth simmered for 12-24 hours is far superior to store-bo
 1-2 cups daily is a therapeutic dose for gut repair. If you don't have the time to make it at home then
 get the store one, but once you make home made broth it can last you for the whole week.
 
-Foods That Damage the Microbiome
+### Foods That Damage the Microbiome
 We covered the major offenders in Phase 1 nutrition - ultra-processed foods, seed oils, excessive
 sugar. Here we get specific about the gut-damaging mechanisms:
 
@@ -354,7 +354,7 @@ sugar. Here we get specific about the gut-damaging mechanisms:
   • NSAIDs (ibuprofen, aspirin) — increase intestinal permeability when used regularly. Use
    sparingly and never chronically.
 
-Meal Structure for Gut Health
+### Meal Structure for Gut Health
   • Begin meals with vegetables or bitter foods (rocket/arugula, bitter greens, apple cider vinegar in
    water). Bitters stimulate digestive enzyme production.
 
@@ -368,16 +368,16 @@ Meal Structure for Gut Health
    a sweeping contraction pattern that clears debris from the small intestine between meals.
    Constant snacking prevents this housekeeping function.
 
-   Supplements and Protocols for Gut Repair
+##    Supplements and Protocols for Gut Repair
 
-References
+### References
   • Li et al. (2011). "Improvement in chewing activity reduces energy intake in one meal." American
    Journal of Clinical Nutrition. https://pubmed.ncbi.nlm.nih.gov/21715510/
 
   • Wastyk et al. (2021). "Gut-microbiota-targeted diets modulate human immune status." Cell.
    https://pubmed.ncbi.nlm.nih.gov/34256014/
 
-The 5R Protocol for Gut Restoration
+### The 5R Protocol for Gut Restoration
 Strategic supplementation and lifestyle strategies.
 
 Supplements are the second line of defence. Food comes first. But when the gut has been
@@ -459,7 +459,7 @@ Key supplements for gut lining repair:
 Doctor. I am only saying what I've done and used that has clinical backing and confirmation from
 both of my parents that are medical doctors.
 
-The Apollo Gut Stack (Daily Protocol)
+### The Apollo Gut Stack (Daily Protocol)
 Morning (empty stomach):
 
   • L-Glutamine: 5g in water
@@ -485,7 +485,7 @@ adequate fibre, and the basic supplement stack from Phase 1. The intensive repai
 glutamine, zinc carnosine, digestive enzymes) can be cycled - 8 weeks on, 4 weeks off and
 reintroduced if symptoms return.
 
-References
+### References
 References:
 
   • Mahmood et al. (2007). "Zinc carnosine, a health food supplement that stabilises small bowel
@@ -494,7 +494,7 @@ References:
   • Kim & Kim (2017). "Roles of intestinal epithelial cells in the maintenance of gut homeostasis."
    Experimental & Molecular Medicine. https://pubmed.ncbi.nlm.nih.gov/28424417/
 
-Building Your Gut Health Protocol
+## Building Your Gut Health Protocol
 Putting it all together.
 
 You now understand the science. Here is your execution plan.

@@ -14,7 +14,7 @@ lede: "You made it. If you're reading this, you've already separated yourself fr
 next_step: "Over the next 30 days, you're going to go through what we call the Apollo Initiation."
 ---
 
-Welcome to Men of Apollo
+## Welcome to Men of Apollo
 You made it.
 
 If you're reading this, you've already separated yourself from the majority. Most men will scroll past
@@ -59,7 +59,7 @@ Let's get to work.
 
   • Stef
 
-The Apollo Code (Standards & Expectations)
+## The Apollo Code (Standards & Expectations)
 Every community has a culture. Most of them let that culture form by accident and it usually drifts
 toward mediocrity. Low-effort posts. Complaining. Excuses dressed up as "being real."
 
@@ -67,21 +67,21 @@ That's not how Apollo operates.
 
 We have a code. It's simple, it's clear, and it applies to everyone - including me.
 
-1. Show up, even when you don't feel like it.
+### 1. Show up, even when you don't feel like it.
 
 Motivation is unreliable. Discipline is the backbone of everything we do here. You're not going to feel
 like training every day. You're not going to feel like eating clean every meal. Do it anyway. The men
 who transform their lives aren't the ones with the most motivation. They're the ones who built
 systems that don't depend on it.
 
-2. No excuses. Only adjustments.
+### 2. No excuses. Only adjustments.
 
 Life will get in the way. Work, travel, stress, relationships, it happens to all of us. The difference
 between men who succeed and men who don't isn't the absence of obstacles, it's how they
 respond. When something knocks you off track, you don't complain about it. You adjust, adapt, and
 get back on course. That's it.
 
-3. Ego stays at the door.
+### 3. Ego stays at the door.
 
 This community isn't about proving how much you can lift or how lean you already are. It's about
 improvement. That means asking questions when you don't understand something. It means
@@ -89,19 +89,19 @@ posting your struggles, not just your wins. It means being honest about where yo
 The men who pretend they have it all figured out don't grow. The men who stay humble and hungry
 do.
 
-4. Respect the brotherhood.
+### 4. Respect the brotherhood.
 
 When another man posts in this community, he's putting himself out there. Respond with respect.
 Give feedback that's honest but constructive. Celebrate wins. Offer support during setbacks. We
 rise together or not at all.
 
-5. Quality over quantity.
+### 5. Quality over quantity.
 
 When you post, make it worth reading. When you comment, add value. We're not here to fill up a
 feed with noise. We're here to share what's working, ask real questions, and push each other
 forward. One thoughtful post is worth more than twenty "let's go king" comments.
 
-6. Protect your time and energy.
+### 6. Protect your time and energy.
 
 You'll notice this community doesn't have drama. That's by design. We don't engage in arguments
 about things that don't matter. We don't complain about politics, other people, or circumstances
@@ -113,10 +113,10 @@ standard.
 
 You're one of those men. Act like it.
 
-How to Use This Community
+## How to Use This Community
 Let me break down exactly how this community works so you can hit the ground running.
 
-The Classroom
+### The Classroom
 
 This is where all the structured content lives. Right now, you're in Phase 1 - the Apollo Initiation.
 Over the next 30 days, you'll work through the training, nutrition, recovery, mobility, and mindset
@@ -126,7 +126,7 @@ As you progress, new phases will unlock. Phase 2 at Day 30, Phase 3 at Day 60, P
 This isn't arbitrary gatekeeping, it's intentional design. You need to master the foundations before
 the advanced material will make sense. Trust the process.
 
-The Community Feed
+### The Community Feed
 
 This is where members post updates, ask questions, and share wins. Use it. The men who engage
 with the community get better results than the ones who lurk silently. That's not opinion, it's pattern
@@ -136,7 +136,7 @@ When you post, be specific. "Had a good workout" tells us nothing. "Hit a PR on 
 140kg for 3. Form felt solid, finally feeling the hip hinge click" gives us something to respond to.
 Quality posts get quality feedback.
 
-Weekly Calls
+### Weekly Calls
 
 Every week, we have a live call. This is your chance to get direct feedback, ask questions, hear
 what's working for other members, and learn from focused teaching on rotating topics.
@@ -147,13 +147,13 @@ focused teaching segment on a specific topic.
 Show up live if you can. The energy is different when you're there in real time. If you can't make it,
 recordings are available, but make watching them a priority, don't let them stack up unwatched.
 
-Direct Feedback
+### Direct Feedback
 
 If you're stuck on something specific - a form issue, a nutrition question, a mindset block - post it.
 Tag me if needed. I read everything. I'm in here consistently and I'll address common questions on
 calls.
 
-The Scorecard
+### The Scorecard
 
 You'll learn about this in the next lesson, but this is your tracking system. Update it weekly. It keeps
 you honest and gives you data to work with. Men who track progress make progress. Men who
@@ -161,7 +161,7 @@ guess, stall.
 
 That's the overview. The community is a tool. Like any tool, it only works if you use it.
 
-The Apollo Scorecard
+## The Apollo Scorecard
 If you're not tracking, you're guessing. And guessing doesn't build the body or the life you're after.
 Having said that we're not robots either and I'm not talking about tracking every single thing.
 
@@ -209,11 +209,11 @@ Download the Scorecard template below. Print it or use it digitally - whatever w
 
 Just use it.
 
-Required Setup Checklist
+## Required Setup Checklist
 Before you dive into the Initiation, make sure you have the following sorted. This isn't optional. If you
 skip this step, you'll hit friction points during the program that could have been avoided.
 
-Training Access
+### Training Access
 
 You need a place to train. This can be a commercial gym, a home setup, or even a park with pull-up/
 dip bars. The Apollo Training System has paths for both gym-based and home-based training, so
@@ -226,7 +226,7 @@ pull-ups and dips (a bar, rings, or even sturdy furniture if you're resourceful)
 If you're using a gym, make sure you have consistent access. A gym you can only get to twice a
 week isn't going to cut it. You need to be able to train 3-4 times per week.
 
-Tracking Tools
+### Tracking Tools
 
 Get a way to record your workouts. This can be a notebook, a notes app on your phone, or a
 dedicated fitness tracking app. It doesn't matter what you use, it matters that you use something.
@@ -235,7 +235,7 @@ progressive overload over time.
 
 Get a scale and a tape measure. You'll need these for the Scorecard.
 
-Nutrition Setup
+### Nutrition Setup
 
 Before Week 1 starts, do a kitchen audit. Get rid of the processed garbage - the chips, the cookies,
 the sugary drinks. If it's in your house, you'll eat it eventually. Make it easier on yourself by removing
@@ -245,13 +245,13 @@ Stock up on the basics: quality protein sources (eggs, meat, fish), vegetables, 
 (olive oil, avocados, butter), and clean carbs (rice, potatoes, oats). The Nutrition module will go
 deeper, but you should have the raw materials ready.
 
-Sleep Environment
+### Sleep Environment
 
 Take a look at where you sleep. Is the room dark? Is it cool? Is your phone charging across the room
 or right next to your head? These details matter more than most people realize. We'll cover sleep
 optimization in the Recovery module, but start thinking about it now.
 
-Calendar Block
+### Calendar Block
 
 Decide when you're going to train this week. Put it in your calendar like an appointment you can't
 miss. Decide when you're going to do the weekly Scorecard review. Block time for the weekly calls.
@@ -259,7 +259,7 @@ If it's not scheduled, it's not real.
 
 Once you have all of this in place, you're ready to begin.
 
-Safety & Responsibility Disclaimer
+## Safety & Responsibility Disclaimer
 A quick word on responsibility.
 
 Everything in this community - the training protocols, nutrition guidance, recovery strategies - are
@@ -283,47 +283,47 @@ own health and fitness decisions.
 
 Now let's get after it.
 
-FAQs
-How much time do I need to commit each week?
+## FAQs
+### How much time do I need to commit each week?
 
 Training sessions are designed to be 45-60 minutes, 3-4 times per week. Add in meal prep, daily
 mobility work, and engagement with the community, you're looking at around 5-7 hours per week
 total. That's less than an hour a day to transform your life. If you don't have that, you need to look at
 your priorities.
 
-What if I miss a week or fall behind?
+### What if I miss a week or fall behind?
 
 It happens. Life doesn't stop because you joined this community. If you miss a week, don't spiral.
 Don't start over from the beginning. Just pick up where you left off. The system is designed to be
 sustainable. One rough week doesn't erase your progress.
 
-Can I do this program if I'm a complete beginner?
+### Can I do this program if I'm a complete beginner?
 
 Yes. Phase 1 assumes minimal starting fitness. The movements are foundational, the progressions
 are gradual, and there are regression options if something is too advanced. That said, if you're
 completely new to training, pay extra attention to the technique content and don't ego-lift. Form
 first, always.
 
-What if I'm already experienced? Will this be too basic?
+### What if I'm already experienced? Will this be too basic?
 
 Phase 1 might feel simple if you've been training for years. Do it anyway. The Initiation isn't just
 about physical training — it's about integrating all the pillars: nutrition, recovery, mobility, mindset.
 Most experienced lifters have blind spots in at least one of these areas. Phase 1 fixes those. Phases
 2, 3, and 4 progressively increase complexity.
 
-How do the phase unlocks work?
+### How do the phase unlocks work?
 
 Phase 2 unlocks 30 days after you join. Phase 3 at 60 days. Phase 4 at 90 days. This is automatic.
 You don't need to do anything except stay a member. The time-lock ensures you've had enough
 time to implement the foundations before advancing.
 
-Can I cancel anytime?
+### Can I cancel anytime?
 
 Yes. There's no contract. If Apollo isn't for you, you can cancel whenever you want. But I'd
 encourage you to give it at least 90 days - enough time to complete the full Initiation through Phase
 4. That's when the compound effects really start to show.
 
-How do I get direct feedback on my situation?
+### How do I get direct feedback on my situation?
 
 Post in the community with specifics. The more detail you give, the better feedback you'll get. You
 can also bring questions to the weekly calls. I address individual situations during the hot seat

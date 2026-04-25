@@ -14,9 +14,9 @@ lede: "Body recomposition is the holy grail — building muscle while losing fat
 next_step: "No more guessing. No more following generic advice that does not apply to you."
 ---
 
-Recomp vs Cut vs Bulk
+## Recomp vs Cut vs Bulk
 
-Introduction
+### Introduction
 You have the training knowledge. You have the nutrition tools. You understand recovery. Now we
 bring it all together into strategic approaches for changing your physique.
 
@@ -32,7 +32,7 @@ situation, and execute that approach with precision.
 
 By the end of this module, you will know exactly what approach to take and how to execute it.
 
-Which ones what?
+### Which ones what?
 Three paths exist for changing your physique:
 
 Recomposition: Building muscle and losing fat simultaneously. Eating around maintenance calories
@@ -46,7 +46,7 @@ Bulking: Prioritizing muscle gain. Eating in a caloric surplus while training to
 Each has its place. The right choice depends on your current situation, your goals, and your
 timeline.
 
-When Recomposition Works
+### When Recomposition Works
 Recomposition - gaining muscle while losing fat at the same time - sounds ideal. But it requires
 specific conditions to work effectively.
 
@@ -67,7 +67,7 @@ Recomp works best for:
    ample energy reserves to support muscle building even without a surplus. The higher your body
    fat, the more viable recomp becomes.
 
-When to Cut
+### When to Cut
 Cutting - dedicated fat loss while preserving muscle - is the right choice when:
 
  1. You are over 18-20% body fat Higher body fat impairs insulin sensitivity, nutrient partitioning,
@@ -84,7 +84,7 @@ Cutting - dedicated fat loss while preserving muscle - is the right choice when:
  4. You are an intermediate or advanced lifter who wants to get leaner Recomp is too slow. A
    dedicated cut achieves fat loss faster while proper training and protein intake preserve muscle.
 
-When to Bulk
+### When to Bulk
 Bulking - dedicated muscle gain with caloric surplus - is the right choice when:
 
  1. You are already relatively lean (under 15% body fat) Lean individuals partition nutrients
@@ -101,7 +101,7 @@ Bulking - dedicated muscle gain with caloric surplus - is the right choice when:
  4. You have the patience to cut afterward Bulking adds fat. This is unavoidable. Only bulk if you
    are willing to cut later to reveal what you built.
 
-The Decision Flowchart
+### The Decision Flowchart
 Ask these questions in order:
 
 1. What is your current body fat percentage?
@@ -123,9 +123,9 @@ lean enough) or cut first (if overfat) Improve body composition gradually: Recom
 
 Yes: Choose the dedicated approach (cut or bulk) that achieves the goal.
 
-   The Recomposition Protocol
+##    The Recomposition Protocol
 
-Realistic Expectations
+### Realistic Expectations
 Fat loss rates:
 
   • Aggressive but sustainable: 0.75-1% of bodyweight per week
@@ -154,11 +154,11 @@ Recomp rates:
 
   • Scale may not move much - track with measurements and photos
 
-The Recomp Equation
+### The Recomp Equation
 If you have determined that recomposition is the right approach for your situation, here is how to
 execute it effectively.
 
-The Recomp Equation
+### The Recomp Equation
 
 Recomposition requires threading a needle:
 
@@ -172,7 +172,7 @@ Recomposition requires threading a needle:
 
 > This typically means eating at or slightly below maintenance while training hard.
 
-Caloric Targets for Recomp
+### Caloric Targets for Recomp
 Option 1: Maintenance Calories
 
 Eat at your calculated maintenance. The energy for muscle building comes from fat stores. Works
@@ -198,7 +198,7 @@ Example for 2500 calorie maintenance:
 
 > This provides more fuel around training when you need it.
 
-Protein: The Non-Negotiable
+### Protein: The Non-Negotiable
 For recomp to work, protein must be high. This is not optional.
 
 Target: 2.0-2.4g per kg of bodyweight
@@ -215,7 +215,7 @@ Higher protein during recomp serves multiple purposes:
 
 An 80kg man should target 150-180g protein daily. Do not compromise on this.
 
-Training for Recomp
+### Training for Recomp
 The training stimulus is what drives muscle gain during recomp. Without hard training, you are just
 maintaining or slowly losing.
 
@@ -234,7 +234,7 @@ Requirements:
 
 The Phase 2 training program is designed for this. Follow it.
 
-Cardio During Recomp
+### Cardio During Recomp
 Moderate cardio supports recomp by:
 
   • Increasing energy expenditure (supports fat loss)
@@ -253,9 +253,9 @@ Recommendations:
 
   • Do not overdo it - excessive cardio increases stress and can impair muscle gain
 
-   Strategic Fat Loss
+##    Strategic Fat Loss
 
-Tracking Progress During Recomp
+### Tracking Progress During Recomp
 The scale is not your primary metric during recomp. You may be gaining muscle and losing fat at
 similar rates, making scale weight stable.
 
@@ -303,7 +303,7 @@ Continue recomping if:
 
   • You do not have specific timeline pressure
 
-Fat loss
+### Fat loss
 When it is time to cut, do it right. A well-executed cut preserves muscle, maintains performance,
 and achieves sustainable fat loss. A poorly executed cut loses muscle, crashes performance, and
 leads to rebound.
@@ -323,7 +323,7 @@ Example: 2800 maintenance → 2100-2240 calorie target
 Do not go lower than this unless you are very short or very light. Larger deficits increase muscle
 loss, crash hormones, and are unsustainable.
 
-Macronutrient Targets for Cutting
+### Macronutrient Targets for Cutting
 Protein: 2.2-2.4g per kg bodyweight
 
 Higher than normal. This is critical for muscle preservation during a deficit. Research consistently
@@ -353,7 +353,7 @@ Example for 80kg man at 2100 calories:
 
 Protein and fat have minimum thresholds; carbs do not.
 
-Training During a Cut
+### Training During a Cut
 The goal: maintain strength and muscle mass.
 
 You are not trying to build significant muscle during a cut (though some beginners will). You are
@@ -373,7 +373,7 @@ Key principles:
  4. Do not add excessive training The urge to "do more" during a cut is counterproductive. More
    training + fewer calories = excessive stress. Trust the deficit to create fat loss.
 
-Cardio During a Cut
+### Cardio During a Cut
 Cardio is a tool for increasing energy expenditure. Use it strategically.
 
 Recommendations:
@@ -393,7 +393,7 @@ calories than to burn 400 extra through cardio.
 
 Use a combination.
 
-Managing Hunger
+### Managing Hunger
 Hunger is inevitable during a cut. Manage it rather than fight it.
 
 Strategies:
@@ -415,7 +415,7 @@ Strategies:
 
  7. Sleep - Poor sleep increases hunger hormones. Protect sleep during a cut.
 
-Diet Breaks and Refeeds
+### Diet Breaks and Refeeds
 Extended dieting causes metabolic adaptation and psychological fatigue. Strategic breaks help.
 
 Refeed days:
@@ -447,7 +447,7 @@ After 8-12 weeks of continuous dieting, take 1-2 weeks at maintenance calories. 
 
 > You will not lose your progress. You will come back more effective.
 
-Ending the Cut: Reverse Dieting
+### Ending the Cut: Reverse Dieting
 Do not immediately return to high calories after a cut. Your metabolism has adapted downward.
 Jumping to previous intake causes rapid fat regain.
 
@@ -465,9 +465,9 @@ Reverse diet protocol:
 
 > This allows metabolism to adjust upward while minimising fat regain.
 
-   Lean Gaining
+##    Lean Gaining
 
-How Long to Cut
+### How Long to Cut
 Recommended maximum: 12-16 weeks of continuous dieting
 
 Beyond this, metabolic adaptation, muscle loss risk, and psychological fatigue increase significantly.
@@ -482,7 +482,7 @@ If you need to lose more fat than achievable in 16 weeks:
 
 > This phased approach preserves muscle and metabolism better than one extended cut.
 
-How to lean gain?
+### How to lean gain?
 When it is time to build muscle, do it intelligently. The goal is maximum muscle gain with minimum
 fat gain. This is not an excuse to eat everything in sight.
 
@@ -505,7 +505,7 @@ Example: 2800 maintenance → 3080-3220 calorie target
 
 This is enough to support muscle growth without excessive fat accumulation.
 
-Macronutrient Targets for Gaining
+### Macronutrient Targets for Gaining
 
 Protein: 1.6-2.0g per kg bodyweight
 
@@ -534,7 +534,7 @@ Example for 80kg man at 3100 calories:
 
 This high carb intake supports training intensity and glycogen replenishment.
 
-Training for Muscle Gain
+### Training for Muscle Gain
 
 Now is the time to push training. You have the calories to support it.
 
@@ -554,7 +554,7 @@ Key principles:
  5. Include isolation work Compounds build the foundation, but isolation work can target specific
    muscles for additional growth.
 
-Cardio During a Bulk
+### Cardio During a Bulk
 Cardio is not the enemy of muscle gain, but excessive cardio is.
 
 Recommendations:
@@ -569,7 +569,7 @@ Recommendations:
 
 The goal is muscle gain. Cardio supports health but should not compromise the primary goal.
 
-Rate of Weight Gain
+### Rate of Weight Gain
 
 Target: 0.25-0.5% of bodyweight per week
 
@@ -585,7 +585,7 @@ Monitor and adjust:
 
   • Weight stable: Increase calories by 200-300
 
-Duration of a Gaining Phase
+### Duration of a Gaining Phase
 Recommended: 4-6 months
 
 This allows meaningful muscle accumulation before fat gain necessitates cutting.
@@ -604,7 +604,7 @@ After the bulk:
 
 Either maintain for 4-8 weeks to consolidate gains, or begin a cut to reveal the muscle you built.
 
-Minimizing Fat Gain
+### Minimizing Fat Gain
 Some fat gain during a bulk is inevitable. Minimize it with:
 
  1. Modest surplus - 10-15%, not 30%+
@@ -621,9 +621,9 @@ Some fat gain during a bulk is inevitable. Minimize it with:
 
  7. Monitor weekly - Adjust quickly if gaining too fast
 
-   Body Composition Tracking
+##    Body Composition Tracking
 
-The "Lean Bulk" Mindset
+### The "Lean Bulk" Mindset
 Old-school bulking mentality - "eat big to get big" - leads to excessive fat gain that requires
 extended cutting to fix.
 
@@ -641,7 +641,7 @@ The Apollo approach:
 
 > You are not "bulking." You are lean gaining. The distinction matters.
 
-Tracking
+### Tracking
 What gets measured gets managed. Effective body composition change requires consistent
 tracking beyond just stepping on a scale.
 
@@ -670,7 +670,7 @@ A man can fluctuate 2-4kg in a single day without any change in actual fat or mu
 > Using daily scale weight to assess progress leads to frustration and poor decisions. You see the
 scale up 1kg and think your cut is not working, when it is actually water from extra carbs yesterday.
 
-The Multi-Metric Approach
+### The Multi-Metric Approach
 Use multiple data points to assess progress:
 
 1. Scale Weight (Weekly Average)
@@ -781,7 +781,7 @@ Look at yourself with objective eyes. Note:
 
   • Face definition (leaner face = fat loss)
 
-Interpreting Your Data
+### Interpreting Your Data
 Scenario: Scale down, waist down, strength maintained Interpretation: Successful cut. Continue.
 
 Scenario: Scale stable, waist down, strength up Interpretation: Successful recomp. Continue.
@@ -797,7 +797,7 @@ calories.
 Scenario: Scale stable, all metrics stable for 3+ weeks Interpretation: Plateau. Adjust approach
 based on goal.
 
-The Assessment Cadence
+### The Assessment Cadence
 
 Weekly:
 
@@ -829,7 +829,7 @@ Quarterly:
 
   • Decide: continue current approach or change phases?
 
-Avoiding Data Paralysis
+### Avoiding Data Paralysis
 Tracking is a tool, not an obsession. If tracking creates anxiety or disordered thinking:
 
   • Reduce frequency (weekly weigh-ins only)
@@ -840,7 +840,7 @@ Tracking is a tool, not an obsession. If tracking creates anxiety or disordered 
 
 > The goal is information for better decisions, not a source of stress.
 
-The Long View
+### The Long View
 Body composition change is slow. Real, meaningful change happens over months and years, not
 days and weeks.
 
