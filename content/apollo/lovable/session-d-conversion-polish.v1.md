@@ -34,23 +34,29 @@ Each gate must be `PASS` before Lovable executes the jobs below. `WAIVED` is acc
 | 5 | Voice foundation route resolved | WAIVED | Stefan unavailable. Foundation extracted via T1–T5 protocol — see `brand-kit/01-docs/`. Stefan async-reviews. |
 | 6 | Verbatim contract on module bodies reaffirmed | PASS | Session D touches **zero module body content**. Module pages are out-of-scope. |
 | 7 | Imagery state known | PASS | Higgs Field photographic imagery live on both pages. Pilot passed. Do not re-open. |
-| 8 | Footer legal data supplied | **BLOCKED** | Anton must supply: privacy policy URL, terms URL, contact email, GDPR/cookie posture. Without these, audit X-11 / H-14 / P-16 cannot close. **See pre-session checklist before firing this prompt.** |
-| 9 | /protocols agitation headline confirmed | **BLOCKED** | Anton must verify in browser whether the section header above the *"and stimulants to feel normal"* image is missing or render-clipped (audit P-03). If missing, supply: full headline string. **See pre-session checklist before firing this prompt.** |
+| 8 | Footer legal data supplied | PASS | Anton-supplied 2026-04-25. Privacy URL `/privacy`, Terms URL `/terms` (both stub pages created in Job 0.7 of this session). Contact `hello@menofapollo.com` — Stefan must own `menofapollo.com` and configure the inbox before production publish; flagged as launch blocker if not configured. GDPR posture: no tracking, no cookies, no consent banner needed (verified empty: zero analytics, zero third-party scripts, `document.cookie` empty on live preview). |
+| 9 | /protocols agitation headline confirmed | PASS | Verified 2026-04-25 via Chrome MCP DOM inspection. Full headline present: *"Men are turning to peptides, TRT, and stimulants to feel normal."* H2 has `font-size: 60px / line-height: 60px`; `scrollHeight: 129px` exceeds `clientHeight: 120px` by 9px because `line-height` equals `font-size` (no room for descenders / second-line breathing). **Layout-only fix in Job 2 (P-03)**: bump line-height from `60px` (1.0 ratio) to `1.05`–`1.1` ratio. No copy changes — text is correct as-is. |
 
-**Pre-session checklist (Anton fills before sending this prompt to Lovable):**
+**Pre-session checklist — completed 2026-04-25:**
 
 ```
-GATE 8 — FOOTER LEGAL DATA:
-   Privacy policy URL: ____________________________________
-   Terms URL:           ____________________________________
-   Contact email:       ____________________________________
-   GDPR / cookie line:  ____________________________________
+GATE 8 — FOOTER LEGAL DATA (filled 2026-04-25):
+   Privacy policy URL:  /privacy   (stub page created in Job 0.7)
+   Terms URL:            /terms    (stub page created in Job 0.7)
+   Contact email:        hello@menofapollo.com
+   GDPR / cookie line:   No tracking, no cookies. Application form data used
+                         only to process your application — not shared with
+                         third parties.
 
-GATE 9 — /PROTOCOLS AGITATION HEADLINE:
-   [ ] Verified in browser. Headline is render-clipped only — no missing text.
-   [ ] Verified in browser. Headline is missing. Supply full string:
-         _________________________________________________
+GATE 9 — /PROTOCOLS AGITATION HEADLINE (verified 2026-04-25 via Chrome MCP):
+   [x] Verified in browser. Headline is render-clipped only — no missing text.
+       Full text:  "Men are turning to peptides, TRT, and stimulants to feel normal."
+       Mechanism:  line-height (60px) equals font-size (60px); scrollHeight 129px
+                   exceeds clientHeight 120px by 9px.
+       Fix in Job 2 (P-03): bump line-height to 1.05–1.1 ratio.
 ```
+
+**Launch blocker — Stefan-owned action:** the contact email `hello@menofapollo.com` requires Stefan to (a) own `menofapollo.com` and (b) configure the inbox. If either isn't done by production publish, swap the footer contact line to a working channel (e.g. `Questions? DM @stefs.way on Instagram`) before going live.
 
 ---
 
@@ -176,16 +182,62 @@ If Anton overrides, document the chosen set here and apply both pages.
 
 ### 0.6 — Footer legal block `[Mode: Verbatim]`
 
-Closes X-11, H-14, P-16. Replace the current single-line footer on both pages with this structure (Anton-supplied URLs and email fill the placeholders from the Pre-flight checklist):
+Closes X-11, H-14, P-16. Replace the current single-line footer on both pages with this structure exactly:
 
 ```
 © 2026 MEN OF APOLLO · PRIVATE COACHING COLLECTIVE · APPLICATIONS BY INVITATION
 
-Privacy · Terms · Contact <{contact_email}>
-{gdpr_cookie_line}
+Privacy · Terms · Contact hello@menofapollo.com
+No tracking, no cookies. Application form data used only to process your application — not shared with third parties.
 ```
 
-Render as small caps or token-default footer typography (whatever the existing system uses). Links to Privacy and Terms use the URLs supplied. Email is mailto.
+Render as small caps or token-default footer typography (whatever the existing system uses). `Privacy` links to `/privacy`. `Terms` links to `/terms`. `hello@menofapollo.com` is a `mailto:` link. The third line (GDPR posture) is plain text, slightly muted.
+
+### 0.7 — Stub `/privacy` and `/terms` pages `[Mode: Anchored]`
+
+Closes X-11 dependency for Job 0.6. Create two new routes with minimal-but-honest interim copy. These pages must exist before Job 0.6's footer links resolve. Use the same nav/footer chrome as the rest of the site (header with `MEN OF APOLLO` wordmark, no member sidebar — these are public marketing pages adjacent to home + /protocols, not member surfaces).
+
+**Route: `/privacy` — Page title: "Privacy policy"**
+
+```
+Privacy policy
+
+Effective from 25 April 2026.
+
+We don't use analytics, tracking pixels, or cookies on this site. The only personal data we collect is what you submit via the application form for the Collective — your name, email, and the answers you give us. We use that data only to review and respond to your application, and we don't sell, share, or transfer it to third parties.
+
+If you've submitted an application and want a copy of the data we hold, or want it deleted, email hello@menofapollo.com and we'll handle it within 30 days.
+
+A full GDPR-aligned policy will be published before the public launch of the Collective. This interim notice covers the application form's current data flow.
+
+Questions: hello@menofapollo.com
+```
+
+**Route: `/terms` — Page title: "Terms of service"**
+
+```
+Terms of service
+
+Effective from 25 April 2026.
+
+By submitting an application to the Men of Apollo Collective, you acknowledge that:
+
+The Collective is a private coaching programme. Acceptance is by application; not all applications are accepted.
+
+The content — modules, training plans, nutrition frameworks, recovery protocols — is for educational purposes and is not medical advice. Consult a doctor before changing your diet, training, or supplement routine.
+
+The refund and iteration policy is the one stated on the protocols page and in the application: run the 90-day programme. If by day 30 your energy, sleep, and strength haven't moved in the right direction, email us and we'll iterate or swap the blueprint. Digital content is not refunded.
+
+Stefan Jankovic owns the intellectual property in the modules, programmes, brand, and copy on this site. You may not redistribute, resell, or reproduce the content.
+
+Questions: hello@menofapollo.com
+
+A full terms of service will be published before the public launch of the Collective. This interim notice covers the current application and content access flow.
+```
+
+Both pages: same body typography as `/protocols` body copy (token defaults). Page width matches landers. No new components — reuse existing layout chrome.
+
+**Out of scope:** legal review of the copy above. The wording is interim. Stefan should run both pages past a UK-jurisdiction lawyer (or a templated tool like Termageddon / iubenda) before public launch and replace the body copy. The URLs and routes themselves don't need to change.
 
 ---
 
