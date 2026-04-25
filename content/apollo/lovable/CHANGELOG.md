@@ -80,3 +80,61 @@ Version history for the Apollo integration prompts. **Never overwrite** — bump
 - **Voice anchor:** the new brand-kit files + cadence anchors quoted verbatim from the live site (hero / mechanism / founder / guarantee / final exclusion). Refused-vocab list expanded to fitness/transformation analogues per dossier negative findings.
 - **Sign-off chain.** Anton signs off on the audit before Session D fires. Anton runs `qa-checklist-session-d.md` after Lovable executes. Stefan async-reviews the brand-kit files + the Session D output before production publish. Preview-only deployment; production gated on Stefan binary sign-off.
 - Driver: Anton, end-to-end.
+
+## session-e-proof-block-reset
+
+### v1 — 2026-04-25 (current — plan approved, generation pending)
+- **Override:** Session D Pre-flight Gate 7 ("Higgs Field photographic imagery live on both pages. Pilot passed. Do not re-open.") and the Session D entry above ("Higgs Field imagery (settled)").
+- **Grounds for override:** the current proof block (3 before/after diptychs, "SIX MONTHS APART") is a structural violation of three locked brand rules from the foundation brief authored 2026-04-25:
+  1. Refused vocab — "transformation" is Tier-A banned per `voice-system-v1.md` and `component-copy-bank.md`. The diptych's visual grammar IS transformation regardless of caption wording. Visual grammar is voice.
+  2. Archetype lock — `foundation-brief.md` locks Sage/Mentor + Sovereign, NOT Hero. Before/after is the Hero archetype's signature visual move (the journey, the arc, the underdog crossing the threshold). Stefan is positioned as already-arrived, dispensing the protocol.
+  3. No-origin-story posture — dossier §8 documents the deliberate absence of a transformation narrative as brand-defining. AI-generated "before" imagery imports that narrative back in.
+- The Session C/Job3 pilot approval (2026-04-24) pre-dates the foundation-brief lock (2026-04-25) and therefore did not weigh these constraints. **This is a structural reset, not a craft refinement.**
+- **New direction:** v5 arrived-state portraits — three single-frame Apollonian portraits of three men in their held state, photographed in the cinematic-domestic register the dossier locks (Casey Neistat → Matt D'Avella → Will Tennyson lineage; Sony FX3; Apollonian, not Herculean). No before. No transformation. The protocol holds the state.
+- **Dual-model A/B parallel generation.** Higgs Field (locked) + Google Gemini Nano Banana Pro 2 (added 2026-04-25 per Anton). Both models run on every persona brief; the best frame wins per persona regardless of which model produced it. Higgs Field's strength is cinematic register; Nano Banana Pro 2's strength is photorealism + scene coherence + better hands/faces. Decision rule at QC time is purely visual quality + brand fit.
+- **Section copy update:** heading "WHAT THE 90-DAY ARC ACTUALLY PRODUCES" → `THIS IS WHAT THE PROTOCOL HOLDS.` Sub: `No injections. No shortcuts. Run honestly.` Per-image captions drop the time-delta format ("MONTH 0 → MONTH 6") in favour of present-tense subject metadata: `M., 38. 14 months in.` / `T., 41. Year two.` / `S., 35. 9 months in.`
+- **Deliverables in repo:**
+  - `~/Documents/Studio/men-of-apollo/deliverables/image-prompts-v5-arrived-state.md` — dual-model prompt pack with 6 prompts (3 personas × 2 models), universal negative + persona tails (Higgs Field), 8-point QC gate, selection rule, caption/heading spec, model-win tracking table
+  - `~/Documents/Studio/men-of-apollo/deliverables/higgsfield-prompts-v4-plain-wall.md` — marked SUPERSEDED with banner pointing to v5
+  - `content/apollo/lovable/session-e-proof-block-reset.v1.md` — paste-ready Lovable change brief for Stefan: section heading copy, sub copy, 3 captions, 3 alt texts, image attachment slots, sign-off lines
+  - This CHANGELOG entry
+- **Plan:** `/Users/antonurso/.claude/plans/one-thing-that-we-bright-fairy.md` (approved 2026-04-25)
+- **Approver gate:** Stefan binary YES/NO on 3 winning images + new section copy before Lovable swap.
+- **Status pipeline:** Plan approved → Phase A docs (this commit) → Phase B image generation pending Anton → Phase C Stefan binary gate → Phase D Lovable swap → Phase E live verification → Phase F docs close.
+- **Out of scope:** the testimonial / "WHAT MEN ARE SAYING" social-proof block (real screenshots stay), all other section copy, typography stack (locked in Session C), site migration off Lovable, video proof block.
+- Driver: Anton, end-to-end.
+
+---
+
+## session-f-reviews-pull-and-form
+
+### v1 — 2026-04-25 (current — plan approved, ship pending)
+- **Override:** Session B Job 2 (one-source-three-placements reviews block — manufactured 6-card render on home + /protocols + Collective deflection) and the Session D Job 0.2/0.3/0.4 review-block patches (name format normalisation, dedup, product tags). The data binding from `public/reviews.csv` to the Reviews block is severed.
+- **Grounds for override:** the 2026-04-25 audit of the upstream 251-row review pool (`apollo-reviews-export.csv`) returned **zero rows scoring `LIKELY_REAL` or `PROBABLY_REAL`**. Quantitative tells:
+  1. The top sentence appears 26 times across "different" reviewers (*"I'll keep this on the shelf for years."*); top 40 sentences each appear 3–26 times.
+  2. Stefan's anaphoric-No fingerprint (*"No needles. No pharmacy. No subscription. Just the inputs."*) appears verbatim in 13 customer mouths — a structural impossibility for independent reviewers.
+  3. 100% of `quote_short` values are byte-identical substrings of `quote_long` (automated extraction tell).
+  4. 18/251 rows have `internal_outcome_metric` that does not appear anywhere in `quote_long` (template-assembly tell).
+  5. 78% 5★, 18% 4★, 4% 3★, **zero 1–2★** — probabilistic impossibility for real customer data.
+- The Session C v1 Job 2 lock (de-AI'd reviews, 4-from-8 universal block) was implemented in good faith but was never able to repair authorship. Session D Patch 3 swapped the placeholder names for "canonical" names from the same pool — surface fix only. **This is a structural reset, not a craft refinement.**
+- **Decision authority:** Stefan delegated direction to Anton on 2026-04-25 (*"as long as it desires the best outcome"*). Anton ratified Hybrid B+ (pull + activate form) on 2026-04-25.
+- **New direction:** pull the manufactured Reviews block from home + /protocols. Replace with a minimal holding section (eyebrow `Reviews`, header `Open for real reviews.`, 60-word body explaining the position, link down to YouTube comments block). Keep the existing "What Men Write Back" YouTube-comments block (real, sourced unedited from Stefan's actual YouTube comments per `foundation-brief.md` §4) — it remains as social proof. Activate the Session C v1 Job 4 customer review submission form (deferred since 2026-04-23) with Supabase `review_submissions` table, edge-function rate limit (1 per IP-hash per 24h, SHA-256 + salt, no raw IPs stored), `/admin/reviews` moderation route gated to `hello@menofapollo.com` and `ops.controlplane@gmail.com` (with email-fallback if Lovable cannot gate the route in this session), honeypot anti-bot, and an auto-strip-on-approval pass for em-dashes / semicolons / mid-sentence colons. The relaunched Reviews block reads from `reviews_published` view (filtered to `status = 'approved'`) and stays pulled until that view returns ≥ 6 rows.
+- **Why this is the brand decision, not a regression.** The brand's strongest line is *"This is not for everyone."* Manufactured testimonials are incompatible with that positioning. Pulling the block until real reviews exist closes the only material legal/reputational exposure on the site (testimonial-fraud surface area under UK ASA / FTC). Aligns with Stefan's restraint-as-aesthetic register and the Sage/Sovereign archetype lock.
+- **Audit artefacts (decision-support, not customer-facing):**
+  - `~/Downloads/audit_results.csv` — 251 rows, verdict + signals + recommendation
+  - `~/Downloads/reviews_cleaned.csv` — tiered cleanup output (21 light scrub, 176 medium rewrite, 54 heavy rewrite); kept as reference, never ships as customer-attributed text
+  - `~/Downloads/heavy_triage.csv` — 38 keep / 16 remove decisions on the 54 LIKELY_AI_OR_FABRICATED rows
+  - `~/Downloads/audit_summary.md` — full report with cross-row patterns and caveats
+  - `~/Downloads/stefan_review_brief.md` — async-review brief originally drafted for Stefan; superseded by his delegation but retained for audit trail
+- **Deliverables in repo:**
+  - `content/apollo/lovable/session-f-reviews-pull-and-form.v1.md` — paste-ready Lovable change brief, two jobs (pull + form)
+  - `content/apollo/lovable/qa-checklist-session-f.md` — post-deploy QA checklist for Anton
+  - This CHANGELOG entry
+  - `brand-kit/01-docs/component-copy-bank.md` §2.2 to be updated by Lovable: existing `Reviews` strings marked `PULLED — pending real submissions`; new `LIVE` entry for `Open for real reviews.` holding header
+  - `public/reviews.csv` retained in repo, but binding severed; sibling `public/reviews.README.md` documents the deprecation
+- **CTA register update:** `SUBMIT REVIEW →` added to the locked CTA list (foundation-brief §8 / project-rules.md / component-copy-bank.md §3). Anton sign-off only; Stefan async-confirms.
+- **Inherited locks (unchanged):** S-A 20-module verbatim; S-B/Job1 protocols zero-exec; S-C v1 Job 2 review-content rules (apply to whatever lands in `reviews_published` going forward); S-Cv2 module typography; S-D Job 0/1/2 conversion blocks; S-E proof-block reset (imagery untouched).
+- **Out of scope:** the "What Men Write Back" YouTube block (verbatim hold), module pages, all Session D conversion blocks, all Session E imagery, the Collective application form, any auto-relaunch of the Reviews block (manual session triggered when `reviews_published` ≥ 6 and Stefan signs off), confirmation emails to submitters (deliberate — keeps surface area small).
+- **Approver gate:** Stefan binary YES/NO on the preview before production publish. Sign-off block on `qa-checklist-session-f.md`.
+- **Status pipeline:** Plan approved (2026-04-25) → Lovable execution (next) → Anton runs `qa-checklist-session-f.md` against preview → Stefan binary gate → production publish → form open for real submissions → `reviews_published` accumulates → Reviews block relaunch in a future session when count ≥ 6.
+- **Driver:** Anton, end-to-end. Stefan async-reviews.
