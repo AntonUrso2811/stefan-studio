@@ -4,7 +4,7 @@ title: "Effortless, Not Extreme"
 locked_line: "No crash diets. No starvation. No 'all-or-nothing' cycles. Just a system you can actually maintain."
 source: "Founder Dossier §1, YouTube video description, Nov 29 2025"
 related_modules: [M02, M04, M05, M07, M09]
-related_codex_entries: [dd-002, ce-002, ce-006, ce-013]
+related_atlas_entries: [dd-002, ce-002, ce-006, ce-013]
 review_cadence: phase-end
 ---
 

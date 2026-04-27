@@ -1,7 +1,7 @@
 /* ============================================================
    Stefan Jankovic / Men of Apollo — Dark Token Map
    Companion to colors_and_type.css (Apollo / Urso & Co cream).
-   For Members area + Apollo Codex (dark dashboard surfaces).
+   For Members area + Apollo Atlas (dark dashboard surfaces).
 
    Decision context: Members lives in a dark dashboard chrome
    while public surfaces remain on bone/cream. Token hierarchy
@@ -9,8 +9,8 @@
    ox-blood at #5b1e24 reads near-black on a near-black ground.
 
    Activate by adding [data-theme="dark"] to <html> or any
-   container that should render in dark mode. The ".codex"
-   selector below is for any Codex surface that should always
+   container that should render in dark mode. The ".atlas"
+   selector below is for any Atlas surface that should always
    render dark regardless of the parent theme.
    ============================================================ */
 
@@ -29,7 +29,7 @@
    ============================================================ */
 
 [data-theme="dark"],
-.codex {
+.atlas {
   --bg-page:    var(--ink);
   --bg-inverse: var(--bone);
   --fg-1:       var(--bone);
@@ -42,7 +42,7 @@
 
 [data-theme="dark"] html,
 [data-theme="dark"] body,
-.codex {
+.atlas {
   background: var(--bg-page);
   color: var(--fg-1);
 }
@@ -53,30 +53,30 @@
 [data-theme="dark"] h4,
 [data-theme="dark"] h5,
 [data-theme="dark"] h6,
-.codex h1, .codex h2, .codex h3, .codex h4, .codex h5, .codex h6 {
+.atlas h1, .atlas h2, .atlas h3, .atlas h4, .atlas h5, .atlas h6 {
   color: var(--fg-1);
 }
 
 [data-theme="dark"] hr,
-.codex hr {
+.atlas hr {
   border-top: var(--rule-hairline);
 }
 
 [data-theme="dark"] ::selection,
-.codex ::selection {
+.atlas ::selection {
   background: var(--bone);
   color: var(--ink);
 }
 
 /* ============================================================
-   Codex-specific primitives.
+   Atlas-specific primitives.
    These extend the cream tokens with components that exist
-   only inside the Codex surface (or any dark-mode surface
+   only inside the Atlas surface (or any dark-mode surface
    that consumes them).
    ============================================================ */
 
 /* --- Doctrine card -------------------------------------------------- */
-.codex-doctrine {
+.atlas-doctrine {
   background: var(--ink-card);
   border-left: 2px solid var(--accent);
   padding: var(--space-5) var(--space-6);
@@ -84,7 +84,7 @@
   border-radius: 2px;
   max-width: var(--measure);
 }
-.codex-doctrine blockquote {
+.atlas-doctrine blockquote {
   margin: 0;
   font-family: var(--font-serif);
   font-size: var(--size-body-lg);
@@ -92,7 +92,7 @@
   font-style: italic;
   color: var(--fg-1);
 }
-.codex-doctrine cite {
+.atlas-doctrine cite {
   display: block;
   margin-top: var(--space-3);
   font-family: var(--font-mono);
@@ -102,7 +102,7 @@
 }
 
 /* --- Scientist chip ------------------------------------------------- */
-.codex-scientist-chip {
+.atlas-scientist-chip {
   display: inline-flex;
   align-items: baseline;
   gap: var(--space-2);
@@ -116,18 +116,18 @@
   text-decoration: none;
   transition: border-color 120ms ease, background 120ms ease;
 }
-.codex-scientist-chip:hover {
+.atlas-scientist-chip:hover {
   border-color: var(--accent);
   background: var(--ink);
   color: var(--fg-1);
 }
-.codex-scientist-chip .institution {
+.atlas-scientist-chip .institution {
   color: var(--fg-2);
   text-transform: lowercase;
 }
 
 /* --- Evidence-level dot meter --------------------------------------- */
-.codex-evidence {
+.atlas-evidence {
   display: inline-flex;
   align-items: center;
   gap: var(--space-1);
@@ -135,23 +135,23 @@
   font-size: var(--size-caption);
   color: var(--fg-2);
 }
-.codex-evidence .dots {
+.atlas-evidence .dots {
   display: inline-flex;
   gap: 3px;
 }
-.codex-evidence .dot {
+.atlas-evidence .dot {
   width: 8px;
   height: 8px;
   border-radius: 50%;
   border: 1px solid var(--fg-2);
 }
-.codex-evidence .dot.filled {
+.atlas-evidence .dot.filled {
   background: var(--accent);
   border-color: var(--accent);
 }
 
 /* --- Citation chip (paper-style) ------------------------------------ */
-.codex-citation {
+.atlas-citation {
   display: inline-block;
   padding: 2px 8px;
   background: var(--ink-soft);
@@ -163,14 +163,14 @@
   text-decoration: none;
   cursor: pointer;
 }
-.codex-citation:hover {
+.atlas-citation:hover {
   border-color: var(--accent);
   color: var(--accent);
 }
 
 /* --- PRE / DDD block (three-column responsive) ---------------------- */
-.codex-pre,
-.codex-ddd {
+.atlas-pre,
+.atlas-ddd {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: var(--space-5);
@@ -180,15 +180,15 @@
   margin: var(--space-6) 0;
 }
 
-.codex-pre > div,
-.codex-ddd > div {
+.atlas-pre > div,
+.atlas-ddd > div {
   display: flex;
   flex-direction: column;
   gap: var(--space-3);
 }
 
-.codex-pre .label,
-.codex-ddd .label {
+.atlas-pre .label,
+.atlas-ddd .label {
   font-family: var(--font-mono);
   font-size: var(--size-caption);
   text-transform: uppercase;
@@ -196,8 +196,8 @@
   color: var(--fg-2);
 }
 
-.codex-pre .content,
-.codex-ddd .content {
+.atlas-pre .content,
+.atlas-ddd .content {
   font-family: var(--font-sans);
   font-size: var(--size-body);
   line-height: var(--lh-body);
@@ -205,24 +205,24 @@
 }
 
 @media (max-width: 768px) {
-  .codex-pre,
-  .codex-ddd {
+  .atlas-pre,
+  .atlas-ddd {
     grid-template-columns: 1fr;
     gap: var(--space-4);
   }
 }
 
 /* --- Studies / References list (paper-style) ------------------------ */
-.codex-studies {
+.atlas-studies {
   margin: var(--space-6) 0;
 }
-.codex-studies ol {
+.atlas-studies ol {
   list-style: none;
   padding: 0;
   margin: 0;
   counter-reset: study-counter;
 }
-.codex-studies li {
+.atlas-studies li {
   counter-increment: study-counter;
   display: grid;
   grid-template-columns: 28px 1fr;
@@ -233,16 +233,16 @@
   line-height: 1.5;
   color: var(--fg-1);
 }
-.codex-studies li::before {
+.atlas-studies li::before {
   content: counter(study-counter);
   font-family: var(--font-mono);
   color: var(--fg-2);
   font-size: var(--size-caption);
 }
-.codex-studies .venue {
+.atlas-studies .venue {
   font-style: italic;
 }
-.codex-studies .doi {
+.atlas-studies .doi {
   display: inline-block;
   margin-top: var(--space-1);
   font-family: var(--font-mono);
@@ -251,10 +251,10 @@
 }
 
 /* --- Linked modules block ------------------------------------------ */
-.codex-linked-modules {
+.atlas-linked-modules {
   margin: var(--space-6) 0;
 }
-.codex-linked-modules a {
+.atlas-linked-modules a {
   display: flex;
   align-items: baseline;
   gap: var(--space-3);
@@ -263,17 +263,17 @@
   color: var(--fg-1);
   border-bottom-color: var(--rule-dark);
 }
-.codex-linked-modules .module-id {
+.atlas-linked-modules .module-id {
   font-family: var(--font-mono);
   color: var(--fg-2);
   font-size: var(--size-caption);
 }
-.codex-linked-modules a:hover {
+.atlas-linked-modules a:hover {
   color: var(--accent);
 }
 
 /* --- Apollo Agent deep-prompt button ------------------------------- */
-.codex-agent-prompt {
+.atlas-agent-prompt {
   display: inline-flex;
   align-items: center;
   gap: var(--space-2);
@@ -287,13 +287,13 @@
   border-radius: 3px;
   transition: background 120ms ease, color 120ms ease;
 }
-.codex-agent-prompt:hover {
+.atlas-agent-prompt:hover {
   background: var(--accent);
   color: var(--ink);
 }
 
 /* --- Mechanism tag pill --------------------------------------------- */
-.codex-mechanism-tag {
+.atlas-mechanism-tag {
   display: inline-block;
   padding: 2px 8px;
   background: transparent;
@@ -305,13 +305,13 @@
   text-decoration: none;
   margin-right: var(--space-2);
 }
-.codex-mechanism-tag:hover {
+.atlas-mechanism-tag:hover {
   border-color: var(--accent);
   color: var(--accent);
 }
 
 /* --- Five-Inputs badge --------------------------------------------- */
-.codex-input-badge {
+.atlas-input-badge {
   display: inline-flex;
   align-items: baseline;
   gap: 4px;
@@ -323,23 +323,23 @@
   font-size: var(--size-caption);
   color: var(--fg-1);
 }
-.codex-input-badge .num {
+.atlas-input-badge .num {
   color: var(--accent);
   font-weight: 500;
 }
 
 /* ============================================================
    Sidecar — embedded in module pages.
-   The "Research" rail that surfaces Codex entries contextually.
+   The "Research" rail that surfaces Atlas entries contextually.
    ============================================================ */
-.codex-sidecar {
+.atlas-sidecar {
   background: var(--ink-card);
   border: 1px solid var(--rule-dark);
   border-radius: 4px;
   padding: var(--space-5);
   font-family: var(--font-sans);
 }
-.codex-sidecar h6 {
+.atlas-sidecar h6 {
   font-family: var(--font-mono);
   font-size: var(--size-caption);
   text-transform: uppercase;
@@ -347,31 +347,31 @@
   color: var(--fg-2);
   margin-bottom: var(--space-3);
 }
-.codex-sidecar ul {
+.atlas-sidecar ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.codex-sidecar li {
+.atlas-sidecar li {
   padding: var(--space-2) 0;
   border-bottom: var(--rule-hairline);
   font-size: var(--size-body-sm);
 }
-.codex-sidecar li:last-child {
+.atlas-sidecar li:last-child {
   border-bottom: 0;
 }
-.codex-sidecar a {
+.atlas-sidecar a {
   color: var(--fg-1);
   display: block;
 }
-.codex-sidecar a:hover {
+.atlas-sidecar a:hover {
   color: var(--accent);
 }
 
 @media (max-width: 1023px) {
   /* On tablets and below, sidecar collapses to drawer/accordion.
      Lovable to wire the toggle component; this stays a content holder. */
-  .codex-sidecar {
+  .atlas-sidecar {
     margin-top: var(--space-6);
   }
 }

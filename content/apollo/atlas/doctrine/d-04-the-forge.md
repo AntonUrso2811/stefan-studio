@@ -4,7 +4,7 @@ title: "Sixty Days in the Forge"
 locked_line: "You have spent sixty days in the forge."
 source: "M14 Phase 3 Overview, module lede"
 related_modules: [M14]
-related_codex_entries: [dd-004]
+related_atlas_entries: [dd-004]
 review_cadence: phase-end
 ---
 

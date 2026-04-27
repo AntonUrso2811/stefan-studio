@@ -26,7 +26,7 @@ Søberg's work resolves a question Stefan kept getting from members: *how much c
 - Apollo does not load cold exposure pre-strength-training. The hypertrophy literature is clear that cold immediately after lifting blunts the adaptive signal. Apollo's protocol accommodates this.
 - Apollo does not require expensive equipment. Søberg's work establishes that cold showers and natural cold-water immersion produce most of the signal. M07 protocols are equipment-light.
 
-## Codex entries citing Susanna Søberg
+## Atlas entries citing Susanna Søberg
 
 - ce-001 Cold Exposure and Sympathetic Modulation
 - ce-011 Core Body Temperature and Sleep Onset

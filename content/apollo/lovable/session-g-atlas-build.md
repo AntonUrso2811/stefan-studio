@@ -1,4 +1,4 @@
-# Lovable Session G — Build the Apollo Codex
+# Lovable Session G — Build the Apollo Atlas
 
 **Paste this into Lovable.** Driver: Anton, end-to-end. Stefan reviews after Pass G.0 lands. Builds on Sessions A through F.
 
@@ -6,23 +6,23 @@
 
 ## Context
 
-You are adding **The Apollo Codex** to the Members area: a scientific interlink layer that cross-references every Apollo protocol, module, and framework piece to its underlying research and to modern-day scientists members already know (Huberman, Attia, San Millán, Søberg).
+You are adding **The Apollo Atlas** to the Members area: a scientific interlink layer that cross-references every Apollo protocol, module, and framework piece to its underlying research and to modern-day scientists members already know (Huberman, Attia, San Millán, Søberg).
 
-The Codex is a structured, citation-grade content surface, presented in the dark dashboard chrome that already exists for Members. It pulls Apollo's voice (locked in `brand-kit/00-research/dossier-2026-04-25.md`) into research-grade format without crossing into academic register. Every entry is a reusable component reading content from versioned markdown files.
+The Atlas is a structured, citation-grade content surface, presented in the dark dashboard chrome that already exists for Members. It pulls Apollo's voice (locked in `brand-kit/00-research/dossier-2026-04-25.md`) into research-grade format without crossing into academic register. Every entry is a reusable component reading content from versioned markdown files.
 
 **Stefan-decision context:**
 - Phase 1 ships **24 seed entries** across all 20 modules (full launch, all four Index tabs populated).
 - Two sibling schemas: **PRE (Prompt → Response → Execution)** for 18 stimulus-based entries, **DDD (Doctrine → Default → Drift Check)** for 6 identity/system entries.
-- Codex is **not** a sidebar slot. Three discovery surfaces: Research sidecar embedded in module pages (primary), ⌘K global lookup (secondary), Modules / References tab toggle (tertiary). Deep-link URL `/members/codex` and `/members/codex/[slug]` preserved.
+- Atlas is **not** a sidebar slot. Three discovery surfaces: Research sidecar embedded in module pages (primary), ⌘K global lookup (secondary), Modules / References tab toggle (tertiary). Deep-link URL `/members/atlas` and `/members/atlas/[slug]` preserved.
 
 ---
 
 ## Source content
 
-All Codex content lives in this repo:
+All Atlas content lives in this repo:
 
 ```
-content/apollo/codex/
+content/apollo/atlas/
 ├── README.md                    # editorial guidelines + voice rules
 ├── index.yaml                   # master manifest
 ├── entries/
@@ -45,10 +45,10 @@ Plus copy bank §11.5 Research voice: `brand-kit/01-docs/component-copy-bank.md`
 
 URL pattern (same as Session A v2):
 ```
-https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/codex/index.yaml
-https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/codex/entries/{file}.md
-https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/codex/scientists/{file}.md
-https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/codex/doctrine/{file}.md
+https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/atlas/index.yaml
+https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/atlas/entries/{file}.md
+https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/atlas/scientists/{file}.md
+https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/content/apollo/atlas/doctrine/{file}.md
 https://raw.githubusercontent.com/{OWNER}/stefan-studio/main/brand-kit/02-tokens/colors_and_type.dark.css
 ```
 
@@ -126,13 +126,13 @@ Render bodies **verbatim**. Same lock as Session A. No rewriting. No improvement
 
 Members area runs `[data-theme="dark"]` on the root container (or `<html>`). Import `colors_and_type.dark.css` after `colors_and_type.css`. The dark map preserves the cream tokens for the public site while inverting ground for any element that opts in.
 
-The Codex always renders dark, regardless of parent theme. The `.codex` selector in the dark CSS file forces it.
+The Atlas always renders dark, regardless of parent theme. The `.atlas` selector in the dark CSS file forces it.
 
-### 2. Codex Index page (route: `/members/codex`)
+### 2. Atlas Index page (route: `/members/atlas`)
 
 Layout:
 
-- **Hero (top):** H1 *"The Apollo Codex"*. Sub: *"The scientific interlink layer for every Apollo protocol. Studies, scientists, and the locked doctrines that hold the system together."*
+- **Hero (top):** H1 *"The Apollo Atlas"*. Sub: *"The scientific interlink layer for every Apollo protocol. Studies, scientists, and the locked doctrines that hold the system together."*
 - **Tabs (sticky):** four tabs, default *"By Module"*. Tabs verbatim:
   - `By Module`
   - `By Scientist`
@@ -156,7 +156,7 @@ Render 4 scientist cards (Huberman / Attia / San Millán / Søberg). Each card:
 - Count of entries citing them
 - Primary modules (chip list)
 
-Click → scientist directory page (route `/members/codex/scientists/[id]`).
+Click → scientist directory page (route `/members/atlas/scientists/[id]`).
 
 #### Tab 3 — By Mechanism
 Render the `mechanism_tags` from `index.yaml` as a tag cloud or filterable list. Show entry count per tag. Click → filtered entry list.
@@ -165,12 +165,12 @@ Render the `mechanism_tags` from `index.yaml` as a tag cloud or filterable list.
 Render 6 doctrine cards (one per `doctrine/d-NN-*.md`). Each card:
 - Locked doctrine line (in serif, italic, large)
 - One-line "Why this matters"
-- Linked Codex entries (chip list)
+- Linked Atlas entries (chip list)
 - Linked modules (chip list)
 
-Click → doctrine card detail page (route `/members/codex/doctrine/[id]`).
+Click → doctrine card detail page (route `/members/atlas/doctrine/[id]`).
 
-### 3. Codex Entry page (route: `/members/codex/[slug]`)
+### 3. Atlas Entry page (route: `/members/atlas/[slug]`)
 
 Render PRE and DDD entries from frontmatter. Single-column layout, max-width 68rem (`var(--content-max)`), 68ch reading measure (`var(--measure)`).
 
@@ -183,7 +183,7 @@ Render PRE and DDD entries from frontmatter. Single-column layout, max-width 68r
 
 #### Body sections
 
-For PRE entries, render in this order, using the Codex section headers from copy bank §11.5:
+For PRE entries, render in this order, using the Atlas section headers from copy bank §11.5:
 
 1. The Stance
 2. Doctrine card (pulls from first `doctrine_refs[0]` linked doctrine)
@@ -199,7 +199,7 @@ For DDD entries, replace step 4 with a **DDD block** (DOCTRINE / DEFAULT / DRIFT
 
 **Bottom rail:** Previous entry / Next entry / Open Founder Dossier ↗ / Discuss in Community ↗
 
-### 4. Scientist Directory page (route: `/members/codex/scientists/[id]`)
+### 4. Scientist Directory page (route: `/members/atlas/scientists/[id]`)
 
 Render scientist MD files. Layout:
 
@@ -207,12 +207,12 @@ Render scientist MD files. Layout:
 - **Plain English** section (the framing paragraph)
 - **What Apollo uses** section (bulleted list)
 - **What Apollo does not echo** section (bulleted list)
-- **Codex entries citing this scientist** (entry cards in a 2-col grid)
+- **Atlas entries citing this scientist** (entry cards in a 2-col grid)
 - **Apollo modules informed by their work** (chip list)
 - **Honest note** section (where present)
 - External link to canonical resource (one link, no link farm)
 
-### 5. Doctrine card detail (route: `/members/codex/doctrine/[id]`)
+### 5. Doctrine card detail (route: `/members/atlas/doctrine/[id]`)
 
 Render doctrine MD files. Layout:
 
@@ -222,11 +222,11 @@ Render doctrine MD files. Layout:
 - **The Default** body
 - **The Drift Check** body (with the question pulled out as a quote)
 - **Voice notes** section
-- **Linked Codex entries** + **Linked modules** chip lists at the bottom
+- **Linked Atlas entries** + **Linked modules** chip lists at the bottom
 
 ### 6. ⌘K global lookup (header)
 
-Add a `⌘K Codex` keyboard shortcut + clickable button in the Members header. Opens a modal with a search input. Three result groups:
+Add a `⌘K Atlas` keyboard shortcut + clickable button in the Members header. Opens a modal with a search input. Three result groups:
 
 - **Scientists** (search by name)
 - **Mechanism tags** (search by tag)
@@ -242,26 +242,26 @@ At the top of the Modules page (the existing 20-module library view), add a tab 
 [Modules]  [References]
 ```
 
-`References` opens the Codex Index inside the Modules page chrome (no full route change). Allows destination-mode browsing without burning a sidebar slot.
+`References` opens the Atlas Index inside the Modules page chrome (no full route change). Allows destination-mode browsing without burning a sidebar slot.
 
 ### 8. Research sidecar on every module page
 
 This is the **primary discovery surface**. Embedded right column on desktop (≥1024px), drawer-collapsed on tablet, accordion-folded on mobile.
 
-For each module page, query `index.yaml` for Codex entries where `modules` includes the current module ID. Render up to 7 entries in a sidecar with header:
+For each module page, query `index.yaml` for Atlas entries where `modules` includes the current module ID. Render up to 7 entries in a sidecar with header:
 
 ```
 RESEARCH
-Linked Codex entries for this module.
+Linked Atlas entries for this module.
 ```
 
-Each entry: small card with title, scientist chip, evidence-level dots, click-through to full Codex entry.
+Each entry: small card with title, scientist chip, evidence-level dots, click-through to full Atlas entry.
 
 If a module has zero linked entries, hide the sidecar entirely (do not show empty state).
 
 ### 9. Apollo Agent deep-prompt deep-link
 
-Every Codex entry's "Ask Apollo →" button should pre-fill the Apollo Agent chat with the verbatim question from the entry frontmatter. URL pattern:
+Every Atlas entry's "Ask Apollo →" button should pre-fill the Apollo Agent chat with the verbatim question from the entry frontmatter. URL pattern:
 
 ```
 /members/apollo-agent?prefill={url-encoded question}
@@ -299,16 +299,16 @@ Stop and confirm after each pass:
 
 **Pass G.0** — Scaffolding
 - Dark theme activation on Members
-- Codex Index page (route + 4 tabs, By Module tab populated only)
-- Codex Entry template (renders one MD entry, both schemas supported)
-- One full Codex entry rendered end-to-end (suggest: ce-001 Cold Exposure)
+- Atlas Index page (route + 4 tabs, By Module tab populated only)
+- Atlas Entry template (renders one MD entry, both schemas supported)
+- One full Atlas entry rendered end-to-end (suggest: ce-001 Cold Exposure)
 - Preview deploy. Anton verifies. Stefan reviews aesthetic.
 
 **Pass G.1** — Content load (24 entries + 4 scientists + 6 doctrines)
 - All 24 entries fetched and rendered
 - All 4 scientist directory pages rendered
 - All 6 doctrine detail pages rendered
-- All 4 Codex Index tabs populated
+- All 4 Atlas Index tabs populated
 
 **Pass G.2** — Discovery surfaces
 - ⌘K global lookup wired (header)
@@ -316,7 +316,7 @@ Stop and confirm after each pass:
 - Research sidecar on all 20 module pages
 
 **Pass G.3** — Apollo Agent integration
-- Deep-prompt buttons functional on every Codex entry
+- Deep-prompt buttons functional on every Atlas entry
 - Apollo Agent reads `?prefill=` and inserts first message
 - End-to-end test: click button on ce-001 → Apollo Agent opens with the cold-exposure question pre-loaded
 
@@ -324,7 +324,7 @@ Stop and confirm after each pass:
 
 ## What NOT to do this session
 
-- Do NOT add "Codex" as a new sidebar slot. Members sidebar is locked. Discovery is via sidecar + ⌘K + tab toggle.
+- Do NOT add "Atlas" as a new sidebar slot. Members sidebar is locked. Discovery is via sidecar + ⌘K + tab toggle.
 - Do NOT add Phase 4 features: scientist headshots, "Discuss in Community" deep-links, member analytics. Those are post-launch.
 - Do NOT improve the Founder Dossier excerpts. Verbatim quotes only.
 - Do NOT introduce new colours outside the dark token map. The map is intentionally minimal (one warm-shifted accent, two ink layers, two rule weights).
@@ -336,10 +336,10 @@ Stop and confirm after each pass:
 ## Output format (after each pass)
 
 1. Summary of pages and routes created.
-2. Spot-check: render one Codex entry end-to-end (suggest ce-001 or dd-001) and paste rendered HTML or screenshot.
+2. Spot-check: render one Atlas entry end-to-end (suggest ce-001 or dd-001) and paste rendered HTML or screenshot.
 3. Voice scan: confirm zero hits against the refused-vocabulary list. Confirm no em dashes in customer-facing copy.
 4. Frontmatter parsing errors flagged.
-5. Screenshots of: Codex Index By Module tab, one Codex Entry page (PRE), one Codex Entry page (DDD), one Scientist Directory page, the Research sidecar embedded in a module page, the ⌘K modal.
+5. Screenshots of: Atlas Index By Module tab, one Atlas Entry page (PRE), one Atlas Entry page (DDD), one Scientist Directory page, the Research sidecar embedded in a module page, the ⌘K modal.
 6. Flags for anything you couldn't complete and why.
 
 Do NOT deploy to production. Preview deploy only. Anton QAs against `qa-checklist-session-g.md` before Stefan handover.
@@ -351,7 +351,7 @@ Do NOT deploy to production. Preview deploy only. Anton QAs against `qa-checklis
 Same shape as Session A through F QA checklists. Will be authored as `qa-checklist-session-g.md` after Pass G.0 lands.
 
 Pre-checklist Stefan questions (raise during Pass G.0):
-1. Does the Codex feel like Apollo, or like an academic library bolted on? (Aesthetic check.)
+1. Does the Atlas feel like Apollo, or like an academic library bolted on? (Aesthetic check.)
 2. Is the dark accent (warm-shifted ox-blood) right, or should it shift further toward gold or cream? (Token check.)
 3. Is the PRE three-column block legible on mobile when collapsed to vertical? (Layout check.)
 4. Does the Research sidecar feel ambient or noisy when reading a module? (Discovery check.)

@@ -4,7 +4,7 @@ title: "Information Without Implementation"
 locked_line: "You have the knowledge. Information without implementation is worthless."
 source: "M13 Phase 2 Integration, module lede"
 related_modules: [M13]
-related_codex_entries: [dd-003]
+related_atlas_entries: [dd-003]
 review_cadence: weekly
 ---
 

@@ -4,7 +4,7 @@ title: "Knowing Is Not Doing"
 locked_line: "You know what to do, you're just not doing it."
 source: "Founder Dossier §1, IG bio verbatim, @stefs.way"
 related_modules: [M01, M03]
-related_codex_entries: [dd-001]
+related_atlas_entries: [dd-001]
 review_cadence: weekly
 ---
 

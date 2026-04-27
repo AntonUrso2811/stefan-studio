@@ -4,7 +4,7 @@ title: "Thirty Years, Not Thirty Days"
 locked_line: "Most men optimise for the next 30 days. You are going to optimise for the next 30 years."
 source: "M19 Longevity Optimisation, module lede"
 related_modules: [M19, M20]
-related_codex_entries: [dd-005, ce-016, ce-018]
+related_atlas_entries: [dd-005, ce-016, ce-018]
 review_cadence: quarterly
 ---
 
@@ -18,7 +18,7 @@ The Phase 4 pivot. The work changes target. The member stops asking *how do I lo
 
 This is where Apollo separates from cosmetic fitness entirely. The Greek body remains the visible payoff. The actual deliverable is a body that is still capable of training, of carrying, of standing up off the floor unassisted, three decades from now.
 
-The doctrine maps cleanly onto research members already trust. Peter Attia's frame is exactly this. Grip strength, VO₂max, leg power are not bodybuilding metrics. They are mortality predictors. The Codex carries this doctrine through with the studies that make the case in numbers.
+The doctrine maps cleanly onto research members already trust. Peter Attia's frame is exactly this. Grip strength, VO₂max, leg power are not bodybuilding metrics. They are mortality predictors. The Atlas carries this doctrine through with the studies that make the case in numbers.
 
 ## The default that should flow from it
 

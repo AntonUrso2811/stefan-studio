@@ -1,4 +1,4 @@
-# The Apollo Codex
+# The Apollo Atlas
 
 The scientific interlink layer for Men of Apollo. Cross-references every protocol, module, and framework piece to its underlying research and to the modern-day scientists who teach it.
 
@@ -8,9 +8,9 @@ The scientific interlink layer for Men of Apollo. Cross-references every protoco
 
 ---
 
-## What the Codex is for
+## What the Atlas is for
 
-The site already cites studies inline (Leproult JAMA 2011, Wu Horm Metab Res 2011 on `/protocols`). The Codex is what closes the credential void flagged in the Founder Dossier §8: a structured research interlink that lets every protocol claim be traced to a paper, a scientist, a doctrine line, and the Apollo modules it serves.
+The site already cites studies inline (Leproult JAMA 2011, Wu Horm Metab Res 2011 on `/protocols`). The Atlas is what closes the credential void flagged in the Founder Dossier §8: a structured research interlink that lets every protocol claim be traced to a paper, a scientist, a doctrine line, and the Apollo modules it serves.
 
 Three principles, locked:
 
@@ -23,7 +23,7 @@ Three principles, locked:
 ## Folder layout
 
 ```
-content/apollo/codex/
+content/apollo/atlas/
 ├── README.md                       # this file
 ├── index.yaml                      # master manifest — all entries, scientists, doctrine
 ├── entries/
@@ -103,7 +103,7 @@ updated_at: 2026-04-27
 
 ---
 
-## Voice rails (apply to every Codex string)
+## Voice rails (apply to every Atlas string)
 
 Pulled from `foundation-brief.md` §5 Voice Principles, §6 Owned Vocabulary, §7 Refused Vocabulary. Hard rules:
 
@@ -131,7 +131,7 @@ The Stefan-Dossier line is the spine. Research is the rail. Science as confirmat
 
 ## Five Inputs taxonomy (top-level)
 
-Every Codex entry must tag at least one of the five `five_inputs` values. These are the spine of `/protocols` and pre-exist in customer-facing copy.
+Every Atlas entry must tag at least one of the five `five_inputs` values. These are the spine of `/protocols` and pre-exist in customer-facing copy.
 
 | Input | Tag | Description |
 |---|---|---|
@@ -163,7 +163,7 @@ If you find yourself forcing a citation slot, switch the entry to DDD.
 
 ## Maintenance
 
-Codex content lives as `.md` and `.yaml` in this folder. Lovable fetches via GitHub raw URL on build. Editing this folder updates the live Codex without touching Lovable.
+Atlas content lives as `.md` and `.yaml` in this folder. Lovable fetches via GitHub raw URL on build. Editing this folder updates the live Atlas without touching Lovable.
 
 Adding an entry: drop a new `.md` in `entries/`, append to `index.yaml`, push. The next Lovable rebuild picks it up.
 

@@ -22,11 +22,11 @@ San Millán's primary contribution is the *why* behind Zone 2:
 
 ## What Apollo does not echo
 
-- Apollo does not require a lactate meter. San Millán's elite-athlete protocols depend on testing. Apollo translates the protocol for members without lab access. The Codex is honest about this trade-off in ce-002.
-- Apollo does not specialise members into single-modality endurance. Zone 2 sits inside a four-pillar system. Members who collapse the system into "more cardio" are running San Millán without Stefan, and the Codex flags that drift.
+- Apollo does not require a lactate meter. San Millán's elite-athlete protocols depend on testing. Apollo translates the protocol for members without lab access. The Atlas is honest about this trade-off in ce-002.
+- Apollo does not specialise members into single-modality endurance. Zone 2 sits inside a four-pillar system. Members who collapse the system into "more cardio" are running San Millán without Stefan, and the Atlas flags that drift.
 - Apollo does not promise tour-de-france level adaptation. The protocol is health-span, not performance.
 
-## Codex entries citing Iñigo San Millán
+## Atlas entries citing Iñigo San Millán
 
 - ce-002 Zone 2 and Mitochondrial Density
 - ce-007 HRV as Recovery Marker
@@ -41,4 +41,4 @@ San Millán's primary contribution is the *why* behind Zone 2:
 
 ## Honest note
 
-The bulk of San Millán's published work runs on athlete populations. Apollo's translation to general-population protocol is consistent with his public recommendations for health-span, but the dose-response in non-athletes is a less mature literature than the elite-cycling base. The Codex flags evidence-level on Zone 2 entries accordingly.
+The bulk of San Millán's published work runs on athlete populations. Apollo's translation to general-population protocol is consistent with his public recommendations for health-span, but the dose-response in non-athletes is a less mature literature than the elite-cycling base. The Atlas flags evidence-level on Zone 2 entries accordingly.

@@ -4,7 +4,7 @@ title: "A Life Worth Living"
 locked_line: "Building strength, discipline, and a life worth living."
 source: "Founder Dossier §1, YouTube About, @Stefswayy verbatim"
 related_modules: [M20]
-related_codex_entries: [dd-006]
+related_atlas_entries: [dd-006]
 review_cadence: quarterly
 ---
 

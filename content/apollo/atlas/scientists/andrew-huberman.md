@@ -30,7 +30,7 @@ The breadth of Huberman's interests does not transfer cleanly into a 90-day syst
 - Apollo does not chase peak protocols. Where Huberman teaches the upper range of an intervention (cold for maximum BAT activation, light for maximum alertness), Apollo dials to the sustainable middle. The doctrine *effortless not extreme* prevents drift into protocol-maximalism.
 - Apollo does not replicate Huberman's pace of new tools. The 90-day protocol is fixed. New podcast episodes do not change the plan.
 
-## Codex entries citing Andrew Huberman
+## Atlas entries citing Andrew Huberman
 
 - ce-001 Cold Exposure and Sympathetic Modulation
 - ce-003 Circadian Light and Melatonin Onset
@@ -47,4 +47,4 @@ The breadth of Huberman's interests does not transfer cleanly into a 90-day syst
 
 ## Honest note
 
-Huberman is a teacher, not an Apollo collaborator. Apollo cites his published positions where they overlap with the protocol stack. Where his views shift over time (and they do, as new literature lands) the Codex updates the entry rather than treating his most recent position as canonical.
+Huberman is a teacher, not an Apollo collaborator. Apollo cites his published positions where they overlap with the protocol stack. Where his views shift over time (and they do, as new literature lands) the Atlas updates the entry rather than treating his most recent position as canonical.

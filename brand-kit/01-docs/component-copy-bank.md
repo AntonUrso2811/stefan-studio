@@ -256,13 +256,13 @@ Any string that hits production without surviving steps 1–4 should be consider
 
 ---
 
-## 11.5 Research voice — Codex strings (added 2026-04-27, Session G)
+## 11.5 Research voice — Atlas strings (added 2026-04-27, Session G)
 
-Pre-approved on-voice strings for the Apollo Codex (the scientific interlink layer in the Members area). The Codex pulls the brand into research-grade citation while staying inside Stefan's voice. Every entry runs through `foundation-brief.md` §10 quality checklist.
+Pre-approved on-voice strings for the Apollo Atlas (the scientific interlink layer in the Members area). The Atlas pulls the brand into research-grade citation while staying inside Stefan's voice. Every entry runs through `foundation-brief.md` §10 quality checklist.
 
 ### Stance openers
 
-- `LIVE` *"Stefan's stance:"* (lead phrase for every Codex entry)
+- `LIVE` *"Stefan's stance:"* (lead phrase for every Atlas entry)
 - `LIVE` *"What Apollo uses:"*
 - `LIVE` *"What we don't echo:"*
 - `LIVE` *"Honest note."* (used when evidence is thin or trade-offs are real)
@@ -272,7 +272,7 @@ Pre-approved on-voice strings for the Apollo Codex (the scientific interlink lay
 - `LIVE` *"Plain English:"* / *"Plain English."* (header-form for the layperson explainer)
 - `LIVE` *"Technical:"* / *"Technical."* (header-form for the mechanism block)
 
-These run as a pair on every Codex entry. Plain English first, Technical second. Same content, two registers.
+These run as a pair on every Atlas entry. Plain English first, Technical second. Same content, two registers.
 
 ### Citation framing
 
@@ -292,7 +292,7 @@ Use these forms verbatim. Banned alternatives noted.
 - ✅ *"${name}, ${role} at ${institution}"* — institution lowercase per house style
 - ✅ *"${name} (${institution})"* — short form for chips
 
-Examples already in Codex:
+Examples already in Atlas:
 - *Andrew Huberman, professor of neurobiology at stanford school of medicine*
 - *Peter Attia, longevity physician*
 - *Iñigo San Millán, director of performance physiology at uc colorado school of medicine*
@@ -302,7 +302,7 @@ Avoid: ranks (Dr., Prof., MD), capitalised institutions, post-nominals.
 
 ### Evidence-level dot meter
 
-A 1-to-5 dot meter sits at the top of every Codex entry. Use these labels for hover-reveal tooltips:
+A 1-to-5 dot meter sits at the top of every Atlas entry. Use these labels for hover-reveal tooltips:
 
 - `LIVE` *"●○○○○ — One of five. Mechanistic plausibility, limited human data."*
 - `LIVE` *"●●○○○ — Two of five. Small human studies, some methodological issues."*
@@ -322,11 +322,11 @@ The doctrine line is the spine. The research is the rail. Science as confirmatio
 
 ### Apollo Agent deep-prompt buttons
 
-Every Codex entry ends with a pre-built question the member can launch into the Apollo Agent. Pattern (verbatim, do not paraphrase the structure):
+Every Atlas entry ends with a pre-built question the member can launch into the Apollo Agent. Pattern (verbatim, do not paraphrase the structure):
 
 > *"Ask Apollo: ${concrete first-person scenario}. ${specific question with phase, day, or constraint}."*
 
-Examples already in Codex:
+Examples already in Atlas:
 - *"Ask Apollo: I'm on Phase 1 Day 17 and I want to add cold exposure. What is the minimum effective dose for someone training four times weekly, and where in my schedule should it sit?"*
 - *"Ask Apollo: my 7-day HRV has dropped 12ms over the last fortnight while I am on Phase 2 Week 3. What does that signal and what do I change in this week's training?"*
 
@@ -360,7 +360,7 @@ Sub-labels:
 - Under DEFAULT: *"The behaviour that flows from it."*
 - Under DRIFT CHECK: *"The audit question."*
 
-### Codex section headers (verbatim — use across all entries)
+### Atlas section headers (verbatim — use across all entries)
 
 - `LIVE` *"The Stance"* (entry opener)
 - `LIVE` *"Plain English"* (mechanism block 1)
@@ -381,9 +381,9 @@ For DDD entries:
 - `LIVE` *"Cadence"* (review timing)
 - `LIVE` *"Voice notes"* (style guidance)
 
-### Codex Index tab labels
+### Atlas Index tab labels
 
-The four browse axes of the Codex home (verbatim):
+The four browse axes of the Atlas home (verbatim):
 
 - `LIVE` *"By Module"*
 - `LIVE` *"By Scientist"*
@@ -392,7 +392,7 @@ The four browse axes of the Codex home (verbatim):
 
 ### Five Inputs taxonomy chips (verbatim)
 
-The Codex inherits the five-input framework already on `/protocols`. Use these strings exactly.
+The Atlas inherits the five-input framework already on `/protocols`. Use these strings exactly.
 
 - `LIVE` *"Sleep"* (input 1)
 - `LIVE` *"Sunlight"* (input 2)
