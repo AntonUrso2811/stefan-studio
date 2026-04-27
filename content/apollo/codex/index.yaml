@@ -1,0 +1,343 @@
+# The Apollo Codex — Master Manifest
+# Generated 2026-04-27 (Session G Phase 1)
+# Lovable consumes this via GitHub raw URL fetch to build the Codex Index views.
+
+version: 1
+last_updated: 2026-04-27
+phase: 1
+total_entries: 24
+total_scientists: 4
+total_doctrine_cards: 6
+
+five_inputs:
+  - id: sleep
+    label: "Sleep"
+    description: "Sleep architecture, duration, timing, temperature."
+  - id: sunlight
+    label: "Sunlight"
+    description: "Circadian-light exposure. Melatonin onset. Vitamin D."
+  - id: heavy-compound-lifts
+    label: "Heavy Compound Lifts"
+    description: "Resistance training. Strength. Hypertrophy. Neural drive."
+  - id: real-food
+    label: "Real Food"
+    description: "Whole-food nutrition. Protein anchor. Fibre. Fasting."
+  - id: calm-nervous-system
+    label: "Calm Nervous System"
+    description: "HRV. Vagal tone. Cold exposure. Breath. Recovery."
+
+mechanism_tags:
+  - cold-exposure
+  - sympathetic-tone
+  - vagal-tone
+  - hrv
+  - aerobic-base
+  - zone-2
+  - mitochondrial-density
+  - vo2max
+  - circadian-light
+  - melatonin-onset
+  - sleep-architecture
+  - deep-sleep
+  - rem-sleep
+  - core-body-temperature
+  - meal-timing
+  - autophagy
+  - intermittent-fasting
+  - mtor
+  - muscle-protein-synthesis
+  - leucine-threshold
+  - resistance-training
+  - hypertrophy
+  - grip-strength
+  - protein-leverage
+  - satiety
+  - end-range-control
+  - active-flexibility
+  - thoracic-rotation
+  - gut-microbiome
+  - short-chain-fatty-acids
+
+# ----- PRE entries (18) -----
+pre_entries:
+  - entry_id: ce-001
+    slug: cold-exposure-sympathetic
+    title: "Cold Exposure and Sympathetic Modulation"
+    file: entries/ce-001-cold-exposure-sympathetic.md
+    five_inputs: [calm-nervous-system, sleep]
+    mechanism_tags: [cold-exposure, sympathetic-tone, brown-adipose, vagal-tone]
+    modules: [M07, M11, M18]
+    scientists: [andrew-huberman, susanna-soberg]
+    evidence_level: 3
+  - entry_id: ce-002
+    slug: zone-2-mitochondrial-density
+    title: "Zone 2 and Mitochondrial Density"
+    file: entries/ce-002-zone-2-mitochondrial-density.md
+    five_inputs: [heavy-compound-lifts]
+    mechanism_tags: [zone-2, aerobic-base, mitochondrial-density, vo2max]
+    modules: [M04, M08, M15, M19]
+    scientists: [peter-attia, inigo-san-millan]
+    evidence_level: 4
+  - entry_id: ce-003
+    slug: circadian-light-melatonin-onset
+    title: "Circadian Light and Melatonin Onset"
+    file: entries/ce-003-circadian-light-melatonin-onset.md
+    five_inputs: [sunlight, sleep]
+    mechanism_tags: [circadian-light, melatonin-onset, sleep-architecture]
+    modules: [M02, M18]
+    scientists: [andrew-huberman]
+    evidence_level: 4
+  - entry_id: ce-004
+    slug: protein-synthesis-mtor
+    title: "Protein Synthesis and the mTOR Switch"
+    file: entries/ce-004-protein-synthesis-mtor.md
+    five_inputs: [real-food, heavy-compound-lifts]
+    mechanism_tags: [mtor, muscle-protein-synthesis, leucine-threshold]
+    modules: [M05, M10]
+    scientists: [peter-attia]
+    evidence_level: 4
+  - entry_id: ce-005
+    slug: resistance-training-hypertrophy
+    title: "Resistance Training and Hypertrophy Stimulus"
+    file: entries/ce-005-resistance-training-hypertrophy.md
+    five_inputs: [heavy-compound-lifts]
+    mechanism_tags: [resistance-training, hypertrophy, mtor]
+    modules: [M04, M08, M17]
+    scientists: [peter-attia]
+    evidence_level: 4
+  - entry_id: ce-006
+    slug: autophagy-fasting-window
+    title: "Autophagy and the Fasting Window"
+    file: entries/ce-006-autophagy-fasting-window.md
+    five_inputs: [real-food]
+    mechanism_tags: [autophagy, intermittent-fasting]
+    modules: [M09, M19]
+    scientists: [peter-attia]
+    evidence_level: 2
+  - entry_id: ce-007
+    slug: hrv-recovery-marker
+    title: "HRV as Recovery Marker"
+    file: entries/ce-007-hrv-recovery-marker.md
+    five_inputs: [calm-nervous-system]
+    mechanism_tags: [hrv, vagal-tone, sympathetic-tone]
+    modules: [M07, M11]
+    scientists: [inigo-san-millan]
+    evidence_level: 3
+  - entry_id: ce-008
+    slug: end-range-control-mobility
+    title: "End-Range Control and Joint Capacity"
+    file: entries/ce-008-end-range-control-mobility.md
+    five_inputs: [heavy-compound-lifts]
+    mechanism_tags: [end-range-control, active-flexibility]
+    modules: [M06, M15]
+    scientists: []
+    evidence_level: 3
+  - entry_id: ce-009
+    slug: active-flexibility-prep
+    title: "Active Flexibility and Movement Prep"
+    file: entries/ce-009-active-flexibility-prep.md
+    five_inputs: [heavy-compound-lifts]
+    mechanism_tags: [active-flexibility, thoracic-rotation]
+    modules: [M06]
+    scientists: []
+    evidence_level: 3
+  - entry_id: ce-010
+    slug: sleep-architecture-deep-stages
+    title: "Sleep Architecture and Deep-Stage Anabolism"
+    file: entries/ce-010-sleep-architecture-deep-stages.md
+    five_inputs: [sleep]
+    mechanism_tags: [sleep-architecture, deep-sleep, rem-sleep]
+    modules: [M07, M18]
+    scientists: [andrew-huberman]
+    evidence_level: 4
+  - entry_id: ce-011
+    slug: temperature-and-sleep-onset
+    title: "Core Body Temperature and Sleep Onset"
+    file: entries/ce-011-temperature-and-sleep-onset.md
+    five_inputs: [sleep, calm-nervous-system]
+    mechanism_tags: [core-body-temperature, sleep-architecture]
+    modules: [M18]
+    scientists: [andrew-huberman, susanna-soberg]
+    evidence_level: 3
+  - entry_id: ce-012
+    slug: meal-timing-circadian
+    title: "Meal Timing and the Circadian Window"
+    file: entries/ce-012-meal-timing-circadian.md
+    five_inputs: [real-food, sleep]
+    mechanism_tags: [meal-timing, circadian-light, intermittent-fasting]
+    modules: [M05, M09, M18]
+    scientists: [peter-attia, andrew-huberman]
+    evidence_level: 3
+  - entry_id: ce-013
+    slug: leucine-anchor-mps
+    title: "The Leucine Anchor"
+    file: entries/ce-013-leucine-anchor-mps.md
+    five_inputs: [real-food]
+    mechanism_tags: [leucine-threshold, muscle-protein-synthesis, mtor]
+    modules: [M05, M10]
+    scientists: []
+    evidence_level: 4
+  - entry_id: ce-014
+    slug: fibre-microbiome-scfa
+    title: "Fibre, the Microbiome, and Short-Chain Fatty Acids"
+    file: entries/ce-014-fibre-microbiome-scfa.md
+    five_inputs: [real-food]
+    mechanism_tags: [gut-microbiome, short-chain-fatty-acids]
+    modules: [M16]
+    scientists: []
+    evidence_level: 3
+  - entry_id: ce-015
+    slug: vagal-tone-recovery
+    title: "Vagal Tone and Recovery Capacity"
+    file: entries/ce-015-vagal-tone-recovery.md
+    five_inputs: [calm-nervous-system]
+    mechanism_tags: [vagal-tone, hrv, sympathetic-tone]
+    modules: [M11]
+    scientists: [susanna-soberg]
+    evidence_level: 2
+  - entry_id: ce-016
+    slug: grip-strength-longevity
+    title: "Grip Strength as Longevity Marker"
+    file: entries/ce-016-grip-strength-longevity.md
+    five_inputs: [heavy-compound-lifts]
+    mechanism_tags: [grip-strength, resistance-training]
+    modules: [M04, M19]
+    scientists: [peter-attia]
+    evidence_level: 4
+  - entry_id: ce-017
+    slug: protein-leverage-satiety
+    title: "The Protein Leverage Hypothesis and Satiety"
+    file: entries/ce-017-protein-leverage-satiety.md
+    five_inputs: [real-food]
+    mechanism_tags: [protein-leverage, satiety]
+    modules: [M05, M10, M12]
+    scientists: []
+    evidence_level: 3
+  - entry_id: ce-018
+    slug: vo2max-mortality
+    title: "VO₂max and All-Cause Mortality"
+    file: entries/ce-018-vo2max-mortality.md
+    five_inputs: [heavy-compound-lifts]
+    mechanism_tags: [vo2max, aerobic-base, zone-2]
+    modules: [M04, M15, M19]
+    scientists: [peter-attia, inigo-san-millan]
+    evidence_level: 5
+
+# ----- DDD entries (6) -----
+ddd_entries:
+  - entry_id: dd-001
+    slug: knowing-not-doing
+    title: "Knowing Is Not Doing"
+    file: entries/dd-001-knowing-not-doing.md
+    five_inputs: []
+    mechanism_tags: []
+    modules: [M01, M03]
+    doctrine_refs: [d-01-knowing-not-doing]
+    review_cadence: weekly
+  - entry_id: dd-002
+    slug: effortless-not-extreme
+    title: "Effortless, Not Extreme"
+    file: entries/dd-002-effortless-not-extreme.md
+    five_inputs: []
+    mechanism_tags: []
+    modules: [M02]
+    doctrine_refs: [d-02-effortless-not-extreme]
+    review_cadence: phase-end
+  - entry_id: dd-003
+    slug: information-without-implementation
+    title: "Information Without Implementation"
+    file: entries/dd-003-information-without-implementation.md
+    five_inputs: []
+    mechanism_tags: []
+    modules: [M13]
+    doctrine_refs: [d-03-information-without-implementation]
+    review_cadence: weekly
+  - entry_id: dd-004
+    slug: sixty-days-in-the-forge
+    title: "Sixty Days in the Forge"
+    file: entries/dd-004-sixty-days-in-the-forge.md
+    five_inputs: []
+    mechanism_tags: []
+    modules: [M14]
+    doctrine_refs: [d-04-the-forge]
+    review_cadence: phase-end
+  - entry_id: dd-005
+    slug: thirty-years-not-thirty-days
+    title: "Thirty Years, Not Thirty Days"
+    file: entries/dd-005-thirty-years-not-thirty-days.md
+    five_inputs: []
+    mechanism_tags: []
+    modules: [M19]
+    doctrine_refs: [d-05-thirty-years]
+    review_cadence: quarterly
+  - entry_id: dd-006
+    slug: a-life-worth-living
+    title: "A Life Worth Living"
+    file: entries/dd-006-a-life-worth-living.md
+    five_inputs: []
+    mechanism_tags: []
+    modules: [M20]
+    doctrine_refs: [d-06-life-worth-living]
+    review_cadence: quarterly
+
+# ----- Scientists (4) -----
+scientists:
+  - id: andrew-huberman
+    name: "Andrew Huberman"
+    role: "Professor of Neurobiology"
+    institution: "stanford school of medicine"
+    file: scientists/andrew-huberman.md
+    primary_topics: [circadian-light, sleep-architecture, cold-exposure, dopamine, fear-extinction]
+    apollo_modules: [M02, M07, M11, M18]
+    entry_count: 5
+  - id: peter-attia
+    name: "Peter Attia"
+    role: "Longevity physician"
+    institution: "early medical / drive podcast"
+    file: scientists/peter-attia.md
+    primary_topics: [zone-2, vo2max, autophagy, fasting, grip-strength, protein-anchor]
+    apollo_modules: [M04, M05, M08, M09, M10, M19]
+    entry_count: 6
+  - id: inigo-san-millan
+    name: "Iñigo San Millán"
+    role: "Director of Performance Physiology"
+    institution: "uc colorado school of medicine"
+    file: scientists/inigo-san-millan.md
+    primary_topics: [zone-2, lactate, mitochondrial-density, vo2max]
+    apollo_modules: [M04, M08, M15, M19]
+    entry_count: 3
+  - id: susanna-soberg
+    name: "Susanna Søberg"
+    role: "Researcher in cold and heat physiology"
+    institution: "soeberg institute / copenhagen"
+    file: scientists/susanna-soberg.md
+    primary_topics: [cold-exposure, brown-adipose, sauna, contrast-therapy, vagal-tone]
+    apollo_modules: [M07, M11, M18]
+    entry_count: 3
+
+# ----- Doctrine cards (6) -----
+doctrine:
+  - id: d-01-knowing-not-doing
+    file: doctrine/d-01-knowing-not-doing.md
+    source: "Founder Dossier §1, IG bio verbatim"
+    locked_line: "You know what to do, you're just not doing it."
+  - id: d-02-effortless-not-extreme
+    file: doctrine/d-02-effortless-not-extreme.md
+    source: "Founder Dossier §1, YouTube description verbatim"
+    locked_line: "No crash diets. No starvation. No 'all-or-nothing' cycles. Just a system you can actually maintain."
+  - id: d-03-information-without-implementation
+    file: doctrine/d-03-information-without-implementation.md
+    source: "M13 lede"
+    locked_line: "You have the knowledge. Information without implementation is worthless."
+  - id: d-04-the-forge
+    file: doctrine/d-04-the-forge.md
+    source: "M14 lede"
+    locked_line: "You have spent sixty days in the forge."
+  - id: d-05-thirty-years
+    file: doctrine/d-05-thirty-years.md
+    source: "M19 lede"
+    locked_line: "Most men optimise for the next 30 days. You are going to optimise for the next 30 years."
+  - id: d-06-life-worth-living
+    file: doctrine/d-06-life-worth-living.md
+    source: "Founder Dossier §1, YouTube About verbatim"
+    locked_line: "Building strength, discipline, and a life worth living."

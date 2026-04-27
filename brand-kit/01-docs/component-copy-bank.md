@@ -256,6 +256,154 @@ Any string that hits production without surviving steps 1–4 should be consider
 
 ---
 
+## 11.5 Research voice — Codex strings (added 2026-04-27, Session G)
+
+Pre-approved on-voice strings for the Apollo Codex (the scientific interlink layer in the Members area). The Codex pulls the brand into research-grade citation while staying inside Stefan's voice. Every entry runs through `foundation-brief.md` §10 quality checklist.
+
+### Stance openers
+
+- `LIVE` *"Stefan's stance:"* (lead phrase for every Codex entry)
+- `LIVE` *"What Apollo uses:"*
+- `LIVE` *"What we don't echo:"*
+- `LIVE` *"Honest note."* (used when evidence is thin or trade-offs are real)
+
+### Mechanism framing (paired blocks)
+
+- `LIVE` *"Plain English:"* / *"Plain English."* (header-form for the layperson explainer)
+- `LIVE` *"Technical:"* / *"Technical."* (header-form for the mechanism block)
+
+These run as a pair on every Codex entry. Plain English first, Technical second. Same content, two registers.
+
+### Citation framing
+
+Use these forms verbatim. Banned alternatives noted.
+
+- ✅ *"In ${journal} (${year}), ${author(s)} ${verb} that…"* (preferred)
+- ✅ *"${journal} (${year}) — ${author(s)}, ${title}."* (paper-list short form)
+- ✅ *"${author(s)} reviewed / demonstrated / showed / confirmed that…"*
+- ❌ *"Studies show…"* (banned — too generic)
+- ❌ *"Research suggests…"* (banned — too soft)
+- ❌ *"Experts say…"* (banned — authority crutch)
+- ❌ *"Science says…"* (banned)
+- ❌ *"It's been proven…"* (banned — hedge)
+
+### Scientist credit
+
+- ✅ *"${name}, ${role} at ${institution}"* — institution lowercase per house style
+- ✅ *"${name} (${institution})"* — short form for chips
+
+Examples already in Codex:
+- *Andrew Huberman, professor of neurobiology at stanford school of medicine*
+- *Peter Attia, longevity physician*
+- *Iñigo San Millán, director of performance physiology at uc colorado school of medicine*
+- *Susanna Søberg, researcher in cold and heat physiology at the soeberg institute*
+
+Avoid: ranks (Dr., Prof., MD), capitalised institutions, post-nominals.
+
+### Evidence-level dot meter
+
+A 1-to-5 dot meter sits at the top of every Codex entry. Use these labels for hover-reveal tooltips:
+
+- `LIVE` *"●○○○○ — One of five. Mechanistic plausibility, limited human data."*
+- `LIVE` *"●●○○○ — Two of five. Small human studies, some methodological issues."*
+- `LIVE` *"●●●○○ — Three of five. Multiple human trials, convergent direction."*
+- `LIVE` *"●●●●○ — Four of five. Strong human RCT evidence or large meta-analysis."*
+- `LIVE` *"●●●●● — Five of five. Multiple meta-analyses or prospective cohort with hard endpoints."*
+
+### The doctrine bridge
+
+Every PRE entry should close with a single sentence that links the protocol back to a locked Stefan doctrine. Pattern:
+
+- ✅ *"This is where the doctrine ${doctrine_id} shows in protocol form."*
+- ✅ *"This is the input that earns ${doctrine_id}."*
+- ✅ *"This is the protocol that proves ${doctrine_id} runs deeper than it sounds."*
+
+The doctrine line is the spine. The research is the rail. Science as confirmation, not crutch.
+
+### Apollo Agent deep-prompt buttons
+
+Every Codex entry ends with a pre-built question the member can launch into the Apollo Agent. Pattern (verbatim, do not paraphrase the structure):
+
+> *"Ask Apollo: ${concrete first-person scenario}. ${specific question with phase, day, or constraint}."*
+
+Examples already in Codex:
+- *"Ask Apollo: I'm on Phase 1 Day 17 and I want to add cold exposure. What is the minimum effective dose for someone training four times weekly, and where in my schedule should it sit?"*
+- *"Ask Apollo: my 7-day HRV has dropped 12ms over the last fortnight while I am on Phase 2 Week 3. What does that signal and what do I change in this week's training?"*
+
+The button label is *"Ask Apollo →"*. The pre-fill is the verbatim question.
+
+### PRE labels (the three columns)
+
+Every PRE block uses these column labels verbatim, in this order:
+
+- `LIVE` `PROMPT` (column 1, monospace caps, letter-spacing 0.06em)
+- `LIVE` `RESPONSE` (column 2)
+- `LIVE` `EXECUTION` (column 3)
+
+Sub-labels for each column (optional):
+
+- Under PROMPT: *"The stimulus you apply."*
+- Under RESPONSE: *"The mechanism it triggers."*
+- Under EXECUTION: *"The Apollo protocol."*
+
+### DDD labels (the three columns)
+
+DDD blocks parallel PRE structure but with different labels:
+
+- `LIVE` `DOCTRINE` (column 1)
+- `LIVE` `DEFAULT` (column 2)
+- `LIVE` `DRIFT CHECK` (column 3)
+
+Sub-labels:
+
+- Under DOCTRINE: *"The locked Stefan stance."*
+- Under DEFAULT: *"The behaviour that flows from it."*
+- Under DRIFT CHECK: *"The audit question."*
+
+### Codex section headers (verbatim — use across all entries)
+
+- `LIVE` *"The Stance"* (entry opener)
+- `LIVE` *"Plain English"* (mechanism block 1)
+- `LIVE` *"Technical"* (mechanism block 2)
+- `LIVE` *"The Studies"* (paper-list)
+- `LIVE` *"Linked Modules"* (cross-link block)
+- `LIVE` *"Doctrine bridge"* (closer)
+- `LIVE` *"Apollo Agent — deep prompt"* (interactive closer)
+- `LIVE` *"Honest note"* (used when limits or evidence concerns are flagged)
+- `LIVE` *"Modern voices — scientists who teach this"* (scientist-card block)
+
+For DDD entries:
+
+- `LIVE` *"The Doctrine"* (entry opener)
+- `LIVE` *"Why this doctrine matters"* (justification block)
+- `LIVE` *"The Default"* (default-state block)
+- `LIVE` *"The Drift Check"* (audit-question block)
+- `LIVE` *"Cadence"* (review timing)
+- `LIVE` *"Voice notes"* (style guidance)
+
+### Codex Index tab labels
+
+The four browse axes of the Codex home (verbatim):
+
+- `LIVE` *"By Module"*
+- `LIVE` *"By Scientist"*
+- `LIVE` *"By Mechanism"*
+- `LIVE` *"By Founder Doctrine"*
+
+### Five Inputs taxonomy chips (verbatim)
+
+The Codex inherits the five-input framework already on `/protocols`. Use these strings exactly.
+
+- `LIVE` *"Sleep"* (input 1)
+- `LIVE` *"Sunlight"* (input 2)
+- `LIVE` *"Heavy Compound Lifts"* (input 3)
+- `LIVE` *"Real Food"* (input 4)
+- `LIVE` *"Calm Nervous System"* (input 5)
+
+Format: title case for the chip label. Numbered prefix (`01 Sleep`, `02 Sunlight`) optional in dense displays.
+
+---
+
 ## 11. Gap report
 
 Strings the bank is missing because the source surfaces haven't been sampled. Fill on Stefan's next surface or when the live site adds these:
