@@ -1,161 +1,166 @@
-# QA Checklist — Lovable Session H.0 (Skool-classroom shell)
+# QA Checklist — Lovable Session H (v2, Pass H.1)
 
-Run this in the Lovable preview after Pass H.0 lands. Tick each box. Anything failing → Pass H.1 backlog at the bottom.
+Run after Lovable lands Pass H.1 (the Skool-mirroring inside-module surface). Tick each box. Anything failing → H.2 backlog at the bottom.
 
----
-
-## 1. Modules grid (`/members/modules`)
-
-### Layout
-- [ ] 3-column card grid renders on desktop ≥1024px
-- [ ] 2-column on tablet 768–1023px
-- [ ] 1-column on mobile <768px
-- [ ] Page H1 reads "Modules" with subtitle "20 modules · 4 phases · the full path"
-- [ ] All five phase sections present in order: Phase 1 · Phase 2 · Phase 3 · Phase 4 · Onboarding (M01 at bottom)
-
-### Phase headers
-- [ ] Each phase H2 reads correctly (Foundation / Integration / Mastery / Longevity / Onboarding)
-- [ ] Right-side chip shows `0/6 complete` for unlocked phases, `Locked · Unlocks Day 30` (etc.) for gated
-- [ ] Subtitle line shows `Day 0–30 · All members`, `Day 30–60 · Community tier`, etc.
-- [ ] 1px stone divider below subtitle
-
-### Card anatomy
-- [ ] Cover region shows large module numeral (Source Serif 4 display, ~84px)
-- [ ] A-mark glyph below numeral
-- [ ] 2px ox-blood horizontal rule centered
-- [ ] Phase tint barely perceptible across phases (P1 neutral → P4 slight ox-blood warm)
-- [ ] Eyebrow `PHASE X · MODULE N` in IBM Plex Mono all caps, stone
-- [ ] Title in Source Serif 4, display case, bone
-- [ ] Tagline = module `lede` from frontmatter, IBM Plex Sans, stone, max 2 lines with ellipsis
-- [ ] Footer strip: 4px progress bar (stone bg, ox-blood fill) + tier badge (Protocol/Community) right-aligned
-
-### Card states
-- [ ] **Hover:** card lifts 4px, border goes ox-blood @ 60%, title gets ox-blood underline pulse
-- [ ] **Locked (P2/P3/P4):** cover opacity 40%, lock icon top-right, footer shows `Unlocks Day X` chip
-- [ ] **Completed:** progress bar at 100%, ✓ chip top-right, no other state changes
-
-### Click behaviour
-- [ ] Click M02 card → routes to `/members/modules/apollo-initiation`
-- [ ] Click M07 card → routes to `/members/modules/recovery-system`
-- [ ] Click any locked card (e.g. M08) → routes to teaser state at `/members/modules/{slug}`
-
-### Coverage
-- [ ] All 20 modules present (M01 through M20)
-- [ ] Each module appears in exactly one phase
-- [ ] M01 (Welcome) appears in Onboarding section at bottom
+The H.0 grid surface is already shipped. This checklist focuses on the inside-module rebuild only. Any regression on the grid is a P0 — note in the backlog.
 
 ---
 
-## 2. Module detail (any unlocked module — test M02 first)
+## 1. Module landing routing
 
-### Top bar
-- [ ] Left link `← Back to Modules` → returns to `/members/modules`
-- [ ] Right shows eyebrow `Phase 1 · Module 02` (IBM Plex Mono, all caps, stone)
-- [ ] Eyebrow stays sticky on scroll (desktop only)
-
-### Lesson rail (left, 280px sticky)
-- [ ] Section header `LESSONS` in IBM Plex Mono caption all caps
-- [ ] One row per H2 found in the module's markdown body
-- [ ] Each row: ○ icon (unchecked) or ✓ icon (checked) + title from H2 heading text
-- [ ] Click a lesson row → smooth-scroll to that H2 anchor, no page reload
-- [ ] Currently-visible H2 → its rail row becomes bold + ox-blood left border
-- [ ] Below lessons: 32px gap, then `APOLLO CODEX` header
-- [ ] Codex rows show `→ {entry_id} {entry_title}` for entries wired to this module
-- [ ] Click Codex row → routes to `/members/codex/{entry_id}`
-
-### Main pane top
-- [ ] H1 = module title in Source Serif 4, 48px, bone
-- [ ] Sub-headline = module `lede` from frontmatter, IBM Plex Sans, 20px, stone
-- [ ] Top-right: `Mark module complete` button — disabled state initially, label says "Complete all lessons to mark module"
-- [ ] After all lessons checked: button activates, label becomes `✓ Mark module complete`, ox-blood bg
-
-### Body
-- [ ] Body content renders verbatim from `content/apollo/modules/module-XX-*.md` — open the source file in a separate tab and spot-check 3 paragraphs match exactly
-- [ ] H2 sections render with anchor IDs (kebab-cased)
-- [ ] No content has been summarised, rewritten, or shortened
-- [ ] At end of each H2 section: small `[ ○ Mark complete ]` button. Click → `[ ✓ Complete ]` in ox-blood. Rail row updates simultaneously.
-
-### Footer block
-- [ ] `RESOURCES` header in IBM Plex Mono caption
-- [ ] Resources list shows same Codex entries as the rail (deduplicated)
-- [ ] `Discuss this in Community →` row, full-width, click routes to `/members/community?tag=module-02`
-- [ ] Footer nav: left `← Previous module` (hidden on M01), right `Next: {Module Title} →` (hidden on M20)
-- [ ] Previous/next routes resolve correctly per manifest order
+- [ ] `/members/modules/apollo-initiation` (M02) routes to the first lesson, matching Skool's behaviour. URL becomes `/members/modules/apollo-initiation/what-the-next-30-days-will-do-to-you`.
+- [ ] `/members/modules/mental-architecture` (M03) routes to the first lesson `/members/modules/mental-architecture/the-identity-shift`.
+- [ ] Direct deep-link `/members/modules/apollo-initiation/action-1-set-a-fixed-wake-time` loads correctly.
+- [ ] Bad slug `/members/modules/apollo-initiation/does-not-exist` returns 404 or graceful "lesson not found".
 
 ---
 
-## 3. Locked-module teaser (test M08, M14, or M19 with system date pretending to be Day 0)
+## 2. Rail anatomy — Module with WEEK groups (M02 Apollo Initiation)
 
-- [ ] Page renders with same top bar + H1 + sub-headline
-- [ ] Body region replaced with: lock icon (32px, stone) + "This module unlocks on Day {X}. Stay the course." + back-to-modules link
-- [ ] Lesson rail hidden
-- [ ] Codex rail section still renders if entries are wired
-- [ ] Top-right mark-complete button hidden
+- [ ] Header block shows `THE APOLLO INITIATION` (Source Serif 4, all caps, `--bone`)
+- [ ] Progress bar below header: 4px tall, `--stone @ 20%` bg, `--ox-blood` fill
+- [ ] Two top-level lesson rows render before the WEEK groups: `What the Next 30 Days Will Do to You`, `30-Day Overview: What Success Looks Like`
+- [ ] Four collapsible group rows: `INITIATION WEEK 1` through `INITIATION WEEK 4` (or the literal H2 text from markdown — currently `WEEK 1: RESET + RHYTHM`, etc.)
+- [ ] Each group row has a chevron icon, `lucide:chevron-down` collapsed / `lucide:chevron-up` expanded
+- [ ] One closing top-level lesson after the groups: `Phase 1 Completion: Preparing for Phase 2`
+- [ ] Below the lesson list: `APOLLO CODEX` caption + Codex entries wired to M02
 
 ---
 
-## 4. Voice + content fidelity
+## 3. Group expansion behaviour
 
-Spot-check four modules from different phases. Open each module page side-by-side with its source markdown.
+- [ ] Clicking a group header toggles ONLY that group's expansion. Other groups retain their state.
+- [ ] Expanding a group does NOT change the active lesson.
+- [ ] When expanded, the group renders:
+  - [ ] A small caption sub-header (the H2 text in IBM Plex Mono, all caps, `--stone`, e.g. `WEEK 1: RESET + RHYTHM`)
+  - [ ] Then the H3 lesson rows, indented 16px
+- [ ] Group expansion state persists across reloads (localStorage)
+- [ ] Default state on first visit: WEEK 1 expanded, others collapsed (matches a sensible "where am I starting" default)
 
-- [ ] **M02** (`module-02-apollo-initiation.md`) — body identical
-- [ ] **M07** (`module-07-recovery-system.md`) — body identical
-- [ ] **M13** (`module-13-phase-2-integration.md`) — body identical
-- [ ] **M19** (`module-19-longevity-optimisation.md`) — body identical
+---
+
+## 4. Rail anatomy — Module without WEEK groups (M03 Mental Architecture)
+
+- [ ] Header block shows `APOLLO MENTAL ARCHITECTURE` (or `MENTAL ARCHITECTURE` per markdown frontmatter title)
+- [ ] Progress bar below header
+- [ ] All H2s render as flat lesson rows (no chevrons, no grouping):
+  - [ ] `The Identity Shift`
+  - [ ] `Discipline Over Motivation`
+  - [ ] `The Consistency Compound`
+  - [ ] `Mental Models for Training`
+  - [ ] `Handling Failure and Setbacks`
+  - [ ] `Environment Design`
+  - [ ] `The Apollo Mindset Summary`
+- [ ] No collapse/expand affordances anywhere in the rail
+- [ ] APOLLO CODEX section follows below
+
+---
+
+## 5. Lesson page anatomy (right pane)
+
+Open `/members/modules/apollo-initiation/action-1-review-your-apollo-scorecard` (Action 1 in WEEK 4).
+
+- [ ] Top-right: empty circle for "mark complete" (`lucide:circle`)
+- [ ] H1 (lesson title): `Action 1: Review Your Apollo Scorecard`, Source Serif 4, weight 600, ~28px, `--bone`
+- [ ] Body renders verbatim from the H3 section in `module-02-apollo-initiation.md` (lines 1092–1126)
+- [ ] H4-and-deeper sub-sections (if any) render as bold inline labels, NOT as separate rail items
+- [ ] No em-dashes introduced into chrome (eyebrows, button labels, footer)
+- [ ] Sign-off line `— Stef` (where present in markdown) renders verbatim
+
+Open `/members/modules/apollo-initiation/30-day-overview-what-success-looks-like` (top-level lesson with H3 sub-sections).
+
+- [ ] H1: `30-Day Overview: What Success Looks Like`
+- [ ] Body shows H3 sub-sections (`Physical Changes`, `Performance Changes`, `Energy and Recovery`, `Habit Installation`, `Mindset Shift`) as **bold inline sub-headers within the same lesson page** — NOT as separate rail items
+- [ ] Body content matches markdown verbatim
+
+Open `/members/modules/mental-architecture/the-identity-shift` (M03, no groups).
+
+- [ ] Lesson body renders correctly with H3 sub-sections as bold inline sub-headers
+- [ ] Footer `Discuss this in Community →` routes to `/members/community?tag=module-03`
+
+---
+
+## 6. Mark-complete behaviour
+
+- [ ] Click the empty circle on a lesson → fills with `--ox-blood` background, `--bone` checkmark glyph
+- [ ] Rail row for that lesson shows a small filled checkmark glyph to the LEFT of the title
+- [ ] Reload page → state persists (localStorage key `apollo:lesson:{module-slug}:{lesson-slug}` = true)
+- [ ] Module progress bar in the rail header updates to reflect (completed / total) %
+- [ ] Return to `/members/modules` → that module's card progress bar reflects the same %
+- [ ] Phase header chip on `/members/modules` reflects modules-complete / total
+
+---
+
+## 7. Footer nav
+
+- [ ] `← Previous lesson` and `Next lesson →` show below the body, separated by a divider
+- [ ] Walking next/prev follows the FLAT rail order, including navigating into expanded WEEK groups
+- [ ] Hidden as expected: previous-link absent on first lesson of M01; next-link absent on last lesson of M20
+
+---
+
+## 8. URL patterns
+
+- [ ] Lesson URLs follow `/members/modules/{module-slug}/{lesson-slug}`
+- [ ] `{lesson-slug}` is kebab-cased H2 (top-level) or H3 (grouped) text
+- [ ] Special characters stripped from slugs: colons, plus signs, brackets all gone (e.g. `Action 3:Remove Liquid Calories and Processed Food` → `action-3-remove-liquid-calories-and-processed-food`)
+- [ ] Group headers (WEEK X H2s) do NOT have routable URLs — clicking the group header only toggles expansion
+
+---
+
+## 9. Voice + content fidelity
+
+Spot-check 4 lessons across modules.
+
+- [ ] M02 / `Action 1: Set a Fixed Wake Time` — body identical to markdown
+- [ ] M07 / `Recovery Philosophy` — body identical
+- [ ] M13 (first lesson) — body identical
+- [ ] M19 (first lesson) — body identical
 
 For each:
-- [ ] No em-dashes introduced into chrome strings (eyebrows, buttons, CTAs, badges)
-- [ ] UK English preserved in body (e.g. "optimise", "behaviours" — not Americanised)
+- [ ] No em-dashes added to chrome
+- [ ] UK English preserved (e.g. "optimise", "behaviours")
 - [ ] No refused-vocab leaked into chrome (cross-check `brand-kit/01-foundation/foundation-brief.md` §6)
 
 ---
 
-## 5. Brand fidelity
+## 10. Brand fidelity
 
-- [ ] All colours sourced from `brand-kit/02-tokens/colors_and_type.dark.css` — open DevTools → inspect any element → confirm `color`/`background-color` resolve to `var(--ink|bone|ox-blood|stone)`. No raw hex literals.
-- [ ] Source Serif 4 used on H1, H2, H3, card titles, cover numerals
-- [ ] IBM Plex Sans used on body text, taglines, button labels
-- [ ] IBM Plex Mono used on eyebrows, captions, badges
-- [ ] --ox-blood used as single accent — count ox-blood instances per state. Each state (default, hover, focus, link, badge) should pick at most one ox-blood role, not stack them.
-
----
-
-## 6. Mark-complete state persistence
-
-- [ ] Tick a lesson on M02 → reload page → state persists (✓ stays in rail and on the inline button)
-- [ ] Tick all lessons on M02 → "Mark module complete" button activates → click it → reload → module shows complete
-- [ ] Return to `/members/modules` → M02 card progress bar shows correct % (lessons-complete / total-lessons)
-- [ ] Phase 1 header chip shows `1/6 complete`
-- [ ] DevTools → Application → Local Storage → keys are formatted as `apollo:lesson:{slug}:{anchor}` and `apollo:module:{slug}:complete`
+- [ ] All colours from `brand-kit/02-tokens/colors_and_type.dark.css` (no hex literals in components — DevTools spot-check)
+- [ ] Source Serif 4 on H1, card titles, module title in rail header
+- [ ] IBM Plex Sans on lesson rail rows + body paragraphs
+- [ ] IBM Plex Mono on eyebrows / sub-headers / badges
+- [ ] `--ox-blood` used as single accent — one role per state, not multiplied across hover + active + focus + link
 
 ---
 
-## 7. Mobile experience (≤540px)
+## 11. Mobile (<768px)
 
-- [ ] Cards stack 1-column with full anatomy
-- [ ] Module detail rail becomes a drawer triggered by a `Lessons (X/Y)` button
-- [ ] Drawer slides from left, full-height, dismissible by tap-outside or Esc
-- [ ] Mark-complete buttons remain tappable
+- [ ] Rail collapses to a `Lessons (X/Y)` button anchored at the top
+- [ ] Tapping the button opens a left-side drawer at full height
+- [ ] Drawer contains the same rail content (groups + lessons + Codex)
+- [ ] Selecting a lesson dismisses the drawer and loads the lesson page
+- [ ] Drawer dismissable by tap-outside or Escape key
+- [ ] Mark-complete circle remains tappable in lesson header
 - [ ] Footer nav stacks vertically (Previous block above Next block)
 - [ ] No horizontal overflow
 
 ---
 
-## 8. Routing + edge cases
+## 12. Regression check (H.0 surfaces unchanged)
 
-- [ ] Direct URL `/members/modules/apollo-initiation` loads the module detail correctly
-- [ ] Bad slug `/members/modules/does-not-exist` → 404 or graceful "module not found" state
-- [ ] Sidebar nav unchanged (Apollo, Anton Urso, Dashboard, Modules, Apollo Codex, Training, Recovery, Kitchen, Journal, Apollo Agent, Community, Messages, Leaderboard, Members, Calendar, Map, Settings — all still present)
-- [ ] `/members/codex`, `/members/community`, `/members/agent` routes unchanged from Session G state
+- [ ] `/members/modules` grid: 3-col phase-grouped cards still render
+- [ ] Phase headers, locked-phase chips, card hover, card progress bars all behave as in H.0
+- [ ] M01 (Onboarding) still appears in the Onboarding section at the bottom of the grid
+- [ ] Sidebar nav unchanged: Apollo, Anton Urso, Dashboard, Modules, Apollo Codex, Training, Recovery, Kitchen, Journal, Apollo Agent, Community, Messages, Leaderboard, Members, Calendar, Map, Settings
+- [ ] `/members/codex`, `/members/community`, `/members/agent` routes unchanged
 
 ---
 
-## H.1 backlog (record failures here)
-
-For each failing item above, log:
+## H.2 backlog (record failures)
 
 | Item | Severity (block / polish) | Notes |
 |---|---|---|
 |   |   |   |
 
-When the H.1 backlog is non-empty, write the next pass brief at `content/apollo/lovable/session-h-skool-classroom-shell.v2.md` and run a focused fix pass.
+When the H.2 backlog is non-empty, write the next pass brief at `content/apollo/lovable/session-h-skool-classroom-shell.v3.md` and run a focused fix pass.
