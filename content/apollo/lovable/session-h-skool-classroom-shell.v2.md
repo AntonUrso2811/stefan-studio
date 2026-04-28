@@ -137,8 +137,16 @@ The convention is already encoded in the existing markdown — no content surger
 [etc]
 ```
 
-**Renderer rule (one regex, one branch):**
+**Renderer rule (one regex, one branch, one fallback):**
 ```
+if module.body contains zero H2s:
+  render module as a single lesson:
+    title = frontmatter.title
+    body  = entire module body (everything below the frontmatter)
+    rail shows one lesson row only
+  (handles M14 Phase 3 Overview — a 1.1KB transitional intro with no H2 headings)
+  return
+
 foreach H2 in module.body:
   if H2.text matches /^WEEK\s+\d+/i:
     render as collapsible group; children H3s are lessons
@@ -146,7 +154,7 @@ foreach H2 in module.body:
     render as flat lesson; children H3s render as bold sub-headers WITHIN the lesson body
 ```
 
-That's it. No frontmatter changes. No file splits. The 19 non-WEEK modules render as flat lesson lists. M02 (Apollo Initiation) renders with the four WEEK drop-downs.
+That's it. No frontmatter changes. No file splits. The 19 non-WEEK modules render as flat lesson lists. M02 (Apollo Initiation) renders with the four WEEK drop-downs. M14 (Phase 3 Overview) renders as a single lesson via the zero-H2 fallback.
 
 ---
 

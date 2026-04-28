@@ -157,6 +157,20 @@ For each:
 
 ---
 
+## 13. Edge case — M14 Phase 3 Overview (zero-H2 fallback)
+
+M14 is a 1.1KB transitional intro with NO `## ` headings. The renderer fallback should kick in.
+
+- [ ] `/members/modules/phase-3-overview` loads without errors
+- [ ] Rail shows ONE lesson row only (no empty rail, no missing content)
+- [ ] Lesson title in the rail and main pane comes from frontmatter `title` ("Phase 3 Overview")
+- [ ] Main pane renders the entire module body verbatim (the "You have spent sixty days in the forge" intro)
+- [ ] Mark-complete circle renders top-right and toggles correctly
+- [ ] Module progress shows 0% → 100% when the single lesson is marked complete
+- [ ] Card on `/members/modules` reflects the same %
+
+---
+
 ## H.2 backlog (record failures)
 
 | Item | Severity (block / polish) | Notes |
